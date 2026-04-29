@@ -5,5 +5,5 @@ date: "`r Sys.Date()`"
 output:
   bookdown::pdf_book:
     keep_tex: yes
-
+bibliography: references.bib
 ---
