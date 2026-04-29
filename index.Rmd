@@ -1,0 +1,9 @@
+---
+title: "Divergences de cadrage et mise en scène de la légitimité"
+author: "Léo-Pol Karim"
+date: "`r Sys.Date()`"
+output:
+  bookdown::pdf_book:
+    keep_tex: yes
+
+---
