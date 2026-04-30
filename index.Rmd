@@ -1,36 +1,167 @@
 ---
+documentclass: article
 fontsize: 12pt
 linestretch: 1.5
 fontfamily: mathptmx
 lang: fr-FR
-indent: true                        
-header-includes:
-  - \usepackage{indentfirst}        
-  - \setlength{\parindent}{1cm}     
-  - \usepackage{titlesec}
-  # Format du Chapitre (Niveau 1 : #) - Très grand et gras
-  - \titleformat{\chapter}[display]{\normalfont\huge\bfseries}{\chaptertitlename\ \thechapter}{10pt}{\Huge}
-  # Format de la Section (Niveau 2 : ##) - Grand et gras
-  - \titleformat{\section}{\normalfont\Large\bfseries}{\thesection}{1em}{}
-  # Format de la Sous-section (Niveau 3 : ###) - Italique et gras
-  - \titleformat{\subsection}{\normalfont\large\bfseries\itshape}{\thesubsection}{1em}{}
-  - \usepackage{tcolorbox}
-  - \newtcolorbox[auto counter, number within=chapter]{methodo}[1][]{colback=black!5, colframe=black, coltitle=white, fonttitle=\bfseries, title={Encadré méthodologique \thetcbcounter~: #1}}
+header-includes: |
+  \usepackage[left=2.5cm,right=2.5cm,top=2.5cm,bottom=2.5cm]{geometry}
+  \usepackage{indentfirst}
+  \setlength{\parindent}{1cm}
+  \usepackage{titlesec}
+  \usepackage{float}
+  
+  % On force les figures a rester exactement ICI
+  \floatplacement{figure}{H}
+  
+  % Titres de niveau 1 (#) en chiffres Romains : I, II, III
+  \renewcommand{\thesection}{\Roman{section}}
+  \titleformat{\section}{\normalfont\Large\bfseries}{\thesection.}{1em}{}
+  
+  % Titres de niveau 2 (##) en chiffres arabes : 1.1, 1.2
+  \renewcommand{\thesubsection}{\arabic{section}.\arabic{subsection}}
+  \titleformat{\subsection}{\normalfont\large\bfseries}{\thesubsection.}{1em}{}
+
+  % Definition de l'encadre (tcolorbox)
+  \usepackage{tcolorbox}
+  \newtcolorbox[auto counter]{methodo}[1][]{
+    colback=black!3, colframe=black!75, coltitle=white, fonttitle=\bfseries,
+    arc=0pt, outer arc=0pt,
+    title={Encadré \thetcbcounter~: #1}
+  }
 output:
   bookdown::pdf_book:
     toc: no
-    toc_depth: 3
+    base_format: rmarkdown::pdf_document
 ---
-
 ```{r setup-global, include=FALSE}
+# Chargement des bibliothèques
+library(tidyverse)
+library(tidytext)
+library(lubridate)
+library(stringr)
+library(scales)
+library(viridis)
+library(ggwordcloud)
+library(rstatix)
+library(ggpubr)
+library(knitr)
+library(kableExtra)
+
+# CONFIGURATION DES GRAPHIQUES (Correction du "H")
 knitr::opts_chunk$set(
-  echo = FALSE,
-  warning = FALSE,
-  message = FALSE
+  echo = FALSE, 
+  warning = FALSE, 
+  message = FALSE, 
+  fig.pos = "H",        # <-- LES GUILLEMETS SONT VITAUX ICI
+  out.width = "90%", 
+  fig.align = "center"
 )
 
-library(tidyverse) 
-library(kableExtra)
+# Police Times pour ggplot2
+theme_set(theme_minimal(base_family = "serif", base_size = 12))
+
+# Initialisation des variables
+DATE_DEBUT <- as.Date("2026-02-08")
+SEQ1_NOM <- "Corpus Complet"
+
+clean_whisper <- function(text) {
+  text |>
+    str_to_lower() |>
+    # Suppression des artefacts de sous-titrage automatique
+    str_replace_all("\\[.*?\\]", " ") |>          # [musique], [applaudissements]
+    str_replace_all("\\(.*?\\)", " ") |>           # (inaudible)
+    str_replace_all("(?<=[a-z])(?=[A-Z])", " ") |> # CamelCase collé
+    # On garde les lettres, chiffres, espaces, tirets et ':' (pour les heures)
+    str_replace_all("[^a-zàâäéèêëîïôùûüç0-9\\s'\\-:]", " ") |>
+    str_replace_all("\\s{2,}", " ") |>
+    str_trim()
+}
+
+# ─── Fonction de comptage du Logos (Chiffres significatifs) ──────────────
+count_logos_stats <- function(text) {
+  if (is.na(text)) return(0)
+  t <- str_to_lower(text)
+  
+  # 1. Exclusion des noms de chaînes (france 2, france 3, etc.)
+  t <- str_replace_all(t, "france\\s*\\d+", " ")
+  
+  # 2. Exclusion des heures (20h, 13h30, 20:30, 8 h 30)
+  t <- str_replace_all(t, "\\d+\\s*h\\s*\\d*", " ")
+  t <- str_replace_all(t, "\\d+:\\d+", " ")
+  
+  # 3. Exclusion des dates/années (19xx ou 20xx)
+  t <- str_replace_all(t, "\\b(19|20)\\d{2}\\b", " ")
+  
+  # 4. Comptage des séquences de chiffres restantes
+  return(str_count(t, "\\d+"))
+}
+
+# ─── Chargement Blast ─────────────────────────────────────────────────────
+blast <- read_csv("resultats_blast_final.csv") |>
+  mutate(
+    id           = as.character(id),
+    source       = "Blast",
+    slot         = "Web",
+    date         = as.Date(date_publi),
+    transcription = clean_whisper(transcription)
+  ) |>
+  filter(date >= DATE_DEBUT, !is.na(transcription)) |>
+  select(id, titre, date, transcription, source, slot)
+
+# ─── Chargement Le Média ──────────────────────────────────────────────────
+lemedia <- read_csv("resultats_lemedia_final.csv") |>
+  mutate(
+    id           = as.character(id),
+    source       = "Le Média",
+    slot         = "Web",
+    date         = as.Date(parse_date_time(date_publi, orders = c("Ymd", "mdY", "dmy"))),
+    transcription = clean_whisper(transcription)
+  ) |>
+  filter(date >= DATE_DEBUT, !is.na(transcription)) |>
+  select(id, titre, date, transcription, source, slot)
+
+# ─── Chargement France 2 ─────────────────────────────────────────────────
+# Chaque ligne = un JT complet → extraction du slot depuis le titre
+jt <- read_csv("jt_database.csv") |>
+  mutate(
+    id           = as.character(id),
+    source       = "France 2",
+    date         = as.Date(date),
+    transcription = clean_whisper(transcription),
+    slot         = case_when(
+      str_detect(titre, "08|8h")  ~ "JT 8h",
+      str_detect(titre, "13|13h") ~ "JT 13h",
+      str_detect(titre, "20|20h") ~ "JT 20h",
+      TRUE                         ~ "JT Autre"
+    )
+  ) |>
+  filter(date >= DATE_DEBUT, !is.na(transcription)) |>
+  select(id, titre, date, transcription, source, slot)
+
+# ─── Corpus complet ───────────────────────────────────────────────────────
+corpus_full <- bind_rows(blast, lemedia, jt) |>
+  mutate(
+    word_count = str_count(transcription, "\\S+"),
+    source     = factor(source, levels = c("France 2", "Blast", "Le Média"))
+  ) |>
+  # Filtrage des documents trop courts (artefacts, transcriptions vides)
+  filter(word_count >= 100)
+
+```
+
+```{r feel_loading}
+feel <- read_delim("FEEL.csv", delim = ";") |>
+  select(-id) |>
+  mutate(word = str_to_lower(word))
+
+corpus_seq1 <- corpus_full |>
+  mutate(
+    text_seq       = transcription,
+    word_count_seq = word_count,
+    sequence       = "Corpus Complet"
+  )
+
 ```
 \begin{titlepage}
 \centering

@@ -1,6 +1,6 @@
 \newpage
 
-# Etat de l'art {-}
+# Etat de l'art {- #sec-etat-art}
 
 ## Le champ journalistique dominant subit une crise structurelle
 
@@ -103,3 +103,4 @@ Dans un premier chapitre, nous montrerons que l’analyse lexicométrique du cor
 Ensuite, dans un deuxième chapitre, nous démontrerons que la narration et la critique constituent deux fonctions journalistiques opposées qui orientent pré-réflexivement (c'est-à-dire sans une volonté existante) l'usage des outils rhétoriques dont la légitimité s’adosse à une définition de la neutralité 
 
 Finalement, dans un dernier et troisième chapitre, nous analyserons cette économie des positions dans le champ journalistique qui détermine le mode de pensée et la nature de la production discursive.
+ 

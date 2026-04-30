@@ -2,6 +2,169 @@
 
 # L’analyse lexicométrique du corpus invalide les prénotions sur l’émotivité des médias alternatifs au profit d’une distinction entre rationalités narrative et critique
 
+***
+
 ## L’homogénéité de la densité émotionnelle entre les médias ne constitue pas un critère de distinction.
 
-Pour comprendre au mieux 
+Une première analyse de notre corpus de transcriptions de deux mois de vidéos et journaux est celle de l'émotion. En effet, comme nous l'avons vu dans notre [état de l'art](#sec-etat-art) une caractéristique des médias alternatifs serait un rapport à l'émotion plus accentué que pour les médias dominants. Alors, pour il parait naturel de s'intéresser à cet aspect pour les médias indépendants numériques. Néanmoins, une question s'est alors posée : comment mesurer automatiquement l'émotion d'un texte ? 
+
+Après quelques recherches, il se trouve que le dictionnaire FEEL [SOURCE] est une solution satisfaisante. Il s'agit d'un dictionnaire de 14 000 mots français classés selon leur polarité (un mot peut être soit positif, soit négatif) et selon six émotions (à savoir : joie, peur, tristesse, colère, surprise, dégoût). Cette nomenclature est issue de la théorie d'Ekman. 
+
+::: {.methodo data-latex="{Utilisation du dictionnaire FEEL}"}
+\label{meth:FEEL}
+Ce dictionnaire est disponible au format .csv, format très bien géré par RStudio. Il suffit de le charger, ainsi que nos transcriptions, puis de parcourir ces dernières. À chaque mot du dictionnaire FEEL trouvé dans les transcriptions, un compteur de polarité et d'émotions est alimenté. Enfin, en normalisant nos résultats sur 1000 mots, on s'affranchit des différences de taille des transcriptions.
+:::
+
+Dès lors, il nous est possible d'obtenir différentes informations. D'abord, plaçons notre attention sur le type d'émotions utilisées par chaque média tout en les comparant entre eux. En voici le graphique :
+
+```{r graph-emotions-1, fig.cap="Profils émotionnels comparés"}
+# 1. Préparation des labels
+emotion_labels <- c(
+  joy = "Joie", fear = "Peur", sadness = "Tristesse",
+  anger = "Colère", surprise = "Surprise", disgust = "Dégoût"
+)
+
+# 2. Calcul par document pour obtenir l'erreur type
+emotion_doc <- tokens_seq1 |>
+  pivot_longer(joy:disgust, names_to = "emotion", values_to = "score") |>
+  filter(score == 1) |>
+  # On compte par document (id) ET par émotion
+  group_by(id, source, emotion) |>
+  summarise(count = n(), .groups = "drop_last") |>
+  # Proportion au sein de chaque document
+  mutate(prop_doc = count / sum(count)) |>
+  ungroup()
+
+# 3. Synthèse : Moyenne et Erreur Type (SE) par média
+emotion_summary <- emotion_doc |>
+  group_by(source, emotion) |>
+  summarise(
+    mean_prop = mean(prop_doc),
+    se = sd(prop_doc) / sqrt(n()),
+    .groups = "drop"
+  ) |>
+  mutate(emotion_fr = recode(emotion, !!!emotion_labels))
+
+# 4. Visualisation
+ggplot(emotion_summary, 
+       aes(x = reorder(emotion_fr, mean_prop), y = mean_prop, fill = source)) +
+  # Barres principales
+  geom_bar(stat = "identity", position = position_dodge(0.8), width = 0.7) +
+  # Barres d'erreur
+  geom_errorbar(
+    aes(ymin = mean_prop - se, ymax = mean_prop + se),
+    position = position_dodge(0.8), 
+    width = 0.2,
+    color = "black"
+  ) +
+  coord_flip() +
+  # Utilisation d'une palette viridis ou grey selon ta préférence de cohérence
+  scale_fill_viridis_d(option = "plasma", end = 0.85) +
+  scale_y_continuous(labels = percent_format(accuracy = 1)) +
+  theme_minimal(base_family = "Times", base_size = 12) +
+  theme(plot.title = element_text(face = "bold", hjust = 0.5),
+        legend.position = "bottom") +
+  labs(
+    title    = "Profils émotionnels comparés",
+    subtitle = paste(SEQ1_NOM, "- Part moyenne par document (± Erreur Type)"),
+    y = "Part relative moyenne", 
+    x = "Émotion", 
+    fill = "Média"
+  )
+```
+
+La répartition quantitative des émotions en nous intéresse pas tant dans notre cas d'étude. On pourrait noter que 70 % des émotions mobilisées, quelque soit le média, sont la peur, la tristesse et la colère mais cela ne nous aide pas dans notre recherche comparative des médias alternatifs numériques et dominants. En réalité, ce qui est notable sur ce graphique est sa grande homogénéité inter-médias pour chaque émotion. 
+Aussi, la seule différence notable est pour la surprise, émotion surreprésentée dans le JT de France 2 par rapport à Blast et à Le Média. Cette différence peut s'expliquer par une volonté de recherche de nouveau ou d'insolite pour France 2, mais nous reviendrons sur ce point dans le [A MODIFIER].
+
+Ainsi, si les émotions ne nous donnent pas d'éléments différenciants, nous pouvons peut-être nous intéresser à la répartition de la polarité émotionnelle entre les médias. 
+
+```{r graph-emotions-2, fig.cap="Polarité émotionnelle comparée"}
+# 1. Calcul des proportions par document
+polarity_doc <- tokens_seq1 |>
+  count(source, id, polarity) |>
+  group_by(source, id) |>
+  mutate(prop = n / sum(n)) |>
+  ungroup()
+
+# 2. Calcul de la moyenne et de l'erreur type (Standard Error) par média
+polarity_summary <- polarity_doc |>
+  group_by(source, polarity) |>
+  summarise(
+    prop_moy = mean(prop),
+    se = sd(prop) / sqrt(n()), # Calcul de l'erreur type
+    .groups = "drop"
+  )
+
+# 3. Graphique en "dodge" (côte à côte) pour la lisibilité des barres d'erreur
+ggplot(polarity_summary, 
+       aes(x = source, y = prop_moy, fill = polarity)) +
+  # On utilise position_dodge pour séparer les barres
+  geom_bar(stat = "identity", position = position_dodge(0.8), width = 0.7) +
+  # Ajout des barres d'erreur
+  geom_errorbar(
+    aes(ymin = prop_moy - se, ymax = prop_moy + se),
+    position = position_dodge(0.8), 
+    width = 0.2,
+    color = "black"
+  ) +
+  # Couleurs cohérentes (Gris)
+  scale_fill_grey(start = 0.4, end = 0.8, labels = c("Négatif", "Positif")) +
+  scale_y_continuous(labels = percent_format()) +
+  # Police "Times" pour éviter l'erreur de font
+  theme_minimal(base_family = "Times", base_size = 12) +
+  theme(plot.title = element_text(face = "bold", hjust = 0.5),
+        legend.position = "bottom",
+        panel.grid.major.x = element_blank()) +
+  labs(
+    title    = "Répartition des tonalités (± Erreur Type)",
+    subtitle = paste("Corpus :", SEQ1_NOM),
+    y = "Proportion moyenne", x = "", fill = "Polarité :"
+  )
+```
+
+La figure \ref{fig:graph-emotions-2} présente la densité de mots *négatifs* ou *positifs* pour 1000 mots selon les médias. A nouveau, on remarque une forte homogénéité inter-média. En effet, entre 22% et 24% des mots *FEEL* utilisés sont négatifs et aucun média ne semble en utiliser particulièrement plus par rapport aux autres. C'est pourquoi, à ce stade de notre analyse, une conjecture semble émerger : l'émotion n'est pas un facteur discriminant pour étudier les médias indépendants numériques et les médias dominants. Cette conjecture est assez forte dans la mesure où elle va à l'encontre d'une pré-notion issue de notre [état de l'art](#sec-etat-art).
+
+Alors, pour tenter de confirmer cette hypothèse, intéressons nous à la densité générale de mots *FEEL* par médias. L'objectif de cette démarche est d'élargir la focale pour essayer de dégager une différence entre les médias. Si nous ne pouvons pas mettre en valeur de différences entre les médias lorsque l'on s'intéresse aux différents types d'émotions, peut-être que le portrait global de la situation nous permettra, lui, d'avoir un regard autre. Nous obtenons la figure \ref{fig:graph-emotions-3}. 
+
+```{r graph-emotions-3, fig.cap="Densité émotionnelle selon les médias"}
+
+intensity_seq1 <- corpus_seq1 |>
+  left_join(
+    tokens_seq1 |> count(id, name = "emot_count"),
+    by = "id"
+  ) |>
+  mutate(
+    emot_count   = replace_na(emot_count, 0),
+    emot_density = emot_count / word_count_seq * 1000
+  )
+
+# ─── Tests statistiques ───────────────────────────────────────────────────
+kw_emot  <- intensity_seq1 |> kruskal_test(emot_density ~ source)
+pw_emot  <- intensity_seq1 |>
+  wilcox_test(emot_density ~ source, p.adjust.method = "bonferroni") |>
+  add_significance() |> add_xy_position(x = "source")
+es_emot  <- intensity_seq1 |> kruskal_effsize(emot_density ~ source)
+
+# ─── Visualisation ───────────────────────────────────────────────────────
+ggplot(intensity_seq1, aes(x = source, y = emot_density, fill = source)) +
+  geom_boxplot(alpha = 0.7, outlier.shape = 21, outlier.size = 1.5, width = 0.5) +
+  geom_jitter(width = 0.12, alpha = 0.4, size = 1.2) +
+  stat_pvalue_manual(pw_emot, label = "p.adj.signif", tip.length = 0.01) +
+  scale_fill_grey(start = 0.3, end = 0.8) +
+  theme_minimal(base_family = "serif", base_size = 12) +
+  theme(legend.position = "none",
+        plot.title = element_text(face = "bold", hjust = 0.5)) +
+  labs(
+    title    = "Densité lexicale du Pathos",
+    subtitle = paste0(
+      SEQ1_NOM, " - Kruskal-Wallis p=", round(kw_emot$p, 4),
+      " | ε²=", round(es_emot$effsize, 3)
+    ),
+    y = "Mots FEEL pour 1000 mots", x = ""
+  )
+
+```
+
+Le test Kruskal-Wallis confirme une différence statistique entre les médias (*p<0.05*). Néanmoins, si l'analyse lexicométrique confirme une différence statistique entre le média dominant et les médias alternatifs, elle vient surtout invalider la prénotion d'une fracture émotionnelle majeure. Avec une taille d'effet ($\epsilon^2$) de seulement 0,017, la "densité de pathos" ne constitue pas un marqueur discriminant de l'identité de ces médias. 
+
+Aussi, la taille des tempéraments nous indique une certaine standardisation du JT de France 2 face à une hétérogénéité des formats alternatifs, capables d'osciller entre une grande froideur analytique et des sommets de dramatisation lexicale. 
