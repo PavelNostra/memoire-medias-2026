@@ -14,6 +14,8 @@ header-includes:
   - \titleformat{\section}{\normalfont\Large\bfseries}{\thesection}{1em}{}
   # Format de la Sous-section (Niveau 3 : ###) - Italique et gras
   - \titleformat{\subsection}{\normalfont\large\bfseries\itshape}{\thesubsection}{1em}{}
+  - \usepackage{tcolorbox}
+  - \newtcolorbox[auto counter, number within=chapter]{methodo}[1][]{colback=black!5, colframe=black, coltitle=white, fonttitle=\bfseries, title={Encadré méthodologique \thetcbcounter~: #1}}
 output:
   bookdown::pdf_book:
     toc: no
