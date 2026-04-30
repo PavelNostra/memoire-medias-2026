@@ -1,9 +1,65 @@
 ---
-title: "Divergences de cadrage et mise en scène de la légitimité"
-author: "Léo-Pol Karim"
-date: "`r Sys.Date()`"
+fontsize: 12pt
+linestretch: 1.5
+fontfamily: mathptmx
+lang: fr-FR
+indent: true                        
+header-includes:
+  - \usepackage{indentfirst}        
+  - \setlength{\parindent}{1cm}     
+  - \usepackage{titlesec}
+  # Format du Chapitre (Niveau 1 : #) - Très grand et gras
+  - \titleformat{\chapter}[display]{\normalfont\huge\bfseries}{\chaptertitlename\ \thechapter}{10pt}{\Huge}
+  # Format de la Section (Niveau 2 : ##) - Grand et gras
+  - \titleformat{\section}{\normalfont\Large\bfseries}{\thesection}{1em}{}
+  # Format de la Sous-section (Niveau 3 : ###) - Italique et gras
+  - \titleformat{\subsection}{\normalfont\large\bfseries\itshape}{\thesubsection}{1em}{}
 output:
   bookdown::pdf_book:
-    keep_tex: yes
-bibliography: references.bib
+    toc: no
+    toc_depth: 3
 ---
+
+```{r setup-global, include=FALSE}
+knitr::opts_chunk$set(
+  echo = FALSE,
+  warning = FALSE,
+  message = FALSE
+)
+
+library(tidyverse) 
+library(kableExtra)
+```
+\begin{titlepage}
+\centering
+
+\includegraphics[width=4cm]{SP-SN.png} 
+\vspace{1cm}
+
+\centering
+{\scshape\LARGE Sciences Po Lille \par}
+\vspace{1.5cm}
+
+{\huge\bfseries Divergences de cadrage et mise en scène de la légitimité \par}
+\vspace{0.5cm}
+
+{\Large Mémoire de recherche \par}
+\vspace{2cm}
+
+{\Large\itshape Léo-Pol Karim \par}
+\vfill
+
+Sous la direction de : \par
+\textbf{Julien BOYADJIAN} \par
+\vspace{2cm}
+
+{\large Année universitaire 2025 - 2026 \par}
+\end{titlepage}
+
+\newpage
+
+*Sciences Po Lille n’entend donner aucune approbation ni improbation aux thèses et opinions émises dans ce mémoire de recherche. Celles-ci doivent être considérées comme propres à leur auteur.*
+
+*J’atteste que ce mémoire de recherche est le résultat de mon travail personnel, qu’il cite et référence toutes les sources utilisées et qu’il ne contient pas de passage ayant déjà été utilisé intégralement dans un travail similaire.*
+
+\newpage

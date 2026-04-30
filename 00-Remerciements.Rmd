@@ -1,0 +1,12 @@
+\newpage
+
+# Remerciements {-}
+***
+Je tiens tout d'abord à remercier mon directeur de mémmoire Monsieur Julien BOYADJIAN, Maître de conférences en science politique, pour sa disponibilité, son écoute et ses conseils précieux qui m'ont permis d'alimenter une réflexion rigoureuse. 
+
+\newpage
+
+# Sommaire {-}
+\tableofcontents
+
+\newpage
