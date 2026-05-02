@@ -6,7 +6,6 @@ tokens_seq1 <- corpus_seq1 |>
   filter(str_length(word) > 2) |>
   inner_join(feel, by = "word")
 
-cat("Tokens émotionnels (séquence 1) :", nrow(tokens_seq1), "\n")
 ```
 
 \newpage
@@ -176,7 +175,7 @@ ggplot(intensity_seq1, aes(x = source, y = emot_density, fill = source)) +
 
 ```
  
-Le test Kruskal-Wallis confirme une différence statistique entre les médias (*p<0.05*). Cet test permet d'affirmer qu'il existe une différence statistique de densité lexicale du Pathos entre les médias. Cependant, bien que cette différence statistique existe, elle reste négligeable. En effet, avec une taille d'effet ($\epsilon^2$) de seulement 0,017, la "densité de pathos" ne constitue pas un marqueur discriminant de l'identité de ces médias. 
+Le test Kruskal-Wallis confirme une différence statistique entre les médias (*p<0.05*). Cet test permet d'affirmer qu'il existe une différence statistique de densité lexicale du Pathos entre les médias. Cependant, bien que cette différence statistique existe, son effet reste négligeable. En effet, avec une taille d'effet ($\epsilon^2$) de seulement 0,017, la "densité de pathos" ne constitue pas un marqueur discriminant de l'identité de ces médias. 
 
 ::: {.methodo data-latex="{Explication du test de Kruskal-Wallis et de la taille d'effet}"}
 \label{meth:K-W}

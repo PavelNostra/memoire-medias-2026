@@ -1,0 +1,52 @@
+## L’usage massif des connecteurs logiques par les médias alternatifs démontre la primauté de la fonction argumentative sur le seul récit.
+
+L'enjeu de cette section de chapitre est d'étudier la place du logos chez les médias de notre corpus. Pour y parvenir, nous allons utiliser deux indicateurs. Le premier est la densité de connecteurs logiques utilisés pour 1000 mots et pour chaque média. Le second indicateur est la densité de chiffres utilisés pour 1000 mots et pour chaque média. La logique de cette démarche est de permettre une analyse à grande échelle de marqueurs du logos dans notre corpus. 
+
+::: {.methodo data-latex="{Précision méthodologique sur les connecteurs logiques}"}
+Compte tenu de la méthodologie suivi pour la mesure du pathos avec le dictionnaire *FEEL*, il paraît naturel de tenter de conduire une démarche similaire. Néanmoins, après recherches, il est apparu qu'aucun équivalent académique du dictionnaire *FEEL* ne semblait exister. C'est pourquoi la constitution d'un équivalent, donc d'une liste de mots permettant de détecter la part de logos dans le discours, a été réalisé. La liste utilisée pour tracer la figure \ref{fig:graph-connecteurs} est la suivante : 
+
+> *car, donc, ainsi, alors, pourtant, néanmoins, toutefois, cependant, conséquent, effectivement, parce que, puisque, c'est pourquoi, en effet, par conséquent, dès lors, c'est ainsi, en revanche*
+
+Cette précision est nécessaire car ce choix constitue un postionnement méthodologique discutable dans la mesure où cette liste ne s'affirme pas comme étant exhaustive, la rigueur intellectuelle imposait, donc, de détailler ce point. 
+
+:::
+
+Ainsi, nous obtenons le graphique suivant lorsque l'on répertorie la présence de connecteurs logiques pour 1000 mots :
+
+```{r graph-connecteurs, fig.cap="Densité des connecteurs logiques selon les médias"}
+# Dictionnaires de connecteurs
+connecteurs_uni <- c("car", "donc", "ainsi", "alors", "pourtant", "néanmoins",
+                     "toutefois", "cependant", "revanche", "conséquent", "effectivement")
+connecteurs_bi  <- c("parce que", "puisque", "c'est pourquoi", "en effet",
+                     "par conséquent", "dès lors", "c'est ainsi", "en revanche")
+
+# Calcul de la densité
+logos_conn <- corpus_seq1 |>
+  mutate(
+    txt_lc    = str_to_lower(text_seq),
+    conn_uni  = str_count(txt_lc, paste0("\\b(", paste(connecteurs_uni, collapse = "|"), ")\\b")),
+    conn_bi   = rowSums(sapply(connecteurs_bi, function(b) str_count(txt_lc, fixed(b)))),
+    conn_dens = (conn_uni + conn_bi) / word_count_seq * 1000
+  )
+
+# Tests statistiques
+kw_conn <- logos_conn |> kruskal_test(conn_dens ~ source)
+pw_conn <- logos_conn |>
+  wilcox_test(conn_dens ~ source, p.adjust.method = "bonferroni") |>
+  add_significance() |> add_xy_position(x = "source")
+es_conn <- logos_conn |> kruskal_effsize(conn_dens ~ source)
+
+# Visualisation
+ggplot(logos_conn, aes(x = source, y = conn_dens, fill = source)) +
+  geom_boxplot(alpha = 0.7, outlier.shape = NA, width = 0.5) +
+  geom_jitter(width = 0.12, alpha = 0.4, size = 1) +
+  stat_pvalue_manual(pw_conn, label = "p.adj.signif", tip.length = 0.01) +
+  scale_fill_grey(start = 0.3, end = 0.8) +
+  theme_minimal(base_family = "Times", base_size = 12) + 
+  theme(legend.position = "none", plot.title = element_text(face = "bold", hjust = 0.5)) +
+  labs(title = "Densité des connecteurs logiques",
+       subtitle = paste0("Kruskal-Wallis p=", round(kw_conn$p, 4), " | ε²=", round(es_conn$effsize, 3)),
+       y = "Nombre pour 1000 mots", x = "")
+```
+
+A nouveau, on observe une différence statistique (*p<0,05*) dont l'effet de taille est de 71,9%. Contrairement aux résulats de la figure \ref{fig:graph-emotions-3}, ces résultats statistiques sont robustes et impactants. Aussi, on observe une hétérogénéité entre les médias alternatifs qui utilisent une dizaine de connecteurs logiques pour 1000 mots en moyenne contre eniron 3 pour France 2. 
