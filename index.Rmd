@@ -25,16 +25,26 @@ header-includes: |
   % Definition de l'encadre (tcolorbox)
   \usepackage[most]{tcolorbox}
 
+  % 1. On crée un compteur dédié aux encadrés (réinitialisé à chaque section)
+  \newcounter{compteurencadre}[section]
+  \renewcommand{\thecompteurencadre}{\thesection.\arabic{compteurencadre}}
+
+  % 2. On définit la boîte
   \newtcolorbox{methodo}[1]{
-    colback=gray!5,       % Couleur de fond (gris très clair)
-    colframe=gray!75,     % Couleur de la bordure
-    coltitle=white,       % Couleur du titre
-    fonttitle=\bfseries,  % Titre en gras
-    sharp corners,        % Coins droits pour un look plus sérieux
+    % On force l'incrémentation du compteur à chaque ouverture de boîte
+    code={\refstepcounter{compteurencadre}},
+    colback=gray!5,
+    colframe=gray!75,
+    coltitle=white,
+    fonttitle=\bfseries,
+    sharp corners,
     enhanced,
-    attach boxed title to top left={yshift=-2mm, xshift=2mm}, % Position du titre
-    boxed title style={colback=gray!75}, % Fond du titre
-    title=#1              % Utilise l'argument passé dans data-latex
+    attach boxed title to top left={yshift=-2mm, xshift=2mm},
+    boxed title style={colback=gray!75},
+    % On utilise notre propre compteur ici
+    title={Encadré \thecompteurencadre\ : #1},
+    % Permet de garder le système de labels fonctionnel
+    label={meth:\thecompteurencadre}
   }
 output:
   bookdown::pdf_book:
