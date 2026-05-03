@@ -49,4 +49,65 @@ ggplot(logos_conn, aes(x = source, y = conn_dens, fill = source)) +
        y = "Nombre pour 1000 mots", x = "")
 ```
 
-A nouveau, on observe une différence statistique (*p<0,05*) dont l'effet de taille est de 71,9%. Contrairement aux résulats de la figure \ref{fig:graph-emotions-3}, ces résultats statistiques sont robustes et impactants. Aussi, on observe une hétérogénéité entre les médias alternatifs qui utilisent une dizaine de connecteurs logiques pour 1000 mots en moyenne contre eniron 3 pour France 2. 
+A nouveau, on observe une différence statistique (*p<0,001*) dont la taille d'effet $\epsilon^2$ atteint 0,719. Contrairement aux résultats de la figure \ref{fig:graph-emotions-3}, ces résultats statistiques sont à la fois robustes et impactants : la dimension étudiée — la densité de connecteurs logiques — est très largement structurée par l'appartenance à un média plutôt qu'à un autre. Plus précisément, on observe une homogénéité interne aux médias alternatifs, qui utilisent en moyenne une dizaine de connecteurs logiques pour 1000 mots, là où France 2 plafonne autour de trois occurrences. Autrement dit, Blast et *Le Média* mobilisent **plus de trois fois** la densité argumentative articulée du JT.
+
+Ce résultat constitue, en soi, un premier renversement notable. La prénotion héritée de notre [état de l'art](#sec-etat-art) tendait à associer les médias alternatifs à un excès d'émotion et, par symétrie implicite, à un déficit de logos. Or, c'est l'inverse que met au jour notre corpus : si l'émotion ne distingue pas les médias, le logos, lui, sépare nettement les alternatifs des dominants — mais en faveur des premiers. Pour le formuler autrement, ce ne sont pas les médias dominants qui structurent argumentativement davantage leur propos ; ce sont les indépendants numériques qui, dans leur ordre du discours, multiplient les marqueurs de raisonnement.
+
+Néanmoins, les connecteurs logiques ne suffisent pas à rendre compte de l'usage du logos. La rhétorique aristotélicienne associe également au logos l'appui du discours sur des données factuelles, des grandeurs mesurables, des éléments chiffrés. Cette dimension, complémentaire, doit donc être interrogée à son tour. Si les médias alternatifs structurent davantage leurs propos par des connecteurs, mobilisent-ils également davantage de chiffres ? La figure \ref{fig:graph-chiffres} permet d'y répondre.
+
+```{r graph-chiffres, fig.cap="Densité des chiffres et statistiques selon les médias"}
+# ─── Fonction de comptage du Logos statistique ────────────────────────────
+# Exclut les noms de chaînes (france 2, france 3), les heures (20h, 13h30),
+# les dates (19xx, 20xx) afin de ne conserver que les chiffres "argumentatifs".
+count_logos_stats <- function(text) {
+  if (is.na(text)) return(0)
+  t <- str_to_lower(text)
+  t <- str_replace_all(t, "france\\s*\\d+", " ")
+  t <- str_replace_all(t, "\\d+\\s*h\\s*\\d*", " ")
+  t <- str_replace_all(t, "\\d+:\\d+", " ")
+  t <- str_replace_all(t, "\\b(19|20)\\d{2}\\b", " ")
+  return(str_count(t, "\\d+"))
+}
+
+logos_stat <- corpus_seq1 |>
+  mutate(
+    stat_count = map_dbl(text_seq, count_logos_stats),
+    stat_dens  = stat_count / word_count_seq * 1000
+  )
+
+# ─── Tests statistiques ───────────────────────────────────────────────────
+kw_stat <- logos_stat |> kruskal_test(stat_dens ~ source)
+pw_stat <- logos_stat |>
+  wilcox_test(stat_dens ~ source, p.adjust.method = "bonferroni") |>
+  add_significance() |> add_xy_position(x = "source")
+es_stat <- logos_stat |> kruskal_effsize(stat_dens ~ source)
+
+# ─── Visualisation ────────────────────────────────────────────────────────
+ggplot(logos_stat, aes(x = source, y = stat_dens, fill = source)) +
+  geom_boxplot(alpha = 0.7, outlier.shape = NA, width = 0.5) +
+  geom_jitter(width = 0.12, alpha = 0.4, size = 1) +
+  stat_pvalue_manual(pw_stat, label = "p.adj.signif", tip.length = 0.01) +
+  scale_fill_grey(start = 0.3, end = 0.8) +
+  theme_minimal(base_family = "Times", base_size = 12) +
+  theme(legend.position = "none",
+        plot.title = element_text(face = "bold", hjust = 0.5)) +
+  labs(
+    title    = "Densité des chiffres et statistiques",
+    subtitle = paste0(
+      SEQ1_NOM, " - Kruskal-Wallis p=", round(kw_stat$p, 4),
+      " | ε²=", round(es_stat$effsize, 3)
+    ),
+    y = "Chiffres pour 1000 mots", x = ""
+  )
+```
+
+::: {.methodo data-latex="{Précision méthodologique sur le comptage des chiffres}"}
+\label{meth:chiffres}
+La détection automatique des chiffres soulève une difficulté méthodologique : tous les chiffres présents dans une transcription ne participent pas d'un raisonnement quantitatif. Une partie d'entre eux relève de la signalétique du média (« France 2 », « France 3 »), de l'horodatage (« 20h », « 13h30 »), ou de la datation (« 2024 », « 1995 »). Pour neutraliser ces faux positifs, une procédure d'exclusion par expressions régulières a été appliquée en amont du comptage : les noms de chaînes, les formats horaires et les années entre 1900 et 2099 sont systématiquement masqués. Seuls les chiffres restants — ceux susceptibles de porter une information argumentative (montants, pourcentages, effectifs, ordres de grandeur) — sont retenus dans la densité statistique.
+:::
+
+Le test de Kruskal-Wallis confirme ici aussi une différence statistique très significative (*p<0,001*), assortie d'une taille d'effet $\epsilon^2$ de 0,658. À nouveau, la dimension étudiée — la densité d'éléments chiffrés mobilisés au sein du discours — distingue fortement les médias entre eux. Et, à nouveau, c'est dans le sens inverse de la prénotion que se déploie cette différence : la figure \ref{fig:graph-chiffres} met en évidence un usage massivement supérieur des chiffres chez les médias alternatifs par rapport à France 2.
+
+Pris ensemble, les résultats sur les connecteurs logiques (figure \ref{fig:graph-connecteurs}) et sur les chiffres (figure \ref{fig:graph-chiffres}) dessinent un même mouvement de fond. Sur les deux opérationnalisations classiques du logos — l'articulation argumentative et l'appui factuel —, ce sont les médias alternatifs qui investissent le plus densément cette modalité du discours. La prénotion d'une rhétorique alternative *moins rigoureuse* ou *plus émotionnelle* ne résiste pas à l'examen quantitatif du corpus. Au contraire, les indépendants numériques apparaissent comme des **producteurs intensifs de logos**.
+
+À ce stade, il devient nécessaire de prendre acte d'un constat. Les deux dimensions canoniques de la rhétorique aristotélicienne, mobilisées comme grilles d'analyse de l'opposition supposée entre médias alternatifs et dominants, échouent à rendre compte de la spécificité des premiers. Le pathos n'est pas discriminant ; le logos l'est, mais à rebours de l'intuition héritée de la littérature. Cette double invalidation appelle un déplacement analytique : il s'agit moins de mesurer la *quantité* d'émotion ou de raisonnement que d'interroger la *fonction* à laquelle ces ressources discursives sont mises au service. Autrement dit, ce n'est pas la nature des outils rhétoriques mobilisés qui distingue les médias, mais l'orientation pragmatique dans laquelle ils s'inscrivent. C'est précisément ce que la sous-partie suivante se propose d'établir, en démontrant que la convergence des médias alternatifs ne se situe pas dans une intensité émotionnelle ou logique particulière, mais dans une **fonction discursive partagée** : la mise en cause systématique.

@@ -23,11 +23,18 @@ header-includes: |
   \titleformat{\subsection}{\normalfont\large\bfseries}{\thesubsection.}{1em}{}
 
   % Definition de l'encadre (tcolorbox)
-  \usepackage{tcolorbox}
-  \newtcolorbox[auto counter]{methodo}[1][]{
-    colback=black!3, colframe=black!75, coltitle=white, fonttitle=\bfseries,
-    arc=0pt, outer arc=0pt,
-    title={Encadré \thetcbcounter~: #1}
+  \usepackage[most]{tcolorbox}
+
+  \newtcolorbox{methodo}[1]{
+    colback=gray!5,       % Couleur de fond (gris très clair)
+    colframe=gray!75,     % Couleur de la bordure
+    coltitle=white,       % Couleur du titre
+    fonttitle=\bfseries,  % Titre en gras
+    sharp corners,        % Coins droits pour un look plus sérieux
+    enhanced,
+    attach boxed title to top left={yshift=-2mm, xshift=2mm}, % Position du titre
+    boxed title style={colback=gray!75}, % Fond du titre
+    title=#1              % Utilise l'argument passé dans data-latex
   }
 output:
   bookdown::pdf_book:
