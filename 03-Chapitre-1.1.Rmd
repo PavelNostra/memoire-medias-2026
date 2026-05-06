@@ -1,3 +1,4 @@
+\addtocontents{toc}{\protect\setcounter{tocdepth}{2}}
 ```{r tokens_emotion}
 # ─── Tokenisation sur les textes filtrés ──────────────────────────────────
 tokens_seq1 <- corpus_seq1 |>
@@ -185,7 +186,7 @@ Aussi, ce test statistique permet d'obtenir deux indicateurs :
 
 * La *p_value* qui permet de déterminer l'existence ou non d'une différence statistique entre nos jeux de données.
 
-* La taille d'effet $\epsilon^2$ qui complète la première information en permettant de mesurer l'impact réel de la caractéristique étudié. Cette valeur varie de 0 (effet néglieable) à 1 (effet fort) [SOURCE !]
+* La taille d'effet $\epsilon^2$ qui complète la première information en permettant de mesurer l'impact réel de la caractéristique étudié. Cette valeur varie de 0 (effet néglieable) à 1 (effet fort)[@tomczakNeedReportEffect2014] 
 
 :::
 

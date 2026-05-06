@@ -4,12 +4,30 @@ fontsize: 12pt
 linestretch: 1.5
 fontfamily: mathptmx
 lang: fr-FR
+bibliography: Biblio/Biblio.bib
+
+# --- REGLAGES DE LA BIBLIOGRAPHIE ---
+biblio-style: verbose-trad1
+biblatexoptions: [backend=biber, autocite=footnote, language=french, autolang=none]
+
 header-includes: |
   \usepackage[left=2.5cm,right=2.5cm,top=2.5cm,bottom=2.5cm]{geometry}
   \usepackage{indentfirst}
   \setlength{\parindent}{1cm}
   \usepackage{titlesec}
   \usepackage{float}
+  \usepackage{csquotes}
+  
+  % --- REGLAGES DE LA TRADUCTION ET TYPOGRAPHIE ---
+  \AtBeginDocument{
+    % 1. On traduit "in" par "dans" pour les chapitres de livres
+    \DefineBibliographyStrings{french}{in={dans}}
+    
+    % 2. On SUPPRIME le "in" pour les articles de revues/presse
+    \renewbibmacro*{in:}{%
+      \ifentrytype{article}{}{\printtext{\bibstring{in}\intitlepunct}}%
+    }
+  }
   
   % On force les figures a rester exactement ICI
   \floatplacement{figure}{H}
@@ -24,14 +42,9 @@ header-includes: |
 
   % Definition de l'encadre (tcolorbox)
   \usepackage[most]{tcolorbox}
-
-  % 1. On crée un compteur dédié aux encadrés (réinitialisé à chaque section)
   \newcounter{compteurencadre}[section]
   \renewcommand{\thecompteurencadre}{\thesection.\arabic{compteurencadre}}
-
-  % 2. On définit la boîte
   \newtcolorbox{methodo}[1]{
-    % On force l'incrémentation du compteur à chaque ouverture de boîte
     code={\refstepcounter{compteurencadre}},
     colback=gray!5,
     colframe=gray!75,
@@ -41,15 +54,15 @@ header-includes: |
     enhanced,
     attach boxed title to top left={yshift=-2mm, xshift=2mm},
     boxed title style={colback=gray!75},
-    % On utilise notre propre compteur ici
     title={Encadré \thecompteurencadre\ : #1},
-    % Permet de garder le système de labels fonctionnel
     label={meth:\thecompteurencadre}
   }
+
 output:
   bookdown::pdf_book:
     toc: no
     base_format: rmarkdown::pdf_document
+    citation_package: biblatex
 ---
 ```{r setup-global, include=FALSE}
 # Chargement des bibliothèques
@@ -65,6 +78,7 @@ library(ggpubr)
 library(knitr)
 library(kableExtra)
 library(dplyr)
+library(udpipe)
 
 # CONFIGURATION DES GRAPHIQUES (Correction du "H")
 knitr::opts_chunk$set(

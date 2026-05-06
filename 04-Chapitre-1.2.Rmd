@@ -1,3 +1,4 @@
+\addtocontents{toc}{\protect\setcounter{tocdepth}{2}}
 ## L’usage massif des connecteurs logiques par les médias alternatifs démontre la primauté de la fonction argumentative sur le seul récit.
 
 L'enjeu de cette section de chapitre est d'étudier la place du logos chez les médias de notre corpus. Pour y parvenir, nous allons utiliser deux indicateurs. Le premier est la densité de connecteurs logiques utilisés pour 1000 mots et pour chaque média. Le second indicateur est la densité de chiffres utilisés pour 1000 mots et pour chaque média. La logique de cette démarche est de permettre une analyse à grande échelle de marqueurs du logos dans notre corpus. 
