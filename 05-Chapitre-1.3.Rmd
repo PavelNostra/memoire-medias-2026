@@ -88,7 +88,7 @@ La figure \ref{fig:graph-critique} fait apparaître une différence statistiquem
 
 Une remarque méthodologique s'impose néanmoins. La mesure proposée est, comme celle des connecteurs, fondée sur un dictionnaire structuré : elle suppose que les marqueurs retenus capturent bien une opération de mise en cause, et que cette opération soit suffisamment récurrente dans le discours pour qu'une mesure de densité fasse sens. Sa robustesse demande donc à être confirmée par des méthodes indépendantes — notamment inductives, qui ne présupposent aucun dictionnaire. C'est précisément ce que la confrontation à la méthode Reinert, plus loin dans cette sous-partie, permettra d'établir.
 
-### Mesurer la rationalité narrative : du temps verbal aux personnages
+### Mesurer la rationalité narrative : du temps verbal aux lieux
 
 Si la rationalité critique repose sur une opération de contestation, la rationalité narrative repose sur une opération inverse : la mise en récit chronologique et factualisée des événements. Plutôt que de la mesurer par dictionnaire — démarche qui supposerait de circonscrire à l'avance le vocabulaire du récit, et qui resterait par construction tributaire de nos choix lexicaux —, nous proposons deux indicateurs **opaques au lexique du corpus** : l'un grammatical, l'autre référentiel.
 

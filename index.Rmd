@@ -64,6 +64,7 @@ library(rstatix)
 library(ggpubr)
 library(knitr)
 library(kableExtra)
+library(dplyr)
 
 # CONFIGURATION DES GRAPHIQUES (Correction du "H")
 knitr::opts_chunk$set(
