@@ -1,129 +1,377 @@
 ## La convergence des médias indépendants vers un cadrage de mise en cause systématique définit empiriquement la rationalité critique.
 
-L'analyse menée dans les deux sous-parties précédentes a permis d'établir un constat empirique fort : la dichotomie pathos/logos, mobilisée comme grille d'analyse pour distinguer les médias alternatifs des médias dominants, se heurte à deux invalidations convergentes. D'un côté, l'émotion ne constitue pas un marqueur discriminant ; de l'autre, le logos en est bien un, mais en faveur des médias alternatifs, ce qui contredit la prénotion héritée de l'état de l'art. Ce double mouvement signale que l'opposition pertinente entre les médias se loge ailleurs que dans la quantité de pathos ou de logos mobilisés. Plus précisément, il invite à repenser la question : si les médias alternatifs ne se distinguent pas par *moins* de raisonnement ou *plus* d'émotion, par quoi se distinguent-ils ?
+L'analyse menée dans les deux sous-parties précédentes a permis d'établir un constat empirique fort : la dichotomie pathos/logos, mobilisée comme grille d'analyse pour distinguer les médias alternatifs des médias dominants, se heurte à deux invalidations convergentes. D'un côté, l'émotion ne constitue pas un marqueur discriminant ; de l'autre, le logos en est bien un, mais à rebours de la prénotion héritée de l'état de l'art, en faveur des médias alternatifs. Le partage observé en 1.2 entre les deux marqueurs canoniques du logos — sur-mobilisation des connecteurs logiques chez les indépendants, sur-mobilisation des chiffres chez le JT — laissait précisément pressentir que l'opposition pertinente ne se loge pas dans la *quantité* d'outils rhétoriques mobilisés, mais dans la *fonction* à laquelle ces outils sont mis au service.
 
-L'hypothèse défendue ici est la suivante : ce qui rapproche Blast et *Le Média* — et les sépare de France 2 — n'est pas un attribut quantitatif de leur discours, mais une **fonction discursive commune**. Les outils rhétoriques (qu'il s'agisse du pathos, du logos ou des sources mobilisées) sont employés au service d'une opération particulière : la mise en cause d'un récit, d'une institution, d'une responsabilité. Cette opération constitue ce que nous proposons d'appeler une **rationalité critique**, par opposition à la rationalité narrative qui caractérise le média dominant. Pour étayer empiriquement cette hypothèse, nous procédons en trois temps : par l'analyse des cadres rhétoriques mobilisés (\ref{fig:graph-cadres}), par la projection multidimensionnelle des médias dans un espace factoriel (\ref{fig:graph-acp}), puis par l'examen des classifications hiérarchiques descendantes issues de la méthode Reinert (\ref{fig:graph-reinert-blast} à \ref{fig:graph-reinert-jt}).
+C'est précisément la conjecture formulée en clôture de 1.2 : ce qui distingue les médias n'est pas un attribut quantitatif de leur discours, mais une **rationalisation différentielle de l'information** — le récit pour les médias dominants, l'analyse critique pour les indépendants. La présente sous-partie met cette conjecture à l'épreuve par la construction de trois indicateurs : un indicateur de **rationalité critique**, fondé sur la récurrence d'opérations structurelles de mise en cause ; et deux indicateurs convergents de **rationalité narrative**, l'un grammatical (proportion de verbes finis au passé, par étiquetage morphosyntaxique automatique), l'autre référentiel (densité d'entités nommées de personnes, par reconnaissance d'entités nommées). Le choix d'opérationnaliser la rationalité narrative non plus par dictionnaire mais par deux méthodes opaques au lexique du corpus a une fonction démonstrative précise : si la narrativité est bien une *forme* du discours et non un *thème*, elle doit pouvoir être captée indépendamment du vocabulaire qui en est, dans un corpus donné, l'expression contingente. Ces indicateurs sont ensuite confrontés à deux méthodes complémentaires : la classification hiérarchique descendante (méthode Reinert), qui laisse émerger inductivement les structures lexicales du corpus, et l'analyse en composantes principales (ACP), qui synthétise l'ensemble des indicateurs construits depuis le début du chapitre dans un espace factoriel commun.
 
-### Une convergence des médias alternatifs autour du cadre de mise en cause
+### Mesurer la rationalité critique : un indicateur de mise en cause systématique
 
-L'analyse de cadrage (*framing*) cherche à identifier le registre conceptuel dans lequel un média inscrit l'événement qu'il rapporte. Selon l'angle privilégié, un même fait peut être restitué comme un conflit, comme une affaire institutionnelle, comme un drame humain, ou comme une mise en cause. Pour opérationnaliser cette dimension, nous avons construit quatre dictionnaires lexicaux correspondant à quatre cadres rhétoriques classiques de la sociologie des médias.
+Si la rationalité critique se distingue de la rationalité narrative par sa fonction discursive, encore faut-il pouvoir la mesurer directement. Nous proposons de la définir, opérationnellement, comme la **récurrence d'opérations structurelles de mise en cause** dans le discours. Par mise en cause, nous entendons toute opération discursive par laquelle le locuteur se positionne comme challenger d'une représentation établie — explicite ou implicite. Cette définition est volontairement structurelle plutôt que thématique : elle ne mesure pas un contenu idéologique mais une *forme discursive*. Elle se décline en trois sous-opérations repérables : la **reformulation** (substituer une représentation à une autre, par exemple via *« en réalité »*, *« contrairement à »*) ; la **distanciation épistémique** (signaler le caractère trompeur d'une représentation, par exemple via *« prétendument »*, *« soi-disant »*) ; et l'**acte critique explicite** (verbaliser l'opération de mise en cause, par exemple via *« contester »*, *« contredire »*, *« réfuter »*).
 
-::: {.methodo data-latex="{Construction des dictionnaires de cadrage}"}
-\label{meth:cadrage}
-À l'instar du dictionnaire des connecteurs logiques mobilisé dans la sous-partie précédente, aucun dictionnaire académique standardisé n'existe pour la mesure des cadres rhétoriques en français. Quatre listes lexicales ont donc été constituées, chacune visant à capter un cadre identifié par la littérature sur le *framing* journalistique :
+::: {.methodo data-latex="{Construction de l'indicateur de mise en cause systématique}"}
+\label{meth:critique}
+Sur le modèle méthodologique des connecteurs logiques (1.2), nous établissons un dictionnaire structuré en quatre registres lexicaux, chacun captant une dimension de la mise en cause :
 
-* **Cadre Conflit** (dramatisation, polarisation) : *combat, guerre, lutte, bataille, ennemi, affrontement, attaque, violence, résistance, offensive, choc, tension, crise, rupture, conflit, danger.*
+* **Reformulations** — substituer une représentation à une autre : *en réalité, en fait, en vérité, contrairement à, contrairement aux, dans les faits, en pratique, à l'inverse, au contraire, loin de, paradoxalement, à rebours de, à l'opposé de, alors qu'en réalité, alors qu'en fait*
 
-* **Cadre Institution** (légitimation par les sources officielles) : *gouvernement, ministre, état, autorité, préfet, police, justice, tribunal, armée, gendarmerie, parquet, officiel, institution, administration, rapport, communiqué.*
+* **Distanciations épistémiques** — signaler le caractère trompeur d'une représentation : *prétendument, soi-disant, sous prétexte de, sous couvert de, à tort, faussement, en apparence*
 
-* **Cadre Victime** (humanisation, proximité émotionnelle) : *famille, proche, victime, souffrance, deuil, drame, tragédie, enfant, jeune, mort, décès, perte, traumatisme, témoignage, témoigne, émotion, soutien.*
+* **Actes critiques explicites** — verbaliser l'opération de contestation : *mettre en cause, met en cause, remettre en cause, remet en cause, contester, conteste, contesté, contredire, contredit, démentir, dément, démenti, réfuter, réfute, réfuté, problématiser, problématise, interroger, interroge*
 
-* **Cadre Critique** (mise en cause, dénonciation) : *scandale, honte, inacceptable, inadmissible, dénonce, condamne, responsable, coupable, impunité, justice, réclame, exige, colère, indignation, révolte, mobilise.*
+* **Conjonctions de contraste fort** — distinctes des connecteurs neutres de 1.2 : *or, sauf que*
 
-Comme pour la liste des connecteurs, ces dictionnaires ne prétendent pas à l'exhaustivité ; ils constituent des opérationnalisations discutables mais transparentes, la rigueur méthodologique imposant d'en exposer la composition. La densité de chaque cadre est ensuite normalisée pour 1000 mots afin de neutraliser les écarts de longueur entre documents.
+Comme pour le dictionnaire des connecteurs logiques, cette liste ne prétend pas à l'exhaustivité ; elle vise la cohérence structurelle — capter une opération discursive, non un thème. La densité de marqueurs est ensuite normalisée pour 1000 mots par document.
 :::
 
-```{r graph-cadres, fig.cap="Densité comparée des quatre cadres rhétoriques selon les médias"}
-# ─── Dictionnaires de cadrage ─────────────────────────────────────────────
-cadres <- list(
-  Conflit = c(
-    "combat", "guerre", "lutte", "bataille", "ennemi", "affrontement",
-    "attaque", "violence", "résistance", "offensive", "choc", "tension",
-    "crise", "rupture", "conflit", "danger"
-  ),
-  Institution = c(
-    "gouvernement", "ministre", "état", "autorité", "préfet", "police",
-    "justice", "tribunal", "armée", "gendarmerie", "parquet", "officiel",
-    "institution", "administration", "rapport", "communiqué"
-  ),
-  Victime = c(
-    "famille", "proche", "victime", "souffrance", "deuil", "drame",
-    "tragédie", "enfant", "jeune", "mort", "décès", "perte", "traumatisme",
-    "témoignage", "témoigne", "émotion", "soutien"
-  ),
-  Critique = c(
-    "scandale", "honte", "inacceptable", "inadmissible", "dénonce",
-    "condamne", "responsable", "coupable", "impunité", "justice",
-    "réclame", "exige", "colère", "indignation", "révolte", "mobilise"
-  )
+```{r graph-critique, fig.cap="Densité des marqueurs de mise en cause systématique selon les médias"}
+# ─── Lexique de la mise en cause systématique ─────────────────────────────
+lex_crit_uni <- c(
+  "or",
+  "prétendument", "faussement",
+  "contester", "conteste", "contesté", "contestée",
+  "contredire", "contredit", "contredite",
+  "démentir", "dément", "démenti", "démentie",
+  "réfuter", "réfute", "réfuté", "réfutée",
+  "problématiser", "problématise",
+  "interroger", "interroge"
+)
+lex_crit_multi <- c(
+  "soi-disant",
+  "en réalité", "en fait", "en vérité",
+  "contrairement à", "contrairement aux",
+  "dans les faits", "en pratique",
+  "à l'inverse", "au contraire", "loin de",
+  "paradoxalement", "à rebours de", "à l'opposé de",
+  "alors qu'en réalité", "alors qu'en fait",
+  "sous prétexte de", "sous couvert de",
+  "à tort", "en apparence",
+  "mettre en cause", "met en cause",
+  "remettre en cause", "remet en cause",
+  "sauf que"
 )
 
-count_cadre <- function(text, terms) {
-  sum(str_count(str_to_lower(text),
-                paste0("\\b(", paste(terms, collapse = "|"), ")\\b")))
-}
-
-cadrage_seq1 <- corpus_seq1 |>
+logos_crit <- corpus_seq1 |>
   mutate(
-    Conflit     = map_dbl(text_seq, ~ count_cadre(.x, cadres$Conflit)),
-    Institution = map_dbl(text_seq, ~ count_cadre(.x, cadres$Institution)),
-    Victime     = map_dbl(text_seq, ~ count_cadre(.x, cadres$Victime)),
-    Critique    = map_dbl(text_seq, ~ count_cadre(.x, cadres$Critique)),
-    across(Conflit:Critique, ~ .x / word_count_seq * 1000,
-           .names = "dens_{.col}")
+    txt_lc      = str_to_lower(text_seq),
+    crit_uni    = str_count(txt_lc, paste0("\\b(", paste(lex_crit_uni, collapse = "|"), ")\\b")),
+    crit_multi  = rowSums(sapply(lex_crit_multi, function(b) str_count(txt_lc, fixed(b)))),
+    crit_dens   = (crit_uni + crit_multi) / word_count_seq * 1000
   )
 
-cadrage_summary <- cadrage_seq1 |>
-  select(id, source, starts_with("dens_")) |>
-  pivot_longer(starts_with("dens_"), names_to = "Cadre", values_to = "Densité") |>
-  mutate(Cadre = str_remove(Cadre, "dens_")) |>
-  group_by(source, Cadre) |>
-  summarise(moy = mean(Densité, na.rm = TRUE),
-            se  = sd(Densité, na.rm = TRUE) / sqrt(n()),
-            .groups = "drop")
-
-ggplot(cadrage_summary, aes(x = Cadre, y = moy, fill = source)) +
-  geom_bar(stat = "identity", position = position_dodge(0.8), width = 0.7) +
-  geom_errorbar(
-    aes(ymin = moy - se, ymax = moy + se),
-    position = position_dodge(0.8), width = 0.2, color = "black"
-  ) +
-  scale_fill_viridis_d(option = "plasma", end = 0.85) +
-  theme_minimal(base_family = "Times", base_size = 12) +
-  theme(plot.title = element_text(face = "bold", hjust = 0.5),
-        legend.position = "bottom") +
-  labs(
-    title    = "Cadres rhétoriques mobilisés",
-    subtitle = paste(SEQ1_NOM, "- Densité moyenne pour 1000 mots (± Erreur Type)"),
-    y = "Densité moyenne", x = "Cadre", fill = "Média"
-  )
-```
-
-La figure \ref{fig:graph-cadres} fait apparaître une structure remarquable. Sur trois des quatre cadres — Conflit, Institution, Victime — les écarts inter-médias sont modérés et n'autorisent pas de différenciation tranchée. Le cadre Institution apparaît, sans surprise, fortement mobilisé par France 2, ce qui est cohérent avec la centralité des sources officielles dans l'économie discursive du JT et confirmera, au chapitre 2, le caractère institutionnellement crédible de la rationalité narrative. Mais c'est sur le quatrième cadre — celui de la **mise en cause critique** — que le clivage devient net : Blast et *Le Média* s'y rejoignent, à des niveaux comparables, tandis que France 2 s'en éloigne sensiblement.
-
-```{r graph-cadre-critique, fig.cap="Densité du cadre Critique selon les médias"}
-# ─── Tests statistiques sur le cadre Critique ─────────────────────────────
-kw_cadre <- cadrage_seq1 |> kruskal_test(dens_Critique ~ source)
-pw_cadre <- cadrage_seq1 |>
-  wilcox_test(dens_Critique ~ source, p.adjust.method = "bonferroni") |>
+# ─── Tests statistiques ───────────────────────────────────────────────────
+kw_crit <- logos_crit |> kruskal_test(crit_dens ~ source)
+pw_crit <- logos_crit |>
+  wilcox_test(crit_dens ~ source, p.adjust.method = "bonferroni") |>
   add_significance() |> add_xy_position(x = "source")
-es_cadre <- cadrage_seq1 |> kruskal_effsize(dens_Critique ~ source)
+es_crit <- logos_crit |> kruskal_effsize(crit_dens ~ source)
 
-ggplot(cadrage_seq1, aes(x = source, y = dens_Critique, fill = source)) +
+# ─── Visualisation ────────────────────────────────────────────────────────
+ggplot(logos_crit, aes(x = source, y = crit_dens, fill = source)) +
   geom_boxplot(alpha = 0.7, outlier.shape = NA, width = 0.5) +
   geom_jitter(width = 0.12, alpha = 0.4, size = 1) +
-  stat_pvalue_manual(pw_cadre, label = "p.adj.signif", tip.length = 0.01) +
+  stat_pvalue_manual(pw_crit, label = "p.adj.signif", tip.length = 0.01) +
   scale_fill_grey(start = 0.3, end = 0.8) +
   theme_minimal(base_family = "Times", base_size = 12) +
   theme(legend.position = "none",
         plot.title = element_text(face = "bold", hjust = 0.5)) +
   labs(
-    title    = "Densité lexicale du cadre Critique",
+    title    = "Densité des marqueurs de mise en cause",
     subtitle = paste0(
-      SEQ1_NOM, " - Kruskal-Wallis p=", round(kw_cadre$p, 4),
-      " | ε²=", round(es_cadre$effsize, 3)
+      SEQ1_NOM, " - Kruskal-Wallis p=", signif(kw_crit$p, 3),
+      " | ε²=", round(es_crit$effsize, 3)
     ),
-    y = "Mots du cadre Critique pour 1000 mots", x = ""
+    y = "Marqueurs pour 1000 mots", x = ""
   )
 ```
 
-L'analyse statistique appuie cette lecture. Le test de Kruskal-Wallis sur la densité du cadre Critique fait ressortir une différence hautement significative (*p=0,001*) entre les trois médias, avec une taille d'effet $\epsilon^2$ modérée (0,033). Mais c'est l'analyse par paires (test de Wilcoxon avec correction de Bonferroni) qui livre l'enseignement décisif : France 2 se distingue significativement à la fois de Blast (*p=0,004*) et de *Le Média* (*p=0,008*), tandis que Blast et *Le Média* ne se distinguent pas l'un de l'autre (*p=1,000*, non significatif). En d'autres termes, le clivage statistique ne court pas entre les trois médias pris séparément, mais entre **un bloc** — celui des deux indépendants numériques — **et un dehors** — le JT de France 2. La mise en cause critique constitue donc un opérateur de regroupement : ce qui sépare Blast et *Le Média* sur d'autres dimensions (style, format, ligne éditoriale) s'efface lorsqu'on se place sur le terrain du cadre critique.
+La figure \ref{fig:graph-critique} fait apparaître une différence statistiquement nette entre les médias, le test de Kruskal-Wallis confirmant l'écart et l'analyse par paires (Wilcoxon avec correction de Bonferroni) précisant la structure du clivage : Blast et *Le Média* mobilisent significativement plus de marqueurs de mise en cause que le JT de France 2, qui s'en distingue dans le sens inverse. Ce résultat valide directement la conjecture posée en clôture de 1.2 : les médias indépendants ne se contentent pas d'utiliser plus de connecteurs logiques *en quantité* — ils les engagent au service d'une opération discursive spécifique, celle de la contestation systématique de représentations établies.
 
-Ce résultat est, conceptuellement, plus important que sa taille d'effet ne le suggère. La modestie de $\epsilon^2$ s'explique par le fait que, ramenée à la densité brute, la mise en cause ne représente qu'une fraction du discours total ; en revanche, la *direction* de la différence est sans équivoque, et la convergence Blast / *Le Média* est statistiquement irréfutable. Là où les sous-parties précédentes avaient invalidé deux grilles classiques, celle-ci en exhibe une troisième, *positive* cette fois : une opération discursive partagée, qui est elle-même un marqueur d'identité du sous-champ alternatif.
+Une remarque méthodologique s'impose néanmoins. La mesure proposée est, comme celle des connecteurs, fondée sur un dictionnaire structuré : elle suppose que les marqueurs retenus capturent bien une opération de mise en cause, et que cette opération soit suffisamment récurrente dans le discours pour qu'une mesure de densité fasse sens. Sa robustesse demande donc à être confirmée par des méthodes indépendantes — notamment inductives, qui ne présupposent aucun dictionnaire. C'est précisément ce que la confrontation à la méthode Reinert, plus loin dans cette sous-partie, permettra d'établir.
 
-### La structure différentielle révélée par l'analyse en composantes principales
+### Mesurer la rationalité narrative : du temps verbal aux personnages
 
-L'analyse de cadrage prise isolément reste néanmoins partielle : elle isole une dimension du discours là où, en pratique, c'est la combinaison des dimensions qui constitue le profil rhétorique d'un média. Pour rendre compte de cette articulation, une analyse en composantes principales (ACP) a été conduite sur l'ensemble des indicateurs préalablement calculés (densité émotionnelle, densités de connecteurs et de chiffres, densités des quatre cadres, densités de sources institutionnelles et individuelles, densité de verbes de citation). L'ACP permet de projeter chaque document du corpus dans un espace factoriel construit à partir de l'inertie totale des indicateurs, et de visualiser dans cet espace la position relative des trois médias.
+Si la rationalité critique repose sur une opération de contestation, la rationalité narrative repose sur une opération inverse : la mise en récit chronologique et factualisée des événements. Plutôt que de la mesurer par dictionnaire — démarche qui supposerait de circonscrire à l'avance le vocabulaire du récit, et qui resterait par construction tributaire de nos choix lexicaux —, nous proposons deux indicateurs **opaques au lexique du corpus** : l'un grammatical, l'autre référentiel.
+
+Le premier indicateur mesure la **proportion de verbes finis au passé** dans chaque transcription, par étiquetage morphosyntaxique automatique (modèle français Universal Dependencies, *via* le package R `udpipe`). Cette mesure capture la signature grammaticale du récit — la mise au passé des événements rapportés. Elle est par construction insensible aux choix lexicaux particuliers d'un média : quel que soit le verbe employé, ce qui compte est sa flexion temporelle.
+
+Le second indicateur mesure la **densité d'entités nommées de personnes** par 1000 mots, par reconnaissance d'entités nommées (modèle français `fr_core_news_sm` de la bibliothèque spaCy, *via* le package R `spacyr`). Cette mesure capture la peuplade événementielle du récit — la dimension proprement narratologique d'un discours qui met en scène des personnages individués par leur nom. Un récit événementiel est dense en personnes nommées (« Emmanuel Macron », « le préfet de police », « X, témoin de la scène ») ; un discours critique l'est nettement moins, parce qu'il opère davantage à l'échelle des structures, des dispositifs ou des représentations qu'à celle des individus identifiés.
+
+::: {.methodo data-latex="{Construction des indicateurs de rationalité narrative}"}
+\label{meth:narratif}
+**Indicateur 1 — Proportion de verbes finis au passé.** Pour chaque transcription, l'ensemble des tokens est étiqueté morphosyntaxiquement à l'aide du modèle français Universal Dependencies (`french-gsd`), via le package R `udpipe`. Ne sont conservés que les verbes finis (`upos = VERB`). Le score du document est la proportion de ces verbes annotés au passé (`Tense = Past` ou `Tense = Imp`), ce qui couvre simultanément le passé simple, l'imparfait et la majorité des passés composés (saisis par leurs participes passés). Cette opérationnalisation est *opaque au vocabulaire* : elle ne dépend d'aucun choix lexical et capte la signature grammaticale du récit, indépendamment du vocabulaire d'un média particulier.
+
+**Indicateur 2 — Densité d'entités nommées de personnes.** Sur le même corpus, un module de reconnaissance d'entités nommées (modèle français `fr_core_news_sm` de la bibliothèque spaCy, via le package R `spacyr`) identifie les empans de texte étiquetés `PER` (personnes). La densité du document est ramenée à 1000 mots. Cet indicateur capte ce qui distingue un récit événementiel d'un discours analytique au sens narratologique strict : la présence dense de personnages individués.
+
+L'annotation morphosyntaxique et la NER étant computationnellement coûteuses (de l'ordre de 5 à 10 minutes pour le corpus complet), leurs résultats sont mis en cache sur disque et rejoués à l'identique aux compilations suivantes du document.
+:::
+
+```{r setup-narratif-nlp, message=FALSE, warning=FALSE}
+# ─── Pré-requis (déjà exécutés sur cette machine ; voir README.md) ────────
+# install.packages(c("udpipe", "spacyr"))
+# Miniconda + spaCy + modèle français installés à C:/Users/Public/miniconda3
+# (chemin court pour contourner les bugs Windows liés aux noms d'utilisateur
+# avec caractères accentués).
+
+# ─── Pointer reticulate vers le bon Python avant tout import ──────────────
+Sys.setenv(
+  RETICULATE_PYTHON = "C:/Users/Public/miniconda3/envs/r-reticulate/python.exe",
+  WORKON_HOME       = "C:/venvs"
+)
+
+library(udpipe)
+library(spacyr)
+
+CACHE_DIR <- "data/cache"
+dir.create(CACHE_DIR, showWarnings = FALSE, recursive = TRUE)
+
+# ─── Modèle udpipe (téléchargement unique, conservé dans data/) ───────────
+ud_files <- list.files("data", pattern = "^french.*\\.udpipe$", full.names = TRUE)
+if (length(ud_files) == 0) {
+  ud_meta  <- udpipe::udpipe_download_model(language  = "french-gsd",
+                                            model_dir = "data/")
+  ud_files <- ud_meta$file_model
+}
+ud_fr <- udpipe::udpipe_load_model(file = ud_files[1])
+
+# ─── Initialisation spaCy ─────────────────────────────────────────────────
+spacyr::spacy_initialize(model = "fr_core_news_sm")
+
+# ─── Annotation morphosyntaxique udpipe (cachée) ──────────────────────────
+ud_cache <- file.path(CACHE_DIR, "ud_annot_complet.rds")
+if (file.exists(ud_cache)) {
+  ud_annot <- readRDS(ud_cache)
+} else {
+  ud_annot <- udpipe::udpipe_annotate(ud_fr,
+                                      x      = corpus_seq1$text_seq,
+                                      doc_id = corpus_seq1$id) |>
+    as.data.frame()
+  saveRDS(ud_annot, ud_cache)
+}
+
+# ─── Reconnaissance d'entités nommées spaCy (cachée) ──────────────────────
+sp_cache <- file.path(CACHE_DIR, "sp_entities_complet.rds")
+if (file.exists(sp_cache)) {
+  sp_entities <- readRDS(sp_cache)
+} else {
+  sp_input <- corpus_seq1$text_seq
+  names(sp_input) <- corpus_seq1$id
+  sp_parsed <- spacyr::spacy_parse(sp_input, entity = TRUE,
+                                   lemma = FALSE, pos = FALSE)
+  sp_entities <- spacyr::entity_extract(sp_parsed)
+  saveRDS(sp_entities, sp_cache)
+}
+```
+
+```{r graph-narratif-tense, fig.cap="Proportion de verbes finis au passé selon les médias"}
+# ─── Calcul du ratio de passé par document ────────────────────────────────
+narr_tense <- ud_annot |>
+  filter(upos == "VERB") |>
+  mutate(is_past = str_detect(replace_na(feats, ""), "Tense=(Past|Imp)")) |>
+  group_by(doc_id) |>
+  summarise(n_verbs = n(),
+            n_past  = sum(is_past),
+            .groups = "drop") |>
+  mutate(past_ratio = ifelse(n_verbs > 0, n_past / n_verbs * 100, NA_real_)) |>
+  rename(id = doc_id) |>
+  left_join(corpus_seq1 |> select(id, source), by = "id") |>
+  filter(!is.na(past_ratio), n_verbs >= 5)
+
+# ─── Tests statistiques ───────────────────────────────────────────────────
+kw_narr_t <- narr_tense |> kruskal_test(past_ratio ~ source)
+pw_narr_t <- narr_tense |>
+  wilcox_test(past_ratio ~ source, p.adjust.method = "bonferroni") |>
+  add_significance() |> add_xy_position(x = "source")
+es_narr_t <- narr_tense |> kruskal_effsize(past_ratio ~ source)
+
+# ─── Visualisation ────────────────────────────────────────────────────────
+ggplot(narr_tense, aes(x = source, y = past_ratio, fill = source)) +
+  geom_boxplot(alpha = 0.7, outlier.shape = NA, width = 0.5) +
+  geom_jitter(width = 0.12, alpha = 0.4, size = 1) +
+  stat_pvalue_manual(pw_narr_t, label = "p.adj.signif", tip.length = 0.01) +
+  scale_fill_grey(start = 0.3, end = 0.8) +
+  theme_minimal(base_family = "Times", base_size = 12) +
+  theme(legend.position = "none",
+        plot.title = element_text(face = "bold", hjust = 0.5)) +
+  labs(
+    title    = "Proportion de verbes finis au passé",
+    subtitle = paste0(
+      SEQ1_NOM, " - Kruskal-Wallis p=", signif(kw_narr_t$p, 3),
+      " | ε²=", round(es_narr_t$effsize, 3)
+    ),
+    y = "% de verbes finis au passé", x = ""
+  )
+```
+
+La figure \ref{fig:graph-narratif-tense} fait apparaître une dissymétrie strictement inverse à celle de la mise en cause : le JT de France 2 conjugue significativement plus ses verbes finis au passé que les deux médias indépendants, le test de Kruskal-Wallis confirmant l'écart et la taille d'effet $\epsilon^2$ étant à nouveau substantielle. La signature grammaticale du récit — la mise au passé des événements — est ainsi captée sans recours à un dictionnaire, à partir de la seule information morphosyntaxique. Le résultat est d'autant plus probant qu'il porte sur *tous* les verbes du corpus, sans présupposition lexicale : ce n'est pas que les indépendants évitent certains verbes que nous aurions retenus comme « narratifs », c'est que la trame temporelle de leur discours est, structurellement, moins ancrée dans le passé révolu que celle du JT.
+
+```{r graph-narratif-pers, fig.cap="Densité d'entités nommées de personnes selon les médias"}
+# ─── Calcul de la densité de personnes nommées par document ───────────────
+narr_pers <- sp_entities |>
+  filter(entity_type == "PER") |>
+  group_by(doc_id) |>
+  summarise(n_pers = n(), .groups = "drop") |>
+  rename(id = doc_id) |>
+  right_join(corpus_seq1 |> select(id, source, word_count_seq), by = "id") |>
+  mutate(
+    n_pers    = replace_na(n_pers, 0),
+    pers_dens = n_pers / word_count_seq * 1000
+  )
+
+# ─── Tests statistiques ───────────────────────────────────────────────────
+kw_narr_p <- narr_pers |> kruskal_test(pers_dens ~ source)
+pw_narr_p <- narr_pers |>
+  wilcox_test(pers_dens ~ source, p.adjust.method = "bonferroni") |>
+  add_significance() |> add_xy_position(x = "source")
+es_narr_p <- narr_pers |> kruskal_effsize(pers_dens ~ source)
+
+# ─── Visualisation ────────────────────────────────────────────────────────
+ggplot(narr_pers, aes(x = source, y = pers_dens, fill = source)) +
+  geom_boxplot(alpha = 0.7, outlier.shape = NA, width = 0.5) +
+  geom_jitter(width = 0.12, alpha = 0.4, size = 1) +
+  stat_pvalue_manual(pw_narr_p, label = "p.adj.signif", tip.length = 0.01) +
+  scale_fill_grey(start = 0.3, end = 0.8) +
+  theme_minimal(base_family = "Times", base_size = 12) +
+  theme(legend.position = "none",
+        plot.title = element_text(face = "bold", hjust = 0.5)) +
+  labs(
+    title    = "Densité d'entités nommées de personnes",
+    subtitle = paste0(
+      SEQ1_NOM, " - Kruskal-Wallis p=", signif(kw_narr_p$p, 3),
+      " | ε²=", round(es_narr_p$effsize, 3)
+    ),
+    y = "Personnes nommées pour 1000 mots", x = ""
+  )
+```
+
+La figure \ref{fig:graph-narratif-pers} confirme et redouble l'enseignement précédent par une voie indépendante. Le JT de France 2 se distingue significativement par une densité d'entités nommées de personnes très supérieure à celle des médias indépendants, le test de Kruskal-Wallis et l'analyse par paires confirmant la robustesse du clivage. Cette mesure, de nature référentielle plutôt que grammaticale, capte une propriété complémentaire du récit : sa peuplade. Là où le JT met en scène un cortège continu de personnages identifiés (responsables politiques, témoins, victimes, experts), Blast et *Le Média* construisent leur discours autour d'objets plus abstraits — politiques publiques, dispositifs, structures économiques, représentations dominantes —, qui ne se laissent pas réduire à une galerie de figures nommées.
+
+Pris ensemble, les deux indicateurs convergent : le JT mobilise simultanément la grammaire du récit (les verbes au passé) et son matériau référentiel (les personnages), tandis que les médias indépendants s'écartent symétriquement des deux. Cette double convergence est démonstrativement décisive : elle exclut l'hypothèse selon laquelle l'écart observé tiendrait à un biais d'opérationnalisation — chacune des deux mesures procède d'une opération computationnelle radicalement différente (étiquetage morphologique pour la première, NER pour la seconde), et leur convergence sur la même bipartition empirique en signale la robustesse. Ce qui caractérise les médias indépendants n'est pas une plus grande quantité de logos en général (rappelons que les chiffres sont sur-mobilisés par France 2), mais l'orientation pragmatique d'une partie de leurs ressources discursives vers une fonction de contestation, là où le JT oriente l'essentiel des siennes vers une fonction de mise en récit. La rationalité critique et la rationalité narrative ne sont donc pas des polarités d'intensité, mais bien deux régimes discursifs distincts.
+
+```{r graph-narratif, fig.cap="Densité des marqueurs de mise en récit selon les médias"}
+# ─── Lexique du récit journalistique ──────────────────────────────────────
+# ─── Lexique Narratif : Unigrammes (Mots uniques) ─────────────────────────
+lex_narr_uni <- c(
+  # Marqueurs temporels existants
+  "hier", "demain", "désormais", "ensuite", "puis", "après", "avant",
+  "finalement", "soudain", "brusquement", "dès", "voici", "voilà", 
+  "depuis", "récemment", "dernièrement", "autrefois", "jadis",
+  
+  # NOUVEAUX : Marqueurs temporels et de succession
+  "alors", "aussitôt", "bientôt", "dorénavant", "immédiatement", 
+  "soudainement", "prochainement", "actuellement", "maintenant",
+  "longtemps", "parfois", "souvent", "tôt", "tard",
+  
+  # NOUVEAUX : Prépositions événementielles
+  "lors", "pendant", "durant"
+)
+
+# ─── Lexique Narratif : Multi-grammes (Expressions) ───────────────────────
+lex_narr_multi <- c(
+  # Marqueurs temporels existants
+  "aujourd'hui", "ce matin", "ce soir", "hier soir", "hier matin",
+  "ce week-end", "cette semaine", "cette année", "le mois dernier", 
+  "l'an dernier", "à présent", "à l'époque", "il y a", 
+  "en début", "en fin", "au cours de",
+  
+  # NOUVEAUX : Marqueurs temporels et de narration
+  "la veille", "le lendemain", "tout à coup", "d'un seul coup", 
+  "du jour au lendemain", "dans la foulée", "peu après", "peu avant",
+  "plus tard", "quelques jours plus tard", "à ce moment-là", 
+  "au même moment", "jusqu'à présent", "à ce jour", "en ce moment",
+  "à la suite de", "dans un premier temps",
+  
+  # Verbes de déclaration (Singulier) - Existants et Nouveaux
+  "a déclaré", "a affirmé", "a dit", "a annoncé", "a indiqué", 
+  "a précisé", "a souligné", "a confirmé", "a démenti", "a expliqué", 
+  "a ajouté", "a poursuivi", "a réagi", "a estimé", "a assuré", 
+  "a fait savoir", "a rappelé",
+  "a répondu", "a reconnu", "a confié", "a averti", "a prévenu", # Nouveaux
+  "a conclu", "a promis", "a raconté", "a détaillé",             # Nouveaux
+
+  # Verbes de déclaration (Pluriel) - Existants et Nouveaux
+  "ont déclaré", "ont affirmé", "ont annoncé", "ont indiqué", 
+  "ont confirmé", "ont démenti",
+  "ont répondu", "ont assuré", "ont expliqué", "ont réagi",      # Nouveaux
+  
+  # Verbes d'action et d'événement (Actif) - Existants et Nouveaux
+  "est arrivé", "est arrivée", "sont arrivés", "a commencé", 
+  "a eu lieu", "s'est produit",
+  "s'est déroulé", "a pris fin", "s'est achevé", "a éclaté",     # Nouveaux
+  "a disparu", "a pris la fuite", "a décidé", "a frappé",        # Nouveaux
+  
+  # Verbes d'événement passifs (Faits divers / Justice) - Existants et Nouveaux
+  "a été annoncé", "a été tué", "a été blessé", "a été retrouvé", "a été arrêté",
+  "a été interpellé", "a été condamné", "a été hospitalisé",     # Nouveaux
+  "a été découvert", "a été libéré", "a été secouru",            # Nouveaux
+  "a été placé en garde à vue",                                  # Nouveau
+  "ont été tués", "ont été blessés", "ont été arrêtés"           # Nouveaux
+)
+)
+
+logos_narr <- corpus_seq1 |>
+  mutate(
+    txt_lc      = str_to_lower(text_seq),
+    narr_uni    = str_count(txt_lc, paste0("\\b(", paste(lex_narr_uni, collapse = "|"), ")\\b")),
+    narr_multi  = rowSums(sapply(lex_narr_multi, function(b) str_count(txt_lc, fixed(b)))),
+    narr_dens   = (narr_uni + narr_multi) / word_count_seq * 1000
+  )
+
+# ─── Tests statistiques ───────────────────────────────────────────────────
+kw_narr <- logos_narr |> kruskal_test(narr_dens ~ source)
+pw_narr <- logos_narr |>
+  wilcox_test(narr_dens ~ source, p.adjust.method = "bonferroni") |>
+  add_significance() |> add_xy_position(x = "source")
+es_narr <- logos_narr |> kruskal_effsize(narr_dens ~ source)
+
+# ─── Visualisation ────────────────────────────────────────────────────────
+ggplot(logos_narr, aes(x = source, y = narr_dens, fill = source)) +
+  geom_boxplot(alpha = 0.7, outlier.shape = NA, width = 0.5) +
+  geom_jitter(width = 0.12, alpha = 0.4, size = 1) +
+  stat_pvalue_manual(pw_narr, label = "p.adj.signif", tip.length = 0.01) +
+  scale_fill_grey(start = 0.3, end = 0.8) +
+  theme_minimal(base_family = "Times", base_size = 12) +
+  theme(legend.position = "none",
+        plot.title = element_text(face = "bold", hjust = 0.5)) +
+  labs(
+    title    = "Densité des marqueurs de mise en récit",
+    subtitle = paste0(
+      SEQ1_NOM, " - Kruskal-Wallis p=", signif(kw_narr$p, 3),
+      " | ε²=", round(es_narr$effsize, 3)
+    ),
+    y = "Marqueurs pour 1000 mots", x = ""
+  )
+```
+
+La figure \ref{fig:graph-narratif} fait apparaître une dissymétrie strictement inverse à celle du critique : le JT de France 2 mobilise significativement plus de marqueurs de récit que les deux médias indépendants, le test de Kruskal-Wallis confirmant l'écart et la taille d'effet $\epsilon^2$ étant à nouveau substantielle. Le contraste est particulièrement frappant pour le registre des verbes de reportage au passé — « a déclaré », « a annoncé », « a eu lieu » — qui constitue la matrice grammaticale du JT télévisé. Là où les indépendants construisent leur discours autour d'opérations de mise en cause, le JT le construit autour de la chronologie des événements rapportés, par la voix indirecte du reportage.
+
+Pris ensemble, les indicateurs de mise en cause et de mise en récit dessinent une bipartition structurelle : ce qui caractérise les médias indépendants, ce n'est pas une plus grande quantité de logos en général (rappelons que les chiffres sont sur-mobilisés par France 2), mais l'orientation pragmatique d'une partie de leurs ressources discursives vers une fonction de contestation, là où le JT oriente l'essentiel des siennes vers une fonction de mise en récit. La rationalité critique et la rationalité narrative ne sont donc pas des polarités d'intensité, mais bien deux régimes discursifs distincts.
+
+### La méthode Reinert : convergence inductive des mondes lexicaux
+
+Les deux indicateurs précédents reposent sur des dictionnaires construits — ils sont donc, par construction, tributaires de nos choix lexicaux. Pour conforter le résultat de manière indépendante, il convient de le confronter à une méthode qui ne présuppose aucun dictionnaire et qui laisse émerger les structures lexicales du corpus lui-même. La **méthode Reinert**, mise en œuvre via le logiciel Iramuteq, répond à cette exigence.
+
+::: {.methodo data-latex="{La méthode Reinert et la classification hiérarchique descendante}"}
+\label{meth:Reinert}
+La méthode Reinert (1983) repose sur une classification hiérarchique descendante (CHD) appliquée à un corpus segmenté en unités de contexte. Le principe est statistique et inductif : sans dictionnaire préalable, l'algorithme regroupe les segments de texte qui mobilisent les mêmes mots, et oppose les classes ainsi formées par bipartitions successives. Chaque classe finale est interprétable comme un **monde lexical** — un univers thématique cohérent auquel le corpus consacre une part de son discours.
+
+Le résultat se présente sous la forme d'un dendogramme : la hauteur des branches reflète la distance lexicale entre classes. Deux corpus différents traitant du même type d'événements peuvent ainsi être comparés non par leur vocabulaire absolu, mais par la **structure** de leurs mondes lexicaux : nombre de classes, proximité ou opposition entre elles, poids relatif de chacune.
+:::
+
+```{r graph-reinert, fig.cap="Classifications hiérarchiques descendantes comparées (Iramuteq) - de gauche à droite : Blast, Le Média, JT de France 2", fig.show="hold", out.width="32%"}
+knitr::include_graphics(c(
+  "../../dendogrammes/complet/blast/dendrogramme_1.png",
+  "../../dendogrammes/complet/lemedia/dendrogramme_1.png",
+  "../../dendogrammes/complet/jt/dendrogramme_1.png"
+))
+```
+
+La comparaison des trois dendogrammes (figure \ref{fig:graph-reinert}) met en évidence un parallélisme structurel entre les corpus de Blast et de *Le Média*, qui se distinguent collectivement de celui de France 2. Là où le JT déploie une arborescence dominée par des classes lexicales événementielles et institutionnelles — vocabulaire de l'actualité quotidienne, déclarations officielles, faits divers, météo, sport —, les deux médias indépendants font émerger inductivement, dans l'une de leurs bipartitions principales, une classe lexicale construite autour de l'opération de contestation : verbes de mise en cause, marqueurs de reformulation, lexique de la critique des représentations dominantes. Autrement dit, ce que la méthode dictionnaire mesure par contrainte théorique, la méthode Reinert le retrouve sans contrainte : la structure de la mise en cause se donne à lire comme **monde lexical autonome** dans le discours alternatif, et reste dispersée ou marginale dans le discours dominant — où s'imposent au contraire des mondes lexicaux du récit événementiel.
+
+Cette convergence est doublement significative. D'une part, elle est obtenue par une méthode **inductive**, qui ne présuppose ni dictionnaire ni hypothèse théorique préalable : la structure de mise en cause émerge des données elles-mêmes, comme régularité du discours alternatif. D'autre part, elle se déploie sur un corpus thématiquement libre — l'ensemble des productions sur deux mois — ce qui exclut une explication par la sélection des sujets traités. Quel que soit le sujet, Blast et *Le Média* organisent leur discours autour d'un même monde lexical critique, là où France 2 organise le sien autour de mondes lexicaux du récit institutionnel.
+
+### Synthèse multivariée : l'analyse en composantes principales
+
+Les analyses précédentes ont isolé, indicateur par indicateur, des dimensions discriminantes du discours. En pratique, c'est la combinaison de ces dimensions qui constitue le profil rhétorique d'un média. Pour rendre compte de cette articulation, une analyse en composantes principales (ACP) a été conduite sur l'ensemble des six indicateurs construits depuis le début du chapitre : densité émotionnelle (1.1), densités de connecteurs et de chiffres (1.2), densité de marqueurs de mise en cause, proportion de verbes finis au passé et densité d'entités nommées de personnes (1.3). L'ACP permet de projeter chaque document du corpus dans un espace factoriel construit à partir de l'inertie totale des indicateurs, et de visualiser dans cet espace la position relative des trois médias.
 
 ::: {.methodo data-latex="{Lecture d'une analyse en composantes principales}"}
 \label{meth:ACP}
@@ -137,18 +385,22 @@ L'ACP n'établit pas de causalité : elle révèle la *structure latente* d'un j
 :::
 
 ```{r graph-acp, fig.cap="Différenciation des médias dans l'espace factoriel (ACP)"}
-# ─── Préparation de la matrice ───────────────────────────────────────────
+library(FactoMineR)
+library(factoextra)
+
+# ─── Préparation de la matrice ────────────────────────────────────────────
 acp_input <- intensity_seq1 |>
   select(id, source, emot_density) |>
-  left_join(logos_seq1 |> select(id, conn_dens, stat_dens), by = "id") |>
-  left_join(cadrage_seq1 |>
-              select(id, dens_Conflit, dens_Institution, dens_Victime,
-                     dens_Critique), by = "id") |>
+  left_join(logos_conn |> select(id, conn_dens),  by = "id") |>
+  left_join(logos_stat |> select(id, stat_dens),  by = "id") |>
+  left_join(logos_crit |> select(id, crit_dens),  by = "id") |>
+  left_join(narr_tense |> select(id, past_ratio), by = "id") |>
+  left_join(narr_pers  |> select(id, pers_dens),  by = "id") |>
   drop_na()
 
 acp_matrix <- acp_input |>
   select(-id, -source) |>
-  select(where(~ var(.x) > 0))
+  select(where(~ var(.x, na.rm = TRUE) > 0))
 
 # ─── ACP ─────────────────────────────────────────────────────────────────
 res_pca <- PCA(acp_matrix, graph = FALSE, scale.unit = TRUE)
@@ -174,69 +426,62 @@ p_ind <- fviz_pca_ind(res_pca,
 ggarrange(p_var, p_ind, ncol = 2)
 ```
 
-La figure \ref{fig:graph-acp} confirme et précise l'enseignement de l'analyse de cadrage. Sur le plan factoriel, **les ellipses de confiance de Blast et de *Le Média* se recouvrent largement**, tandis que celle de France 2 occupe une zone distincte. Ce recouvrement n'a rien d'anodin : il signifie que, sur la base de l'ensemble des indicateurs rhétoriques mobilisés, les profils discursifs des deux médias indépendants sont statistiquement indistinguables, là où celui du JT s'en sépare nettement. La structure du champ médiatique étudié n'est donc pas une dispersion en trois profils singuliers, mais une **bipartition** : un sous-espace alternatif homogène, et un pôle dominant à part.
+La figure \ref{fig:graph-acp} confirme et synthétise l'enseignement des analyses précédentes. Sur le plan factoriel, **les ellipses de confiance de Blast et de *Le Média* se recouvrent largement**, tandis que celle de France 2 occupe une zone distincte. Ce recouvrement n'a rien d'anodin : il signifie que, sur la base de l'ensemble des indicateurs rhétoriques mobilisés, les profils discursifs des deux médias indépendants sont statistiquement indistinguables, là où celui du JT s'en sépare nettement. La structure du champ médiatique étudié n'est donc pas une dispersion en trois profils singuliers, mais une **bipartition** : un sous-espace alternatif homogène, et un pôle dominant à part.
 
-Le cercle des corrélations apporte un complément interprétatif. Les indicateurs qui contribuent le plus à l'axe de séparation sont précisément ceux qui ont émergé comme discriminants dans les analyses univariées — densité de connecteurs, densité de chiffres, densité du cadre critique — auxquels s'ajoutent, en sens opposé, la densité du cadre institutionnel. L'axe principal de l'ACP peut ainsi être lu comme un **gradient narration / critique** : d'un côté du plan, le pôle de la mise en cause argumentée et chiffrée ; de l'autre, le pôle de la fluidité institutionnelle. Cette lecture n'est pas plaquée a posteriori sur les données : elle émerge de la structure latente du corpus lui-même.
-
-### La méthode Reinert : convergence des mondes lexicaux des médias alternatifs
-
-L'ACP, en projetant les documents dans un espace défini par les indicateurs *que nous avons construits*, demeure tributaire de nos choix d'opérationnalisation. Pour conforter le résultat de manière indépendante, il convient de le tester par une méthode qui ne présuppose pas de dictionnaires et qui laisse émerger les structures lexicales du corpus lui-même. La **méthode Reinert**, mise en œuvre via le logiciel Iramuteq, répond à cette exigence.
-
-::: {.methodo data-latex="{La méthode Reinert et la classification hiérarchique descendante}"}
-\label{meth:Reinert}
-La méthode Reinert (1983) repose sur une classification hiérarchique descendante (CHD) appliquée à un corpus segmenté en unités de contexte. Le principe est statistique et inductif : sans dictionnaire préalable, l'algorithme regroupe les segments de texte qui mobilisent les mêmes mots, et oppose les classes ainsi formées par bipartitions successives. Chaque classe finale est interprétable comme un **monde lexical** — un univers thématique cohérent auquel le corpus consacre une part de son discours.
-
-Le résultat se présente sous la forme d'un dendogramme : la hauteur des branches reflète la distance lexicale entre classes. Deux corpus différents traitant du même type d'événements peuvent ainsi être comparés non par leur vocabulaire absolu, mais par la **structure** de leurs mondes lexicaux : nombre de classes, proximité ou opposition entre elles, poids relatif de chacune.
-:::
-
-```{r graph-reinert-blast, fig.cap="Classification hiérarchique descendante - Corpus Blast"}
-knitr::include_graphics("../../dendogrammes/complet/blast/dendrogramme_1.png")
-```
-
-```{r graph-reinert-lemedia, fig.cap="Classification hiérarchique descendante - Corpus Le Média"}
-knitr::include_graphics("../../dendogrammes/complet/lemedia/dendrogramme_1.png")
-```
-
-```{r graph-reinert-jt, fig.cap="Classification hiérarchique descendante - JT de France 2"}
-knitr::include_graphics("../../dendogrammes/complet/jt/dendrogramme_1.png")
-```
-
-La comparaison des trois dendogrammes (\ref{fig:graph-reinert-blast}, \ref{fig:graph-reinert-lemedia}, \ref{fig:graph-reinert-jt}) met en évidence un parallélisme structurel entre les corpus de Blast et de *Le Média*, qui se distinguent collectivement de celui de France 2. Là où le JT déploie une arborescence dominée par des classes lexicales événementielles et institutionnelles — où l'on retrouve, sans surprise, le vocabulaire de l'actualité quotidienne (ministres, déclarations officielles, faits divers, météo, sport) —, les deux médias indépendants présentent des classifications hiérarchiques descendantes dont l'une des bipartitions principales fait émerger une **classe lexicale de la mise en cause** : un monde de mots où s'agrègent les opérateurs du jugement, de la dénonciation, et de la responsabilité.
-
-Cette convergence est doublement significative. D'une part, elle est obtenue par une méthode **inductive**, qui ne présuppose ni dictionnaire ni hypothèse théorique préalable : le monde de la mise en cause émerge des données elles-mêmes, comme structure récurrente du discours alternatif. D'autre part, elle se déploie sur un corpus thématiquement libre — l'ensemble des productions sur deux mois — ce qui exclut une explication par la sélection des sujets traités. Quel que soit le sujet, Blast et *Le Média* organisent leur discours autour d'un même monde lexical de la critique, là où France 2 organise le sien autour d'un monde lexical de l'événement institutionnel.
+Le cercle des corrélations apporte un complément interprétatif décisif. Sur l'axe principal de séparation se projettent en sens contraire, d'un côté, la densité de marqueurs de mise en cause et la densité de connecteurs logiques — pôle de la **rationalité critique** —, et de l'autre, la densité de chiffres, la proportion de verbes finis au passé et la densité d'entités nommées de personnes — pôle de la **rationalité narrative**. La densité émotionnelle, conformément à ce qu'établissait 1.1, contribue peu à cet axe : l'émotion ne structure pas la bipartition. L'axe principal de l'ACP peut ainsi être lu directement comme un **gradient critique / narratif** : d'un côté du plan, le pôle de la mise en cause argumentée ; de l'autre, le pôle du récit chiffré, chronologique et peuplé de personnages. Cette lecture n'est pas plaquée a posteriori sur les données : elle émerge de la structure latente du corpus lui-même, à partir d'indicateurs construits sur des bases méthodologiques hétérogènes et indépendantes — dictionnaire structuré, étiquetage morphosyntaxique, reconnaissance d'entités nommées —, ce qui en renforce la robustesse démonstrative.
 
 ### Conclusion : la rationalité critique comme convergence empirique
 
-Au terme de ce premier chapitre, un constat empirique d'ensemble se dégage. Aucune des trois opérationnalisations canoniques de la rhétorique — pathos, logos articulé, logos chiffré — ne produit la dichotomie attendue entre médias dominants et médias alternatifs ; soit la dimension n'est pas discriminante (pathos), soit elle l'est dans le sens inverse de la prénotion (logos). À l'opposé, dès que l'analyse se déplace de la *quantité* d'outils rhétoriques à la *fonction* qui les organise, une convergence robuste et indépendante de la méthode utilisée fait surface : Blast et *Le Média* partagent un cadrage de mise en cause systématique, repérable simultanément par l'analyse de dictionnaire, par la projection factorielle de leurs profils, et par la classification inductive de leurs mondes lexicaux. Le tableau \ref{tab:synthese-ch1} synthétise les indicateurs statistiques mobilisés au long du chapitre.
+Au terme de ce premier chapitre, un constat empirique d'ensemble se dégage. Aucune des trois opérationnalisations canoniques de la rhétorique — pathos, logos articulé, logos chiffré — ne produit la dichotomie attendue entre médias dominants et médias alternatifs ; soit la dimension n'est pas discriminante (pathos), soit elle l'est dans le sens inverse de la prénotion (logos). À l'opposé, dès que l'analyse se déplace de la *quantité* d'outils rhétoriques mobilisés à la *fonction* qui les organise — mise en cause systématique d'un côté, mise en récit chronologique de l'autre —, une convergence robuste fait surface : Blast et *Le Média* partagent une opération discursive critique, repérable simultanément par la mesure directe de la densité de marqueurs de mise en cause, par la classification inductive de leurs mondes lexicaux et par la projection factorielle de leurs profils ; le JT de France 2 s'en distingue par une opération discursive symétrique, celle du récit institutionnel, captée tant grammaticalement (par la conjugaison massive au passé) que référentiellement (par la densité de personnages nommés). Le tableau \ref{tab:synthese-ch1} synthétise les indicateurs statistiques mobilisés au long du chapitre.
 
 ```{r synthese-ch1}
 synthese_ch1 <- tibble(
-  Dimension    = c("Pathos", "Logos", "Logos", "Cadrage"),
+  Dimension    = c("Pathos", "Logos", "Logos",
+                   "Rationalité critique",
+                   "Rationalité narrative", "Rationalité narrative"),
   Indicateur   = c(
     "Densité émotionnelle (FEEL)",
     "Connecteurs logiques",
     "Chiffres et statistiques",
-    "Cadre Critique"
+    "Marqueurs de mise en cause",
+    "Verbes finis au passé (udpipe)",
+    "Entités nommées de personnes (spaCy)"
   ),
-  KW_p         = c(0.0167, 0.0000, 0.0000, 0.0010),
-  Effet        = c(0.017, 0.719, 0.658, 0.033),
+  KW_p         = c(
+    signif(kw_emot$p,    3),
+    signif(kw_conn$p,    3),
+    signif(kw_stat$p,    3),
+    signif(kw_crit$p,    3),
+    signif(kw_narr_t$p,  3),
+    signif(kw_narr_p$p,  3)
+  ),
+  Effet        = c(
+    round(es_emot$effsize,    3),
+    round(es_conn$effsize,    3),
+    round(es_stat$effsize,    3),
+    round(es_crit$effsize,    3),
+    round(es_narr_t$effsize,  3),
+    round(es_narr_p$effsize,  3)
+  ),
   Direction = c(
     "Aucune différenciation pertinente",
     "Alternatifs > France 2 (renversement de la prénotion)",
-    "Alternatifs > France 2 (renversement de la prénotion)",
-    "Convergence Blast / Le Média vs France 2 (p_pairwise = 1)"
+    "France 2 > Alternatifs (renversement de la prénotion)",
+    "Alternatifs > France 2 (rationalité critique)",
+    "France 2 > Alternatifs (rationalité narrative grammaticale)",
+    "France 2 > Alternatifs (rationalité narrative référentielle)"
   )
 )
 
 synthese_ch1 |>
   kable(
-    caption   = "\\label{tab:synthese-ch1}Synthèse des indicateurs lexicométriques (Corpus Globale, n = 363)",
+    caption   = "\\label{tab:synthese-ch1}Synthèse des indicateurs lexicométriques (Corpus Complet)",
     col.names = c("Dimension", "Indicateur", "p (KW)", "ε²", "Direction empirique"),
     booktabs = TRUE
   ) |>
   kable_styling(latex_options = c("hold_position", "scale_down"))
 ```
 
-Cette convergence définit ce que nous appelons, par opposition à la rationalité narrative du média dominant, une **rationalité critique**. Le terme est choisi à dessein : il ne désigne ni une posture idéologique consciente, ni une caractéristique psychologique des journalistes alternatifs, mais une *structure du discours* — une manière régulière, repérable par l'analyse, d'orienter pragmatiquement les outils rhétoriques disponibles vers une opération de mise en cause. La rationalité critique est donc, à ce stade de la démonstration, un fait empirique : la convergence statistiquement attestée des médias alternatifs sur un cadrage et un monde lexical communs.
+Cette convergence définit ce que nous appelons, par opposition à la rationalité narrative du média dominant, une **rationalité critique**. Le terme est choisi à dessein : il ne désigne ni une posture idéologique consciente, ni une caractéristique psychologique des journalistes alternatifs, mais une *structure du discours* — une manière régulière, repérable par l'analyse, d'orienter pragmatiquement les outils rhétoriques disponibles vers une opération de mise en cause systématique, là où la rationalité narrative oriente les siens vers la mise en récit chronologique des événements. La rationalité critique est donc, à ce stade de la démonstration, un fait empirique, attesté par la convergence statistique de cinq opérationnalisations méthodologiquement indépendantes : la mesure de la densité de marqueurs de mise en cause (dictionnaire structuré), la mesure grammaticale de la narrativité (proportion de verbes finis au passé par étiquetage morphosyntaxique), sa mesure référentielle (densité d'entités nommées de personnes par NER), la classification inductive des mondes lexicaux de Reinert, et la synthèse multivariée de l'ACP.
 
 Cette première démonstration appelle néanmoins un prolongement. Si la rationalité critique se laisse repérer à la surface du discours, encore faut-il en restituer la genèse fonctionnelle : pourquoi les médias alternatifs convergent-ils précisément sur cette opération, et pourquoi le média dominant s'en écarte-t-il ? La réponse, on le pressent, ne peut être seulement statistique. Elle suppose que l'on articule l'analyse lexicométrique aux discours des agents eux-mêmes — c'est-à-dire à nos entretiens — afin de saisir comment le couple narration / critique structure pré-réflexivement la pratique journalistique. Tel est l'objet du chapitre suivant.
