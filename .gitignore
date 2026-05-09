@@ -39,8 +39,10 @@ vignettes/*.pdf
 # R Environment Variables
 .Renviron
 
-# pkgdown site
-docs/
+# pkgdown site (le projet est un bookdown, sortie dans _book/)
+# On préserve docs/architecture.md pour la documentation agentique versionnée
+docs/*
+!docs/architecture.md
 
 # translation temp files
 po/*~
