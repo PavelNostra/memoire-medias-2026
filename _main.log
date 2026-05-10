@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.5.7)  8 MAY 2026 17:27
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.5.7)  10 MAY 2026 03:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1107,49 +1107,49 @@ LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 21
 (c:/ProgramData/TinyTeX/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 ) [6] [7] [8] [9] [10] [11] [12] [13] [14] [15] [16] [17] [18] [19] [20] [21] [22] [23]
-<_main_files/figure-latex/graph-emotions-1-1.pdf, id=511, 469.755pt x 325.215pt>
+<_main_files/figure-latex/graph-emotions-1-1.pdf, id=514, 469.755pt x 325.215pt>
 File: _main_files/figure-latex/graph-emotions-1-1.pdf Graphic file (type pdf)
 <use _main_files/figure-latex/graph-emotions-1-1.pdf>
 Package pdftex.def Info: _main_files/figure-latex/graph-emotions-1-1.pdf  used on input line 356.
 (pdftex.def)             Requested size: 424.82523pt x 294.11003pt.
 [24]
-<_main_files/figure-latex/graph-emotions-2-1.pdf, id=518, 469.755pt x 325.215pt>
+<_main_files/figure-latex/graph-emotions-2-1.pdf, id=521, 469.755pt x 325.215pt>
 File: _main_files/figure-latex/graph-emotions-2-1.pdf Graphic file (type pdf)
 <use _main_files/figure-latex/graph-emotions-2-1.pdf>
 Package pdftex.def Info: _main_files/figure-latex/graph-emotions-2-1.pdf  used on input line 370.
 (pdftex.def)             Requested size: 424.82523pt x 294.11003pt.
 [25 <./_main_files/figure-latex/graph-emotions-1-1.pdf>]
-<_main_files/figure-latex/graph-emotions-3-1.pdf, id=533, 469.755pt x 325.215pt>
+<_main_files/figure-latex/graph-emotions-3-1.pdf, id=536, 469.755pt x 325.215pt>
 File: _main_files/figure-latex/graph-emotions-3-1.pdf Graphic file (type pdf)
 <use _main_files/figure-latex/graph-emotions-3-1.pdf>
 Package pdftex.def Info: _main_files/figure-latex/graph-emotions-3-1.pdf  used on input line 383.
 (pdftex.def)             Requested size: 424.82523pt x 294.11003pt.
 [26 <./_main_files/figure-latex/graph-emotions-2-1.pdf>] [27 <./_main_files/figure-latex/graph-emotions-3-1.pdf>] [28]
-<_main_files/figure-latex/graph-connecteurs-1.pdf, id=575, 469.755pt x 325.215pt>
+<_main_files/figure-latex/graph-connecteurs-1.pdf, id=578, 469.755pt x 325.215pt>
 File: _main_files/figure-latex/graph-connecteurs-1.pdf Graphic file (type pdf)
 <use _main_files/figure-latex/graph-connecteurs-1.pdf>
 Package pdftex.def Info: _main_files/figure-latex/graph-connecteurs-1.pdf  used on input line 434.
 (pdftex.def)             Requested size: 424.82523pt x 294.11003pt.
 [29] [30 <./_main_files/figure-latex/graph-connecteurs-1.pdf>]
-<_main_files/figure-latex/graph-chiffres-1.pdf, id=602, 469.755pt x 325.215pt>
+<_main_files/figure-latex/graph-chiffres-1.pdf, id=605, 469.755pt x 325.215pt>
 File: _main_files/figure-latex/graph-chiffres-1.pdf Graphic file (type pdf)
 <use _main_files/figure-latex/graph-chiffres-1.pdf>
 Package pdftex.def Info: _main_files/figure-latex/graph-chiffres-1.pdf  used on input line 449.
 (pdftex.def)             Requested size: 424.82523pt x 294.11003pt.
 [31 <./_main_files/figure-latex/graph-chiffres-1.pdf>] [32] [33]
-<_main_files/figure-latex/graph-critique-1.pdf, id=636, 469.755pt x 325.215pt>
+<_main_files/figure-latex/graph-critique-1.pdf, id=639, 469.755pt x 325.215pt>
 File: _main_files/figure-latex/graph-critique-1.pdf Graphic file (type pdf)
 <use _main_files/figure-latex/graph-critique-1.pdf>
 Package pdftex.def Info: _main_files/figure-latex/graph-critique-1.pdf  used on input line 499.
 (pdftex.def)             Requested size: 424.82523pt x 294.11003pt.
 [34] [35 <./_main_files/figure-latex/graph-critique-1.pdf>]
-<_main_files/figure-latex/graph-narratif-tense-1.pdf, id=662, 469.755pt x 325.215pt>
+<_main_files/figure-latex/graph-narratif-tense-1.pdf, id=665, 469.755pt x 325.215pt>
 File: _main_files/figure-latex/graph-narratif-tense-1.pdf Graphic file (type pdf)
 <use _main_files/figure-latex/graph-narratif-tense-1.pdf>
 Package pdftex.def Info: _main_files/figure-latex/graph-narratif-tense-1.pdf  used on input line 525.
 (pdftex.def)             Requested size: 424.82523pt x 294.11003pt.
 [36]
-<_main_files/figure-latex/graph-narratif-entites-1.pdf, id=671, 722.7pt x 361.35pt>
+<_main_files/figure-latex/graph-narratif-entites-1.pdf, id=674, 722.7pt x 361.35pt>
 File: _main_files/figure-latex/graph-narratif-entites-1.pdf Graphic file (type pdf)
 <use _main_files/figure-latex/graph-narratif-entites-1.pdf>
 Package pdftex.def Info: _main_files/figure-latex/graph-narratif-entites-1.pdf  used on input line 536.
@@ -1162,7 +1162,7 @@ LaTeX Warning: Reference `fig:graph-narratif-entities' on page 38 undefined on i
 LaTeX Warning: Reference `fig:graph-narratif-entities' on page 38 undefined on input line 545.
 
 [38 <./_main_files/figure-latex/graph-narratif-entites-1.pdf>]
-<_main_files/figure-latex/graph-acp-1.pdf, id=710, 469.755pt x 325.215pt>
+<_main_files/figure-latex/graph-acp-1.pdf, id=713, 469.755pt x 325.215pt>
 File: _main_files/figure-latex/graph-acp-1.pdf Graphic file (type pdf)
 <use _main_files/figure-latex/graph-acp-1.pdf>
 Package pdftex.def Info: _main_files/figure-latex/graph-acp-1.pdf  used on input line 568.
@@ -1174,53 +1174,51 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 [41] [42] [43]
 
 Package biblatex Warning: No driver for 'video'.
-(biblatex)                Using fallback driver on input line 629.
+(biblatex)                Using fallback driver on input line 631.
 
-<dendogrammes/deranque/jt/dendrogramme_1.png, id=755, 702.625pt x 501.875pt>
+<dendogrammes/deranque/jt/dendrogramme_1.png, id=759, 702.625pt x 501.875pt>
 File: dendogrammes/deranque/jt/dendrogramme_1.png Graphic file (type png)
 <use dendogrammes/deranque/jt/dendrogramme_1.png>
-Package pdftex.def Info: dendogrammes/deranque/jt/dendrogramme_1.png  used on input line 635.
+Package pdftex.def Info: dendogrammes/deranque/jt/dendrogramme_1.png  used on input line 637.
 (pdftex.def)             Requested size: 424.82523pt x 303.45534pt.
 [44] [45 <./dendogrammes/deranque/jt/dendrogramme_1.png (PNG copy)>]
-<dendogrammes/vene/jt/dendrogramme_1.png, id=771, 702.625pt x 501.875pt>
+<dendogrammes/vene/jt/dendrogramme_1.png, id=775, 702.625pt x 501.875pt>
 File: dendogrammes/vene/jt/dendrogramme_1.png Graphic file (type png)
 <use dendogrammes/vene/jt/dendrogramme_1.png>
-Package pdftex.def Info: dendogrammes/vene/jt/dendrogramme_1.png  used on input line 650.
+Package pdftex.def Info: dendogrammes/vene/jt/dendrogramme_1.png  used on input line 652.
 (pdftex.def)             Requested size: 424.82523pt x 303.45534pt.
-[46 <./dendogrammes/vene/jt/dendrogramme_1.png>] [47] [48] [49]
+[46 <./dendogrammes/vene/jt/dendrogramme_1.png>] [47] [48]
 
-LaTeX Warning: Hyper reference `1-3' on page 50 undefined on input line 712.
+LaTeX Warning: Hyper reference `1-3' on page 49 undefined on input line 716.
 
-<dendogrammes/deranque/blast/dendrogramme_1.png, id=795, 702.625pt x 501.875pt>
+[49]
+<dendogrammes/deranque/blast/dendrogramme_1.png, id=800, 702.625pt x 501.875pt>
 File: dendogrammes/deranque/blast/dendrogramme_1.png Graphic file (type png)
 <use dendogrammes/deranque/blast/dendrogramme_1.png>
-Package pdftex.def Info: dendogrammes/deranque/blast/dendrogramme_1.png  used on input line 719.
+Package pdftex.def Info: dendogrammes/deranque/blast/dendrogramme_1.png  used on input line 723.
 (pdftex.def)             Requested size: 226.57297pt x 161.83621pt.
-<dendogrammes/deranque/lemedia/dendrogramme_1.png, id=796, 702.625pt x 501.875pt>
+<dendogrammes/deranque/lemedia/dendrogramme_1.png, id=801, 702.625pt x 501.875pt>
 File: dendogrammes/deranque/lemedia/dendrogramme_1.png Graphic file (type png)
 <use dendogrammes/deranque/lemedia/dendrogramme_1.png>
-Package pdftex.def Info: dendogrammes/deranque/lemedia/dendrogramme_1.png  used on input line 719.
+Package pdftex.def Info: dendogrammes/deranque/lemedia/dendrogramme_1.png  used on input line 723.
 (pdftex.def)             Requested size: 226.57297pt x 161.83621pt.
 [50] [51 <./dendogrammes/deranque/blast/dendrogramme_1.png (PNG copy)> <./dendogrammes/deranque/lemedia/dendrogramme_1.png>]
-<dendogrammes/vene/blast/dendrogramme_1.png, id=809, 702.625pt x 501.875pt>
+<dendogrammes/vene/blast/dendrogramme_1.png, id=814, 702.625pt x 501.875pt>
 File: dendogrammes/vene/blast/dendrogramme_1.png Graphic file (type png)
 <use dendogrammes/vene/blast/dendrogramme_1.png>
-Package pdftex.def Info: dendogrammes/vene/blast/dendrogramme_1.png  used on input line 725.
+Package pdftex.def Info: dendogrammes/vene/blast/dendrogramme_1.png  used on input line 729.
 (pdftex.def)             Requested size: 226.57297pt x 161.83621pt.
-<dendogrammes/vene/lemedia/dendrogramme_1.png, id=810, 702.625pt x 501.875pt>
+<dendogrammes/vene/lemedia/dendrogramme_1.png, id=815, 702.625pt x 501.875pt>
 File: dendogrammes/vene/lemedia/dendrogramme_1.png Graphic file (type png)
 <use dendogrammes/vene/lemedia/dendrogramme_1.png>
-Package pdftex.def Info: dendogrammes/vene/lemedia/dendrogramme_1.png  used on input line 725.
+Package pdftex.def Info: dendogrammes/vene/lemedia/dendrogramme_1.png  used on input line 729.
 (pdftex.def)             Requested size: 226.57297pt x 161.83621pt.
-
-LaTeX Warning: Reference `fig:dendrogramme-lemedia-vene' on page 52 undefined on input line 728.
-
-[52 <./dendogrammes/vene/blast/dendrogramme_1.png> <./dendogrammes/vene/lemedia/dendrogramme_1.png (PNG copy)>] [53] [54]
+[52 <./dendogrammes/vene/blast/dendrogramme_1.png> <./dendogrammes/vene/lemedia/dendrogramme_1.png (PNG copy)>] [53] [54] [55] [56] [57] [58] [59] [60] [61]
 
 Package biblatex Warning: No driver for 'video'.
-(biblatex)                Using fallback driver on input line 790.
+(biblatex)                Using fallback driver on input line 886.
 
-[55] [56] [57] [58] (./_main.aux)
+[62] [63] [64] (./_main.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-03-20>
@@ -1236,18 +1234,18 @@ Package logreq Info: Writing requests to '_main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 38972 strings out of 469319
- 788949 string characters out of 5465525
- 1635449 words of memory out of 5000000
- 66936 multiletter control sequences out of 15000+600000
+ 38998 strings out of 469319
+ 789377 string characters out of 5465525
+ 1635553 words of memory out of 5000000
+ 66944 multiletter control sequences out of 15000+600000
  705854 words of font info for 136 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  98i,9n,108p,2426b,2540s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <c:/ProgramData/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1200.600pk><c:/ProgramData/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/ProgramData/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/ProgramData/TinyTeX/texmf-dist/fonts/type1/urw/symbol/usyr.pfb><c:/ProgramData/TinyTeX/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/ProgramData/TinyTeX/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/ProgramData/TinyTeX/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on _main.pdf (59 pages, 679628 bytes).
+Output written on _main.pdf (65 pages, 695395 bytes).
 PDF statistics:
- 1109 PDF objects out of 1200 (max. 8388607)
- 945 compressed objects within 10 object streams
- 294 named destinations out of 1000 (max. 500000)
- 413 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1162 PDF objects out of 1200 (max. 8388607)
+ 992 compressed objects within 10 object streams
+ 312 named destinations out of 1000 (max. 500000)
+ 421 words of extra memory for PDF output out of 10000 (max. 10000000)
 

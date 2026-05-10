@@ -1,0 +1,75 @@
+\addtocontents{toc}{\protect\setcounter{tocdepth}{2}}
+
+## La définition de la neutralité journalistique varie selon la place occupée dans le champ pour légitimer les pratiques professionnelles respectives.
+
+Les sous-chapitres précédents ont établi que la rationalité narrative et la rationalité critique ne s'opposent pas par la rigueur factuelle mais par les conditions matérielles qui rendent possible, ou non, l'élaboration d'un cadre interprétatif. Or les enquêtés des deux pôles convoquent une catégorie commune pour qualifier leur métier : la *neutralité*. L'examen comparé des entretiens montre qu'il ne s'agit pas d'un référentiel partagé que les uns respecteraient et les autres trahiraient, mais d'une catégorie indigène concurrencée, dont chaque pôle redéfinit le contenu pour légitimer sa pratique. Pour le démontrer, nous mobilisons quatre entretiens semi-directifs : deux journalistes du pôle dominant (la journaliste web de France 3 Auvergne déjà mobilisée en 2.1 et un data-journaliste senior du *Parisien*, en poste depuis 2015 dans un quotidien désormais détenu par le groupe LVMH) et deux du pôle indépendant (le pigiste de Blast et la journaliste freelance déjà mobilisés en 2.2).
+
+D'abord, un constat préliminaire s'impose. Aucun des quatre enquêtés ne défend l'objectivité comme propriété atteignable du discours journalistique. La journaliste de France 3 le formule sans détour :
+
+> *« L'objectivité est un leurre en fait, en journalisme, on ne peut pas être objectif à 100 %. […] Rien que l'idée même d'angle suppose une subjectivité, parce qu'on va plus parler d'un aspect que d'un autre. »*
+
+Le data-journaliste du *Parisien* va plus loin encore :
+
+> *« La neutralité, je n'y crois pas. Je sais pour qui… Qui reçoit de l'argent ou en perd quand je fais mon travail. Aux Parisiens, on sait bien qui détient le journal. »*
+
+Du côté indépendant, on retrouve la même prémisse, déjà rencontrée en 2.2 : Blast récuse le terme au profit de l'« objectivité » et la freelance dénonce un usage « dévoyé » de l'objectivité dominante. Cette convergence apparente pourrait laisser croire à une neutralité-leurre unanimement déconstruite et à un horizon professionnel partagé. Pourtant, c'est précisément à partir de ce constat commun que les définitions substitutives divergent, et que la position dans le champ devient lisible.
+
+Au pôle dominant, le rejet de l'objectivité absolue n'entraîne pas le rejet de la *neutralité* comme horizon professionnel. La journaliste de France 3 opère un déplacement lexical en remplaçant l'objectivité par l'« honnêteté intellectuelle » :
+
+> *« Néanmoins, on a un devoir de neutralité, et on a un devoir d'honnêteté intellectuelle. Je parlerai plus d'honnêteté intellectuelle plutôt que d'objectivité. Les faits restent les faits, donc finalement, si l'on s'en tient aux faits, notre part d'honnêteté intellectuelle est là. »*
+
+Cette formule articule deux gestes : conserver le devoir de neutralité comme norme professionnelle ; le faire reposer sur la fidélité aux faits. Le déplacement reste donc périphérique : la neutralité tient lieu d'horizon, l'honnêteté intellectuelle d'opérateur, et l'ensemble s'adosse à la position institutionnelle sans en faire un objet d'analyse. L'enquêtée précise d'ailleurs :
+
+> *« Moi je travaille pour un média de services publics. Donc on n'est pas vraiment concerné par cette indépendance, de pression économique […]. On n'a pas de pression économique, pas de pression politique, c'est plutôt assez libre de nos sujets. Donc oui je me place un peu dans un spectre à part. »*
+
+L'extériorité présumée aux pressions, garantie par le statut de service public, dispense de poursuivre l'analyse de l'objectivité au-delà du glissement vers l'« honnêteté intellectuelle ». L'entretien avec le data-journaliste du *Parisien* révèle, lui, une position plus complexe mais structurellement analogue. La récusation explicite du « principe de neutralité » s'y articule à une définition substitutive en termes d'« honnêteté » qui prend la forme d'un contrat de transparence sur le périmètre éditorial :
+
+> *« Moi, ce que je crois en l'honnêteté est en fait de ne pas mentir sur ce qu'on fait. Donc la neutralité, ce serait de faire croire aux lecteurs qu'ils trouveront une enquête approfondie sur la fiscalité de Bernard Arnault dans ses pages. »*
+
+L'opération est notable : la neutralité n'est plus le respect de critères procéduraux, elle devient l'engagement à ne pas tromper le lecteur sur ce que la rédaction peut ou ne peut pas couvrir. Cette redéfinition s'accompagne d'une lucidité sur les zones d'évitement liées à la propriété du journal :
+
+> *« La direction de la rédaction ne va pas valider des sujets qui ont… Comment dire ? Révélés, j'en sais rien, qui vont risquer de mettre le propriétaire du journal dans une posture qui serait fâcheuse. […] Il y a un moment quand on est au cœur d'un système où on a toutes sortes de raisons d'y être soit d'y être attaché, soit d'y être dépendant, soit de pas avoir envie de mordre une main qui nous nourrit. »*
+
+Le geste analytique se prolonge en une mise en symétrie qui désigne l'évitement éditorial comme propriété structurelle du champ et non comme particularité du *Parisien* :
+
+> *« Je crois pas que Mediapart révélerait un scandale sexuel qui concernerait [Edwy] Plenel ou Fabrice Arfi. C'est juste que c'est pas dans ces pages-là que ça va se passer. »*
+
+Cette symétrie est doublement révélatrice. D'une part, elle confère à l'évitement éditorial le statut de loi du champ, ce qui le dépolitise et le naturalise. D'autre part, en plaçant *Mediapart* et *Le Parisien* sur le même plan analytique, elle dissout la spécificité qui rendrait possible une critique opératoire de la position propre.
+
+Or cette lucidité analytique n'altère pas la pratique. Le déplacement vers une « honnêteté » sur les chiffres et l'ancrage revendiqué dans des sources « ministérielles, institutionnelles, officielles » maintiennent la position dominante en évitant d'en faire l'objet d'une critique opératoire. Au pôle dominant, la *neutralité* est donc moins une norme respectée qu'une catégorie tantôt déplacée (France 3), tantôt suspendue à titre personnel (*Le Parisien*), dont la fonction reste, dans les deux cas, de garantir l'ancrage institutionnel sans en interroger les conditions.[@bourdieuLempriseJournalisme1994]
+
+Au pôle indépendant, à l'inverse, la redéfinition n'est pas un déplacement périphérique mais l'opération centrale qui rend dicible la rationalité critique cartographiée en 2.2. Le pigiste de Blast pose explicitement la substitution lexicale :
+
+> *« Neutralité, à la place de neutralité, moi, j'emploierais plutôt le terme d'objectivité […]. Les papiers, j'ai un angle, mais j'essaie quand même de rester objectif et d'être strictement factuel. »*
+
+La distinction est ici fonctionnelle : la *neutralité* comme abstention d'angle est récusée, l'*objectivité* comme rigueur factuelle dans le traitement de l'angle est conservée. La journaliste freelance prolonge cette opération en dénonçant ouvertement le dispositif d'équivalence des paroles auquel la neutralité dominante adosse sa procédure :
+
+> *« J'estime que l'idée d'objectivité est un peu dévoyée aujourd'hui, puisqu'on a un peu l'impression que c'est cinq minutes pour l'extrême droite, cinq minutes pour les valeurs républicaines. Je ne vois pas en quoi c'est objectif de mettre des choses qui, pour moi, ne se mettent pas sur le même plan. »*
+
+Cette dénonciation se prolonge en un geste de hiérarchisation des sources qui en constitue la traduction opératoire :
+
+> *« Il y a des sources qui sont officielles, dont les informations sont vérifiées et fiables, et il y a des sources qui ne le sont pas, et pour moi, on ne peut pas les mettre sur le même plan. »*
+
+La rigueur factuelle revendiquée en 2.2 trouve ici son fondement axiologique : ce n'est plus la fiabilité documentaire qui est en jeu, mais le refus de la symétrie formelle entre sources fiables et sources qui ne le sont pas. L'ensemble opère un travail symétrique de celui du pôle dominant. La neutralité-procédure des grands médias est requalifiée en dispositif occultant des rapports de force, ce qui permet de légitimer un angle assumé sans le ramener à de l'opinion arbitraire. La redéfinition est donc constitutive de la pratique critique, et non son ornement rhétorique. C'est elle qui, en récusant l'équivalence formelle des paroles, ouvre l'espace d'une rigueur factuelle hiérarchisée — exactement le geste que les indicateurs de 1.3 et les dendrogrammes de 2.2 nous avaient permis d'observer textuellement.
+
+Cette redéfinition de la neutralité ouvre par ailleurs une seconde lutte symbolique, parallèle à la première : celle qui porte sur la qualification *militante* du journalisme indépendant. La catégorie « militant » fonctionne, dans le champ, comme l'instrument réciproque par lequel le pôle dominant disqualifie le pôle critique en le reléguant hors du journalisme proprement dit. Le pigiste de Blast en repère immédiatement la fonction :
+
+> *« Quand on parle de journalisme militant, c'est toujours un terme qui est utilisé de manière un peu disqualifiante. »*
+
+La journaliste freelance pousse plus loin en posant l'antinomie comme principe :
+
+> *« C'est un peu compliqué, je trouve, de parler de journalisme militant parce que soit on fait du journalisme soit on fait du militantisme. Pour moi, les deux, c'est antinomique. »*
+
+L'antinomie n'est cependant pas une fin de non-recevoir. Elle ouvre un travail de requalification qui déplace l'étiquette « militant » vers les médias dont la qualification est, elle, jugée justifiée — « *CNews*, le *JDD*, qui sont, on le sait, détenus par un milliardaire qui a des visées politiques, qui a un discours politique très articulé avec une idéologie et qui utilise ces médias pour propager cette idéologie » — et oppose à cette catégorie une description fonctionnelle de la rigueur des médias indépendants assumés à gauche :
+
+> *« [Mediapart] est l'un des médias les plus rigoureux avec lesquels j'ai travaillé. »*
+
+Et concernant Blast :
+
+> *« [Les enquêtes de Blast] sont journalistiquement irréprochables. [\dots] Ils ont des enquêtes qui sont dans les standards journalistiques et éthiques. »*
+
+L'opération est ici doublement critique. D'abord, elle inverse le partage symbolique en désignant comme *militants* les médias qui se présentent eux-mêmes comme respectant la procédure de neutralité. Ensuite, elle mobilise la rigueur — déjà constituée en 2.2 comme instrument de déconstruction — comme contre-discours à la disqualification *militant*. La rigueur n'y est pas le supplément qui rachèterait un engagement, elle est l'opération même qui interdit de rabattre l'engagement sur du militantisme et qui, en retour, légitime la position critique dans le champ. La redéfinition de la neutralité et le retournement de l'étiquette militante apparaissent donc comme les deux faces d'un même travail symbolique : disqualifier la procédure d'équivalence comme dispositif idéologique, et requalifier la rigueur comme opérateur conjoint de la critique et du journalisme.
+
+Finalement, ces quatre positions ne forment pas quatre opinions individuelles juxtaposées. Elles dessinent un système où la définition de la *neutralité* fonctionne comme un marqueur de position dans le champ et comme un instrument de légitimation des pratiques professionnelles. Le pôle dominant maintient la neutralité comme horizon, déplacé vers une honnêteté ancrée dans les faits ou dans les chiffres, dont la fonction est de naturaliser un adossement institutionnel — service public ou source officielle. Le pôle indépendant la récuse comme dispositif et la remplace par une objectivité-vérification qui légitime, à l'inverse, l'engagement dans le conflit interprétatif. Comme l'a montré Bourdieu pour les champs de production symbolique, les agents ne se saisissent pas d'une norme professionnelle de l'extérieur pour la respecter ou la trahir : ils la définissent depuis la position qu'ils occupent, et leur définition prolonge l'ensemble des dispositions qui rendent leur pratique possible.[@bourdieuSeminairesConceptChamp2013] La pseudo-neutralité que Cardon et Granjon identifiaient comme le mythe disqualifiant le journalisme militant[@cardonMediactivistes] trouve ici son explication empirique : ce n'est pas la neutralité qui est partagée puis trahie, c'est sa définition même qui est l'enjeu de la lutte symbolique entre pôles.
+
+Ainsi, les conditions matérielles de production analysées en 2.1 et 2.2 et la définition concurrente de la neutralité examinée ici ne constituent pas deux ordres de faits séparés. Elles se renforcent mutuellement : la rationalité narrative s'adosse à une neutralité-procédure qui légitime l'extériorité aux conflits ; la rationalité critique s'adosse à une objectivité-vérification qui légitime au contraire l'engagement dans le conflit interprétatif. Reste à comprendre pourquoi des agents diversement situés en viennent à occuper, partager et reproduire ces définitions opposées. Ce qui transparaît déjà dans nos entretiens — la liberté éditoriale revendiquée par les indépendants, la précarité économique acceptée comme condition même du travail critique — appelle un examen des trajectoires individuelles et des contraintes économiques qui fera l'objet de notre dernier chapitre. C'est bien parce que la liberté éditoriale fonctionne comme une rétribution symbolique[@ferronProfessionnaliserMediasAlternatifs2016] qu'elle peut, à elle seule, fixer durablement des journalistes dans un pôle économiquement fragile et leur faire intérioriser, jusque dans la définition qu'ils donnent de la neutralité, la cohérence de leur position.
