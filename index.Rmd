@@ -11,47 +11,35 @@ biblio-style: verbose-trad1
 biblatexoptions: [backend=biber, autocite=footnote, language=french, autolang=none]
 
 header-includes: |
-  \usepackage[left=2.5cm,right=2.5cm,top=2.5cm,bottom=2.5cm]{geometry}
+  \usepackage[left=3cm,right=2.5cm,top=2.5cm,bottom=2.5cm]{geometry}
   \usepackage{indentfirst}
   \setlength{\parindent}{1cm}
   \usepackage{titlesec}
   \usepackage{float}
   \usepackage{csquotes}
+  \usepackage{etoc} % <--- AJOUTÉ : Pour gérer plusieurs sommaires
   
-  % --- REGLAGES DE LA TRADUCTION ET TYPOGRAPHIE ---
   \AtBeginDocument{
-    % 1. On traduit "in" par "dans" pour les chapitres de livres
     \DefineBibliographyStrings{french}{in={dans}}
-    
-    % 2. On SUPPRIME le "in" pour les articles de revues/presse
     \renewbibmacro*{in:}{%
       \ifentrytype{article}{}{\printtext{\bibstring{in}\intitlepunct}}%
     }
   }
   
-  % On force les figures a rester exactement ICI
   \floatplacement{figure}{H}
   
-  % Titres de niveau 1 (#) en chiffres Romains : I, II, III
   \renewcommand{\thesection}{\Roman{section}}
   \titleformat{\section}{\normalfont\Large\bfseries}{\thesection.}{1em}{}
-  
-  % Titres de niveau 2 (##) en chiffres arabes : 1.1, 1.2
   \renewcommand{\thesubsection}{\arabic{section}.\arabic{subsection}}
   \titleformat{\subsection}{\normalfont\large\bfseries}{\thesubsection.}{1em}{}
 
-  % Definition de l'encadre (tcolorbox)
   \usepackage[most]{tcolorbox}
   \newcounter{compteurencadre}[section]
   \renewcommand{\thecompteurencadre}{\thesection.\arabic{compteurencadre}}
   \newtcolorbox{methodo}[1]{
     code={\refstepcounter{compteurencadre}},
-    colback=gray!5,
-    colframe=gray!75,
-    coltitle=white,
-    fonttitle=\bfseries,
-    sharp corners,
-    enhanced,
+    colback=gray!5, colframe=gray!75, coltitle=white,
+    fonttitle=\bfseries, sharp corners, enhanced,
     attach boxed title to top left={yshift=-2mm, xshift=2mm},
     boxed title style={colback=gray!75},
     title={Encadré \thecompteurencadre\ : #1},
@@ -60,7 +48,7 @@ header-includes: |
 
 output:
   bookdown::pdf_book:
-    toc: no
+    toc: no # <--- BIEN GARDER À NO
     base_format: rmarkdown::pdf_document
     citation_package: biblatex
 ---
@@ -226,5 +214,3 @@ Sous la direction de : \par
 *Sciences Po Lille n’entend donner aucune approbation ni improbation aux thèses et opinions émises dans ce mémoire de recherche. Celles-ci doivent être considérées comme propres à leur auteur.*
 
 *J’atteste que ce mémoire de recherche est le résultat de mon travail personnel, qu’il cite et référence toutes les sources utilisées et qu’il ne contient pas de passage ayant déjà été utilisé intégralement dans un travail similaire.*
-
-\newpage
