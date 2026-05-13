@@ -1,0 +1,1361 @@
+Questions de communication
+46 | 2024
+Le fandom, côté obscur
+Le YouTube contestataire
+Saisir l’informalisation par les vidéos de « décryptage » de la réforme des
+retraites
+YouTube as an oppositional space
+Understanding informalization through 'decoding' videos on pension reform
+Swan Dufour et Quentin Gilliotte
+Édition électronique
+URL : https://journals.openedition.org/questionsdecommunication/36578
+DOI : 10.4000/12yfn
+ISSN : 2259-8901
+Éditeur
+Presses universitaires de Lorraine
+Édition imprimée
+Date de publication : 1 décembre 2024
+Pagination : 217-248
+ISBN : 9782384511808
+ISSN : 1633-5961
+Référence électronique
+Swan Dufour et Quentin Gilliotte, « Le YouTube contestataire », Questions de communication [En ligne],
+46 | 2024, mis en ligne le 07 février 2025, consulté le 17 septembre 2025. URL : http://
+journals.openedition.org/questionsdecommunication/36578 ; DOI : https://doi.org/10.4000/12yfn
+Le texte seul est utilisable sous licence CC BY-NC-ND 4.0. Les autres éléments (illustrations, fichiers
+annexes importés) sont susceptibles d’être soumis à des autorisations d’usage spécifiques.
+questions de communication, 2024, 46, 217-248
+> NOTES DE RECHERCHE
+SWAN DUFOUR
+Carism, Université Paris-Panthéon-Assas, F-75231 Paris, France
+swandufour1997@gmail.com
+QUENTIN GILLIOTTE
+Cerlis, Université Paris-Panthéon-Assas, F-75231 Paris, France
+quentin.gilliotte@gmail.com
+LE YOUTUBE CONTESTATAIRE
+SAISIR L’INFORMALISATION PAR LES VIDÉOS DE « DÉCRYPTAGE »
+DE LA RÉFORME DES RETRAITES
+Résumé. – Au lendemain de l’annonce de la réforme des retraites par Elisabeth Borne,
+de nombreux youtubeurs ont proposé de « décrypter », de « déchiffrer » et « d’analyser »
+le contenu du projet de loi. À partir d’une analyse de discours menée sur plus d’une
+cinquantaine de vidéos, les logiques d’informalisation à l’œuvre au sein des espaces
+numériques sont interrogées dans le prolongement des transformations déjà repérées au
+sein des médias traditionnels. Il apparaît que YouTube peut être saisi comme un espace
+informationnel et contestataire où une opposition entre information traditionnelle et
+indépendante est mise en tension. Cependant, l’examen des discours met au jour des
+logiques de dépendance et de mimétisme plus complexes entre ces différents acteurs
+et invite à penser les écarts en différenciant les contenus selon leur appartenance
+à différentes scènes génériques qui sont autant de configurations spécifiques
+d’informalisation. Un premier ensemble de contenus entretient ainsi une filiation
+avec les codes du journalisme distancié qui se caractérisent par des positions quasi
+professorales vis-à-vis des publics. Un deuxième ensemble de contenus se caractérise par
+des formes de journalisme engagé, maniant logos et pathos pour convaincre les publics.
+Un troisième ensemble regroupe les contenus prenant la forme d’un militantisme
+individualisé. Enfin, un dernier ensemble regroupe les contenus qui hybrident rhétorique
+humoristique et contestataire en mobilisant l’ironie. À terme, il s’agit d’interroger l’essor
+de ces formats en les remettant en perspective avec les codes des médias traditionnels et
+de montrer comment certains discours politiques sont associés à des formes spécifiques
+d’argumentation et de mobilisation.
+Mots clés. – YouTube, contestation, politique, discours, format, information, réforme des
+retraites, plateformes, journalisme
+217
+S. Dufour et Q. Gilliotte
+L
+e 10 janvier 2023, la Première ministre Elisabeth Borne annonce les grandes
+lignes du projet de réforme des retraites porté par le gouvernement. Dans
+la foulée, de nombreux contenus sont publiés en ligne afin de contester
+ce projet de loi et d’éclairer son contenu. Sur YouTube, plusieurs producteurs
+proposent des vidéos d’analyse, de décryptage ou d’humour, dont les plus
+connus s’appellent Osons Causer, HugoDécrypte ou encore Tatiana Ventôse1.
+Plusieurs études soulignent la contribution croissante des plateformes, dont
+YouTube, à la construction des opinions publiques et à la circulation des valeurs,
+des représentations et des idées. L’enquête quantitative menée par le groupe de
+recherche AppLab2 montre qu’un peu moins de 20 % des répondants déclarent
+regarder des vidéos portant sur des sujets d’actualité (politique, questions
+de société) pour s’informer et apprendre, YouTube constituant la plateforme
+principale pour ce faire (74 %), devant Facebook (45 %). Outre-Atlantique,
+l’enquête Pew Research (2020) indique que plus d’un quart des adultes ont
+recours à des informations provenant de YouTube et que 72 % des enquêtés
+considèrent cette plateforme comme une source d’information importante pour
+eux. En France, la plateforme YouTube a d’abord été envisagée sous l’angle de la
+production culturelle amateure (Flichy, 2010 ; Louessard et Farchy, 2017), puis
+a été considérée comme un espace d’expression et de socialisation politiques
+permettant d’aborder des sujets peu traités par les médias traditionnels3 et
+perçus comme radicaux (Babeau, 2014 ; Charbonneau et Devars, 2018 ; Combe,
+2019 ; Douyère et Ricaud, 2019). De plus, de nombreuses recherches sur les
+vidéos politiques en ligne ont émergé ces dernières années pour interroger
+ces contenus sur leur potentiel contestataire et mobilisateur (Carlino, 2020 ;
+Gardenier, 2022 ; Riboni, 2023). En effet, la vidéo en ligne apparaît comme un
+nouvel outil de contestation politique qui permet de renforcer et d’entretenir les
+mobilisations citoyennes, et plus encore numériques.
+1 Le nom des chaînes YouTube citées est indiqué en italique.
+2 Le projet AppLab, mené par la sociologue Dominique Pasquier, propose d’étudier la production
+et la consommation de vidéos d’apprentissage. Le projet comporte notamment un volet
+quantitatif, avec la passation d’un questionnaire auprès de 5 000 répondants par méthode
+des quotas auprès d’un échantillon représentatif de la population française afin d’étudier
+leur consommation de vidéo. Parmi les domaines étudiés se trouvent les vidéos portant sur
+« l’actualité et les sujets de société ».
+3 Si les différences entre médias traditionnels et médias alternatifs sont traversées par plusieurs
+rapports de force (différences de supports, de modèle économique, organisation de la
+production), ils sont ici considérés comme un continuum entre deux idéaux-types. D’une part,
+les médias traditionnels se définissent par leur ancrage dans des logiques et des secteurs
+professionnels et par l’inscription dans des supports dédiés (télévision, radio, presse écrite ;
+Rieffel, 2001). D’autre part, les médias alternatifs se caractérisent par la critique de l’espace
+médiatique dominant et la volonté de développer un modèle économique différent des médias
+institués : « non professionnel, non institutionnel et non capitaliste » (Ferron, 2016 : 22).
+218 NOTES DE RECHERCHE
+Saisir l’informalisation par les vidéos de « décryptage »de la réforme des retraites
+La particularité de YouTube est de donner accès à une hétérogénéité de contenus
+vidéos qui hybrident des formats éditoriaux et des registres d’argumentation
+hétérogènes : contenus proches des JT et des reportages des médias
+traditionnels (Desingue et Gotte, 2023), productions militantes et politiques
+(Babeau, 2014 ; Theviot, 2019 ; Finlayson, 2022 ; Camille-Delahaye, 2023), vidéos
+éducatives et de vulgarisation (Combe, 2019 ; Baur, 2021), ou encore contenus
+de divertissement (Louessard et Farchy, 2017). Sur la plateforme coexistent
+alors des productions émanant des sphères médiatiques traditionnelles et
+des productions ouvertement amateures et répondant à des codes liés aux
+usages générationnels des outils numériques (Longhi, 2018) : essor du face-
+cam, formats verticaux et courts, montages rapides, sous-titrage automatique,
+adresse amicale et intimiste, etc.
+Interroger la production de contenus politiques en ligne, c’est inscrire ces
+derniers dans une généalogie plus large des contenus audiovisuels et plus
+particulièrement télévisuels. Pierre Leroux et Philippe Riutort (2011) ont souligné
+l’informalisation4 des émissions politiques à la télévision à partir des années 1990.
+Celle-ci n’a cessé de se renforcer au cours des années 2000 et s’est incarnée par
+une place croissante accordée aux personnalités politiques dans les émissions de
+divertissement. Ce phénomène, qu’on peut recouper avec celui de l’infotainment
+(La Sala Urbain, 2013 ; Laborde, 2013), a été particulièrement incarné par certains
+animateurs tels que Thierry Ardisson, Michel Denisot ou Laurent Ruquier. Ces
+émissions, en particulier le talk-show (Leroux et Riutort, 2013), mélangent les
+prises de paroles d’artistes, de personnalités médiatiques et de personnalités
+politiques. Les auteurs soulignent un « abandon de la référence à l’agenda
+politique qui dictait l’ordre du jour, [la] fin de la “transcendance du politique” et
+[une] désacralisation de la parole politique, confrontée à égalité avec celle
+d’invités du spectacle, majoritaires sur les plateaux de divertissement » (Leroux
+et Riutort, 2011 : § 7). Cette transformation concourt à l’institutionnalisation de la
+conversation au sein des espaces télévisés, au développement d’une « économie
+de la petite phrase », au recentrement sur la personnalité des acteurs et à l’essor
+d’un « règne des émotions ». Plus récemment, le travail de Claire Sécail (2024) a
+confirmé cette informalisation croissante de l’actualité politique à la télévision
+en étudiant le traitement de l’information au sein de l’émission Touche Pas à Mon
+Poste. Elle insiste sur l’essor d’un télépopulisme reposant sur ce même mélange
+des genres et un prolongement de la désacralisation de la parole politique.
+Par ailleurs, l’informalisation de l’actualité politique produite par certaines
+émissions fait montre d’une continuité sur les réseaux sociaux numériques
+(RSN). Par exemple, François Jost et Virginie Spies (2014) soulignent comment
+4 Le concept d’informalisation a d’abord été proposé par Cas Wouters (2007) comme une
+tendance progressive des sociétés modernes à relâcher les règles de conduite et à adopter des
+comportements plus spontanés et moins formels. La notion reprise par Érik Neveu (2012) permet
+de souligner la place croissante d’un régime des émotions et « [l’]érosion des dispositions à la
+déférence » au sein des productions médiatiques.
+NOTES DE RECHERCHE 219
+S. Dufour et Q. Gilliotte
+les réseaux sociaux amplifient le succès de l’infotainment, en favorisant une
+relation d’intimité avec les producteurs d’information. À l’inverse, Vincent Bullich
+et Benoît Lafont (2019) montrent comment certains producteurs de contenus
+natifs reprennent à leur compte des logiques issues des médias traditionnels et
+en viennent à « devenir média ». Aurélie Aubert (2023) expose la manière dont
+le média Brut capitalise sur la subjectivité et les témoignages personnels pour
+alimenter ses contenus, dans la perspective pour ces producteurs de réussir
+à « parler jeune ». Les réseaux sociaux numériques semblent alors prolonger
+et parfois renforcer le déploiement d’un régime émotionnel et d’une forte
+incarnation individuelle des discours amorcés par la télévision. De nombreux
+travaux mettent ainsi en exergue les productions numériques qui accordent une
+place centrale aux émotions et aux subjectivités pour entretenir les mobilisations
+en ligne (Granjon, 2017).
+Or, l’informalisation de l’actualité politique soulève aussi des enjeux relatifs à la
+perception citoyenne de la parole politique et, plus largement, de la démocratie.
+Par exemple, Valérie Bonnet, Emmanuel Marty et Cécile Robert (2024 : 11) ont
+souligné les différentes mécaniques discursives conduisant à une dépolitisation
+des discours médiatiques : rétrécissement du débat par l’utilisation d’un vernis
+technique, invisibilisation des enjeux politiques et sociaux, et disqualification
+des idées radicales et de la conflictualité. Cette dernière mécanique s’effectue
+« par apophase, recourant à des régimes sémio-discursifs jugés plus désirables
+pour traiter de la chose politique (l’humour, le divertissement, le récit de vie, le
+storytelling, et plus largement les discours épidictiques) » ; autant d’éléments
+caractéristiques de l’informalisation tels que présentés précédemment.
+Dans quelle mesure le traitement de l’actualité sur YouTube renforce et prolonge
+le processus d’informalisation du politique déjà entamé dans les médias
+traditionnels et poursuivi sur les RSN ? Quelle place est laissée en particulier aux
+émotions, aux subjectivités, à l’humour dans le traitement de l’actualité ? Dans
+quelle mesure ce recours aux émotions contribue à une disqualification des
+conflictualités ou à une dépolitisation des discours ?
+Alors que de nombreux travaux ont abordé l’espace politique de YouTube sous
+la forme d’étude de cas prenant des vidéastes comme point d’ancrage (Combe,
+2019 ; Assilaméhou-Kunz et Rebillard, 2023), ou des chaînes appartenant à
+des organisations politiques (Theviot, 2019 ; Bristielle, 2020), on propose ici
+une analyse transversale de l’espace politique et contestataire de YouTube en
+interrogeant la médiatisation d’un sujet d’actualité : le traitement de la réforme
+des retraites d’E. Borne par les créateurs de contenus politiques sur YouTube. Le
+choix de cette étude est motivé par la tension sociale et politique générée par
+la réforme. Celle-ci a connu, à la fois dans les médias traditionnels et dans les
+médias numériques, une « extension massive des lieux de discussion » avec une
+dimension agonistique plus marquée dans les espaces numériques (Smyrnaios
+et al., 2023).
+220 NOTES DE RECHERCHE
+Saisir l’informalisation par les vidéos de « décryptage »de la réforme des retraites
+Pour ce faire, un corpus de vidéos a été constitué, vidéos au sein desquelles
+des individus décryptent, analysent, commentent ou contestent la réforme
+des retraites. La sélection a été opérée à l’aide de YouTube Data Tools : cet
+outil extrait les métadonnées des vidéos à partir de requêtes faites à l’API5 de la
+plateforme. Une première extraction a permis de récupérer les informations6 de
+28 486 vidéos à partir d’une recherche par mot clé (« retraites ») ayant servi à une
+récupération plus large d’un réseau de vidéos (par une récolte des vidéos proches
+à deux degrés). Ensuite, le jeu de données obtenu a été filtré afin de garder
+seulement les vidéos traitant du projet de réforme des retraites et publiées entre
+le 10 janvier et le 3 février 2023, c’est-à-dire entre l’annonce du projet de réforme
+et l’ouverture de son débat à l’Assemblée nationale. Le choix de cette période
+permet de se concentrer sur la construction numérique de la mobilisation
+en amont de la discussion des élus et en dehors de l’arène institutionnelle.
+Ce filtrage a conduit à l’obtention d’une liste plus restreinte constituée de
+921 contenus, au sein desquels nous avons retenu les vidéos natives proposant
+une analyse du projet de réforme en écartant l’archivage réalisé par certains
+médias de leurs productions audiovisuelles (émissions de radio et de télévision).
+Ont été uniquement gardés des contenus natifs des plateformes audiovisuelles7,
+ce qui inclut des contenus produits par des acteurs qui ont une forte notoriété
+en dehors de la plateforme. C’est le cas par exemple d’un certain nombre de
+représentants de partis politiques ou des médias traditionnels qui postent sur
+YouTube des contenus dédiés.
+Cette démarche a permis d’obtenir un corpus restreint de 53 vidéos, plus
+congruent avec une méthode qualitative d’analyse du discours. Pour chaque
+vidéo, le texte des transcriptions automatiques a été extrait lorsque c’était
+possible, puis un nettoyage de ces textes a été effectué par une correction
+manuelle de l’ensemble du corpus. Il a été enrichi des éléments saillants affichés
+dans la vidéo, surtout lorsque les vidéastes mobilisent des extraits médiatiques,
+des données statistiques, des schémas, etc. Une première analyse exploratoire a
+été conduite afin d’identifier des éléments différenciants dans le corpus, ce qui a
+permis d’établir une grille d’analyse qualitative. Celle-ci présente dix ensembles
+de variables que sont les métadonnées, les discours d’escorte (titres, descriptions,
+vignettes, etc.), l’auto-identification (façon se présenter et de présenter la
+chaîne), l’énonciation (ton, registre), l’argumentation (place du pathos, logos,
+ethos, etc.), les modes d’adresse, la scénographie (type de fond, décors, posture
+5 Application programming interface qui permet d’effectuer des requêtes auprès de la plateforme
+pour extraire des données.
+6 Les informations des vidéos comportent le nombre de vues, nombre de commentaires, nombre
+de « j’aime », date de publication, texte de description de la vidéo, mots clés, parmi d’autres
+métadonnées.
+7 Notons certains cas limites qui ont été gardés, en particulier les vidéos de créateurs sur Twitch qui
+publient des best-of et montages de leurs directs sur YouTube. Ces vidéos ne sont pas exactement
+natives de YouTube, mais elles sont natives des plateformes numériques audiovisuelles et font
+l’objet de retraitements particuliers pour s’adapter aux codes de YouTube.
+NOTES DE RECHERCHE 221
+S. Dufour et Q. Gilliotte
+du vidéastes, habillement, etc.), les sources mobilisées (données statistiques,
+extraits médiatiques, schémas, etc.), les antagonismes discursifs ainsi que les
+formes d’appel à la mobilisation (manifestation, signature de pétition, adhésion
+à un parti, etc.). Cette grille d’analyse a été testée dans le cadre d’un codage
+croisé ayant permis d’ajuster les variables retenues, avant d’être systématisée
+à l’ensemble du corpus. Dans le cadre d’un projet de recherche plus large sur
+les créateurs de contenus politiques sur les plateformes audiovisuelles, des
+entretiens ont été menés auprès d’une vingtaine de créateurs, ce qui a permis
+de qualifier leurs trajectoires professionnelles, sociales et la structuration socio-
+économique de leurs chaînes. Parmi ceux-là, un peu moins d’une dizaine sont
+représentés dans le corpus retenu pour cet article. Pour les autres, nous avons
+retracé leur parcours par des recherches documentaires complémentaires.
+D’abord YouTube apparaît comme un espace où les enjeux informationnels et
+contestataires s’entremêlent chez de nombreux producteurs au travers d’une
+hybridité entre les codes des médias traditionnels et alternatifs. Puis une
+typologie de quatre idéaux-types de contenus est proposée, construite à partir
+d’un double continuum qui différencie des degrés d’informalisation de l’actualité
+politique en fonction de la place des émotions (pathos ou logos) d’une part, et
+de l’incarnation de la chaîne (individuelle ou collective) d’autre part. Ces idéaux-
+types dépendent fortement des trajectoires personnelles et professionnelles des
+vidéastes, des modèles socio-économiques et des orientations politiques des
+chaînes. Le premier idéal-type rassemble des contenus non contestataires qui
+entretiennent une proximité forte avec les médias traditionnels. Le deuxième
+regroupe des contenus présentant une importante hybridité argumentative
+(logos et pathos), fortement contestataire, et prenant la forme d’un journalisme
+engagé. Le troisième idéal-type regroupe les formats à vocation militante et
+contestataire qui sont pris en charge par des individualités. Enfin, le dernier
+ensemble regroupe des producteurs qui proposent un commentaire caustique
+sur l’actualité, mettant à distance le militantisme traditionnel au profit d’un
+entretien de l’indignation des publics.
+YouTube :
+une arène informationnelle et contestataire
+Les arènes numériques constituent des espaces au sein desquels se développent
+des discours alternatifs et/ou radicaux qui sont peu ou pas représentés
+dans les médias traditionnels (Gimenez et Voirol, 2017 ; Despontin-Lefèvre,
+2019 ; Finlayson, 2022). Malgré un discours contestataire quasi unanime, une
+opposition entre informations traditionnelle et indépendante semble à l’œuvre
+sur le sujet de la réforme des retraites.
+222 NOTES DE RECHERCHE
+Saisir l’informalisation par les vidéos de « décryptage »de la réforme des retraites
+Une contestation quasi unanime de la réforme
+La contestation de la réforme des retraites, du gouvernement et de ses soutiens,
+est très majoritaire. Sur les 53 vidéos composant le corpus, 42 s’opposent
+frontalement à la réforme des retraites. Les vidéos qui échappent à une prise
+de position en faveur ou en défaveur de la réforme sont principalement celles
+produites par les médias traditionnels, à l’image de L’Obs ou de Ouest-France.
+Par ailleurs, le corpus ne contient que deux vidéos qui soutiennent ouvertement
+le projet proposé par le gouvernement : celle de Marc Touati, en précisant que
+la réforme n’est pas assez ambitieuse, ainsi que celle de la DGAFP, la Direction
+générale de l’administration et de la fonction publique dirigée par Stanislas
+Guérini, ministre de la Transformation et de la fonction publiques.
+Si la contestation de la réforme des retraites est quasi unanime, l’orientation
+politique des producteurs de contenus est en revanche faiblement
+représentative de la scène politique française. En classant les chaînes en
+fonction de l’orientation de leur sujet, de leurs cadrages ou encore de leurs
+invités, on observe une certaine asymétrie dans l’ordre des représentations
+politiques. Seize producteurs de contenus sont assimilables à l’espace de la
+gauche radicale : c’est le cas des chaînes de différents représentants de la France
+insoumise (François Ruffin, Jean-Luc Mélenchon, Manon Aubry par exemple),
+d’Osons causer, du Média ou encore de Révolution permanente. Au contraire,
+les producteurs de contenus qui peuvent être associés au souverainisme de
+droite ou plus directement à l’extrême droite sont moins représentés puisque
+seulement six d’entre eux peuvent être catégorisés dans cet espace : Florian
+Philippot, Nicolas Dupont-Aignan, Louis de Dreslincourt, Juste Milieu, J’suis Pas
+Content TV et Tatiana Ventôse8. Cette asymétrie peut résulter du sujet traité par
+la présente recherche. En effet, les partisans de la gauche radicale ont eu une
+opposition plus franche et active à la réforme des retraites9. Mais elle peut aussi
+résulter d’une politique de modération des contenus haineux s’étant récemment
+durcie (Badouard, 2022), à l’image de la suppression de la chaîne Papacito en
+juin 2023.
+8 Les autres producteurs de contenu ne sont pas explicitement assimilables à des orientations
+politiques au regard des logiques informationnelles et discursives développées.
+9 Par exemple, Éric Zemmour a soutenu la réforme des retraites proposée par le gouvernement
+en argumentant qu’il avait proposé peu ou prou la même dans son programme (Herreros, 2023).
+NOTES DE RECHERCHE 223
+S. Dufour et Q. Gilliotte
+La mise en scène d’une opposition entre information
+« traditionnelle » et information « indépendante »
+Plusieurs chaînes ayant abordé la réforme des retraites revendiquent un discours
+contre-hégémonique (Dalibert et al., 2016) à l’égard des médias traditionnels
+(presse écrite, radio, télévision). Cette opposition au système médiatique
+« dominant » se traduit à plusieurs niveaux : en termes d’identité, de pratiques,
+de discours et de ton.
+Les stratégies de différenciation à l’égard des médias traditionnels passent
+en premier lieu par la présentation formelle des chaînes. Parmi celles-ci, neuf
+s’identifient comme des « médias », sept comme des « médias indépendants »,
+six comme des chaînes de « partis politiques », trois comme des « chaînes
+de formation », trois comme des chaînes de « syndicats », deux comme des
+« streamers politiques », deux comme « humoristes », une comme « chaîne
+de vulgarisation », une comme chaîne d’« administration publique » et une ne
+s’identifie pas à une pratique ou un groupe particuliers. Les deux groupes les plus
+importants sont donc les médias traditionnels et les médias qui se revendiquent
+comme indépendants. Cependant, les chaînes « média », qui constituent le
+groupe le plus important du corpus, ne sont pas toutes des prolongements
+de médias institués. Trois producteurs de contenus qui composent ce groupe
+sont des acteurs natifs de YouTube – HugoDécrypte, Marc Touati et Révolution
+Permanente – qui revendiquent une manière différente de produire l’information.
+D’ailleurs, le dernier exemple peut être plus directement associé au groupe des
+médias indépendants puisque la chaîne se présente comme « le média du bon
+côté de la barricade ».
+Les « médias indépendants » constituent le deuxième groupe d’acteurs le
+plus important du corpus. Ce groupe se caractérise par la revendication d’une
+production d’information différenciée à l’égard des médias traditionnels ;
+lesquels sont perçus comme soumis aux intérêts économiques et politiques.
+Canard réfractaire précise cette idée dans la vidéo « Retraite, inflation, 47-1 : ça va
+péter ! »10 : « Un gouvernement qui a été nommé par un président qui a été élu,
+lui, on se rappelle, sans aucun débat démocratique, juste parce que tu as une
+propagande à fond des médias privés achetés par les milliardaires qui soutiennent
+Macron puisque Macron fait en sorte que ces milliardaires deviennent encore
+plus riches avec sa politique ». La production d’informations sur YouTube par des
+médias qui se revendiquent comme « indépendants » prolonge alors des enjeux
+de diversité éditoriale et de lutte démocratique traditionnellement associés au
+médiactivisme, puisque ces groupes « orientent leur action collective vers la
+critique des médias dominants et/ou la mise en œuvre de dispositifs alternatifs
+de production d’information » (Cardon et Granjon, 2013 : 8).
+10 Accès : https://www.youtube.com/watch?v=oJFoAffEuhQ (consulté le 18 sept. 2024).
+224 NOTES DE RECHERCHE
+Saisir l’informalisation par les vidéos de « décryptage »de la réforme des retraites
+Sur YouTube, l’indépendance et l’opposition revendiquée à l’égard des médias
+traditionnels constituent un « label de qualité » (Sedel, 2021). Les enjeux et les
+objectifs de l’information indépendante sur YouTube rejoignent à ce titre ceux
+identifiés pour la presse écrite (Christin, 2018) ou pour l’édition indépendante
+critique (Noël, 2021) : proposer une offre culturelle plus diversifiée, résister à
+la concentration économique, faire entendre et exister une certaine radicalité
+politique. Cette différenciation se fait d’abord par la revendication d’un modèle
+économique alternatif, permettant de développer une indépendance éditoriale
+ou critique, d’autres manières de produire l’information et de penser la cité.
+Par exemple, la chaîne Le Média se présente comme un « média indépendant
+des puissances industrielles et financières » et précise être « fondé grâce au
+financement et à l’investissement bénévole de milliers de citoyens, appelés les
+Socios »11. Ce modèle économique est aussi revendiqué par Blast ! Le souffle
+de l’info : « libre et indépendant, affranchi de toute pression industrielle ou
+financière, Blast participe à la lutte anti-corruption, à la défense de la liberté
+d’expression et de la démocratie »12. Par ailleurs, il faut dire que ces créateurs
+traitant de politique n’ont que difficilement accès aux dispositifs de financement
+du CNC Talent13, dont bénéficient un certain nombre de vidéastes de vulgarisation
+à succès, et que les thématiques traitées éloignent fortement les partenariats
+commerciaux traditionnels sur YouTube (Godefroy, 2021 ; Michel, 2022 ; Gilliotte
+et Pasquier, 2025). À l’inverse, ces acteurs dépendent d’un modèle économique
+qui se structure en général autour des abonnements ou des dons, ces derniers
+transitant souvent par des plateformes externes à YouTube (comme UTip, ou
+Tipeee avant la fermeture de cette dernière).
+Ces producteurs de contenus revendiquent ensuite une liberté de ton. Par
+exemple, la formule de la « langue de bois » se retrouve régulièrement dans
+les descriptions des chaînes : Pure politique se présente comme « l’info sans
+langue de bois ! »14, la description de la chaîne de Marc Touati renseigne aussi
+la production d’une information économique « en toute transparence, avec
+pédagogie et sans langue de bois »15. Enfin, une majorité de ces producteurs
+de contenus trouvent des formules détournées pour revendiquer une
+indépendance éditoriale. Osons causer explique par exemple mettre « au cœur
+11 Accès : https://www.youtube.com/c/LeM%C3%A9diaOfficiel (consulté le 18 sept. 2024).
+12 « Présentation », Blast, le souffle de l’info, accès : https://www.blast-info.fr/presentation (consulté
+le 17 sept. 2024).
+13 Le donds d’aide aux créateurs vidéo sur internet a été lancé en 2017 afin de soutenir
+financièrement la création de projets éditoriaux numériques. Il est piloté par le Centre national
+du cinéma et de l’image animée (CNC)
+14 Accès : https://www.youtube.com/@PurePolitique (consulté le 18 sept. 2024).
+15 Accès : https://www.youtube.com/@MarcTouatiTV (consulté le 18 sept. 2024).
+NOTES DE RECHERCHE 225
+S. Dufour et Q. Gilliotte
+de [sa] démarche l’honnêteté intellectuelle » afin de former « l’esprit critique »
+de ses spectateurs16. Juste milieu se définit quant à lui par l’intermédiaire d’une
+équation : « L’actualité + la rigolade - le mensonge = Juste Milieu »17.
+Des logiques de dépendance et de mimétisme plus complexes
+Si la plupart des chaînes mettent en place des stratégies de différenciation à
+l’égard des médias traditionnels, elles n’en restent pas moins dépendantes de ces
+derniers, ce qui conduit à relativiser l’identité contre-hégémonique revendiquée
+par certains producteurs de contenus. Comme l’a montré Benjamin Ferron
+(2016), les médias alternatifs s’inscrivent dans un « simili-champ journalistique »
+qui se caractérise par son hétéronomie à l’égard du champ journalistique
+consacré. Une dépendance identifiée par Paola Sedda (2017) dans son travail sur
+les télé-alternatives italiennes. À plusieurs égards, les producteurs de contenus
+politiques sur YouTube s’inscrivent ainsi dans une situation de coopétition avec
+les médias traditionnels (Padioleau, 1976).
+D’abord, YouTube est un espace au sein duquel les médias traditionnels existent
+et ont une place importante favorisée par les algorithmes de recommandation
+(Benbouzid et al., 2020). En outre, la pratique du journalisme implique des
+pratiques professionnelles que les acteurs ne peuvent pas complètement
+contourner : sélection, hiérarchisation et cadrage de l’information. De plus, les
+vidéos des producteurs de contenus natifs accordent une très grande place
+aux extraits issus des médias traditionnels. Si une partie de ces emprunts sont
+faits à des fins critiques, d’autres extraits permettent de rendre les vidéos plus
+dynamiques et fonctionnent comme des arguments d’autorité (citation d’un
+expert par exemple). Enfin, les nombreux partenariats noués entre différents
+producteurs de contenus natifs et certains médias traditionnels (ce qu’illustre
+la présence d’Hugo Travers, le présentateur de la chaîne HugoDécrypte, sur
+France Télévision à la rentrée 2023) renforce la porosité de deux mondes que de
+nombreux enjeux professionnels rapprochent.
+Penser l’informalisation en différenciant les scènes génériques
+Cette opposition entre information traditionnelle et information indépendante,
+essentiellement construite par les producteurs, masque en réalité de profondes
+disparités dans les contenus proposés et dans les modes de contestation qui
+dépendent des modèles économiques, de l’organisation plus ou moins collective
+des modes de production, des trajectoires professionnelles des vidéastes,
+16 Accès : https://www.youtube.com/@Osonscauser (consulté le 18 sept. 2024).
+17 Accès : https://www.youtube.com/@JusteMilieu (consulté le 18 sept. 2024).
+226 NOTES DE RECHERCHE
+Saisir l’informalisation par les vidéos de « décryptage »de la réforme des retraites
+des registres argumentatifs et des positionnements politiques des chaînes.
+Pour décrire ces différences, est mobilisée la notion de « scène d’énonciation »
+proposée par Dominique Maingueneau (2021) qui consiste à distinguer trois
+scènes permettant de catégoriser les discours : englobante, générique et
+scénographique. On choisit ici de regrouper l’ensemble des contenus sous
+une même scène englobante, la production d’informations politiques sur
+YouTube, afin d’en distinguer différentes scènes génériques présentant toutes
+des propriétés énonciatives, formelles et argumentatives qui leur sont propres.
+« Une scène générique présente une ou des finalités propres, des rôles pour
+les partenaires, un lieu approprié à sa réussite, un mode d’inscription dans la
+temporalité, un support, une composition et un usage spécifique des ressources
+linguistiques » (Maingueneau, 2021 : 115-117). Les scènes génériques prescrivent
+donc en partie la forme des contenus, mais les énonciateurs disposent toujours
+d’une marge de manœuvre relative à la scénographie qu’ils choisissent de
+mettre en œuvre. Pour différencier les scènes génériques, il est proposé de
+saisir les vidéos au regard de deux continuums qui permettent de caractériser
+des configurations spécifiques d’informalisation, différenciant des productions
+« formelles » (énonciation collective, absence de pathos) de productions
+informelles (prise en charge subjective, forte présence de pathos).
+Un premier axe différencie les vidéos construites sur une forte incarnation
+personnelle de la chaîne – mise en avant du vidéaste, prise en charge subjective
+du discours, construction d’un régime de proximité avec les publics –, en
+opposition à celles qui s’insèrent dans la présentation d’une entité collective
+et d’un effacement de la singularité du présentateur ou de la présentatrice.
+Un second axe permet de faire une différence selon le recours à certains
+régimes de rationalité, en particulier la différenciation entre une forme de
+logos et une forme de pathos, entre l’application de critères proches de l’agir
+communicationnel habermassien (maîtrise, distanciation, réflexivité) et des
+formes de spectacularisation qui passent par « la circulation d’affects qui
+façonnent les subjectivités politiques », entretiennent des formes d’indignation
+chez les publics (Granjon, 2021 : 313) et contribuent à informaliser la production
+d’information politique sur YouTube.
+La persistance d’un journalisme distant
+Les contenus les plus formels s’avèrent être les moins contestataires. D’ailleurs,
+on retrouve ici les contenus proposés par certains médias de la presse écrite
+traditionnelle (Marianne, l’Obs, L’Humanité) – bien qu’ils s’adaptent en partie aux
+codes des plateformes (Jaffeux, 2022) –, mais également quelques producteurs
+natifs comme HugoDécrypte, qui mettent en scène une forme « d’objectivité
+NOTES DE RECHERCHE 227
+S. Dufour et Q. Gilliotte
+journalistique » et mettent à distance les logiques agonistiques de la production
+de l’information. Cet ensemble, nommé ici « journalisme distant », représente
+environ un cinquième du corpus18.
+Se positionner comme un observateur distancié de l’actualité
+Pour ces producteurs proches des formats médiatiques traditionnels, on constate
+une absence de recours à l’humour, correspondant à une certaine représentation
+du journalisme de télévision qui expose des faits sans entrer dans l’expression
+d’une « subjectivité » assumée. Le plus souvent, aucun déictique de première
+personne du singulier n’est présent dans ces contenus. De plus, ces différentes
+vidéos n’affichent aucun positionnement politique explicite et ne formulent
+aucune critique formelle à l’égard du projet de réforme ou du gouvernement.
+Lorsque ces vidéos mettent en avant les critiques et les oppositions au projet,
+c’est pour les présenter symétriquement, en détaillant les arguments en faveur
+de la réforme et ceux qui y sont défavorables, sans se positionner d’un côté ou
+de l’autre : « Du coup dans cette vidéo, on va voir très concrètement et le plus
+clairement possible ce que propose le gouvernement avec sa réforme, mais aussi
+pourquoi elle fait autant débat et donc quelles sont les contre-propositions ;
+notamment de ceux qui sont dans la rue ces derniers jours » (HugoDécrypte, « La
+réforme des retraites expliquées en 10 minutes chrono »19).
+Ainsi les scénographies mobilisées dans cet ensemble de formats favorisent-
+elle une mise à distance des marqueurs visuels de subjectivité. Les deux
+exemples mobilisés ci-dessus apparaissent caractéristiques de la mise en scène
+du journalisme distancié. La figure 1 représente un fond monochrome noir
+et l’énonciateur se trouve au centre de l’écran. La figure 2 semble se dérouler
+dans un décor de rédaction et l’énonciatrice est une nouvelle fois au centre de
+l’écran. Ces deux scénographies ne favorisent pas directement un processus
+d’informalisation de l’actualité. Elles accompagnent donc l’énonciation
+distanciée des acteurs et engagent la construction d’un ethos de compétence
+journalistique (Soulez, 2002).
+Cependant, cette mise à distance de la critique subjective et explicite n’empêche
+pas certains producteurs de pointer des manquements ou des points faibles de
+la réforme, à l’image d’une vidéo de l’Obs intitulée « Réforme des retraites : qui
+sont les grands perdants ? »20. Celle-ci revient en particulier sur les conséquences
+de la réforme des retraites en fonction des carrières et surtout du début de
+l’entrée dans la vie active, mais l’énonciation est complètement neutralisée
+18 Un tableau synthétique recensant l’ensemble des métadonnées et regroupant la répartition des
+différents idéaux-types est à retrouver en annexe (voir Annexe 1).
+19 Accès : https://www.youtube.com/watch?v=j4U2CvqBlg8 (consulté le 18 sept. 2024).
+20 Accès : https://www.youtube.com/watch?v=TUJjSYYKT1U (consulté le 18 sept. 2024).
+228 NOTES DE RECHERCHE
+Saisir l’informalisation par les vidéos de « décryptage »de la réforme des retraites
+et tend vers une certaine factualité – aucun marqueur de première personne
+du singulier ou du pluriel. Si le projet n’est pas ouvertement critiqué, le fait de
+désigner des perdants – a fortiori lorsque ceux qui sont désignés comme tels
+sont des personnes ayant commencé à travailler tôt –, peut ainsi apparaître
+comme une critique déguisée. De la même façon, le HuffPost propose une vidéo
+nommée « Réforme des retraites : après le 49-3 vous allez (beaucoup) entendre
+parler du 47-1 »21 qui, bien que présentant de façon détachée le recours du
+gouvernement à l’article 47-1 de la constitution, peut s’apparenter là encore à
+une critique déguisée.
+Instruire plus que convaincre ?
+La visée didactique de ces contenus est souvent très explicite. C’est le cas de
+cette vidéo du média Ouest-France intitulée « La retraite pour "les nuls" »22, et qui
+démarre ainsi : « Âge légal, taux plein, décotes, vous n’y comprenez rien ou pas
+grand-chose, pas de souci, on vous explique tout sur notre régime de retraite
+et sur la réforme en cours ». La vidéo est structurée autour de plusieurs extraits
+de discours d’E. Borne, lesquels sont suivis d’explications sur les termes plus
+techniques et les conséquences de la proposition de loi. En outre, les vidéos de
+cet ensemble sont souvent rythmées par des inserts textuels et graphiques qui
+viennent imager les propos de l’énonciateur.
+En revanche, les médias traditionnels et les natifs de YouTube se différencient
+selon les audiences auxquelles ils s’adressent. Des vidéastes natifs de la
+plateforme comme HugoDécrypte ou Jean Massiet s’adressent à des publics
+supposés éloignés de l’actualité politique, à l’image des plus jeunes, en prenant
+en charge subjectivement leur discours, contrairement aux représentants
+des médias traditionnels. En quelque sorte, cette spécificité les rapproche
+d’une position professorale. C’est assez net lorsqu’H. Travers développe
+certains discours d’accompagnement assez caractéristiques de la situation
+d’enseignement : « Allez il reste quelques minutes ne craquez pas maintenant ce
+serait dommage, on va voir maintenant ensemble pourquoi ce projet est critiqué
+et donc pourquoi est-ce qu’autant de grève et de manifestations se déroulent
+en France ces derniers jours ». Cette énonciation singulière lui permet de créer
+une relation d’appartenance privilégiée avec ses publics, puisqu’il s’adresse
+directement à eux (Croissant, 2022).
+21 Accès : https://www.youtube.com/watch?v=1n-G1bzMW5E (consulté le 18 sept. 2024).
+22 Accès : https://www.youtube.com/watch?v=Gs9IOhGu0Fk (consulté le 18 sept. 2024).
+NOTES DE RECHERCHE 229
+S. Dufour et Q. Gilliotte
+Décrypter l’actualité sur YouTube :
+un sas vers le journalisme « traditionnel » ?
+L’analyse des trajectoires des producteurs étudiés révèle sans surprise des
+formations en journalisme ou en communication, autant pour ceux appartenant
+à des médias dont l’identité est fortement associée à leurs supports presse, radio
+ou télé (comme Marianne ou Ouest-France) que pour les producteurs natifs de
+YouTube dont les formats et les discours sont proches des médias traditionnels.
+Au-delà de la proximité des formats, cette porosité se manifeste aussi par des
+partenariats entre médias traditionnels et producteurs natifs (Clot, 2019),
+comme dans le cas d’HugoDécrypte et de son format « L’interview face cachée »
+diffusé sur France 2 à partir de la rentrée 2023. On peut ainsi se demander dans
+quelle mesure ces productions vidéo sur la plateforme correspondent pour
+certains producteurs à des stratégies d’insertion dans le secteur professionnel
+du journalisme – pour lequel la pression concurrentielle pousse les nouveaux
+entrants à des stratégies de singularisation (Marchetti et Ruellan, 2001 ;
+Leteinturier et al., 2010) –, et à l’inverse, comment ces médias profitent de
+l’audience de ces vidéastes pour diversifier leurs publics, leurs formats et in fine
+leurs pratiques professionnelles.
+L’essor d’un journalisme engagé
+Le deuxième type de scène générique rassemble des contenus que l’on peut
+associer à une forme de « journalisme engagé ». Ils se caractérisent par une
+articulation entre logique de démonstration, consistant dans la présentation
+d’une série de faits, et le dévoilement d’un sens caché, qui se traduit par
+différentes façons d’expliciter la portée invisible de la réforme, y compris par
+le recours à une forme de pathos pour sensibiliser les publics. Par exemple,
+trois des quatre vidéos du média Blast proposent de « décrypter » le projet de
+loi, afin de contrer la communication gouvernementale et de s’opposer à la
+réforme des retraites.
+Construire un argumentaire :
+entre raison et émotion
+La caractéristique majeure de ces formats réside dans l’usage conjoint d’une
+« parole argumentative » (Lochard et Soulage, 2003), fondée sur le logos (recours
+à des éléments chiffrés, arguments d’autorité, objectivation, montée en généralité
+scientifique, etc.), et d’une « parole expérientielle » (ibid.), mobilisant le pathos
+(exemples personnels, emphase sur les conséquences de la réforme sur les
+conditions de vie, etc.). Plusieurs éléments de discours mettent ainsi l’emphase
+230 NOTES DE RECHERCHE
+Saisir l’informalisation par les vidéos de « décryptage »de la réforme des retraites
+sur la relation avec les publics et ces contenus favorisent la construction d’une
+certaine proximité avec les audiences à l’image des « animateurs citoyens »
+décrits par Aurélien le Foulgoc (2010) ou de ceux décrits par Dominique Pasquier
+et Sabine Chalvon-Demersay (1988), dans la lignée d’autres producteurs de
+contenus sur les plateformes (Coavoux et Roques, 2020). Cette dynamique est
+tout particulièrement perceptible dans le paratexte et l’introduction de la vidéo
+« Retraites : décryptage d’une réforme injuste »23 :
+« Je sais, c’est un peu technique comme histoire, un peu barbant même, et avec toutes les
+déclarations et les indignations qu’on voit passer, difficile d’y voir clair. Qu’y a-t-il dans cette
+réforme exactement ? Quelles en seront les conséquences exactes ? Quels sont les arguments
+pour et contre ? Pourquoi suscite-t-elle autant d’indignation ? Et surtout, si on élargit la focale,
+dans quel cadre politique cette réforme s’inscrit-elle ? Aujourd’hui, on va essayer de comprendre
+la réforme des retraites dans cette nouvelle émission économique pour Blast ».
+L’idée semble ainsi de guider et d’aiguiser l’esprit critique des publics. Par
+exemple, la vidéo du média Blast, citée précédemment, est chapitrée de six
+parties, certaines étant plutôt didactique (avec une attention portée à l’histoire
+du système des retraites, aux précédentes réformes, etc.), d’autres étant
+ouvertement critiques (« les arguments pas très solides du gouvernement »
+ou « l’idéologie néolibérale en force »), illustrant l’hybridité du format. Dans
+l’ensemble des vidéos du corpus s’inscrivant dans cette forme de journalisme
+engagé, on peut constater que l’humour n’est présent que par petites touches, de
+façon à animer le discours par de petits inserts, sans que la dimension comique
+ne devienne une composante essentielle. Les discours reposent souvent sur
+des arguments d’autorité qui passent en particulier par les interventions et les
+citations d’universitaires, à l’image des extraits d’interviews de l’économiste
+Michael Zemmour très fréquemment mobilisés par ces acteurs.
+Plus que tous les autres ensembles de formats, celui du journalisme engagé
+mobilise de nombreuses données chiffrées à des fins critiques. Par exemple, dans
+la vidéo « Vieux, riches et égoïstes : unis derrière Macron pour casser les retraites »
+de la chaîne Le Média24, plusieurs graphiques issus du Conseil d’orientation des
+retraites (COR) sont insérés dans l’image pour mettre en perspective les enjeux
+politiques et sociaux de la réforme. Ils permettent de mesurer les différences de
+revenus entre actifs et retraités, le taux de pauvreté selon le statut professionnel
+ou encore de mettre en perspective les votes par classes sociales aux élections
+présidentielles de 2022. La mobilisation de ces données chiffrées, dans une
+perspective d’usage de la raison argumentative, vise à démontrer les erreurs et
+les lieux communs sur lesquels reposent la communication d’Emmanuel Macron
+et son gouvernement. Certains producteurs de contenus mobilisent aussi des
+sondages issus des médias traditionnels pour illustrer l’opposition à la réforme
+et ainsi appeler à la mobilisation. La vidéo de Médiapart, qui met en scène Usul
+23 Accès : https://www.youtube.com/watch?v=S4nRrLO-1Jw (consulté le 18 sept. 2024).
+24 Accès : https://www.youtube.com/watch?v=jj8r8a7Xf_4 (consulté le 18 sept. 2024).
+NOTES DE RECHERCHE 231
+S. Dufour et Q. Gilliotte
+et Ostpolitik25, mobilise ainsi un graphique issu de RTL-BVA et cumule alors les
+deux objectifs. Par ailleurs, le recours à une argumentation chiffrée constitue
+un moyen pour ces producteurs de permettre une montée en généralité du
+débat pour l’inscrire dans des perspectives économiques et politiques plus
+larges. La réforme des retraites devient alors une porte d’entrée pour discuter
+de la solidarité intergénérationnelle, des écarts de niveau de vie entre actifs et
+retraités, des inégalités économiques, de l’inflation, du rôle des services publics,
+du sens du travail dans la société ou encore du recul des droits sociaux.
+Faire du journalisme autrement ?
+Les individus à l’origine de ces formats ont majoritairement des formations
+diplômantes en journalisme ou des parcours professionnels très ancrés dans les
+médias. C’est le cas de Salomé Saqué, journaliste pour Blast, ou encore de Serge
+Flaubert, journaliste pour Pure Politique. Ces parcours alimentent une forte
+proximité opérationnelle avec les médias traditionnels, tant dans les formats
+produits que dans l’organisation du travail. En effet, ces chaînes sont organisées
+en rédactions où coopèrent avec de nombreuses personnes pour chaque vidéo,
+avec un important travail de recherche documentaire, de montage, de mise en
+scène, supporté par toute une équipe technique citée au générique de fin ou
+dans la description des contenus. Les personnes qui présentent et animent sont
+bien moins mises en avant que pour les précédents formats décrits : leur point
+de vue personnel est moins présent, les marques de leur subjectivité sont très
+rares et la chaîne ne porte pas leur nom. En revanche, les façons de s’adresser
+au public et de mettre en scène les contenus s’inscrivent dans des grammaires
+individuelles dans la mesure où l’énonciateur est fréquemment seul à l’écran.
+Les scénographies du journalisme engagé renforcent elles-aussi la proximité
+avec les contenus issus des médias traditionnels. Les vidéos se déroulent dans
+des décors sobres et professionnels, à l’image de ce qui semble être un bureau
+d’entreprise (figure 3), ou sur un fond monochrome (figure 4). Les scénographies
+mobilisées dans ces formats apparaissent comme peu différenciantes à
+l’égard des contenus produits par les médias traditionnels ou par des acteurs
+affichant une certaine proximité avec ces derniers. En effet, les formats du
+journalisme critique agissent dans un espace de visibilité qui impose des
+contraintes professionnelles ayant des implications sur la scénographie des
+contenus. Il s’agit donc, comme pour les formats du journalisme distant, de
+limiter l’informalisation de l’actualité au profit de la construction d’un ethos de
+compétence journalistique (Soulez, 2002).
+25 Usul, « Réforme des retraites : la rue peut-elle gagner ? ». Accès : https://www.youtube.com/
+watch?v=KwBDboy_Jn4&ab_ (consulté le 20 sept. 2024).
+232 NOTES DE RECHERCHE
+Saisir l’informalisation par les vidéos de « décryptage »de la réforme des retraites
+Alors que la critique de la réforme semble traverser toutes les oppositions au
+gouvernement, ce format argumentatif n’est mobilisé par aucun médiactiviste
+d’extrême droite dans notre corpus. Comme l’a montré Gaël Stéphan (2022),
+le médiactivisme d’extrême droite est très présent sur YouTube et se structure
+autour de chaînes comme Livre Noir ou TV Libertés, ou encore VA+ (Marty et
+al., 2022). On peut se demander si ce type d’argumentation est moins présent
+pour les acteurs de l’extrême-droite ou bien s’il s’agit d’un effet du sujet, plus
+susceptible de mobiliser des acteurs de gauche.
+Un militantisme politique individualisé
+Un dernier ensemble de formats regroupe les contenus produits par des vidéastes
+se situant du côté des « militants politiques », ici exclusivement ceux appartenant
+à la gauche radicale26 et à la droite radicale27. Deux producteurs paraissent très
+typiques de chaque côté du spectre politique : Canard Réfractaire, clairement
+positionné à gauche, et Tatiana Ventôse, ancien soutien de Jean-Luc Mélenchon
+ayant opéré un virage à l’extrême-droite depuis 2015, invitant à voter pour
+Marine Le Pen lors de la présidentielle de 2022. Ces contenus s’avèrent mobiliser
+plusieurs éléments caractéristiques d’une importante informalisation : forte
+prise en charge subjective du discours, fort recours au pathos, forte proximité
+avec les audiences.
+Une socialisation militante individualisée et à distance
+Dans l’ensemble, ces militants politiques critiquent la réforme et cherchent
+à donner à leurs audiences des éléments argumentatifs28 pour leur permettre
+en retour de convaincre leur entourage. Les audiences sont souvent
+26 On renvoie ici à la définition de la gauche radicale selon Irène Pereira (2010), qui considère que
+celle-ci recouvre divers mouvements de gauche anti-libéraux, qui dépasse la segmentation par
+les partis politiques établis (comme par exemple dans le cas du Parti socialiste ou des Verts).
+27 La droite radicale doit ici être entendue dans la perspective proposée par Cas Mudde (2007), qui
+considère que celle-ci se caractérise par trois critères : le nativisme, l’autoritarisme et le populisme.
+28 Dans la vidéo « Retraite : ce que Macron veut nous cacher » (29 janv. 2023), la chaîne Osons
+causer suggère par exemple à ses publics les arguments suivants : « Aujourd'hui, l'État il finance
+les retraites à hauteur de 45 milliards d'euros soit 2 % du PIB. Et Macron il prévoit que cette
+contribution de l'État baisse progressivement jusqu'à ne représenter que 0,8 % du PIB. Pourquoi
+il prévoit une telle baisse ? Bah parce que les 45 milliards d'euros que met l'État aujourd'hui
+chaque année, ils financent les régimes spéciaux, les retraites des fonctionnaires et des militaires,
+et ces régimes de retraite ils vont nous coûter de moins en moins cher. Diminuer la contribution
+de l'État ça fait rapidement une belle différence de thune. L'état économise 6 milliards d'euros en
+2035, 17 milliards d'euros en 2045 et plus de 40 milliards d'euros par an en fin de période. Cette
+chute des dépenses de l'État, Macron il la sort pas de son chapeau, elle est prévue par les règles
+actuelles de financement des retraites. Mais une règle ça change ! ».
+NOTES DE RECHERCHE 233
+S. Dufour et Q. Gilliotte
+considérées comme acquises à la cause et déjà critiques envers la réforme.
+Ces vidéos semblent répondre aux mutations contemporaines des formes de
+l’engagement et de la contestation politique en ligne (Bennett et Segerberg,
+2012 ; Tufekci, 2017). « [L]e numérique participe à cette négociation permanente
+de l’engagement et de la "bonne" distance au parti, en offrant aux individus la
+possibilité de se retrouver dans un collectif militant, sans pour autant adhérer à
+un parti politique » (Theviot, 2020 : 12). Par conséquent, l’objectif de ces vidéos
+semble surtout d’assurer une sorte de socialisation militante individualisée et
+à distance permettant in fine l’émergence de nouveaux collectifs contestataires
+(Granjon, 2017).
+Par exemple, Canard Réfractaire titre une de ses vidéos « 8 NOUVEAUX
+ARGUMENTS contre la RETRAITE MACRON »29, dans laquelle il explique
+parfaitement les enjeux de politisation sous-jacents à la production de ses
+vidéos :
+« Pour vous dire que nous avons raison de combattre cette réforme retraite. Et grâce à cette
+vidéo, vous avez encore plus de raison d’être contre cette réforme. Mais l’objectif d’avoir tous ces
+arguments, bah c’est pas juste de participer au débat démocratique, parce que ça n’existe pas
+aujourd’hui en France. Quand tous les médias sont possédés par les milliardaires, l’important
+c’est de pouvoir lutter contre la propagande des bourses qui veulent nous imposer cette loi.
+L’important c’est de pouvoir tester ces argumentaires autour de nous pour réussir à politiser. »
+Par ailleurs, l’affichage des préférences politiques est bien plus affirmé dans le
+cadre de ces contenus, à l’image de la vidéo de Tatiana Ventôse : « Bonjour et
+bienvenue dans cette nouvelle vidéo, je suis Tatiana Ventôse et je suis là pour
+vous rappeler que oui le choix était aussi simple : option A, Macron, “je ferai la
+réforme des retraites” ; option B, Le Pen, “je ne toucherai pas aux retraites” »30.
+Cet affichage explicite des préférences politiques va de pair avec une incitation
+à la participation – à la mobilisation en général, surtout aux manifestations, au
+vote, à l’action, à l’adhésion à un parti –, comme dans le cas de Florian Philippot :
+« En tout cas dans cette vidéo on va étudier tout cela, ça [la réforme des retraites] peut échouer
+et il faut se mobiliser. À ce sujet d’ailleurs, on lance une grande pétition nationale dont le lien est
+sous la vidéo en description. Dès maintenant vous pouvez signer et partager, dès maintenant
+pour exiger des parlementaires, des députés, une motion de censure sur cette réforme des
+retraites »31.
+On note l’usage fréquent d’un « nous » marquant une appartenance commune
+entre le vidéaste et ses audiences et alimentant la structuration d’un antagonisme
+du « nous » contre « eux », qu’il s’agisse du gouvernement en général, des élites,
+des dominants ou d’E. Macron lui-même : « Donc, si nous faisons confiance
+29 Accès : https://www.youtube.com/watch?v=avqVZCxMEyc (consulté le 18 sept. 2024).
+30 Tatiana Ventôse, « POUR EN FINIR AVEC LA CLASSE MOYENNE (ou pourquoi personne ne peut blairer
+les profs) », accès : https://www.youtube.com/watch?v=8kTpUsIB3ec&ab (consulté le 20 sept. 2024).
+31 Florian Philippot, « Réforme des retraites : Macron en très mauvaise posture ! », accès : https://
+www.youtube.com/watch?v=El-eZqOiWcg&ab (consulté le 20 sept. 2024).
+234 NOTES DE RECHERCHE
+Saisir l’informalisation par les vidéos de « décryptage »de la réforme des retraites
+à Emmanuel Macron sur le plein emploi, nous n’avons pas besoin de cette
+réforme retraite, et si nous ne faisons pas confiance à Emmanuel Macron, et
+bien raison de plus pour refuser cette réforme retraite » (Canard Réfractaire, « 8
+NOUVEAUX ARGUMENTS contre la Retraite MACRON »). De même, le recours
+à un registre de discours pathémique est fortement mobilisé par certaines
+personnalités politiques, à l’image de François Ruffin qui alterne entre analyses
+macroéconomiques et récits de vie de personnes travaillant dans des métiers
+difficiles :
+« Sur les dix dernières années en moyenne, pour 100 euros de richesse créée en France, 35 ont
+été captés par les 1 % des Français les plus riches ; 35 euros sur 100 pour le 1 % et tu rajoutes
+derrière les 9 % suivant, donc les 10 % les plus riches, tu es à 67 euros sur 100 qui vont pour les
+10 % les plus riches, c’est-à-dire qu’il reste un tiers à se diviser entre les 90 % des Français les
+plus normaux quoi. [...] Corinne et Dominique, eux, ont eu à travailler dans l’industrie du vélo
+au début des années 80 à Abbeville et ils ont eu une carrière extrêmement hachée parce qu’ils
+ont connu des plans de licenciement, ils retrouvaient du boulot, puis ils étaient relicenciés, ce
+qui fait qu’à la fin ils arrivent avec 1 600 euros à eux deux pour la retraite » (« #BDR125 : Retraite,
+travail, profit : l’île aux enfants de la Macronie ! »)32.
+Ces producteurs parlent toujours à la première personne du singulier ou du
+pluriel avec les atours d’un franc-parler, marqué par un langage courant voire
+familier pour signifier la proximité avec les publics. Cette proximité est aussi
+renforcée par la forte structuration des chaînes autour des individualités,
+y compris lorsque les producteurs sont directement associés à des partis
+politiques ou à des syndicats (comme pour François Ruffin ou Nicolas Dupont-
+Aignan par exemple). Quelques chaînes collectives existent et prennent la parole
+(Sud, la CGT, etc.), mais leur production est bien moins visible et rencontre moins
+de succès que les contenus portés par certaines personnalités, ce qui fait écho
+aux travaux sur l’individualisation du champ politique et l’importance croissante
+accordée aux individualités plus qu’aux institutions (Le Bart, 2013).
+Les scénographies du militantisme individualisé s’inscrivent toutes dans la
+même logique d’informalisation de la parole politique et renforce l’inscription
+de l’échange dans une ambiance intimiste et dans un registre de proximité
+(Coavoux et Roques, 2020). La figure 5 semble se dérouler dans un décor de
+salon ou de chambre, tandis que la vidéo représentée dans la figure 6 a lieu dans
+la cuisine de François Ruffin. Ces mises en scène font entrer symboliquement les
+publics chez les vidéastes, c’est-à-dire dans leur intimité. Ce caractère intimiste
+des scénographies croise les enjeux soulevés par les sphères de locution « je-tu »
+mobilisées dans nombre de ces contenus, et vise à rompre la distance entre la
+politique et les citoyens en jouant sur le simulacre d’une parole désintermédiée
+(Biancalana, 2017).
+32 Accès : https://www.youtube.com/watch?v=B7oNWuegaV4 (consulté le 18 sept. 2024).
+NOTES DE RECHERCHE 235
+S. Dufour et Q. Gilliotte
+Si cette contestation politique s’exprime par la mobilisation d’une forte
+subjectivité et d’un recours à un certain pathos pour inciter à l’action, le discours
+est à la fois très argumenté et structuré, mobilisant de nombreuses données
+chiffrées, explicitant le fonctionnement des institutions, anticipant les stratégies
+de la majorité, comme pourraient le faire d’autres groupes de socialisations
+politiques :
+« Le gouvernement quand il parle de sa réforme des retraites, il commence toujours par la
+démographie : avec le départ des baby-boomers à la retraite et la hausse de l’espérance de vie
+on aura de plus en plus de retraités, et en face pas beaucoup plus de gens qui cotisent pour
+payer les retraites de tout ce monde. [...] Sauf que, dans cette belle histoire comptable de
+déficit qui s’équilibre, il y a un petit hic. Ce que Macron et les soutiens de la réforme vous disent
+absolument jamais, c’est que les projections déficit qu’ils vous montrent ils vont pas de soi, ils
+sont basés sur un choix politique fort, et complètement caché » (Osons Causer, « Retraite : ce que
+Macron veut nous cacher »)33.
+Le parcours de ces producteurs est très marqué par une socialisation politique par
+les partis politiques ou les milieux syndicaux. Au-delà des chaînes directement
+associées à des partis politiques ou à des syndicats (Jean-Luc Mélenchon, Manon
+Aubry, Florian Philippot, etc.), d’autres producteurs de contenu revendiquent des
+engagements militants très marqués. Par exemple, Canard Réfractaire affiche son
+soutien très clair à un certain nombre d’organisations politiques et syndicales de
+gauche après une forte socialisation militante dans des organisations politiques
+et syndicales traditionnelles, tandis que Tatiana Ventôse a toujours mis en scène
+son engagement politique sur sa chaîne.
+Une distribution partisane des modalités de mobilisation
+Les contenus appartenant à cette scène générique contestent fortement la
+réforme des retraites et invitent les publics à se mobiliser politiquement. Si
+les formats de contestation sont assez innovants et diversifiés, les modalités
+de mobilisation prescrites sont en fin de compte assez traditionnelles. Quatre
+modalités principales sont mises en avant dans les contenus : la pétition, la
+grève/manifestation, l’organisation d’assemblées générales indépendantes des
+syndicats et la discussion avec des proches pour les convaincre que la réforme
+est injuste. Cependant, tous les producteurs de contenus n’appellent pas aux
+mêmes modalités d’action et une distribution partisane de ces prescriptions
+semble à l’œuvre.
+Les acteurs souverainistes, comme Juste Milieu, ou les membres de l’extrême
+droite, comme Florian Philippot, sont les seuls à inciter leurs publics à signer une
+pétition contre la réforme, sans appeler à d’autres formes de mobilisation externe
+à YouTube. Les acteurs issus ou proches de la gauche radicale, en plus d’inciter
+33 Accès : https://www.youtube.com/watch?v=DZTRIRAYIao (consulté le 18 sept. 2024).
+236 NOTES DE RECHERCHE
+Saisir l’informalisation par les vidéos de « décryptage »de la réforme des retraites
+à la signature de pétitions, invitent leurs publics à se mobiliser lors des grèves
+et des manifestations. Dans cette catégorie, on retrouve Révolution Permanente,
+Canard Réfractaire, Jean-Luc Mélenchon, François Ruffin, Manon Aubry ou encore
+la CGT. Trois autres producteurs, proches ou issus de la gauche radicale, invitent
+leurs publics à convaincre des proches ou des personnes dans la rue : la chaîne
+de La France insoumise, Osons causer ainsi que le Canard réfractaire. Ce dernier
+invite en outre ses publics à développer une forme de mobilisation autonome
+que les autres producteurs ne mentionnent pas : la mise en place d’assemblées
+générales citoyennes et indépendantes des organisations syndicales, avec un
+leitmotiv assumé, « l’empouvoirement » et l’émancipation citoyens :
+« Donc à un moment donné il va falloir un troisième acteur et c’est le peuple le troisième acteur
+à chaque fois, pour essayer de régler cette histoire. Il faut des revendications qui vont au-delà
+de la réforme retraite oui, mais il faut qu’on en discute parce qu’il faut qu’on apprenne des uns
+des autres, parce qu’il faut qu’on apprenne à se connaître, qu’on apprenne à se solidariser,
+qu’on apprenne à se parler pour pouvoir agir et peser dans le rapport de force, s’organiser pour
+prendre le pouvoir à un moment ou à un autre. Et pour ça une des étapes c’est de faire des AG,
+des assemblées générales. Donc en gros l’idée c’est juste de discuter entre nous quoi ! » (Canard
+Réfractaire, « RETRAITE, INFLATION, 47-1 : CA VA PETER ! »)34.
+Certains producteurs proches ou directement liés à l’extrême droite demandent
+enfin à leurs publics des contributions financières pour engager des actions
+depuis leur parti politique. Les vidéos de Florian Philippot et de Nicolas Dupont-
+Aignan se retrouvent ici.
+Le commentaire caustique :
+entretenir l’indignation par la satire
+Enfin, un dernier ensemble de contenus appartiennent à la scène générique
+nommée ici « commentaire caustique ». Celle-ci se caractérise par un registre
+contestataire, fait de critiques et de moqueries, dans des formats souvent plus
+courts, mais qui n’encouragent pas à des formes de mobilisation. En somme,
+cet ensemble se caractérise à la fois par l’incarnation personnelle de la chaîne
+(la personnalité du vidéaste est très mise en avant) et par le recours à une forme
+d’argumentation pathémique qui transite par l’usage d’un humour servant à
+critiquer la sphère politique et à décrédibiliser les décisions du gouvernement.
+Cette scène générique se caractérise par le plus fort degré d’informalité. Sur les
+53 vidéos du corpus, huit s’inscrivent dans cet ensemble.
+34 Accès : https://www.youtube.com/watch?v=oJFoAffEuhQ (consulté le 18 sept. 2024).
+NOTES DE RECHERCHE 237
+S. Dufour et Q. Gilliotte
+Humour et sarcasme au service de la contestation
+Les vidéos de J’suis pas content TV illustrent parfaitement cette combinaison des
+registres humoristiques et critiques qui caractérise nombre de productions dans
+les arènes numériques, à l’image des streamings de jeux vidéo (Barnabé, 2022)
+ou encore des mèmes internet (Di Sciullo et Dufour, 2024). Ce positionnement est
+notamment revendiqué par la chaîne dans son à-propos – « Je suis pas content
+TV est une chaîne essentiellement humoristique, satirique et informative traitant
+essentiellement de sujets liés à l’actualité politique » – et se retrouve dans le
+contenu des vidéos. Dans la vidéo « RETRAITES : Le MACRONISTAN envoie les
+RÉSERVISTES »35, le ton développé est familier voire injurieux. Par exemple,
+l’énonciateur singe une conversation avec Aurore Bergé, ancienne présidente du
+groupe Renaissance à l’Assemblée :
+« [En citant Aurore Bergé] "On ne peut pas avoir une poignée de personnes qui génèrent une
+pagaille pour des millions de Français". Euh… si Aurore on peut, ça s’appelle le gouvernement
+voilà, donc tu fermes ta gueule, moi ce que je te propose à ce moment-là c’est plutôt que tu
+retournes t’occuper de ton projet de loi pour interdire d’élections les élus qui ont mis une gifle
+à leur femme. Pas pour le reste par contre sinon vous êtes tous au chômage et puis nous casse
+pas les couilles. Donc là, la macronie va falloir se sortir les doigts du derche parce que vous allez
+pas gagner la bataille, et encore moins la guerre, avec des réservistes. »
+Le registre humoristique est ainsi souvent renforcé par un décalage dans les
+modes d’adresse : lorsque l’énonciateur parle à ses audiences, il les vouvoie ;
+lorsqu’il s’adresse aux membres du gouvernement, il les tutoie. Cette mécanique
+crée un effet humoristique dans la mesure où l’énonciateur rompt le contrat de
+communication traditionnel qui veut que l’on adopte un registre de parole plus
+soutenu lorsque l’on échange avec des représentants politiques. En mobilisant
+un mode d’adresse décalé, l’énonciateur abolit la distance qui sépare le citoyen
+ou la citoyenne ordinaire de l’homme ou de la femme politique. Il feint par-là
+de donner des conseils de communication au gouvernement pour mieux
+décrédibiliser ses arguments.
+Dans ces formats humoristiques, on retrouve un procédé consistant à simuler une
+conversation avec une audience imaginée. Ce mécanisme permet de mettre en
+scène un certain bon sens populaire, souvent énoncé avec des accents, et passe
+par la reproduction de la « conversation de comptoir ». En effet, la contestation
+présente dans ces formats ne repose pas sur une forte argumentation mais
+est souvent présentée sur le registre de l’évidence. Par exemple, dans la vidéo
+« Faut-il avoir eu des démêlés avec la justice pour défendre la réforme des
+retraites ? » de Louis de Dreslincourt36, le projet de réforme est critiqué au
+motif que ses défenseurs auraient tous des affaires judiciaires en cours, ce qui
+est présenté comme disqualifiant en tant que tel. Après un passage reprenant
+un verbatim d’Éric Woerth, le vidéaste propose à E. Macron « d’aller chercher
+35 Accès : https://www.youtube.com/watch?v=yPnS3B7IvAo (consulté le 18 sept. 2024).
+36 Accès : https://www.youtube.com/watch?v=LABibrhDtQ0 (consulté le 18 sept. 2024).
+238 NOTES DE RECHERCHE
+Saisir l’informalisation par les vidéos de « décryptage »de la réforme des retraites
+Guy Georges ou Marc Dutroux37 pour défendre sa réforme des retraites ». À cet
+égard, l’humour proposé dans ces formats repose principalement sur la figure
+rhétorique de l’ironie qui génère de la connivence avec la « communauté
+d’affinité » des créateurs (Mercier, 2018 ; Barnabé, 2022). Ces commentateurs
+satiriques mobilisent aussi de nombreux extraits médiatiques (passages TV,
+extraits de journaux), ceux-ci sont souvent courts et renforcent le rythme de la
+vidéo et, par là, sa dimension comique. Parfois, il s’agit de se moquer en sortant
+les images ou les discours de leurs contextes. Enfin on observe le recours très
+fréquent à des extraits de films, de séries, de sketchs ou encore de mèmes. Ce
+procédé se remarque dans la vidéo « La Farce Tranquille #87 : SPÉCIAL réforme
+des retraites et pépite » proposée par Juste Milieu38 ; vidéo dans laquelle il intègre
+un extrait d’un sketch des Inconnus où Didier Bourdon dit « Et maintenant ça va
+chier » pour introduire son sujet.
+À plusieurs égards, ces formats convoquent des registres argumentatifs
+et critiques qui font écho au concept de démoqueratie (Mercier, 2018), où
+l’appréhension citoyenne du politique sur les RSN est de plus en plus tournée sur
+le mode de la dérision et de la désacralisation des élus. Par ailleurs, ces formats
+ne sont pas seulement typiques des plateformes, mais ils s’inscrivent aussi dans
+une généalogie télévisuelle et radiophonique qui est celle des billets d’humeur
+et des chroniques humoristiques.
+Par ailleurs, ces formats présentent des scénographies qui favorisent la création
+d’une ambiance intimiste, renforcent le régime de proximité (Coavoux et Roques,
+2020) déjà largement engagé par l’énonciation des acteurs, et se livrent comme
+l’ensemble de contenus poussant l’informalisation de l’actualité politique à son
+paroxysme. Les deux exemples ci-dessus se déroulent dans un décor de salon
+et les publics sont invités à entrer dans l’intimité des vidéastes. Dans la figure 7,
+le mur de pierre, traversé par une poutre en bois, ainsi que la lumière tamisée
+singent une discussion « au coin du feu » qui favorise la construction d’une
+situation de confession entre l’énonciateur et ses publics. Bien que construite
+sur un modèle sensiblement différent, la scénographie de la figure 8 renforce
+elle-aussi la construction d’une relation intimiste et d’un régime de proximité
+avec les publics en exposant ce qui semble être la bibliothèque personnelle du
+vidéaste. Celle-ci affiche à la fois de nombreux ouvrages, signe de son érudition,
+et des objets de la culture populaire, porteurs de références communes avec
+ses publics. En parallèle, les scénographies du commentaire caustique sont
+agrémentées de nombreux extraits médiatiques rythmant le registre intimiste,
+satirique et conversationnel engagé par les énonciateurs.
+37 Marc Dutroux et Guy Georges sont des tueurs et violeurs en série ayant tous les deux été arrêtés
+à la fin des années 1990.
+38 Accès : https://www.youtube.com/watch?v=OADpGYVrOCQ (consulté le 18 sept. 2024).
+NOTES DE RECHERCHE 239
+S. Dufour et Q. Gilliotte
+Une mise à distance du militantisme politique traditionnel
+au profit de l’indignation
+Pour autant, alors même que ces commentateurs sont bien plus offensifs dans
+les termes, dans leur recours à un langage familier (et même insultant), ils ne
+rentrent en revanche pas (ou peu) dans des logiques d’engagement militant ou
+d’incitation à l’action. De fait, seul Juste Milieu appelle ses publics à signer une
+pétition afin d’initier un grand mouvement populaire, mais dénonce en même
+temps les autres modes d’organisation initiés par les partis d’opposition :
+« Donc tout ce que vous voyez aujourd’hui n’est que du théâtre, c’est tout à fait formel, de
+l’extrême droite à l’extrême gauche, ces gens ne sont que des guignols qui ne disent pas la vérité
+aux citoyens, en expliquant simplement que leur opposition ne sert à rien. Et qu’il peut y avoir
+tout le mouvement populaire que vous voulez dans la rue, le gouvernement ira jusqu’au bout
+de cette réforme qui est un engagement vis-à-vis de l’Union européenne. [...] Qu’ils arrêtent de
+se cacher derrière une opposition de façade en sachant très bien qu’ils ne servent à rien et que
+ce que vous voyez à la télé aujourd’hui, c’est de la guignolerie, regardez Le plus grand cabaret
+du monde ça revient au même » (Juste Milieu, « Réforme des retraites : 49-3, fausse démocratie
+et soumission à l’UE »39).
+Ces formats semblent avoir pour vocation d’entretenir l’indignation citoyenne
+à l’égard d’une classe politique perçue comme prévaricatrice et manipulatrice.
+Ils reposent généralement sur un rejet explicite de l’ensemble de la politique
+traditionnelle, des institutions et, par extension, des modes traditionnels de
+contestation et de mobilisation. Ces formats peuvent ainsi être associés à des
+« dispositifs de sensibilisation » (Traïni, 2011) qui « relèvent moins d’un exercice
+tenu de la raison argumentative qu’ils ne visent à prescrire des sentiments (peur,
+enthousiasme, indignation, colère, dégoût, etc.), à créer des chocs moraux […],
+à réarmer les sensibilités, à aligner les registres émotionnels à la cause collective,
+à créer des identités en lutte, etc. » (Granjon, 2021 : 313). En d’autres termes,
+ces formats reposent sur une logique paradoxale qui consiste à entretenir et
+renforcer l’indignation des citoyens à l’égard de situations qu’ils perçoivent
+comme injustes, sans pour autant les appeler à se mobiliser. Cela montre un
+positionnement politique « anti-système », « anti-institutions », souvent « anti-
+partis politiques », s’inscrivant dans des positions proches de celles décrites
+par Alan Finlayson (2022) dans sa recherche sur le producteur de contenu
+britannique Paul Joseph Watson. La ligne défendue dans ces productions peut
+être associée à une ligne souverainiste, proche des milieux de la droite radicale
+ou de l’extrême droite, sans en revendiquer la filiation partisane.
+Enfin, les trajectoires professionnelles de ces producteurs de contenus sont a
+priori éloignées des trajectoires journalistiques ou militantes classiques, qui
+sont très présentes pour les autres formats identifiés. Ces vidéastes produisent
+leurs contenus souvent seuls et la chaîne est fortement construite autour de la
+personnalité des créateurs, ce qui les rapproche de nombreux autres vidéastes
+39 Accès : https://www.youtube.com/watch?v=MjbD4NbozGk (consulté le 18 sept. 2024).
+240 NOTES DE RECHERCHE
+Saisir l’informalisation par les vidéos de « décryptage »de la réforme des retraites
+de divertissement ou de fiction (Louessard et Farchy, 2017 ; Barnabé, 2022). S’ils
+partagent avec certains médias d’extrême droite, à l’image de VA+, un recours à
+« l’humour, à l’insulte, à l’attaque personnelle et à la théâtralisation d’une parole
+supposément victime du "politiquement correct" » (Marty et al., 2022 : 112), ils
+s’en distinguent par une rupture assumée avec les codes du journalisme.
+Conclusion
+Trois résultats apparaissent particulièrement saillants et doivent constituer les
+prémices de recherches futures. Le premier concerne le fort appariement entre
+certains formats, positionnements politiques et modalités de contestation.
+Les acteurs qui s’inscrivent dans une forme de journalisme « distant » ne
+peuvent être associés à un positionnement politique car leur manière de traiter
+l’information, caractérisée par une absence de positionnement formel sur les
+sujets, limite considérablement l’entreprise de catégorisation politique. En
+revanche, on constate l’appariement très fort des acteurs de la gauche radicale
+dans des formats proches d’une forme de journalisme engagé, maniant logos
+et pathos pour chercher à convaincre les publics. Les acteurs investis dans des
+formes de commentaires caustiques sur l’actualité, caractérisés par un degré
+très élevé d’informalité, ont pour point commun de produire des discours qui
+peuvent s’apparenter à ceux des milieux souverainistes en vertu d’une critique
+explicite de l’Europe et de la classe politique traditionnelle. Ces producteurs se
+rapprochent de l’analyse faite par A. Finlayson (2022) du youtubeur P. J. Watson
+et pose la question de l’essor de nouveaux acteurs caractéristiques de la droite
+radicale qui agissent comme entrepreneurs idéologiques autour d’un « style
+populiste » qui se développe en dehors des partis.
+Deuxièmement, ce travail ouvre de nombreuses perspectives de recherche en
+insistant sur la proximité des productions issues des médias traditionnels et des
+médias alternatifs, en particulier des médias télévisés. Les résultats exposés ici
+permettent d’interroger la critique portée à la télévision dans son traitement
+de l’information politique, à la fois travaillé par l’obligation de maintenir une
+production journalistique « objective », « non-partisane » (Lyubareva et Marty,
+2022), mais aussi par une forte informalisation incarnée par les émissions
+d’infotainment. Les analyses soulevées dans ce texte montrent comment, dans
+l’ordre des formats, se tissent des filiations et des héritages complexes.
+Enfin, cette recherche ouvre de nombreuses perspectives dans l’étude de
+l’articulation entre les logiques d’informalisation et de dépolitisation. Il s’avère
+que les contenus les plus contestataires et qui invitent le plus à la mobilisation
+sont ceux qui présentent des formes d’informalisation hybrides au regard de
+l’ensemble des vidéos du corpus, en mobilisant du logos et de pathos pour
+convaincre les publics, en jouant à la fois sur une figure de « sachant » et un
+régime de proximité. À l’inverse, les vidéos s’insérant dans le « journalisme
+NOTES DE RECHERCHE 241
+S. Dufour et Q. Gilliotte
+distancié » assument une mise à distance de la critique. Or, Sophie Anquetil
+et Carine Duteil (2024 : § 7) ont montré comment « une posture apparente
+de dépolitisation peut se constituer comme mode d’action illocutoire de
+politisation », en particulier lorsque certains acteurs revendiquent une posture
+« objective » dans la description de l’actualité. La dépolitisation devient alors un
+mode alternatif de politisation, surtout lorsqu’il s’agit de masquer les dissensus et
+de faire disparaître la dimension agonistique des débats. De même, les créateurs
+qui se situent du côté des « commentateurs caustiques » prolongent une forte
+informalisation du traitement de l’information : centralité de la subjectivité, du
+jugement de valeur, de l’humour, entretien de l’indignation, sans pour autant
+inciter à la mobilisation. Ces éléments nous amènent à considérer la complexité
+des enjeux de politisation et de dépolitisation tant ils semblent entremêlés et en
+proie à l’élasticité conceptuelle (Déloye et Haegel, 2019).
+Références
+Anquetil S. et Duteil C., 2024, « Dire l’urgence climatique : entre rhétorique scientifique
+de dépolitisation et procédure argumentative de politisation », Mots. Les langages du
+politique, 134, p. 101-117. https://doi.org/10.4000/mots.33039
+Assilaméhou-Kunz Y. et Rebillard F. (dirs), 2023, La Machine YouTube. Contradictions d’une
+plateforme d’expression, Caen, C&F Éd.
+Aubert A., 2023, Une information brute ? Journalisme, vidéos et réseaux sociaux, Paris,
+Éd. INA.
+Babeau F., 2014, « La participation politique des citoyens ordinaires sur l’Internet.
+La plateforme YouTube comme lieu d’observation », Politiques de communication, 3,
+p. 125-150. https://doi.org/10.3917/pdc.003.0125
+Badouard R., 2022, « Réseaux sociaux : les nouveaux chemins de la censure », Mouvements.
+Des idées et des luttes, 112, p. 137-146. https://univ-pantheon-assas.hal.science/
+hal-04032951
+Barnabé F., 2022, « Figures de l’ironie et thématique politiques dans le streaming de
+jeu vidéo sur Twitc.tv : approche rhétorique des performances d’Antoine Daniel »,
+Télévision, 13, p. 17-35. https://hdl.handle.net/2268/289662
+Baur M., 2021, « La lutte contre la désinformation sur YouTube », Communication, 38 (2),
+p. 1-24. https://doi.org/10.4000/communication.14314
+Benbouzid B., Gauthier E., Ramaciotti P. et Roudier B., 2020, « Le cadran de la visibilité
+de la sphère médiatique et politique sur YouTube. Les effets de la recommandation
+algorithmique et manuelle », International Conference on Computational Social Science
+IC2S2, Cambridge (MA), Cambridge University Press, p. 1-41. https://hal.science/
+hal-03046284
+Bennet L. et Segerberg A., 2012, « The Logic of Connective Action: Digital Media and
+Personalization of Contentious Politics », Information, Communication & Society, 15,
+p. 739-768. https://doi.org/10.1080/1369118X.2012.670661
+242 NOTES DE RECHERCHE
+Saisir l’informalisation par les vidéos de « décryptage »de la réforme des retraites
+Biancalana C., 2017, « Désintermédiation et populisme. L’emploi d’internet par le
+Mouvement 5 Étoiles », Romanian Political Science Review, 17 (4), p. 541-559. https://
+www.ssoar.info/ssoar/handle/document/56169 (consulté le 16 sept. 2024).
+Bristielle A., 2020, « YouTube comme média politique : les différences de contenu entre
+interviews politiques classiques et émissions en ligne de trois représentants de
+La France insoumise », Mots. Les langages du politique,123, p. 103-121. https://doi.
+org/10.4000/mots.26867
+Bonnet V., Marty E. et Robert C.,2024, « Disqualification des conflictualités, rétrécissement
+du débat, invisibilisation des valeurs : la dépolitisation en discours », Mots. Les langages
+du politique, 134, p. 9-19. https://doi.org/10.4000/mots.32839
+Bullich V. et Lafont B., 2019, « Daylimotion : le devenir média d’une plateforme. Analyse
+d’une trajectoire sémio-économique (2005-2018) », tic&société, 13, p. 1-38. https://doi.
+org/10.4000/ticetsociete.3540
+Camille-Delahaye P., 2023, « Youtubeurs et politiques : vers une peopolisation numérique ?
+Focus sur le “concours d’anecdotes” du président Macron », Communication, 40/1,
+p. 1-25. https://doi.org/10.4000/communication.17283
+Campion B., 2016, « Dynamiques de construction et instrumentalisation de la légitimité dans
+les débats en ligne relatifs au réchauffement climatique », Questions de communication,
+30, p. 159-179. https://doi.org/10.4000/questionsdecommunication.10752
+Cardon D. et Granjon F., 2013, Médiactivistes, Paris, Presses de Sciences Po.
+Carlino V., 2020, « Vidéos en ligne et contestation politique radicale », Terminal. Techologie
+de l’information, culture & société, 127, p. 1-20. https://doi.org/10.4000/terminal.5806
+Charbonneau J. et Devars T., 2018, « La communication de Jean-Luc Mélenchon sur sa
+chaîne YouTube : une démarche innovante ? », dans P. Maarek et A. Mercier (dirs), 2017,
+la présidentielle chamboule-tout. La communication politique au prisme du dégagisme,
+Paris, Éd. L’Harmattan, p. 121-135.
+Christin A., 2018, « Les sites d’information en ligne entre indépendance et course au clic :
+une comparaison franco-américaine », Sociétés contemporaines, 111, p. 71-96. https://
+doi.org/10.3917/soco.111.0071
+Clot A., 2019, « La structuration professionnelles des créateurs de contenus politiques sur
+YouTube », dans E. Georges (dir.), Numérisation de la société et enjeux sociopolitiques, 2.
+Numérique, information et recherche, Londres, ISTE Éd., p. 67-76.
+Coavoux S. et Roques N., 2020, « Une profession de l’authenticité. Le régime de proximité
+des intermédiaires du jeu vidéo sur Twitch et YouTube », Réseaux. Communication.
+Technologie. Société, 224, p. 169-196. https://doi.org/10.3917/res.224.0169
+Combe C., 2019, « Quand le vlogue éduque à la politique : le cas français d’Osons Causer »,
+dans E. Georges (dir), Numérisation de la société et enjeux sociopolitiques, 2. Numérique,
+information et recherche, Londres, ISTE Éd., p. 79-94.
+Croissant V., 2022, « Les publics de l’information en ligne : “faire public” au temps de
+l’information par les réseaux socio-numériques », Les Enjeux de l’information et la
+communication, 23 (1), p. 129-141. https://hal.science/hal-04127969
+NOTES DE RECHERCHE 243
+S. Dufour et Q. Gilliotte
+Dalibert M., Lamy A. et Quemener N., 2016, « Circulation et qualification des discours.
+Conflictualités dans les espaces publics », Études de communication, 47, p. 4-14. https://
+doi.org/10.4000/edc.6595
+Déloye Y. et Haegel F., 2019, « La politisation : du mot à l’écheveau conceptuel », Politix.
+Revue des sciences sociales du politique, 127, p. 59-83. https://doi.org/10.3917/
+pox.127.0059
+Desingue A. et Gotte J., 2023, « Temps du délai, temps du débat. Penser la temporalité
+du mouvement écologiste à partir du “Débat du siècle”, grand oral Twitch de la
+présidentielle 2022 », Quaderni. Communication, technologie, pouvoir, 109, p. 93-112.
+https://doi.org/10.4000/quaderni.2755
+Despontin-Lefèvre I., 2019, « Féminisme et genre en débat sur YouTube », Politiques de
+communication, 13, p. 31-66. https://doi.org/10.3917/pdc.013.0031
+Di Sciullo F. et Dufour S., 2023, « Mèmes et dénonciation publique sur Twitter. Le cas
+des interventions policières mortelles (mars-juin 2022) », Semen. Revue de sémio-
+linguistique des textes et discours, 54, p. 67-85. http://journals.openedition.org/
+semen/19344 (consulté le 16 sept. 2024).
+Douyère D. et Ricaud P., 2019, « YouTube, un espace d’expression politique ? », Politiques
+de communication, 13, p. 15-30. https://doi.org/10.3917/pdc.013.0015
+Ferron B., 2016, « Professionnaliser les “médias alternatifs” ? Enjeux sociaux et politiques
+d’une mobilisation (1999-2016) », Savoir/Agir, 38, p. 21-28. https://www.researchgate.
+net/publication/311948370_Professionnaliser_les_medias_alternatifs_Enjeux_
+sociaux_et_politiques_d’une_mobilisation_1999-2016 (consulté le 16 sept. 2024).
+Finlayson A., 2022, « YouTube and Political Ideologies: Technology, Populism and Rhetorical
+Form”, Political Studies, 70, p. 62-80. https://doi.org/10.1177/0032321720934630
+Flichy P., 2010, Le Sacre de l’amateur. Sociologie des passions à l’ère numérique, Paris, Éd.
+Le Seuil.
+Gardenier M., 2022, Towards a Vigilant Society. From Citizen Participation to Anti-Migrant
+Vigilantism, Oxford, Oxford University Press.
+Gilliotte Q. et Pasquier D., 2025, « Travailler à sa chaîne. Les vidéastes des plateformes face
+à leurs sources de revenus », Réseaux. Communication. Technologie. Société, 246.
+Gimenez E. et Voirol O., 2017, « Les agitateurs de la toile. L’internet des droites extrêmes »,
+Réseaux. Communication. Technologie. Société, 202-203, p. 9-37. https://doi.
+org/10.3917/res.202.0009
+Godefroy J., 2021, « Des influenceurs sous influence ? La mobilisation économique des
+usagers Instagram », Travail et Emploi, 164-165, p. 59-83. https://doi.org/10.4000/
+travailemploi.12034
+Granjon F., 2017, « Résistances en ligne : mobilisation, émotion, identité », Variations. Revue
+internationale de théorie critique, 20, p. 1-25. https://doi.org/10.4000/variations.819
+Granjon F., 2021, « Gilets jaunes et colères noires. Violence, médias et émotions », Questions
+de communication, 40, p. 303-318. https://doi.org/10.4000/questionsdecommunication
+.27090
+Granjon F, Papa V. et Tuncel G., 2017, Mobilisations numériques, Paris, Presses des Mines.
+244 NOTES DE RECHERCHE
+Saisir l’informalisation par les vidéos de « décryptage »de la réforme des retraites
+Herreros R., 2023, « Éric Zemmour soutient la réforme des retraites du gouvernement »,
+HuffPost 9 fév. https://www.huffingtonpost.fr/politique/article/eric-zemmour-soutient-
+la-reforme-des-retraites-du-gouvernement_213848.html (consulté le 17 sept. 2024).
+Jaffeux T., 2022, « Produire l’information au gré des plateformes numériques et de leurs
+algorithmes », Les Cahiers du journalisme, 8-9, p. 139-158. https://univ-pantheon-assas.
+hal.science/hal-04023924
+Jost F. et Spies V., 2014, « L’information à la télévision, un spectacle ? », Revue française des
+sciences de l’information et de la communication, 5. https://doi.org/10.4000/rfsic.1123
+Laborde B., 2013, « Présidentielles 2012. Quand la campagne s’invite au Grand Journal de
+Canal + », Télévision, 4, p. 43-60.
+La Sala Urbain S., 2013, « Le Petit Journal ou la séduction de l’infotainment », Télévision,
+4, p. 105-123.
+Le Bart C., 2013, L’Égo-politique. Essai sur l’individualisation du champ politique, Paris,
+A. Colin.
+Le Foulgoc A., 2010, Politiques & Télévision. Extension du domaine politique, Paris, Éd. INA
+Leroux P. et Riutort P., 2011, « Les émissions de divertissement : de nouveaux lieux de
+valorisation des petites phrases », Communication & Langages, 168, p. 69-80. https://
+doi.org/10.3917/comla.168.0069
+Leroux P. et Riutort P., 2013, La Politique sur un plateau. Ce que le divertissement fait à la
+télévision, Paris, Presses universitaires de France.
+Leteinturier C., Devillard V., Laville C., 2010, « La production journalistique et son
+environnement : le cas de l’information générale et politique, entre 1990 et 2010 », Le
+Temps des médias, 14, p. 273-290. ttps://doi.org/10.3917/tdm.014.0273
+Lochard G. et Soulage J-C., 2003, « La parole politique à la télévision. Du logos à l’ethos »,
+Réseaux. Communication. Technologie. Société, 118, p. 65-94. https://shs.cairn.info/
+revue-reseaux1-2003-2-page-65?lang=fr (consulté le 16 sept. 2024).
+Longhi J., 2018, « L’écriture nativement numérique, de Twitter à YouTube : pour une
+approche non-conversionnelle des processus créatifs », Le Français aujourd’hui, 200,
+p. 43-56. https://doi.org/10.3917/lfa.200.0043
+Louessard B. et Farchy J., 2017, Scène de la vie culturelle. YouTube, une communauté de
+créateurs, Paris, Presses des Mines.
+Lyubareva I. et Marty E., 2022, « Vingt-cinq ans d’information en ligne : une exploration
+des transformations structurelles des médias », Les enjeux de l’information et de la
+communication, 23, p. 5-14. https://lesenjeux.univ-grenoble-alpes.fr/2022/dossier/00-
+vingt-cinq-ans-dinformation-en-ligne-une-exploration-des-transformations-
+structurelles-des-medias/ (consulté le 16 sept. 2024).
+Maingueneau D., 2022, Discours et analyse du discours, Malakoff, A. Colin.
+Marchetti D. et Ruellan D., 2001, Devenir journaliste. Sociologie de l’entrée sur le marché du
+travail, Paris, La Documentation française.
+Marty E., Ouakrat A. et Pacouret J., 2022, « De Valeurs Actuelles à VA+ : l’appropriation
+des formats et des logiques des réseaux socio-numériques par un média d’extrême
+droite », Quaderni. Communication, technologie, pouvoir, 107, p. 99-122. https://doi.
+org/10.4000/quaderni.2504
+NOTES DE RECHERCHE 245
+S. Dufour et Q. Gilliotte
+Mattelart T., 2021, « L’élaboration par YouTube d’un modèle mondial de production de
+vidéos », Questions de communication, 40, p. 119-140. https://doi.org/10.4000/questions
+decommunication.26899
+Mercier A., 2018, « Campagne électorale, dérision politique et réseaux sociaux
+numérique : l’ère de la “démoqueratie” », dans P. Maarek et A. Mercier (dirs), 2017, la
+présidentielle chamboule-tout. La communication politique au prisme du dégagisme,
+Paris, Éd. L’Harmattan, p. 193-220.
+Michel M., 2022, « Vendre sans être une vendue. Écoresponsabilité et mise à distance de la
+prescription marchande sur les réseaux sociaux numériques », Réseaux. Communication.
+Technologie. Société, 234, p. 95-125. https://doi.org/10.3917/res.234.0095
+Mudde C., 2007, Populist Radical Right Parties in Europe, Cambridge, Cambridge
+University Press.
+Neveu É., 2012, « Elias, Wouters et la théorie de l’informalisation. Un outil conceptuel pour
+sociologiser des régimes émotionnels et leurs effets », dans I. Sommier et X. Crettiez (dirs),
+Les Dimensions émotionnelles du politique, Rennes, Presses universitaires de Rennes,
+p. 273-291.
+Noël S., 2021, L’Édition indépendante critique. Engagements politiques et intellectuels,
+Villeurbanne, Presses de l’Enssib.
+Padioleau J. G., 1976, « Systèmes d’interaction et rhétoriques journalistiques », Sociologie
+du travail, 18 (3), p. 256-282. https://doi.org/10.3406/sotra.1976.1511
+Pereira I., 2010, Les Grammaires de la contestation. Un guide de la gauche radicale, Paris,
+Éd. La Découverte.
+Pasquier D. et Chalvon-Demersay S., 1988, « Les animateurs de télévision », Réseaux
+Communication. Technologie. Société, 28, p. 55-111. https://doi.org/10.3406/reso.1988.1268
+Riboni U. L., 2023, Vidéoactivismes. Contestation audiovisuelle et politisation des images,
+Paris, Éd. Amsterdam.
+Rieffel R., 2001, Sociologie des médias, Paris, Éd. Ellipses, 2015.
+Sécail C., 2024, Touche pas à mon peuple, Paris, Éd. Le Seuil.
+Sedda P., 2017, « Les ressorts démocratiques des médias alternatifs en Argentine et en
+Italie », Les enjeux de l’information et de la communication, 17 (2), p. 59-71. https://doi.
+org/10.3917/enic.hs5.0059
+Sedel J., 2021, « Construire l’indépendance en label de qualité. Le travail de singularisation
+des éditeurs de presse en ligne “indépendants” », Politiques de communication, 16,
+p. 13-51. https://doi.org/10.3917/pdc.016.0013
+Smyrnaios N., Sebbah B. et Dilé-Toustou J., 2023, Débattre coûte que coûte. La réforme des
+retraites et ses critiques dans la presse et sur les réseaux sociaux, rapport de recherche
+de l’Observatoire des Pratiques Socio-numériques, Université Toulouse 3 Paul Sabatier.
+https://hal.science/hal-04480182
+Soulez G., 2002, « Ethos, médiation, média. Sémiotique de l’ethos », Recherches en
+communication, 18, p. 175-198. https://hal.science/hal-03961821
+Stéphan G., 2022, La Réinformation : un monde aux frontières du journalisme, thèse
+de doctorat en sciences de l’information et de la communication, Université
+Paris-Panthéon-Assas.
+246 NOTES DE RECHERCHE
+Saisir l’informalisation par les vidéos de « décryptage »de la réforme des retraites
+Theviot A., 2019, « Faire campagne sur YouTube : une nouvelle “grammaire” pour
+contrôler sa communication et influer sur le cadrage médiatique ? », Politiques de
+communication, 13, p. 67-96. https://doi.org/10.3917/pdc.013.0067
+Theviot A., 2020, « Du désengagement partisan au militantisme en ligne : militer à “bonne
+distance” du parti ? », K@airos. Revue interdisciplinaire en sciences de l’information et
+de la communication et civilisations étrangères, 3, p. 1-15. https://doi.org/10.52497/
+kairos.184
+Traïni C., 2011, « Les émotions de la cause animale. Histoires affectives et travail militant »,
+Politix. Revue des sciences sociales du politique, 93, p. 69-92. https://doi.org/10.3917/
+pox.093.0069
+Tufekci Z., 2017, Twitter and Tear Gas: the Power and Fragility of Network Protest, Yale, Yale
+University Press.
+Wouters C., 2007, Informalization: Manners and Emotions since 1890, Londres, Sage.
+NOTES DE RECHERCHE 247
+S. Dufour et Q. Gilliotte
+Annexe 1. Liste des vidéos du corpus avec
+métadonnées à la date d’extraction (23 février 2023)
+NNbb ddee NNbb ddee
+NN(cid:176)(cid:176) CChhaa(cid:238)(cid:238)nnee TTiittrree vviiddØØoo DDaattee ppuubbllii SSccŁŁnnee ggØØnnØØrriiqquuee
+vvuueess ccoommmmeennttaaiirreess
+RETRAITES : LA 11 janv.
+BLAST Le souffle
+1 DROITE EN R˚VAIT 86 565 635 2023 Journalisme EngagØ
+de l info
+MACRON L A FAIT 18:01
+[5 mn pour 11 janv.
+FØdØration SUD Commentaires Militantisme
+2 comprendre] La 7 525 2023
+CT dØsactivØs individualisØ
+rØforme des retraites 20:01
+RETRAITE : Faut-il 12 janv.
+Canard Militantisme
+3 VRAIMENT rejoindre 44 917 969 2023
+RØfractaire individualisØ
+le MOUVEMENT ? 16:01
+RØforme des
+12 janv.
+retraites : la
+4 Pure Politique 12 1542 1039 2023 Journalisme EngagØ
+BARBARIE du
+17:01
+macronisme
+RØforme des
+12 janv.
+retraites : 49-3 fausse
+5 Juste Milieu 52 490 538 2023 Commentaire caustique
+dØmocratie et
+17:01
+soumission à l’UE
+13 janv.
+La retraite pour « les
+6 Ouest-France 49 763 81 2023 Journalisme distanciØ
+nuls »
+18:01
+La rØforme des 13 janv.
+Fonctionnaire
+7 retraites pour les 4 286 18 2023 Journalisme distanciØ
+territorial
+fonctionnaires 18:01
+VIEUX RICHES ET
+(cid:201)GOISTES : UNIS 14 janv.
+8 Le MØdia DERRI¨RE MACRON 104 782 1 554 2023 Journalisme EngagØ
+POUR CASSER LES 10:01
+RETRAITES
+Pourquoi votre 15 janv.
+9 Grand Angle retraite ne sera pas 60 439 591 2023 Hors typo
+financØe ?! 08:01
+Retraites : l impact
+16 janv.
+rØel du faible taux d
+10 Xerfi Canal 1 127 8 2023 Journalisme distanciØ
+emploi des sØniors
+07:01
+[Olivier Passet]
+RØforme des 17 janv.
+11 Juste Milieu. retraites : le 47-1 pire 124 958 762 2023 Commentaire caustique
+que le 49-3 ! 17:01
+#BDR125 : Retraite
+17 janv.
+FRAN˙OIS travail profit : l ˛le aux Militantisme
+12 49 068 373 2023
+RUFFIN enfants de la individualisØ
+17:01
+Macronie !
+248 NOTES DE RECHERCHE

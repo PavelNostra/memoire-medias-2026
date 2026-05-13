@@ -1,0 +1,1233 @@
+La participation politique des citoyens « ordinaires » sur
+l'Internet
+La plateforme Youtube comme lieu d'observation
+Franck Babeau
+Dans Politiques de communication 2014/2 N° 3 , pages 125 à 150
+Éditions Presses universitaires de Grenoble
+ISSN 2271-068X
+ISBN 9782706121401
+DOI 10.3917/pdc.003.0125
+Date de mise en ligne : 25/12/2014
+Article disponible en ligne à l’adresse
+https://shs.cairn.info/revue-politiques-de-communication-2014-2-page-125?lang=fr
+Découvrir le sommaire de ce numéro, suivre la revue par email, s’abonner...
+Scannez ce QR Code pour accéder à la page de ce numéro sur Cairn.info.
+Distribution électronique Cairn.info pour Presses universitaires de Grenoble.
+Vous avez l’autorisation de reproduire cet article dans les limites des conditions d’utilisation de Cairn.info ou, le cas échéant, des conditions générales de la licence souscrite par votre
+établissement. Détails et conditions sur cairn.info/copyright.
+Sauf dispositions légales contraires, les usages numériques à des fins pédagogiques des présentes ressources sont soumises à l’autorisation de l’Éditeur ou, le cas échéant, de
+l’organisme de gestion collective habilité à cet effet. Il en est ainsi notamment en France avec le CFC qui est l’organisme agréé en la matière.
+la participation politique des citoyens
+« ordinaires » sur l’Internet
+La plateforme Youtube comme lieu
+d’observation
+●
+Franck Babeau
+Université Paris III Sorbonne Nouvelle, laboratoire CIM, équipe MCPN
+La plateforme d’hébergement de vidéos Youtube figure parmi les sites
+les plus visités au monde. Fondé en février 2005 par trois anciens em-
+ployés de Paypal, le site est dans un premier temps destiné à l’hébergement
+de vidéos amateurs consultables en streaming. Par la suite, l’utilisation du
+site va dériver et inclure des contenus officiels, des acteurs médiatiques
+traditionnels, des « Youtubers »1. Ce contexte médiatique favorise le dévelop-
+pement de la « convergence culturelle », caractérisée par la possibilité d’opérer
+des connexions de sens originales, d’élaborer une organisation personnelle
+à partir d’une masse infinie de contenus médiatiques (Jenkins, 2006).
+Ce phénomène est notamment encouragé par les diverses f onctionnalités
+que propose Youtube : recommandations au sein de la page d’accueil,
+1. Néologisme désignant des diffuseurs de vidéos sur Youtube accédant à une certaine
+notoriété.
+politiques de communication n° 3 ● automne 2014 125
+)74.501.62.951
+:PI(
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| elbonerG
+ed
+seriatisrevinu
+sesserP
+dossier. s’engager sur internet
+vidéos suggérées lors de la consultation d’un contenu, commentaires,
+tags2, « likes »3.
+Ces fonctionnalités du « Web social » assurent une mise en relation généra-
+lisée (Millerand, Proulx, Rueff, 2010) et offrent de nouvelles opportunités
+d’interactions, dépassant la seule dimension discursive, comme la mise en
+visibilité d’un contenu grâce aux « likes ». Cette configuration élargit le
+champ des possibles, « les canaux de participation sont davantage en train
+d’évoluer que de décliner » (Norris, 1999). En s’éloignant d’un modèle
+délibératif centré sur un échange désintéressé d’arguments rationnels, les
+usages de ces fonctionnalités souffrent trop souvent d’une sorte de disqua-
+lification ou d’ignorance de la part d’observateurs autorisés (journalistes,
+hommes politiques), alors qu’ils soutiennent pour partie une part de juge-
+ments critiques. L’ouverture du champ d’observation à d’autres modalités
+d’expression est d’autant plus nécessaire que les dispositifs mis en place par
+les autorités (forums, systèmes de votation) sont souvent délaissés par les
+utilisateurs auxquels ils sont initialement destinés (Wojcik, 2011). Toute-
+fois, il existe une singularité générationnelle : si certains dispositifs comme
+le vote en ligne mobilisent des personnes âgées déjà actives hors ligne, ils
+peuvent avoir un effet incitatif sur les jeunes (Hirzalla, van Zoonen & de
+Ridder, 2011, cités in Wojcik, 2011).
+S’intéresser uniquement à des lieux formellement identifiés comme poli-
+tiques ne suffit pas à capter les expressions politiques de tous les jours, qui
+se déploient dans des lieux divers et inattendus (Wright, 2012). Elles peu-
+vent par exemple être présentes dans des fils de commentaires sur Youtube
+(Van Zoonen et al., 2010) ou encore dans les forums de discussion de la
+téléréalité (Klein, Wardle, 2008). Ces discussions politiques informelles
+participent pourtant à la construction identitaire, la formation d’arguments,
+2. Un tag est un mot-clé associé à une vidéo. Sur la plupart des sites, ils permettent
+de classifier des contenus. Sur Youtube leur nombre est illimité, ils sont surtout
+un moyen supplémentaire de désigner la vidéo afin de faciliter l’appariement lors
+des recherches.
+3. Un « j’aime », ou « like », est la représentation iconographique d’un pouce levé.
+S’il dispose d’un compte, l’utilisateur a la possibilité de déposer un « like » ou un
+« dislike » sur la vidéo et peut laisser un commentaire. Le dispositif comptabilise
+le nombre de « likes » et de « dislikes » puis les représente dans une jauge à partir
+d’un code couleur (vert pour les « likes » et rouge pour les « dislikes »).
+126
+)74.501.62.951
+:PI(
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| elbonerG
+ed
+seriatisrevinu
+sesserP
+la participation politique des citoyens « ordinaires » sur l’internet
+la compréhension mutuelle et sont autant de ressources qui peuvent être
+réinvesties dans un exercice délibératif encadré par les institutions ou dans
+des actions collectives (Dahlgren, 2009 ; Kim, Kim, 2008).
+Cette approche, motivée par une complexification croissante de la société,
+suppose de réfléchir à une définition plus large des rapports à la politique
+(Graham, 2008). La réflexion menée par Mansbridge (1999) constitue une
+piste intéressante et s’avère particulièrement adaptée au terrain étudié. Selon
+l’auteur, une discussion politique surgirait lorsqu’un protagoniste souhaite
+attirer l’attention sur une occurrence, un discours… qu’il souhaite porter
+au niveau de la discussion collective. Appliquée à notre terrain, une telle
+approche permettrait à la fois d’intégrer des énoncés qui appartiennent à
+la sphère privée mais pourrait également inclure des pratiques comme le
+« like » qui relèvent pour certaines d’entre elles de la problématique de la
+mise en visibilité. Cependant, une définition à ce point inclusive pose de
+sérieux problèmes méthodologiques quant à l’identification de ce qui est
+politique et ce qui ne l’est pas. Il ne s’agit donc pas d’élaborer des critères
+discriminants afin de la rendre opérationnelle mais seulement d’en expli-
+citer les frontières.
+La plateforme d’hébergement vidéo Youtube constitue, à ce titre, un lieu
+d’observation privilégié de la configuration présentée précédemment. En
+plus d’offrir l’opportunité de saisir les logiques d’expression en dehors des
+espaces institutionnels, l’ouverture du site et la diversité de ses utilisateurs
+permettent de s’extraire du cadre purement militant afin d’interroger des
+individus « ordinaires », étrangers au militantisme en ligne et aux organisa-
+tions structurées (Cardon, Granjon, 2010 ; Granjon 2001).
+Comment ces internautes perçoivent les différentes fonctionnalités mises à
+leur disposition ? Leurs usages sont-ils informels, contingents, hasardeux ?
+Le travail empirique consiste à saisir le/les sens que peuvent revêtir cer-
+taines traces numériques (commentaires, « likes », liens hypertextes) chez
+les enquêtés. Le regard est donc centré sur l’intentionnalité des acteurs, afin
+d’éclairer la polysémie que peuvent contenir certaines traces numériques
+directement observables. Comment ces enquêtés intègrent-ils les activités
+participatives dans l’espace public en ligne ?
+Les enquêtés ont été recrutés à partir d’un appel à participation rédigé dans
+la partie « fil de commentaires » située au bas des vidéos de la catégorie
+politiques de communication n° 3 ● automne 2014 127
+)74.501.62.951
+:PI(
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| elbonerG
+ed
+seriatisrevinu
+sesserP
+dossier. s’engager sur internet
+« Actualités et politique ». Dans un premier temps, les vidéos ont été
+sélectionnées à partir de classements établis par Youtube4. Parce que ces
+derniers n’étaient pas toujours accessibles et non représentatifs de la diversité
+des contenus présents dans cette catégorie, nous avons décidé d’élargir le
+corpus de recrutement. Dans un second temps, des demandes d’entretien
+ont été postées dans les vidéos suggérées par les moteurs de recommanda-
+tions, engageant un parcours de navigation et de sélection par sérendipité.
+Dans un dernier temps, d’autres contenus ont rejoint le corpus à partir de
+« recherches actives »5, pour un total dépassant les 600 vidéos.
+13 enquêtés ayant répondu favorablement à l’appel à participation
+ont été interrogés sur la période de mars à mai 2012. L’échantillon est
+composé exclusivement d’hommes, diplômés pour la plupart du supérieur
+(une dizaine) avec une moyenne d’âge située entre 20 et 30 ans. Cette
+homogénéité peut s’expliquer par le terrain d’enquête. Les hommes sont
+plus nombreux que les femmes à utiliser Internet (73 % contre 64 % selon
+l’enquête MEDIAPOLIS, menée par le CEVIPOF entre le 23 novembre
+et le 12 décembre 2009). Ce chiffre atteint 99 % chez les étudiants et 34 %
+chez les retraités. Toujours selon la même étude, la connaissance de l’ac-
+tualité politique croît avec le niveau de diplôme, ce qui peut expliquer en
+partie la présence élevée d’étudiants dans l’échantillon. De plus, ces derniers
+sont beaucoup plus nombreux que le reste de la population à discuter sur
+des forums et des blogs politiques : 5 % pour les étudiants, 1 % pour les
+chômeurs, 3 % pour les actifs. Les entretiens ont permis de comprendre
+que ce goût pour l’échange discursif pouvait être frustré sur les sites de
+journaux ou sur Dailymotion. Selon les enquêtés, la modération y était
+4. Les vidéos étaient classées selon diverses catégories (« les plus vues », « les plus
+aimées », « les plus commentées ») et temporalités (jour, semaine, mois).
+5. Initialement, les vidéos apparues dans les classements quotidiens dominaient
+le corpus. Ils étaient principalement composés d’acteurs médiatiques reconnus
+(Europe1, AFP, BFM…) ou proches des thématiques de l’extrême droite. La sélec-
+tion du corpus selon une logique sérendipitaire a permis d’accéder par exemple
+à des extraits de talks-shows ou de documentaires qui sont éloignés de l’actualité
+proche mais dont la notoriété ne faiblit pas. Elle a été l’occasion d’identifier des
+thématiques ou des personnages qui suscitaient l’attention des internautes mais qui
+n’apparaissaient pas dans les classements à la hauteur de leur popularité (« Étienne
+Chouard », « Emmanuel Todd », « loi de 1973 », « Alain Soral »…). Ces éléments
+ont fait l’objet de « recherches actives » et ont constitué le point de départ d’une
+sélection par sérendipité à partir des moteurs de recommandation.
+128
+)74.501.62.951
+:PI(
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| elbonerG
+ed
+seriatisrevinu
+sesserP
+la participation politique des citoyens « ordinaires » sur l’internet
+beaucoup plus présente. Ce filtrage constitue une des raisons de l’attrait de
+Youtube, où les commentaires sont modérés par les utilisateurs ou interdits
+par le propriétaire de la chaîne Youtube qui met en ligne la vidéo. Enfin, la
+population étudiante est particulièrement sensible à la gratuité des vidéos
+puisque les 20-34 ans sont les plus grands consommateurs de quotidiens
+gratuits en France en 2008 (Donnat, 2009).
+Les personnes interrogées commentent faiblement, de l’ordre de 2 à 3
+commentaires par mois et autant de « likes »6. Tous les individus interrogés,
+à l’exception de deux, ne se considèrent pas comme des militants ou des
+sympathisants et affirment ne pas manifester ni participer à des associations
+politiques ou civiques. L’engagement militant est souvent disqualifié, perçu
+négativement.
+Comprendre les activités participatives sur Youtube
+Analyser la participation politique d’internautes « ordinaires »
+Ainsi, l’approche adoptée délaisse les collectifs préalablement constitués
+présents sur la toile (Act-Up, réseau éducation sans frontières…), pour
+ne s’intéresser qu’à des acteurs « ordinaires », solitaires, sans attachement
+partisan. Ces êtres silencieux, au sein des médias traditionnels, n’ont pas
+de porte-parole, mais deviennent actifs, bruyants et agissants sur l’Internet
+grâce aux traces numériques laissées au fil de leurs parcours. L’intérêt
+est porté vers des pratiques politiques « ordinaires », labiles, atomisées,
+décentralisées, en apparence sans finalités, incarnées par les commentaires,
+les « likes », les partages d’informations, les parcours de navigation. Cet
+intérêt pour la participation individuelle est notamment inspiré par le
+courant expressiviste et post-dialogique. Le premier est centré sur l’individu,
+l’empowerment favorisé par les nouvelles technologies de l’information et
+de la communication. Les divers outils mis à la disposition des internautes
+leur permettent d’explorer, de négocier, d’exprimer leur identité à partir des
+contenus mainstream. Grâce à la créativité, le remix, les vidéos provenant
+des médias traditionnels sont détournées de leur sens initial et propo-
+sent une nouvelle problématique. Le courant post-dialogique, présenté par
+Laurence Monnoyer-Smith (Monnoyer-Smith, 2011), souhaite intégrer
+6. Ce nombre vaut uniquement pour les contenus « Actualités et politique ». Les
+« likes » sont adressés en nombre similaire aux vidéos et aux commentaires.
+politiques de communication n° 3 ● automne 2014 129
+)74.501.62.951
+:PI(
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| elbonerG
+ed
+seriatisrevinu
+sesserP
+dossier. s’engager sur internet
+l’évolution des pratiques politiques et pour cela sortir du cadre restreint du
+modèle délibératif. Selon l’auteur, on peut le décomposer en trois niveaux :
+la figure du citoyen n’est pas le seul rôle social à partir duquel les individus
+sont en contact avec le politique ; la discussion du jeu politique n’est pas
+cantonnée à l’espace public politique, elle peut se déployer dans des espaces
+alternatifs (forums de téléréalité, de jeux vidéo…) ; la circulation trans-
+médiatique des contenus audiovisuels, associée à une culture du remix
+et aux outils de partage, encourage de nouvelles formes de participation.
+À un niveau plus général, il englobe les discussions informelles, contin-
+gentes, en dehors de toute appartenance à une communauté politique
+ou autre. La dimension délibérative reste au centre des p réoccupations
+sans que le consensus et la prise de décision constituent des étapes
+incontournables.
+Ces dernières conceptions de la participation démocratique, plus inclusives
+que le militantisme traditionnel, sortent de la marginalité certaines formes
+d’expression (humour, « likes »…) qui s’intègrent alors au jeu démocratique
+et qu’il convient d’étudier en tant que telles. Cependant, un défi majeur
+émerge : trouver une unité à ces pratiques expressives éclatées. Nous pensons
+qu’elle se trouve en partie dans la problématique de la visibilité, elle-même
+ordonnée par les algorithmes. Cette dernière doit être articulée aux travaux
+sur la force des coopérations faibles (Aguitton, Cardon, 2007), à la question
+de la visibilité, ainsi que celle des algorithmes de suggestion, dans le but
+de capter un éventuel sens systémique des traces numériques de récep-
+tion, en apparence atomisées et réduites à une dimension narcissique. En
+effet, les activités produites par les internautes sur le site sont connectées
+les unes aux autres. Elles sont enregistrées et traitées par les algorithmes
+qui vont les amalgamer intelligemment afin de les traduire en logiques de
+consultations. Autrement dit, elles vont permettre de hiérarchiser les vidéos
+et établir des connexités de contenus qui seront utiles pour suggérer des
+vidéos pertinentes.
+Youtube, un objet insaisissable
+Dans une typologie des sites qui constituent le Web 2.0, Dominique Cardon
+place Youtube dans le modèle du phare, auprès de Dailymotion, Myspace et
+Flickr (Cardon, 2008). Cette catégorie se caractérise par la rencontre entre
+les services de mise en relation et de partage de contenus. Il ne faut pas
+130
+)74.501.62.951
+:PI(
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| elbonerG
+ed
+seriatisrevinu
+sesserP
+la participation politique des citoyens « ordinaires » sur l’internet
+oublier que l’anonymat est très répandu sur Youtube7, l’internaute peut alors
+se dérober au regard examinateur de son environnement familial et amical
+(ce qui n’est pas forcément le cas sur Facebook) et assumer une parole poli-
+tique souvent voilée dans un contexte de transparence identitaire. Youtube
+apparaît alors comme le lieu où peuvent se libérer les opinions politiques,
+à l’abri des connaissances personnelles et rentrer en contact avec d’autres
+subjectivités. Selon Dominique Cardon, ce cubisme identitaire, c’est-à-dire
+cette monstration différenciée du moi selon les sites, est moins le résultat
+d’un individu à facettes multiples qu’une conséquence des fonctionnalités
+mises en place par les sites du Web 2.0.
+Si Youtube ne produit pas de contenus en son nom et n’occupe pas de
+fonction éditoriale, son rôle d’appariement et de mise en visibilité en fait un
+acteur agissant à un niveau « méta-éditorial »8. Afin de proposer à l ’utilisateur
+les vidéos les plus pertinentes, la plateforme met en place divers services
+qui distribuent des vidéos éditorialisées. Elles peuvent être accompagnées
+d’un titre, d’un commentaire introductif, de tags, d’annotations incrustées
+dans la vidéo, et s’insèrent dans un corpus de contenus mis en ligne par
+le propriétaire du compte dont la cohérence générale témoigne de centres
+d’intérêt spécifiques, voire de lignes idéologiques. La plateforme d’héberge-
+ment vidéo propose plusieurs modalités d’accès aux contenus. On trouve un
+moteur de recherche (ajustable suivant plusieurs critères : nombre de vues,
+date de mise en ligne, nombre de minutes, chaînes…), des suggestions de
+vidéos en page d’accueil à partir de l’historique de navigation personnel,
+des recommandations de vidéos associées au contenu consulté, la pré-
+sentation des mises à jour des chaînes auxquelles l’utilisateur est abonné.
+Bien que la composition des algorithmes de suggestion soit tenue secrète9,
+7. Malgré des efforts conséquents de Google pour encourager la t endance contraire.
+En effet, après l’achat de Youtube, Google a couplé le compte utilisateur Youtube
+au compte Google+.
+8. Le terme est tiré du chapitre « La publication sur le Web, entre filiations et innova-
+tions éditoriales », écrit par Ghislaine Chartron et Franck Rébillard, dans l’ouvrage
+La redocumentation du monde.
+9. Sans connaître dans le détail le dosage, nous savons que les algorithmes de sugges-
+tion sont basés sur le titre du contenu, les tags, l’historique de consommation, les
+vidéos consultées par les utilisateurs qui ont accédé à ce même contenu (nœuds
+de connexion) et les contenus qui accompagnent le plus souvent la vidéo lue dans
+les playlists d’utilisateurs.
+politiques de communication n° 3 ● automne 2014 131
+)74.501.62.951
+:PI(
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| elbonerG
+ed
+seriatisrevinu
+sesserP
+dossier. s’engager sur internet
+nous savons que les traces numériques de réception que nous avons retenues10,
+conditionnent pour partie la visibilité des contenus, grâce notamment aux
+connexions de sens effectuées via les parcours de navigation mais aussi par
+les commentaires et « likes » qui coagulent une masse sémantique autour
+d’un contenu, signifiant aux autres utilisateurs et moteurs de recomman-
+dation l’intérêt que peuvent susciter certaines vidéos. Youtube est donc un
+acteur agissant à un niveau « méta-éditorial », où l’exercice d’appariement
+est le résultat de la coopération de multiples acteurs : les diffuseurs qui en
+inscrivant des tags et un titre spécifique posent une empreinte éditoriale
+à leur contenu ; les récepteurs qui par leurs diverses activités participati-
+ves (commentaires, « likes », élaboration de « playlists ») et sérendipitaires
+(parcours de navigation) complètent et détournent le sens initialement
+distillé par le diffuseur ; les concepteurs des algorithmes de suggestions qui
+organisent les règles d’interactions entre ces différentes entités.
+Fragmentation de la discussion en ligne et diversification sociale
+des participants
+Une des principales caractéristiques de l’espace public numérique réside
+dans sa fragmentation (Adamic, Glance, 2005 ; Fouetillou, 2008 ; Lev-On,
+Manin, 2006 ; Sunstein, 2007). Cass Sunstein pointe un double mou-
+vement composé d’une segmentation et d’une polarisation de l’espace
+public. Le premier est la conséquence d’une consommation informationnelle
+alternative aux médias de masse. En effet, une fidélité aux canaux tradi-
+tionnels permettait de diffuser un référentiel commun à un grand nombre
+d’individus. Aujourd’hui, l’offre pléthorique d’informations isolerait les
+consommateurs qui préféreraient consulter des contenus avec lesquels ils
+entretiennent une proximité idéologique. Le second mouvement, celui de
+la polarisation, fait état du phénomène d’homophilie à l’œuvre sur Internet.
+Processus également abordé par Bernard Manin (Manin, Lev-On, 2006),
+fondé sur des études empiriques (Fouetillou, 2008), il désigne une tendance
+des internautes à l’entre-soi, à consulter des sites fréquentés par des individus
+d’une opinion similaire, entraînant un renforcement des croyances ainsi
+qu’un autoréférencement.
+10. Pages parcourues, commentaires, tags, « likes ».
+132
+)74.501.62.951
+:PI(
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| elbonerG
+ed
+seriatisrevinu
+sesserP
+la participation politique des citoyens « ordinaires » sur l’internet
+Cependant, toujours selon Bernard Manin, l’intentionnalité qui conduit les
+individus à l’homophilie est limitée. Premièrement, les coûts de recherche
+d’opinions semblables sont importants et peuvent laisser place à la décou-
+verte d’espaces inattendus. Deuxièmement, en rejoignant un site thématique
+(jeux vidéo, sport…), les internautes peuvent être exposés à des digres-
+sions politiques et des opinions contradictoires (Mutz, Wojcieszak, 2009).
+Deux types d’espaces numériques seraient propices à l’altérité politique
+et l’inattendu : les grands sites d’informations ainsi que les moteurs de
+recherche.
+L’espace public numérique est également caractérisé par l’élargissement
+de la prise de parole et l’incorporation des conversations privées dans le
+public (Cardon, 2010). La diversification sociale croissante des internautes
+a opéré un découplage des notions de publicité et de visibilité. En effet,
+traditionnellement, ce qui était visible, c’est-à-dire exposé et accessible
+par le plus grand nombre, était filtré selon le processus de gatekeeping.
+Internet a confié ce rôle de filtrage à la masse des utilisateurs qui par leurs
+activités de censure et de consultation hiérarchisent la visibilité des conte-
+nus via le mécanisme des algorithmes. Il découle de ce rapport de pouvoir
+une intégration massive dans l’espace public de nouveaux registres dis-
+cursifs et des prises de paroles autrefois marginalisées : l’humour, l’agressi-
+vité, la passion ont droit de citer dans les discussions politiques. De plus,
+grâce à l’asynchronie et l’anonymat des échanges, une certaine égalité11
+semble s’installer entre les participants au dialogue. L’accumulation de ces
+différents facteurs est susceptible de favoriser la prise de parole politique
+en public par certains individus qui autrefois pouvaient s’auto-censurer
+ou étaient écrasés par le poids de l’oralité. De plus, ils peuvent s’appuyer
+sur de nombreux services qui permettent de communiquer sans avoir à
+verbaliser sa pensée.
+11. Dominique Cardon, dans « La démocratie Internet », rappelle que l’Internet n’a
+en réalité pas anéanti les inégalités des débatteurs mais a simplement installé un
+modèle méritocratique qui valorise les plus actifs sur le réseau.
+politiques de communication n° 3 ● automne 2014 133
+)74.501.62.951
+:PI(
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| elbonerG
+ed
+seriatisrevinu
+sesserP
+dossier. s’engager sur internet
+Anonymat et hétérogénéité, le pouvoir d’attraction de Youtube
+Pudeur et prise de parole
+Afin de saisir les logiques de prise de parole et les parcours de navigation
+propres à Youtube, nous avons interrogé la participation des internautes sur
+d’autres sites comme Facebook. À partir de cette comparaison nous avons
+identifié deux régimes de prise de parole distincts. Nous sommes parvenus
+à la conclusion que l’échange politique des internautes « ordinaires » est
+fonction de la transparence identitaire et de la visibilité des propos. En
+l’espèce, le critère majeur intervenant dans l’orientation vers un régime de
+parole est la notoriété des croyances politiques de l’internaute.
+Concrètement, les opinions politiques partagées sur Facebook peuvent
+être rattachées à une personne, et visibles par les « contacts »12 de cet indi-
+vidu. Parler politique sur Facebook revient donc à rendre publiques ses
+opinions auprès de « liens forts », mais aussi de « liens faibles ». À l’instar
+d’Icare (24 ans, étudiant en master Sciences de l’Environnement, membre
+d’aucune association), une majorité des enquêtés refuse de parler politique
+sur Facebook afin de préserver leur intimité :
+« Ce genre de vidéos j’évite, parce qu’après tout le monde le sait. »
+À l’aune de ce témoignage, le fameux réseau social numérique crée par Marck
+Zuckerberg n’est pas le lieu privilégié de diffusion de vidéos politiques par
+les internautes « ordinaires ». Ce constat fait écho au travail de Nina Eliasoph
+selon lequel le caractère public du contexte d’énonciation peut inhiber le
+discours politique des citoyens (Eliasoph, 2010). La sociologue américaine
+reprend la terminologie goffmanienne en expliquant que la scène est en
+réalité le lieu où l’on ne parle pas d’esprit public, ou alors en se réfugiant
+derrière des préoccupations personnelles. Toujours selon la chercheuse, il
+apparaît déplacé d’évoquer l’intérêt général en public13, celui-ci est plutôt
+discuté dans un cadre intime, lors de conversations informelles, c’est-à-dire
+en coulisses. Cette « évaporation du politique » née d’une crainte de diviser,
+de mettre en danger le lien communautaire. L’évitement de la prise de parole
+12. Il s’agit du terme désignant les internautes « amis » avec un profil. Selon le choix
+de la personne détenant ce profil, ses « contacts » ont accès à ses publications.
+13. Son étude porte sur des associations américaines.
+134
+)74.501.62.951
+:PI(
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| elbonerG
+ed
+seriatisrevinu
+sesserP
+la participation politique des citoyens « ordinaires » sur l’internet
+chez les enquêtés témoigne de l’importance du « design de la visibilité »,
+déterminé en l’espèce par le régime de transparence identitaire.
+Cet « évitement » peut également se matérialiser par l’utilisation du registre
+humoristique, comme l’explique Mr Ben (20 ans, étudiant en programma-
+tion informatique, membre d’aucune association) :
+« Je partage sur Facebook. Justement je me suis attiré les foudres de
+certaines personnes parce que je me suis rendu compte que trop
+dévoiler ses avis sur Facebook, ou pas de manière drôle – parce
+que les gens le font de manière drôle en général – ça énerve, ça
+agace les gens. »
+Diffuser des opinions politiques en s’appuyant sur l’humour n’est pas une
+pratique nouvelle. Dans leur étude « Le nouveau rapport à la politique
+du citoyen connecté à l’heure du numérique », Laurence Allard et Joëlle
+Menrath remarquent que si le tabou de la parole politique persiste sur
+les réseaux sociaux numériques, les internautes peuvent user de formes
+détournées comme des images ou des vidéos humoristiques et laisser parler
+le contenu. Le recours au pouvoir suggestif de l’humour est également le
+moyen de partager des idées tout en atténuant le degré d’implication per-
+sonnelle et la solennité du discours. Cette approche peut par exemple être
+employée pour un sujet particulièrement clivant qui déclenche les passions.
+Plutôt que de rapporter la parole d’un élu, qui peut être excluant de par son
+attachement partisan et la complexité du discours, un dessin humoristique
+va incorporer de la légèreté et surtout une accroche à la lecture. L’emploi de
+ce registre facilite la mise en contact avec des contenus politiques.
+L’enquête MEDIAPOLIS, menée par le CEVIPOF entre le 23 novembre
+et le 12 décembre 2009, conforte cette analyse : si la « fracture démocra-
+tique » perdure, les internautes non intéressés par la politique trouvent ou
+partagent presque autant de contenus politiques à tonalité humoristique que
+les individus intéressés par la politique. Ainsi, il semblerait que les contenus
+souvent considérés comme triviaux soient les plus à même de cristalliser des
+publics hétérogènes et de rassembler deux populations qui traditionnelle-
+ment n’échangent pas sur la politique : les profanes et les individus politisés.
+Outre l’accès à l’anonymat, la migration vers Youtube peut également s’ex-
+pliquer par la recherche de personnes-ressources intéressées par les contenus
+politiques. Plusieurs enquêtés constituent des leaders d’opinion auprès de
+politiques de communication n° 3 ● automne 2014 135
+)74.501.62.951
+:PI(
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| elbonerG
+ed
+seriatisrevinu
+sesserP
+dossier. s’engager sur internet
+leur entourage décrit comme « incompétent » sur les questions politiques.
+Ce désintérêt de leur environnement social dissuade les enquêtés de par-
+tager des contenus dont ils savent qu’ils ne seront pas consultés. C’est le
+cas de Mr Ben :
+« J’ai récemment découvert que Facebook n’était pas vraiment un
+endroit pour discuter de ces questions, politiques, philosophiques.
+Ça dépend beaucoup des personnes que l’on a sur Facebook.
+Généralement, les personnes que j’ai sur Facebook c’est des amis
+du lycée ou des amis actuels, des camarades. Généralement ils
+sont complètement désintéressés, ça les agace même de parler
+de certaines choses. C’est pour ça que Facebook ça a juste un
+intérêt… c’est vraiment personnel. »
+Lorsque l’homophilie présente sur Facebook est concomitante d’un désin-
+térêt pour la politique, le réseau social numérique américain peut générer
+une certaine frustration pour ceux qui souhaitent débattre. En établissant
+une mise en relation généralisée, Youtube est l’occasion d’atteindre des per-
+sonnes-ressources avec qui échanger. De plus, comme nous le verrons par
+la suite, le site d’hébergement de vidéos offre la possibilité aux interviewés
+de se frotter à l’altérité, accentuant encore plus son attractivité.
+Si la plupart des enquêtés préfèrent éviter les sujets politiques sur Facebook,
+certains n’hésitent pas à livrer leurs opinions. Ils ont pour point commun
+d’être des militants ou des sympathisants dont l’attachement idéologique
+est déjà connu de tous. Ceux qui affirment leurs positionnements hors
+ligne n’auront pas de mal à partager leurs opinions sur Facebook auprès
+d’un cercle social déjà dans la confidence.
+Youtube, une place publique numérique
+L’intentionnalité n’est pas nécessairement un obstacle à la constitution
+d’un espace public hétérogène. Il peut arriver que les enquêtés éprouvent
+le besoin de se confronter à des opinions différentes ou plus simplement de
+diffuser au plus grand nombre des idées auxquelles ils sont attachés. Youtube
+apparaît alors comme l’espace pouvant répondre au mieux à ces demandes.
+Selon les croyances de plusieurs interviewés, Youtube concentrerait une
+plus grande diversité d’opinions que les autres sites. Sa qualité d’héber-
+geur est susceptible d’attirer des publics diversifiés, dans la mesure où il
+136
+)74.501.62.951
+:PI(
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| elbonerG
+ed
+seriatisrevinu
+sesserP
+la participation politique des citoyens « ordinaires » sur l’internet
+n’a pas de ligne éditoriale clairement définie, contrairement aux sites sur
+lesquels les vidéos sont intégrées et commentées. Malgré une consommation
+personnalisée des informations, certains enquêtés peuvent commencer à
+regarder une vidéo sur un site familier et préférer la commenter sur Youtube.
+Nono (24 ans, étudiant en troisième année de licence professionnelle
+de cartographie, sympathisant du Front de Gauche) fait part de son
+expérience :
+« J’ai lâché 2-3 commentaires sur son site officiel [Mélenchon].
+Pas beaucoup parce que c’est un site officiel d’un parti politique
+et donc c’est pas très intéressant. Les gens qui y vont ont qua-
+siment tous les mêmes idées, même s’il y a beaucoup moins de
+clashs. Alors que sur Youtube ça part toujours en “cacahuète”,
+c’est toujours un peu plus excitant. C’est excitant, c’est bien de
+commenter avec des gens qui n’ont pas forcément les mêmes
+idées que soit, même qui ont des idées radicalement oppo-
+sées. [À propos du fait de préférer regarder la même vidéo sur
+Youtube plutôt que sur le site de Télélibre] Je vais sur Youtube
+pour les commentaires et regarder si la vidéo a été appréciée
+par les gens. Parce que ça on ne peut pas le voir sur le site de la
+Télélibre si ça plaît aux gens. […] En général, la vidéo je vais la
+voir en premier sur le site [autre que Youtube] […]. Si je sens
+vraiment que ça m’intéresse je suis capable de fermer le site,
+enfin avant de fermer le site de retaper le titre qu’il y a écrit sur
+Youtube, si je vois qu’il y a la vidéo je clique dessus, je clique sur
+le curseur là où j’ai arrêté la vidéo, je ferme le site, je continue la
+vidéo sur Youtube et ça me permet de voir les commentaires.
+Si je vois que ça me plaît bien, je me dis “c’est sûr cette vidéo
+il faut que je la commente”. J’ai envie de commenter et de voir
+les réactions. »
+Dans une certaine mesure, Youtube pourrait contenir une cohabitation
+des mécanismes de segmentation et de convergence. Bernard Manin et
+Patrice Flichy rappellent qu’un espace public numérique hétérogène ne
+peut se réaliser que dans des espaces informels, sans que les protago-
+nistes aient la volonté de se rencontrer (Flichy, 2008 ; Lev-On, Manin,
+2006). Les entretiens ont révélé, dans un premier temps, que les inter-
+nautes ressentent parfois la nécessité de se rencontrer, de toucher l’altérité,
+politiques de communication n° 3 ● automne 2014 137
+)74.501.62.951
+:PI(
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| elbonerG
+ed
+seriatisrevinu
+sesserP
+dossier. s’engager sur internet
+l’entre-soi n’étant pas le but ultime des échanges. Ce désir se heurte alors
+à une question : quel lieu peut servir de point de ralliement sur l’Internet ?
+Il semblerait que Youtube incarne cette place convergente, il constituerait
+la place publique numérique où tous les internautes peuvent se retrouver
+sans s’être concertés, à l’instar des Champs Élysées lors des grandes victoires
+sportives. Il convient cependant de rappeler des éléments de contexte. Il
+n’est pas avéré que les vidéos d’« Actualités et politique » contiennent des
+commentaires représentatifs de la diversité des opinions, il s’agit en réalité
+d’une perception des enquêtés qui mériterait d’être vérifiée.
+Outre le caractère hétérogène des espaces de débats sur Youtube, les enquêtés
+sont également attentifs au poids de l’audience que les sites d’héberge-
+ment vidéo peuvent générer. Lorsqu’ils souhaitent laisser une trace de leur
+subjectivité, que ce soit sous une forme écrite ou audiovisuelle, certains
+opèrent un calcul stratégique qui les conduit à préférer les plates-formes
+d’hébergement telles Youtube ou Dailymotion, plutôt que le site sur lequel
+est intégrée la vidéo. C’est le cas de Nono :
+« Si je vois que la vidéo m’intéresse vraiment je ne vais pas lâcher
+un commentaire sur son site, je vais lâcher un commentaire sur
+Dailymotion. Il va y avoir plus de monde qui va aller sur Daily-
+motion, ça fait une meilleure publicité. Pour faire passer ses idées,
+il y aura plus de chances que ses idées passent parce qu’il y aura
+plus de monde qui regarde ces vidéos sur Dailymotion ou Youtube
+que sur forcément son site du parti. »
+Il est intéressant d’observer qu’un sympathisant, dont le profil pourrait
+conduire plus facilement à adopter une posture homophile, recherche en
+réalité l’altérité, ne serait-ce que pour convaincre et toucher un maximum
+d’individus. L’approche qualitative adoptée ici vient nuancer des résultats
+obtenus par le moyen de cartographies du Web, qui constataient une homo-
+philie des sites partisans ; ces derniers avaient tendance à majoritairement
+renvoyer vers des sites proposant des opinions assez proches (Fouetillou,
+2009). Sans remettre en cause ce travail sur la connexité des liens, cet extrait
+éclaire sous un nouvel angle la question de la segmentation de l’espace public
+numérique : les sites partisans sembleraient constituer des lieux ressources
+où l’on va chercher l’information, ce qui n’empêche pas ces individus de se
+frotter ensuite à autrui dans des lieux hétérogènes comme Youtube.
+138
+)74.501.62.951
+:PI(
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| elbonerG
+ed
+seriatisrevinu
+sesserP
+la participation politique des citoyens « ordinaires » sur l’internet
+Les enquêtés peuvent aussi se rendre sur Youtube afin de « prendre la tem-
+pérature »14, observer la réception des événements à travers la participation
+des internautes. Toujours selon Nono :
+« J’avais participé à ces manifestations. De suite après, j’ai tout de
+suite voulu voir l’ampleur que ça a eu. Le seul moyen pour moi
+c’était d’aller voir sur Internet et en regardant aussi la manière
+dont les médias classiques parlaient de cette manifestation. […]
+Les gens “likent”, “dislikent”, quand y a plus de vert que de rouge,
+c’est toujours plus intéressant. Quand je regarde par exemple une
+vidéo de Mélenchon, il parle de n’importe quel sujet, un extrait,
+quand y a beaucoup de vert j’aime bien. Je me dis “Voilà les gens
+apprécient ses idées, ça fait plaisir, voilà”. »
+En accédant directement aux réactions de la population, les internautes ne
+sont plus dépendants du ventriloquisme médiatique via les micros-trottoirs,
+sondages… L’évaluation de la portée d’un événement sur le public ne se
+mesure plus seulement en termes de réponses politiques ou de couverture
+médiatique mais à partir aussi de l’expression du public, du succès de
+l’audience (nombre de vues), l’approbation (« likes »), l’articulation d’argu-
+ments. Ces différentes formes d’existence du public sont réalisées à partir
+des traces numériques de réception qui ne doivent donc pas être négligées
+puisqu’elles constituent pour les enquêtés un outil de compréhension des
+représentations sociales.
+En tant qu’hébergeur de vidéos, Youtube augmente ses chances de trafic
+grâce aux erreurs techniques, aux clics maladroits. Cet aspect prosaïque,
+relevant de la contingence technique, ne doit pas être négligé puisqu’il n’est
+pas rare et conduit les internautes à se rendre sur le site malgré eux. En
+effet, dans les premiers temps d’utilisation, le design du site peut induire
+des erreurs. Un clic sur le titre du contenu suffit à renvoyer l’utilisateur sur
+Youtube. Ainsi, l’accès à la plateforme d’hébergement peut être indépendant
+de toute intentionnalité de joindre un espace public hétérogène. Alors, des
+internautes qui ne sont pas forcément sensibles à la question de la pluralité
+des opinions peuvent s’y trouver confrontés.
+Enfin, dans un dernier cas, les enquêtés sont incités à prolonger la lecture
+de la vidéo sur Youtube à cause de l’offre pléthorique de contenus et du
+14. Cette expression renvoie à la volonté de sonder les opinions.
+politiques de communication n° 3 ● automne 2014 139
+)74.501.62.951
+:PI(
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| elbonerG
+ed
+seriatisrevinu
+sesserP
+dossier. s’engager sur internet
+rôle d’aiguillon que peuvent jouer les moteurs de recommandation dans
+une recherche d’approfondissement documentaire.
+Utilisations du « like »
+Aujourd’hui, le « like » fait partie du paysage quotidien de l’Internet. Com-
+prendre sa polysémie nécessite de dresser l’esquisse d’une typologie. Plusieurs
+significations coexistent au sein des différents récits recueillis. Le « like »
+peut être mobilisé pour améliorer la visibilité d’un contenu ; signifier une
+approbation ; révéler son opinion à l’ensemble du public ; remercier l’au-
+teur d’une vidéo ; servir de marque-page. Un même « like » peut réunir ces
+différentes catégories. Ainsi, les sens s’enchevêtrent, se voilent, si bien qu’il
+devient périlleux pour les interviewés de les dissocier. Malgré des efforts,
+il est certain que pour plusieurs enquêtés la richesse de leurs usages des
+« likes » n’a été que partiellement révélée.
+« Like » numéral et « like » calculatoire
+Les enquêtés se sont dits étonnés que l’on questionne frontalement la signi-
+fication du « like ». Il est fort probable qu’eux-mêmes n’aient jamais engagé
+cet effort réflexif, ce qui explique la difficulté lors des entretiens à travailler
+sur sa signification. Spontanément, la grande majorité des interviewés ont
+affirmé que le « like » était une marque d’approbation idéologique pour
+signifier que l’on aime le contenu. Il s’agit de la première catégorie de
+« likes », qui correspond au sens minimal de cette forme expressive. Lors-
+qu’il est appliqué à un commentaire, le « like » peut prendre une dimension
+comptable. Par sa multiplication sur un même commentaire, il entraîne
+un effet de masse et conduit à un soutien amplifié qui est destiné à être vu
+par l’ensemble du public.
+Dans une seconde catégorie, le « like » peut tout simplement s’inscrire dans
+une volonté de poser son empreinte idéologique dans le paysage sémiotique
+afin d’être représenté, comme l’explique Mr Ben :
+« Je pose régulièrement des “likes”. Quand je vois une vidéo qui
+me plaît je mets un “like”. C’est une manière de montrer… Je
+pense que le “like” c’est important parce que c’est important
+d’avoir une idée de qui regarde la vidéo. Si y a plein de gens qui
+adorent la vidéo, qui regardent la vidéo et qui est pourtant dans le
+140
+)74.501.62.951
+:PI(
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| elbonerG
+ed
+seriatisrevinu
+sesserP
+la participation politique des citoyens « ordinaires » sur l’internet
+rouge et que personne ne compense les “dislikes”, c’est dommage
+que ces personnes ne le fassent pas parce qu’après quelque part
+c’est faussé. Cette espèce de barre qui a été faite sur Youtube, c’est
+très intéressant parce qu’on voit au premier coup d’œil l’avis des
+personnes qui vont regarder. »
+Le « like » devient alors un moyen par lequel l’enquêté installe une présence
+aux côtés des autres internautes qui ont participé.
+La troisième catégorie contient des « likes » destinés à encourager la visi-
+bilité des informations. Ils sont divisés en deux groupes. Le premier type
+de « like », que l’on nommera « like » numéral, est en contact direct avec
+le public via l’apparition de son comptage ; le second, que l’on appellera
+« like » calculatoire, est pensé à partir de son intégration dans les algorithmes.
+Dans le cas du « like » numéral, les enquêtés sont attentifs aux différentes
+traces numériques de réception et anticipent sur les diverses représentations
+que les internautes peuvent en faire. Ce travail réflexif conduit les interviewés
+à pratiquer des « likes » stratégiques de mise en visibilité des contenus, en
+essayant d’influer sur la pré-réception de la vidéo. Plus précisément, plu-
+sieurs enquêtés ont émis l’idée que l’équilibre de la jauge des « likes » était
+déterminant dans la décision des internautes de rester ou pas sur la page de
+la vidéo. C’est le cas de Lejeuno (22 ans, étudiant en kinésihérapie, membre
+d’aucune association) :
+« Plus on a de «“likes”, plus on a de chances de recevoir des
+“followers”, des gens qui souscrivent à tout ce que va poster la
+personne en question. Si cette personne est intéressante je vais
+avoir envie de la faire connaître donc je vais “liker” ses vidéos parce
+qu’elles sont intéressantes, je veux que les gens les connaissent.
+Parce qu’il y a beaucoup de gens en fait qui vont sur la vidéo et
+qui regardent la barre de “likes” et “dislikes” et en fonction de
+ça ils restent dessus ou pas parfois. Y a ça et y a aussi un filtre
+par rapport au nombre de “likes”, de vues. C’est un maigre outil
+mais ça reste un outil de diffusion de la vidéo. »
+D’autres vont plus loin en affirmant que les « likes » peuvent jouer sur l’in-
+terprétation du contenu. Alors, les « likes » seraient également des signes
+mobilisés par les enquêtés afin d’intervenir sur le travail d’interprétation
+des internautes. Dans ce cas, les « likes » ne relèvent pas d’une pratique
+politiques de communication n° 3 ● automne 2014 141
+)74.501.62.951
+:PI(
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| elbonerG
+ed
+seriatisrevinu
+sesserP
+dossier. s’engager sur internet
+expressive innocente, désintéressée. Ils s’inscrivent dans un travail de mise
+en visibilité et d’interprétation du contenu.
+Dans un second cas, ils ne sont qu’un rouage du mécanisme algorithmique
+complexe de mise en visibilité des contenus. On parle alors de « like » calcu-
+latoire. Nous avions mentionné en amont les facteurs principaux composant
+les algorithmes de suggestion, les « likes » n’en faisaient pas partie. Toutefois,
+il est probable qu’ils jouent un rôle, même à un degré infime. Une partie
+des enquêtés partage cette croyance et use du « like » afin de favoriser la
+visibilité des vidéos dans la distribution des informations effectuée par les
+différents algorithmes. Mr cool (23 ans, ouvrier à la tâche, membre d’aucune
+association) fait part de son opinion à ce sujet :
+« Un “like” ça porte du soutien à la vidéo qui sera classée après
+dans les catégories Youtube par rapport aux “likes”, aux vues, à
+la page d’accueil Youtube. C’est comme ça moi je me suis déjà
+retrouvé sur une page d’accueil Youtube, il me semble. C’était
+avec les entretiens. Voilà, les “likes” ça sert beaucoup. [Il est
+demandé à l’enquêté s’il assimile le terme “soutien” à une volonté
+d’augmenter l’audience de la vidéo.] Oui, clairement. Je vais
+mettre des “dislikes” pour les vidéos avec lesquelles je ne suis pas
+d’accord ou qui ne racontent que des conneries. »
+Dans ce cas, le « like » apparaît clairement comme un outil de mise en
+visibilité « macro ». Contrairement au « like » numéral, il ne s’agit plus de
+contenir l’attention de l’internaute mais de la capter. Les algorithmes ne
+régissent pas seulement les moteurs de recommandation, ils sont également
+actifs sur le moteur de recherche du site, les classements des vidéos les plus
+vues… La filtration collective des contenus par les activités des internautes
+ne s’effectue pas seulement de manière non intentionnelle. Les enquêtés
+jouent avec les différentes fonctionnalités, ils sont des protagonistes actifs
+de la hiérarchisation des vidéos.
+Une quatrième catégorie de « likes », qui est apparue massivement, consiste
+en un détournement de sa fonction première. En effet, de nombreux enquê-
+tés ont révélé utiliser les « likes » comme des marque-pages. Lorsque ces
+derniers souhaitent se souvenir d’une vidéo ils déposent un « like » qui
+automatiquement apparaît sur l’historique de leur profil et leur permet
+ainsi de retrouver le contenu. On comprend alors l’importance du design
+142
+)74.501.62.951
+:PI(
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| elbonerG
+ed
+seriatisrevinu
+sesserP
+la participation politique des citoyens « ordinaires » sur l’internet
+et l’instabilité de tels usages dans le temps. Il suffit que Youtube intègre une
+nouvelle fonctionnalité permettant de marquer les contenus pour qu’une
+partie des utilisateurs ne voit plus d’intérêt à inscrire des « likes ». Si ce « like »
+est bien éloigné du « like » d’approbation qui semble habiter l’imaginaire
+commun, il témoigne toutefois d’un intérêt pour la vidéo.
+Enfin, dans une dernière catégorie, le « like » sert à remercier le diffuseur
+de la vidéo. En effet, une des motivations des contributeurs réside dans les
+gratifications symboliques (Millerand, Proulx, Rueff, 2010). En inscrivant
+un « like », les internautes entretiennent chez le diffuseur la motivation
+nécessaire à l’élargissement du corpus et lui signalent leur reconnaissance.
+La dimension discursive du « like »
+Avant de clore le propos, il semble important de noter la dimension dis-
+cursive de certains « likes ». Plusieurs enquêtés ont pointé la profusion de
+commentaires qui rendait la visibilité des messages délicate. Certains ont
+alors vu dans le « like » un substitut au commentaire. Parce qu’ils ont peur
+que leur participation soit noyée dans la masse, plusieurs interviewés pré-
+fèrent les « likes » aux commentaires lorsqu’il s’agit de signaler aux autres
+utilisateurs l’intérêt que peut porter tel message15. Le « like » a alors une
+double fonction : il signale à autrui un appui supplémentaire à la pensée
+présentée grâce au comptage des « likes » et contribue à la hiérarchisation
+des commentaires par le processus des « tops commentaires » qui donne
+une exposition privilégiée aux messages les plus approuvés. Écrits et « likes »
+sont donc deux formes sémiotiques qui travaillent ensemble, ces derniers
+ont même enrichi les premiers d’une dimension comptable.
+De plus, le système d’approbation permet de maintenir la place centrale
+de l’écrit et même de la valoriser en impliquant de nouveaux acteurs. Il
+peut s’agir d’individus ne possédant pas les compétences verbales néces-
+saires pour articuler une pensée complexe et qui se retrouvent pleinement
+dans certains commentaires. Ils accèdent alors par ce moyen à l’existence
+scripturaire. Les internautes qui ne souhaitent pas s’investir dans l’écriture
+d’un message trop coûteux en temps et en savoir-faire peuvent utiliser ce
+moyen pour participer à l’échange discursif. Le « like » est donc un outil
+15. Le nombre de « likes » que recueille un commentaire apparaît à côté de ce dernier.
+politiques de communication n° 3 ● automne 2014 143
+)74.501.62.951
+:PI(
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| elbonerG
+ed
+seriatisrevinu
+sesserP
+dossier. s’engager sur internet
+supplémentaire permettant d’exprimer ses idées, qui a tout de même l’avan-
+tage d’ordonner une visibilité régit ordinairement par les plus bavards ou les
+plus habiles.
+Algorithmes et participation politique
+Le « like » politique
+Les algorithmes constituent la pierre angulaire entre les traces numériques
+de réception et l’espace public numérique. L’interrogation des « likes » a
+permis de mettre au jour l’existence d’un « like » politique. Déposé sur
+les vidéos politiques et inférieur en nombre à ceux appliqués aux vidéos
+culturelles, le « like » politique ne semble pas relever d’un acte spontané et
+versatile mais constitue l’aboutissement d’une réflexion mesurée, comme
+l’explique Icare (24 ans, étudiant en sciences de l’environnement, membre
+d’aucune association) :
+« En politique ça fait pas longtemps que je m’y intéresse. Enfin,
+ça a beaucoup plus de poids et d’importance, enfin… Mettre un
+commentaire ou un “like” sur une vidéo politique ça a beaucoup
+plus d’impact. Enfin, ça a beaucoup plus d’impact, c’est pas la
+fin du monde. Enfin voilà quoi, je me calme un peu et je fais
+plus attention. »
+L’enquêté établit une véritable économie du « like » politique. Il est mûre-
+ment réfléchi, il a une portée, un « poids », de l’« importance ». Dans le
+cas présent, le « poids » n’est pas synonyme de visibilité, mais caractérise
+plutôt le statut particulier qu’a le « like » lorsqu’il est en interaction avec les
+contenus politiques. Les enquêtés semblent avoir intériorisé une hiérarchie
+de légitimité des différents objets et adopté en conséquence des pratiques
+spécifiques. En résumé, le « like » politique a une certaine solennité et engage
+son auteur, contrairement aux « likes » destinés à des contenus culturels.
+Un renouvellement dans la continuité
+Ce constat ouvre de nouvelles pistes de réflexion et conduit à questionner
+les modalités d’engagement politique sur l’Internet. En effet, si l’on couple
+ce « like » politique aux « likes » numéraux et calculatoires présentés pré-
+cédemment, nous réunissons des conditions propices à l’émergence de
+144
+)74.501.62.951
+:PI(
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| elbonerG
+ed
+seriatisrevinu
+sesserP
+la participation politique des citoyens « ordinaires » sur l’internet
+nouvelles formes de participation à l’espace public, qui s’approchent des
+engagements de type traditionnel. En effet, si une manifestation représente
+un investissement, un calcul rationnel coûts/avantages, le « like » politique
+est lui aussi soumis à un calcul qui n’intègre pas les mêmes variables dans
+l’équation16 mais réunit les mêmes enjeux, c’est-à-dire une lutte pour la
+visibilité17.
+On rappellera que les jeunes générations consultent régulièrement les vidéos
+politiques et n’hésitent pas à utiliser les dispositifs sociotechniques innovants
+au détriment des formes de participation et de lieux plus traditionnels comme
+les forums dédiés, les propositions de solutions aux politiques publiques,
+les pétitions… Les entretiens confirment cette appétence chez la jeunesse
+connectée mais pointent dans le même temps un maintien des canons de
+l’expression politique18, un respect de la chose publique, qui s’hybrident
+à des fonctionnalités non conventionnelles (« likes », hypertextualité…).
+Une grande partie des interviewés ne se reconnaît pas dans la logique tra-
+ditionnelle du militantisme, de la manifestation, des partis politiques, de
+la délégation de la parole. Leur conception de la participation politique se
+rapproche plus de l’« engagement distancié » (Ion, 1997), sous la forme de
+« mobilisations informationnelles » (Cardon, 2012). La connaissance des
+représentations sociales d’autrui (à travers les commentaires et les « likes »),
+des mouvements d’idées, sont un des moteurs qui conduisent les internautes
+« ordinaires » à faire circuler les contenus informationnels sur l’Internet.
+La mise en visibilité des vidéos est moins conditionnée par la volonté de
+convaincre que par celle de « faire réfléchir », comme l’explique Nono :
+« Oui, enfin, je partage pas forcément pour convaincre. Je dirais
+pas convaincre car on a le droit de pas être d’accord. Mais c’est
+pour, comment dire, les faire réfléchir, au moins les faire réfléchir,
+à son programme, voilà. »
+L’expression « faire réfléchir » est revenue régulièrement au cours des entre-
+tiens. Elle traduit un certain état d’esprit qui a pour souci de prendre de
+16. Un clic est moins coûteux qu’une participation à une manifestation.
+17. On entend visibilité dans un double sens, c’est-à-dire une visibilité perceptive
+(porter à la connaissance), mais aussi le fait de rendre légitime une cause auprès
+d’un public.
+18. Plusieurs enquêtés ont fait part de leur attachement à l’échange d’arguments
+rationnels.
+politiques de communication n° 3 ● automne 2014 145
+)74.501.62.951
+:PI(
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| elbonerG
+ed
+seriatisrevinu
+sesserP
+dossier. s’engager sur internet
+la distance avec toute pratique pouvant être assimilée à du prosélytisme.
+Cependant, la frontière semble bien mince entre la simple intention de
+« faire réfléchir » et celle de convaincre. La volonté commune est de rendre
+visible une thématique, d’y rendre sensible un maximum de personnes.
+Cette configuration semble proche de celle des groupes d’intérêts qui ten-
+tent de promouvoir des causes au sein de l’espace public. Toutefois, les
+acteurs sont différents, ils sont « ordinaires » et ne s’inscrivent pas au sein
+de structures établies, ils ne sont pas professionnalisés. Cependant, les
+pratiques expressives que nous avons analysées plus haut comme le « like
+politique » conduisent à relativiser le caractère opportuniste du travail de
+mise en visibilité et à rapprocher en ce sens ces internautes des militants
+ou sympathisants.
+Il est important de signaler que les interviewés ne se considèrent pas comme
+des militants et sont pessimistes quant aux effets réels du partage d’informa-
+tions. En effet, l’acte de militance classique et la mise en visibilité d’infor-
+mations sur l’Internet ne sont pas mis au même plan par les enquêtés. Selon
+ces derniers, le militantisme reste une activité bien définie, se caractérisant
+par un certain prosélytisme et un coût d’investissement important.
+Participation individuelle et fusion dans un collectif algorithmique
+Si les enquêtés n’ont pas d’ambition mobilisatrice, qu’ils le veuillent ou non,
+ils sont pris dans le jeu des algorithmes qui récoltent les traces numériques
+de réception et ordonnent la visibilité des vidéos. Les diverses activités
+autour d’un contenu, qu’elles soient destinées à un interlocuteur précis
+ou à un public, sont sur un pied d’égalité, réduites à un code binaire par
+les algorithmes qui les intègrent à un processus de hiérarchisation de l’in-
+formation. Cette configuration inédite semble conduire à l’émergence de
+nouvelles formes d’actions collectives dont il convient d’analyser le rapport
+qu’elles peuvent entretenir à l’espace public.
+Les interviewés s’inscrivent dans une démarche horizontale, presque inter-
+personnelle, il s’agit d’atteindre son voisin, de l’inviter à « réfléchir » sur cer-
+tains sujets, sans aller tracter ou toute autre activité qui réclamerait un inves-
+tissement important et ambitionnerait d’influer sur l’agenda médiatique.
+Ils s’adressent directement au public et interagissent avec lui, déconnectés
+des intermédiaires, d’où l’utilité des traces numériques de réception sur
+Youtube qui leur permettent d’échanger dans un espace conflictuel faisant
+146
+)74.501.62.951
+:PI(
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| elbonerG
+ed
+seriatisrevinu
+sesserP
+la participation politique des citoyens « ordinaires » sur l’internet
+office de place publique numérique. De plus, l’affiliation partisane peut
+paraître aliénante. Le format vidéo permet alors des engagements plus
+ponctuels et ainsi de préciser plus justement au sein de l’espace public ce
+qui vaut la peine d’être vu. Par exemple, le soutien à un candidat ou la
+participation à une manifestation sont compris comme une approbation
+générale de l’univers idéologique de l’homme politique ou du parti que
+l’on défend. Au contraire, favoriser la visibilité d’une vidéo d’un représen-
+tant politique donne la possibilité à l’internaute d’apporter son soutien de
+manière ciblée et de rester fidèle à ses croyances sans embrasser la totalité
+du programme politique.
+Cependant, si cet environnement algorithmique ouvre le champ des possi-
+bles, il apporte également de nombreuses limites. En effet, les interviewés
+n’appartiennent pas à des groupes d’intérêts, le travail de mise en visibilité
+des contenus s’exerce solitairement19, selon des croyances et des motivations
+personnelles, qui peuvent être soumises à des fluctuations. Le lien entre
+les internautes peut être discursif (commentaires) mais s’effectue quoiqu’il
+arrive par le biais des algorithmes qui neutralisent la consistance sémantique
+des traces pour les réduire à des codes informatiques, aplanissant ainsi les
+saillances cognitives.
+Cette rencontre entre la participation d’internautes « ordinaires » et les
+algorithmes pose une tension méthodologique fondamentale. La seule
+observation ne permet pas de distinguer les différents types de « likes » et
+l’intention de leurs auteurs, notamment ceux qui cherchent à favoriser la
+visibilité de contenus. À l’image des vols groupés d’oiseaux dans le ciel,
+il est particulièrement difficile de dégager une représentation collective et
+fidèle de ces individualités agissantes et polymorphes, réunies autour de la
+même modalité participative. Capter ces nuées d’internautes « ordinaires »
+est d’autant plus difficile qu’ils n’appartiennent à aucune association et ne
+portent pas de projets ou des revendications définies.
+19. En réalité ce n’est pas le cas puisque la portée d’un « like » ou d’un parcours de
+navigation n’a de poids que collectivement.
+politiques de communication n° 3 ● automne 2014 147
+)74.501.62.951
+:PI(
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| elbonerG
+ed
+seriatisrevinu
+sesserP
+dossier. s’engager sur internet
+bibliographie
+Adamic L., Glance N., “The political blogosphere and the 2004 US
+election: Divided they blog”, 2005. http://www.ramb.ethz.ch/CDstore/
+www2005-ws/workshop/wf10/AdamicGlanceBlogWWW.pdf
+Aguiton C., Cardon D., “The strength of Weak Cooperation: An attempt
+to Understand the Meaning of Web2.0”, Communications & Strategies,
+2007, n° 65.
+Allard L., Menrath J., (juin 2012). Joëlle Menrath et Laurence Allard
+racontent leur étude sur le nouveau rapport à la politique du citoyen connecté
+à l’heure du numérique. [En ligne] : http://www.fftelecoms.org/articles/
+joelle-menrath-et-laurence-allard-racontent-leur-etude-sur-le-nouveau-
+rapport-la-politique (consulté le 20 août 2012).
+Cardon D., « Le design de la visibilité. Un essai de cartographie du Web
+2.0 », Réseaux, 2008/6, n° 152.
+Cardon D., Granjon F., Médiactivistes, Presses de Sciences-Po, 2010.
+Cardon D., La démocratie Internet. Promesses et limites, La République des
+idées / Seuil, 2010.
+Chartron G., Rebillard F., « La publication sur le Web, entre filiations
+et innovations éditoriales », in Pedauque R.T., La redocumentarisation du
+monde, Éditions Cépaduès, 2007.
+Dahlgren P., Media and Political Engagement: Citizens, Communication
+and Democracy, Cambridge University Press, 2009.
+Donnat O., Les pratiques culturelles des Français à l’ère numérique. Enquête
+2008, La Découverte, 2009.
+Eliasoph N., L’évitement du politique : Comment les Américains produisent
+l’apathie dans la vie quotidienne, Economica, Études sociologiques, 2010.
+Flichy P., « Internet et le débat démocratique », Réseaux, 2008, vol. 26, n° 150.
+Fouetillou G., « Le Web et le traité constitutionnel européen. Écologie
+d’une localité thématique compétitive », Réseaux, 2008, vol. 26, n° 147.
+Graham T., “Needles in a haystack: a new approach for identifying and
+assessing political talk in nonpolitical discussion forums”, Javnost-The
+Public, 2008, vol 15, n° 2.
+Granjon F., L’internet militant, Apogée, 2001.
+Ion J., La fin des militants, Éditions de l’Atelier, 1997.
+148
+)74.501.62.951
+:PI(
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| elbonerG
+ed
+seriatisrevinu
+sesserP
+la participation politique des citoyens « ordinaires » sur l’internet
+Kim J., Kim E J, “Theorizing Dialogic Deliberation: Everyday Political
+Talk as Communicative Action and Dialogue”, Communication Theory,
+vol 18, n° 1, 2008.
+Klein B., Wardle C., “‘These Two Are Speaking Welsh on Channel 4!’
+Welsh Representations and Cultural Tensions on Big Brother”, Television
+and New Media, 2008, vol 9, n° 6.
+Lev-On A., Manin B., « Internet : la main invisible de la délibération »,
+Esprit, mai 2006.
+Mansbridge J., “Everyday Talk in the Deliberative System”, Deliberative
+Politics: Essays on Democracy and Disagreement, sous la dir. S. Macedo,
+Oxford University Press, 1999.
+Millerand F., Proulx S., Rueff J., Web social, Mutation de la communi-
+cation, Presses de l’université du Québec, coll. Communication, 2010.
+Monnoyer-Smith L., « La participation en ligne, révélateur d’une évolution
+des pratiques politiques ? », Participations, 2011, n° 1.
+Monnoyer-Smith L., « Le débat public en ligne : une ouverture des espaces
+et des acteurs de la délibération ? », Le débat public : une expérience française
+de démocratie participative, sous la dir. Revel M., Blondiaux L., Fourniau
+J.-M., Dubreuil Hériard B., Lefebvre R., La Découverte, 2007.
+Mutz D., Wojcieszak M., “Online Groups and Political Discourse: Do
+Online Discussion Spaces Facilitate Exposure to Political Disagreement?”,
+Journal of Communication, 2009, n° 59.
+Norris P., Critical Citizens. Global Support for Democratic Governance,
+Oxford, University Press, 1999.
+Sunstein C., Republic.com. Princeton University Press, 2007.
+Van Zoonen L, Vis F, Mihelj S., “Performing Citizenship on YouTube:
+Activism, Satire and Online Debate around the anti-Islam Video Fitna”,
+Critical Discourse Studies, 2010, vol 7, n° 4.
+Vedel T., Mediapolis, Information politique et citoyenneté à l’ère numérique.
+CEVIPOF. [En ligne] : http://www.cevipof.com/fr/mediapolis/rapport/
+(consulté le 20 août 2012).
+Wojcik S., « Prendre au sérieux la démocratie électronique. De quelques
+enjeux et controverses sur la participation politique en ligne », La démo-
+cratie électronique, sous la dir. Forey, E, Geslot, C, L’Harmattan, 2011.
+Wright S., “From ‘Third place’ to ‘Third space’: everyday political talk
+in non-political online spaces”, Javnost-The Public, 2012, vol 19, n° 3.
+politiques de communication n° 3 ● automne 2014 149
+)74.501.62.951
+:PI(
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| elbonerG
+ed
+seriatisrevinu
+sesserP
+dossier. s’engager sur internet
+Résumé : Le présent article analyse la politique sur l’Internet en étudiant
+un objet souvent délaissé, en l’occurrence Youtube, tout en se foclaisant
+sur les pratiques d’individus « ordinaires ». Ce positionnement permet de
+mettre en lumière de nouvelles modalités d’engagements, moins saillan-
+tes, qui pourtant structurent profondément l’espace public numérique.
+Les entretiens réalisés permettent d’aller au-delà de la simple observation
+ou cartographie du Web, en éclairant notamment le sens des pratiques
+et la centralité de Youtube qui fait figure de place publique en ligne. La
+plateforme d’hébergement de vidéo constitue un point de convergence
+au sein d’un espace numérique fragmenté. Les divers outils d’expres-
+sion qu’elle propose (commentaires, « likes », liens hypertextes) élargis-
+sent la prise de parole, favorisant ainsi la formation de collectifs origi-
+naux, grâce aux algorithmes qui coagulent une participation atomisée.
+mots-clés : espace public numérique, Youtube, prise de parole,
+« like », place publique.
+Abstract: This research proposal seeks to introduce elements in under-
+standing online policy by studying an often ignored subject, the
+case of Youtube, while focusing on the habits of “ordinary” users.
+This perspective highlights new forms of engagement, though less
+prominent, that still profoundly structure the online public sphere.
+Interviews allow research to extend beyond simple observations or Web
+cartography, underscoring the practices and the centrality of Youtube,
+which itself can be interpreted as an online public place. The video
+hosting platform constitutes a convergence point at the heart of a frag-
+mented public sphere. The various tools of expression that it proposes
+(comments, “likes”, hyperlinks) expand the scope of who can express
+themselves while also favoring the creation of original associations due
+in part to the algorithms that facilitate a more scattered participation.
+Keywords: digital public sphere, Youtube, public talk, « like », public
+square.
+150
+)74.501.62.951
+:PI(
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| elbonerG
+ed
+seriatisrevinu
+sesserP

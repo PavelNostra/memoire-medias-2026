@@ -17,7 +17,7 @@ tokens_seq1 <- corpus_seq1 |>
 
 ## L’homogénéité de la densité émotionnelle entre les médias ne constitue pas un critère de distinction.
 
-Une première analyse de notre corpus de transcriptions de deux mois de vidéos et journaux est celle de l'émotion. En effet, comme nous l'avons vu dans notre [état de l'art](#sec-etat-art) une caractéristique des médias alternatifs serait un rapport à l'émotion plus accentué que pour les médias dominants. Alors, pour il parait naturel de s'intéresser à cet aspect pour les médias indépendants numériques. Néanmoins, une question s'est alors posée : comment mesurer automatiquement l'émotion d'un texte ? 
+Une première analyse de notre corpus de transcriptions de deux mois de vidéos et journaux est celle de l'émotion. En effet, comme nous l'avons vu dans notre [état de l'art](#sec-etat-art) une caractéristique des médias alternatifs serait un rapport à l'émotion plus accentué que pour les médias dominants. Alors, pour il parait naturel de s'intéresser à cet aspect pour les médias alternatifs numériques. Néanmoins, une question s'est alors posée : comment mesurer automatiquement l'émotion d'un texte ? 
 
 Après quelques recherches, il se trouve que le dictionnaire FEEL [SOURCE] est une solution satisfaisante. Il s'agit d'un dictionnaire de 14 000 mots français classés selon leur polarité (un mot peut être soit positif, soit négatif) et selon six émotions (à savoir : joie, peur, tristesse, colère, surprise, dégoût). Cette nomenclature est issue de la théorie d'Ekman. 
 
@@ -133,7 +133,7 @@ ggplot(polarity_summary,
   )
 ```
 
-La figure \ref{fig:graph-emotions-2} présente la densité de mots *négatifs* ou *positifs* pour 1000 mots selon les médias. A nouveau, on remarque une forte homogénéité inter-média. En effet, entre 22% et 24% des mots *FEEL* utilisés sont négatifs et aucun média ne semble en utiliser particulièrement plus par rapport aux autres. C'est pourquoi, à ce stade de notre analyse, une conjecture semble émerger : l'émotion n'est pas un facteur discriminant pour étudier les médias indépendants numériques et les médias dominants. Cette conjecture est assez forte dans la mesure où elle va à l'encontre d'une pré-notion issue de notre [état de l'art](#sec-etat-art).
+La figure \ref{fig:graph-emotions-2} présente la densité de mots *négatifs* ou *positifs* pour 1000 mots selon les médias. A nouveau, on remarque une forte homogénéité inter-média. En effet, entre 22% et 24% des mots *FEEL* utilisés sont négatifs et aucun média ne semble en utiliser particulièrement plus par rapport aux autres. C'est pourquoi, à ce stade de notre analyse, une conjecture semble émerger : l'émotion n'est pas un facteur discriminant pour étudier les médias alternatifs numériques et les médias dominants. Cette conjecture est assez forte dans la mesure où elle va à l'encontre d'une pré-notion issue de notre [état de l'art](#sec-etat-art).
 
 Alors, pour tenter de confirmer cette hypothèse, intéressons nous à la densité générale de mots *FEEL* par médias. L'objectif de cette démarche est d'élargir la focale pour essayer de dégager une différence entre les médias. Si nous ne pouvons pas mettre en valeur de différences entre les médias lorsque l'on s'intéresse aux différents types d'émotions ou à leur polarité, peut-être que le portrait global de la situation nous permettra, lui, d'avoir un regard autre. Nous obtenons la figure \ref{fig:graph-emotions-3}. 
 

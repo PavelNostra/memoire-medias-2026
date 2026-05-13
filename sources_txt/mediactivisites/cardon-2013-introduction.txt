@@ -1,0 +1,329 @@
+Introduction
+Dominique Cardon, Fabien Granjon
+Dans Médiactivistes 2013 , pages 7 à 13
+Éditions Presses de Sciences Po
+ISSN 1962-6274
+ISBN 9782724614312
+Date de mise en ligne : 01/02/2014
+Article disponible en ligne à l’adresse
+https://shs.cairn.info/mediactivistes--9782724614312-page-7?lang=fr
+Découvrir le sommaire de ce numéro, suivre la revue par email, s’abonner...
+Scannez ce QR Code pour accéder à la page de ce numéro sur Cairn.info.
+Distribution électronique Cairn.info pour Presses de Sciences Po.
+Vous avez l’autorisation de reproduire cet article dans les limites des conditions d’utilisation de Cairn.info ou, le cas échéant, des conditions générales de la licence souscrite par votre
+établissement. Détails et conditions sur cairn.info/copyright.
+Sauf dispositions légales contraires, les usages numériques à des fins pédagogiques des présentes ressources sont soumises à l’autorisation de l’Éditeur ou, le cas échéant, de
+l’organisme de gestion collective habilité à cet effet. Il en est ainsi notamment en France avec le CFC qui est l’organisme agréé en la matière.
+duction
+intro
+La production de l’information est un enjeu de lutte.
+Qui la produit, la contrôle et en assure la diffusion ?
+Comment peut-on en garantir l’indépendance, la diversité
+et la fiabilité ? Pourquoi réserver aux seuls professionnels
+de l’information le droit de produire nos représentations
+du monde ? Pourquoi ne pas susciter d’autres formes d’ex-
+pression ou de récits du réel ?
+Le développement de vastes conglomérats de médias
+professionnels qui s’est accéléré tout au long du xxe siècle
+n’a cessé de susciter des inquiétudes et d’encourager l’avè-
+nement d’une production alternative d’information qui
+se voulait en opposition, ou en marge, de ce qui était
+diffusé par les médias dominants. L’histoire des médias
+modernes – la presse écrite, le cinéma, la radio et la télévi-
+sion – est donc inséparable de celle des critiques qui l’ont
+accompagnée en cherchant à produire d’autres manières
+de raconter le monde.
+Comment cependant définir les critères d’un partage
+entre médias dominants et médias alternatifs ? Faut-il
+prêter attention au statut – professionnel, amateur ou mili-
+tant – du producteur d’information ? est-ce la nature des
+canaux de diffusion qui sépare les médias dominants des
+médias alternatifs ? Doit-on interroger les techniques de
+mise en récit des événements pour les opposer ? La seule
+Mediactivistes.indb 7 24/10/13 16:33
+)82.921.452.491
+:PI(
+elliL
+ed
+étisrevinU
+aiv
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| oP
+secneicS
+ed
+sesserP
+8 médiactiviSteS
+revendication d’opposition à l’hégémonie culturelle des
+médias de masse conférerait-elle à certains le droit de se
+dire alternatifs ? aussi, afin d’explorer la variété, l’histoire
+et les contradictions des formes alternatives de production
+de l’information, nous en proposons dans cet ouvrage une
+définition délibérément large.
+en effet, si la production, la diffusion et le contrôle
+de l’information sont au cœur de tous les mouvements
+sociaux, ils constituent aussi un répertoire d’actions spé-
+cifiques. Nous désignerons par le syntagme « mobilisations
+informationnelles » ou par le néologisme « médiactivisme »
+les mobilisations sociales progressistes qui orientent leur
+action collective vers la critique des médias dominants et/
+ou la mise en œuvre de dispositifs alternatifs de produc-
+tion d’information. Il faut noter que la critique de l’ordre
+dominant de l’information et la mise en place de circuits
+d’information parallèles sont également le fait de groupes
+politiques conservateurs. S’ils ont plus fréquemment déve-
+loppé des revues intellectuelles que des médias alternatifs,
+il existe en revanche une galaxie dense et active de mobi-
+lisations informationnelles d’extrême droite. Prétextant de
+la discrimination dont ils font l’objet dans l’espace média-
+tique traditionnel, de nombreux groupes extrémistes orga-
+nisés sur des bases religieuses, racistes ou nationales ont
+en effet développé des outils d’information qui leur sont
+propres, généralement plus communautaires que prosé-
+lytes. Ces médias d’extrême droite ont aujourd’hui trouvé
+sur internet un nouveau terrain de déploiement. Toutefois,
+nous n’aborderons pas ce continent noir du médiactivisme
+qui mériterait, à lui seul, un tout autre angle d’analyse.
+Dans l’acception politiquement restrictive que nous en
+faisons, les mobilisations informationnelles épousent des
+Mediactivistes.indb 8 24/10/13 16:33
+)82.921.452.491
+:PI(
+elliL
+ed
+étisrevinU
+aiv
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| oP
+secneicS
+ed
+sesserP
+introduction 9
+formes très variées pouvant aller de la critique des médias,
+comme le font ces groupes de surveillance (watchdogs)
+qui scrutent le travail des journalistes, à la production
+par des organisations syndicales ou politiques de médias
+qui leur sont propres, en passant par toute une gamme
+de médias alternatifs autonomes, sans oublier les mouve-
+ments revendicatifs qui prennent forme au sein même du
+champ journalistique. Cette perspective délibérément large
+est nécessaire pour éclairer les trois enjeux qui seront au
+cœur de cet ouvrage.
+Le premier volet est historique. On ne peut comprendre
+les transformations des médias alternatifs à l’heure d’inter-
+net sans retracer l’histoire récente des formes de la critique
+de l’information. Beaucoup de conceptions alternatives
+de l’activisme et de l’information sur internet, promptes à
+affirmer une rupture radicale avec le passé, sont oublieuses
+des traditions sociales, politiques et culturelles dont elles
+sont héritières. Même s’il est impossible de rendre compte
+de manière un tant soit peu exhaustive de la diversité et
+encore moins du détail des expériences relevant de cette
+forme de conflictualité sociale et culturelle, on regardera
+comment les enjeux et les perspectives du médiactivisme
+se sont transformés en fonction des conjonctures poli-
+tiques et technologiques depuis l’après-guerre. Nous pro-
+posons de nous arrêter sur trois moments importants : les
+différentes tentatives de médias révolutionnaires conçus
+dans les années 1960 et 1970 en étroite association avec
+les organisations politiques d’obédience marxiste (cha-
+pitre 2), la querelle du « nouvel ordre mondial de l’infor-
+mation et de la communication » à l’unesco (Organisation
+des Nations unies pour l’éducation, la science et la
+culture), qui a structuré le paysage des médias alternatifs
+Mediactivistes.indb 9 24/10/13 16:33
+)82.921.452.491
+:PI(
+elliL
+ed
+étisrevinU
+aiv
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| oP
+secneicS
+ed
+sesserP
+10 médiactiviSteS
+des années 1970 (chapitre 3), la jointure qui s’est opérée
+au début des années 2000 entre le mouvement altermon-
+dialiste et les nouvelles opportunités de communication
+offertes par internet (chapitre 4). Les évocations de ces
+mobilisations informationnelles seront nécessairement
+trop brèves et impressionnistes pour rendre compte de
+leur pleine complexité. Nous ferons l’impasse sur nombre
+d’expériences originales qui ont été menées dans des
+situations géopolitiques variées (afrique, asie, etc.) et sur
+certaines techniques de diffusion de l’information comme
+le fanzine ou la cassette vidéo. Nous prenons cependant le
+parti de puiser nos exemples dans des contextes très dif-
+férents, afin de rendre compte a minima de cette richesse.
+Cette approche historique permettra aussi de rendre
+compte de la transformation du rapport que le médiacti-
+visme entretient avec la politique sur la période étudiée.
+L’évolution des médias alternatifs doit d’abord être pensée
+en interaction étroite avec celle de l’espace journalistique
+traditionnel. Celui-ci a connu depuis l’après-guerre un
+profond processus d’autonomisation par rapport aux mou-
+vements sociaux et politiques. Les médias « de parti » ont
+quasiment tous disparu au profit d’une revendication de
+professionnalisme et d’objectivité dans le traitement de
+l’information, processus qui, non sans paradoxe, accom-
+pagne l’emprise de plus en plus forte du monde écono-
+mique sur les médias. Mais l’histoire des médias alternatifs
+accompagne aussi les transformations du répertoire d’ac-
+tions du mouvement social, qui se caractérise par une
+individualisation et une des formes d’engagement. On
+observera de la même manière le passage progressif de
+mobilisations informationnelles fortement insérées dans
+un cadre politique, partisan et idéologique, vers des formes
+Mediactivistes.indb 10 24/10/13 16:33
+)82.921.452.491
+:PI(
+elliL
+ed
+étisrevinU
+aiv
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| oP
+secneicS
+ed
+sesserP
+introduction 11
+de plus en plus individualisées d’engagement expressif
+dans les médias alternatifs, sans qu’aucune structure par-
+tisane ou syndicale n’y prenne part.
+Le deuxième objectif de ce parcours historique sera
+de faire apparaître les tensions internes qui traversent de
+façon continue le médiactivisme (chapitre 1). Celles-ci se
+caractérisent par le rapport critique qu’elles entretiennent
+à l’égard des médias d’information traditionnels. Toutefois,
+cette critique peut prendre deux orientations très diffé-
+rentes. Ces deux chemins divergents nous semblent
+constituer la dynamique interne de l’histoire des médias
+alternatifs. D’inspiration marxiste, la première orientation
+dénonce les effets de la monopolisation de la produc-
+tion de l’information par des conglomérats économico-
+politiques de plus en plus concentrés. Cette analyse, que
+nous appellerons « contre-hégémonique », s’attache à
+mettre en lumière la fonction propagandiste des médias
+et appelle à la création d’un contre-pouvoir. une autre
+orientation de la critique des médias, que nous appelle-
+rons « expressiviste », dénonce quant à elle la réduction
+de la couverture des événements par les médias centraux
+aux seules activités des acteurs dominants. elle reven-
+dique alors un élargissement des droits d’expression des
+personnes en proposant des dispositifs de prise de parole
+ouverts qui doivent leur permettre de s’affranchir des
+contraintes imposées par les formats médiatiques profes-
+sionnels. Bien qu’étroitement complémentaires, ces deux
+orientations de la critique des médias ont donné naissance
+à des mobilisations informationnelles de natures très diffé-
+rentes tout au long de l’histoire que nous allons parcourir.
+enfin, l’histoire du médiactivisme a partie liée avec
+celle des innovations technologiques qui donnent forme
+Mediactivistes.indb 11 24/10/13 16:33
+)82.921.452.491
+:PI(
+elliL
+ed
+étisrevinU
+aiv
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| oP
+secneicS
+ed
+sesserP
+12 médiactiviSteS
+à la production et à la diffusion des informations. La
+miniaturisation, la simplification et la qualité des outils
+de production, notamment des dispositifs de capture de
+l’image et du son, ainsi que l’abaissement considérable
+de leurs coûts ont largement facilité leur appropriation
+individuelle ou collective. Les innovations dans l’univers
+des réseaux (radio, câble, etc.) ont aussi permis un accès
+renouvelé aux grands systèmes de diffusion de l’infor-
+mation. Les médias alternatifs ont toujours entretenu un
+rapport d’intimité très particulier avec les technologies,
+fait d’inventivité, de fascination, de détournement d’usage
+et de bricolage. À cet égard, l’arrivée d’internet constitue
+un contexte nouveau, dans la mesure où il ne se contente
+pas de faciliter la production d’informations numériques,
+mais rend aussi possible leur diffusion, et ce à moindre
+coût. Ce qui constituait le nœud principal de la critique
+des médias – l’effet de clôture exercé par des gatekeepers
+monopolisant le droit de choisir les informations méritant
+une diffusion sur les grands réseaux de communication –
+a perdu de son efficacité. aussi faudra-t-il interroger le
+destin du médiactivisme dans le contexte créé par l’idée
+qu’il est désormais possible à tous de publier sur inter-
+net (chapitre 5). Doit-on pour autant en conclure que
+ce nouveau contexte technologique, qui s’accompagne
+d’une individualisation expressive toujours plus forte de
+nos sociétés, signe la fin des mobilisations information-
+nelles ? Les nouvelles pratiques militantes et information-
+nelles de l’internet, comme les révélations de documents
+confidentiels par WikiLeaks, les usages du réseau lors des
+révolutions arabes, les mouvements des Indignés/Occupy
+ou les actions des anonymous, témoignent d’un processus
+d’individualisation et d’auto-organisation qui radicalise
+Mediactivistes.indb 12 24/10/13 16:33
+)82.921.452.491
+:PI(
+elliL
+ed
+étisrevinU
+aiv
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| oP
+secneicS
+ed
+sesserP
+introduction 13
+la dynamique historique observée dans les chapitres pré-
+cédents. La séparation entre information et mobilisation
+s’estompe dans les nouvelles pratiques militantes qui ont
+internet pour support. Les affiliations partisanes et organi-
+sationnelles perdent de leur importance, et c’est désormais,
+de façon beaucoup plus réactive et décentralisée, la coordi-
+nation « par le bas » d’échanges d’information et d’actions
+concertées qui caractérise les formes les plus récentes prises
+par le médiactivisme sur internet (chapitre 6).
+Mediactivistes.indb 13 24/10/13 16:33
+)82.921.452.491
+:PI(
+elliL
+ed
+étisrevinU
+aiv
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| oP
+secneicS
+ed
+sesserP

@@ -1,0 +1,984 @@
+Chapitre 5. Des médias alternatifs aux médias
+participatifs
+Dominique Cardon, Fabien Granjon
+Dans Médiactivistes 2013 , pages 115 à 134
+Éditions Presses de Sciences Po
+ISSN 1962-6274
+ISBN 9782724614312
+Date de mise en ligne : 01/02/2014
+Article disponible en ligne à l’adresse
+https://shs.cairn.info/mediactivistes--9782724614312-page-115?lang=fr
+Découvrir le sommaire de ce numéro, suivre la revue par email, s’abonner...
+Scannez ce QR Code pour accéder à la page de ce numéro sur Cairn.info.
+Distribution électronique Cairn.info pour Presses de Sciences Po.
+Vous avez l’autorisation de reproduire cet article dans les limites des conditions d’utilisation de Cairn.info ou, le cas échéant, des conditions générales de la licence souscrite par votre
+établissement. Détails et conditions sur cairn.info/copyright.
+Sauf dispositions légales contraires, les usages numériques à des fins pédagogiques des présentes ressources sont soumises à l’autorisation de l’Éditeur ou, le cas échéant, de
+l’organisme de gestion collective habilité à cet effet. Il en est ainsi notamment en France avec le CFC qui est l’organisme agréé en la matière.
+pitre 5
+cha
+des médias alternatifs
+aux médias participatifs
+Le paradoxe de la période qui s’ouvre avec la généra-
+lisation de la participation des individus sur internet est
+le suivant : si les mobilisations informationnelles s’en
+trouvent en quelque sorte renforcées, les médias alter-
+natifs, eux, apparaissent comme moins nécessaires. Tout
+se passe comme si la prophétie de Guattari annonçant
+l’émergence d’une ère « post-média » venait à se réaliser1.
+Pour les tenants de la critique expressiviste, c’est la raison
+d’être des médias alternatifs qui se serait évaporée. en
+effet, le principal argument justifiant la constitution
+d’une alternative aux médias centraux (la monopolisa-
+tion de l’information et de ses canaux de diffusion par des
+professionnels dominés par des intérêts économiques ou
+politiques) s’est affaibli en raison de l’accessibilité de plus
+en plus aisée des personnes au réseau des réseaux. Il est
+devenu beaucoup plus facile pour les individus ayant
+accès à internet de devenir eux-mêmes producteurs-
+diffuseurs d’information. en vertu de cette possibilité,
+pourtant toute théorique, beaucoup ont conclu que le
+déploiement du Web participatif, nouvelle mythologie née
+des développements récents des technologies numériques,
+allait enfin assurer l’existence d’un espace public ouvert
+à tous, critique et transparent.
+1. Félix Guattari, « Vers une ère post-média », art. cité.
+Mediactivistes.indb 115 24/10/13 16:33
+)82.921.452.491
+:PI(
+elliL
+ed
+étisrevinU
+aiv
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| oP
+secneicS
+ed
+sesserP
+116 médiactiviSteS
+La réalité des pratiques informationnelles en ligne
+est pourtant tout autre, même s’il est incontestable que
+les effets d’internet sur l’économie de l’information sont
+importants2. Le développement de nouvelles pratiques de
+participation a permis un élargissement du cercle fermé
+des locuteurs autorisés, lequel reste cependant dominé
+par des logiques sélectives et socialement inégalitaires.
+Il a aussi facilité de nouvelles formes de coordination et
+de mise en visibilité de l’information, tout en perpétuant
+un système oligarchique de classement de l’information
+dominante. ainsi, paradoxalement, les prophéties assurant
+l’avènement d’une ère post-média semblent s’actualiser,
+alors que la concentration des médias, la mondialisation
+de leur structure capitalistique et leur pouvoir dans la
+fabrication de l’opinion publique n’ont jamais été aussi
+forts, comme en témoigne la complicité des médias amé-
+ricains avec le gouvernement de Georges W. Bush pour
+imposer l’idée de la présence d’armes de destruction mas-
+sive en Irak3. Si internet augmente, multiplie et diversifie
+la production et la circulation d’information, il ne rend
+pas moins nécessaire le développement d’une critique du
+pouvoir des médias4. Celle-ci emprunte aujourd’hui des
+formes plus individualisées, qui ne requièrent plus de la
+même manière une organisation structurée pour produire
+2. Bernard Poulet, La Fin des journaux. L’information et
+la presse face aux trois révolutions du temps présent, Paris,
+Gallimard, 2009.
+3. Trebor Scholz, « Where the Activism Is », dans Megan Boler
+(ed.), Digital Media and Democracy, Cambridge (Mass.), The MIT
+Press, 2008, p.356.
+4. Nick Couldry et James Curran, Contesting Media Power.
+alternative Media in a Networked World, Oxford, Rowman &
+Littlefield Publishers, 2003.
+Mediactivistes.indb 116 24/10/13 16:33
+)82.921.452.491
+:PI(
+elliL
+ed
+étisrevinU
+aiv
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| oP
+secneicS
+ed
+sesserP
+deS médiaS aLternatifS aux médiaS participatifS 117
+des alternatives à l’information dominante. aussi faut-il
+interroger les nouvelles voies qu’adoptent les mobilisa-
+tions informationnelles à l’ère du développement de la
+culture participative sur internet.
+La montée du participatif
+Ce changement de contexte trouve d’abord son origine
+dans une individualisation croissante de la production
+d’information sur internet. Cette dernière s’incarne dans la
+revendication du Do It Yourself, dont on a vu la dynamique
+se radicaliser en passant des médias communautaires des
+années 1970 et 1980 aux médias tactiques au tournant du
+siècle. Le développement de la blogosphère et des différents
+outils de réseaux sociaux du Web 2.0, comme Facebook ou
+Twitter, renforce encore cette tendance en rendant beau-
+coup plus facile, accessible et moins coûteuse, l’expression
+des individus dans l’espace public. L’idée d’une participa-
+tion active des internautes et d’une indistinction toujours
+plus marquée entre les rôles de producteur et de consom-
+mateur d’information est, il est vrai, constitutive d’internet
+dès son origine. elle s’est incarnée dans de nombreux dis-
+positifs interactifs, comme les forums usenet, les chats sur
+IrC (Instant relay Chat), les listes de discussion ou les sites
+contributifs de CMS (Content Management System), parmi
+lesquels les wikis, outils permettant à plusieurs personnes
+d’écrire et de corriger facilement la même page sur le Web
+(par exemple sur Wikipédia). Les usages de ces outils, si
+importants soient-ils, restent cependant limités à la sphère,
+passionnée et technicienne, des premiers utilisateurs du
+réseau des réseaux et des plus technophiles. aussi n’est-ce
+vraiment qu’avec la croissance de la blogosphère à partir
+Mediactivistes.indb 117 24/10/13 16:33
+)82.921.452.491
+:PI(
+elliL
+ed
+étisrevinU
+aiv
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| oP
+secneicS
+ed
+sesserP
+118 médiactiviSteS
+des années 2000 que s’ouvrent véritablement des formes
+de participation élargie sur internet. en 1999, on comptait
+une cinquantaine de blogs. en 2008, on en dénombrait
+vingt-huit millions aux États-unis. La dernière enquête
+sur les pratiques culturelles des Français indique que 13 %
+des internautes français ont créé un blog ou une page
+personnelle et que 44 % ont visité un blog ou une page
+personnelle lors du dernier mois5. Même si elle reste encore
+sélective aussi bien socialement que culturellement, même
+si sa visibilité demeure limitée, et son audience faible, la
+blogosphère a néanmoins soutenu le développement de
+pratiques de type self media. Ce phénomène s’est trouvé
+considérablement renforcé par l’essor des plates-formes de
+réseaux sociaux (Friendster, Facebook, MySpace, Twitter,
+etc.) qui a contribué à massifier et à généraliser l’habitude
+de s’exprimer et de publier sur internet, notamment auprès
+des jeunes. en 2013, Facebook comptait plus d’un milliard
+d’inscrits (dont vingt-deux millions en France) et Twitter
+rassemblait plus de trente-huit millions d’inscrits dans le
+monde. La publication-publicisation des contenus et des
+personnes s’est considérablement développée, mobilisant
+des formes d’investissement de plus en plus disparates,
+parcourant un spectre allant de la défiance institutionnelle
+à la promotion personnelle.
+Toutefois, ces nouvelles pratiques expressives en ligne
+ne concernent que de façon minoritaire l’information
+d’actualité ou la politique. elles sont surtout animées par
+les transformations de l’individualisme contemporain,
+qu’anime la quête de reconnaissance des singularités
+5. Olivier Donnat, Les Pratiques culturelles des Français à l’ère
+numérique. enquête 2008, Paris, La Découverte, 2009, p. 62.
+Mediactivistes.indb 118 24/10/13 16:33
+)82.921.452.491
+:PI(
+elliL
+ed
+étisrevinU
+aiv
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| oP
+secneicS
+ed
+sesserP
+deS médiaS aLternatifS aux médiaS participatifS 119
+identitaires de chacun6, et se déploient le plus souvent
+sous forme de conversations qui prolongent sur le Web les
+pratiques de sociabilités amicales, amoureuses ou profes-
+sionnelles7. Il n’en reste pas moins que cette expressivité
+généralisée contribue à articuler beaucoup plus étroite-
+ment la sociabilité des individus, leurs pratiques cultu-
+relles amateurs et les formes multiples et variées de leur
+expression politique. Prenant appui sur ces pratiques d’ex-
+pression identitaire, certains internautes ont été amenés
+à affirmer de plus en plus fortement des demandes pour
+entrer en interaction avec les journalistes, critiquer leurs
+propos, contre-enquêter, discuter et produire eux-mêmes
+de l’information. L’espace journalistique se trouve ainsi
+davantage soumis à une contre-expertise externe. Dans
+des cas toujours plus nombreux, même s’ils restent encore
+rares, ce sont les internautes qui, par un travail d’enquête
+individuelle ou collective, sont parvenus à démentir des
+informations diffusées par les médias dominants. À l’occa-
+sion d’un reportage de l’émission « 60 minutes » de Dan
+rather sur CBS qui cherchait à démontrer que Georges
+Bush n’avait pas rempli ses obligations militaires, les
+blogueurs américains ont montré que les documents que
+CBS avançait comme preuve avaient été falsifiés et ont
+révélé des informations auxquelles les journalistes pro-
+fessionnels n’avaient pas jugé bon de prêter attention. De
+la même manière, des blogueurs américains ont bloqué
+la candidature à la présidence du Sénat américain du
+6. Fabien Granjon et Julie Denouël, « Exposition de soi et re-
+connaissance de singularités subjectives sur les sites de réseaux
+sociaux », Sociologie, 1 (1), 2010, p. 25-43.
+7. Dominique Cardon, « Le design de la visibilité. Un essai de
+cartographie du Web 2.0 », réseaux, 26 (152), 2008, p. 93-137.
+Mediactivistes.indb 119 24/10/13 16:33
+)82.921.452.491
+:PI(
+elliL
+ed
+étisrevinU
+aiv
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| oP
+secneicS
+ed
+sesserP
+120 médiactiviSteS
+républicain Trent Lott en révélant le discours de soutien
+qu’il avait prononcé pour le 100e anniversaire d’un ancien
+candidat ségrégationniste, intervention que les journalistes,
+pourtant présents lors du discours, n’avaient pas relevée8.
+L’avènement d’une audience active contraint les pro-
+fessionnels de l’information à composer avec des lecteurs
+plus réflexifs et plus actifs. Les termes « journalisme ordi-
+naire », « citoyen » ou « participatif» sont venus désigner
+ce nouveau phénomène. Beaucoup, pour s’en féliciter ou
+le craindre, y voient une révolution signant la fin du jour-
+nalisme traditionnel. Mais il faut plutôt interpréter cette
+dynamique participative comme une transformation des
+relations entre les professionnels et leurs publics, qui, sans
+menacer l’activité de production d’information en elle-
+même, modifie en revanche le rapport d’autorité qui s’était
+installé entre producteurs et récepteurs d’information. La
+montée des producteurs amateurs accompagne d’abord un
+processus de fluidification de l’identité professionnelle des
+journalistes, par ailleurs fragilisée par le développement
+des professions de communication et la diversification
+des statuts de producteur d’information à l’heure de la
+presse gratuite et de l’information en ligne. elle introduit
+aussi un dialogue plus soutenu entre les journalistes et
+leurs commentateurs. elle démultiplie enfin les sources
+d’information à travers le développement des expériences
+de journalisme citoyen en ligne.
+La réussite du site coréen OhmyNews, créé en 2000, pro-
+posant aux internautes d’écrire des articles d’i nformation
+et de rémunérer ceux d’entre eux qui sont les mieux
+8. Clay Shirky, Here Comes everybody. The Power of Organizing
+witho ut Organizations, New York (N.Y.), The Penguin Press,
+2008, p. 60.
+Mediactivistes.indb 120 24/10/13 16:33
+)82.921.452.491
+:PI(
+elliL
+ed
+étisrevinU
+aiv
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| oP
+secneicS
+ed
+sesserP
+deS médiaS aLternatifS aux médiaS participatifS 121
+évalués par les autres internautes, a servi de modèle à la
+création à travers le monde de nombreuses expériences
+du même type, comme agoravox en France. Conçus à
+l’origine en marge de l’espace journalistique, ces médias
+citoyens ont progressivement mêlé, selon des proportions
+variables, les professionnels et les internautes. Des journa-
+listes ont créé un blog à côté de leur travail rédactionnel
+habituel, sur lequel ils peuvent donner des informations
+supplémentaires, parler de manière plus subjective ou
+livrer des à-côtés et des informations que leur rédaction
+refuse de publier. Des sites d’information journalistique
+se sont ouverts sur le Web en offrant une place plus ou
+moins large aux internautes ordinaires : LePost, rue89 et
+Mediapart en sont les exemples en France. Cet élargisse-
+ment de la sphère des producteurs d’information reste tou-
+tefois mesuré et ne déplace que marginalement la clôture
+professionnelle de l’espace public. Comme l’ont montré
+de nombreuses recherches, les nouveaux producteurs
+d’information sont des acteurs se situant en périphérie de
+l’espace journalistique ou éditorial traditionnel. Ils pré-
+sentent des profils sociaux relativement similaires, et leur
+manière de concevoir et de produire de l’information n’est
+pas si différente de celle des professionnels9. Journalistes
+en recherche d’emploi, étudiants en journalisme, profes-
+sions artistiques et littéraires, veilleurs et spécialistes de
+domaines singuliers constituent le public le plus présent de
+la blogosphère citoyenne qui s’est développée en marge de
+l’espace journalistique ( blogosphère dont les productions
+sont aujourd’hui relayées par la « twittosphère »).
+9. Franck Rebillard, Le Web 2.0 en perspective. une analyse
+socio-économique de l’internet, Paris, L’Harmattan, 2007.
+Mediactivistes.indb 121 24/10/13 16:33
+)82.921.452.491
+:PI(
+elliL
+ed
+étisrevinU
+aiv
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| oP
+secneicS
+ed
+sesserP
+122 médiactiviSteS
+Quels sont les effets de cette nouvelle interdépendance
+entre les professionnels de l’information et les internautes ?
+Deux dynamiques peuvent être isolées. elles réactivent les
+deux orientations divergentes de la critique des médias
+que nous avons soulignées lors des précédents chapitres.
+La participation citoyenne sur internet donne d’abord des
+armes nouvelles à une critique vigilante et sourcilleuse
+du travail des médias, rejoignant ainsi la tradition de la
+critique contre-hégémonique. elle ouvre, d’autre part, des
+espaces de visibilité nouveaux pour des représentations
+du réel qui ne trouvaient pas leur place dans l’agenda des
+médias traditionnels, selon la tradition expressiviste.
+vigilance et contre-expertise
+Internet a ouvert un espace pour des formes d’exper-
+tise publique portées par des individus ou des collectifs
+de tous ordres. Le Web participatif contribue au déve-
+loppement d’une contre-expertise et à celui de pratiques
+d’investigation qui associent journalistes professionnels,
+amateurs et internautes. Les sites d’information alterna-
+tive qui se sont ainsi développés entretiennent souvent
+une proximité à l’égard du journalisme traditionnel et
+une vocation souvent explicitement militante. C’est par
+exemple le cas, en France, de Basta!, agence d’infor-
+mation sur les luttes environnementales et sociales, ou
+encore de groupes locaux de contre-information locale10.
+Ces espaces collectifs permettent de rassembler et de dif-
+fuser une contre-expertise militante sur des thématiques
+souvent spécialisées et un ensemble de luttes minoritaires
+écartées de l’agenda médiatique.
+10. Voir le répertoire de l’information alternative sur
+http://guidaltern.samizdat. net/
+Mediactivistes.indb 122 24/10/13 16:33
+)82.921.452.491
+:PI(
+elliL
+ed
+étisrevinU
+aiv
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| oP
+secneicS
+ed
+sesserP
+deS médiaS aLternatifS aux médiaS participatifS 123
+Cette réactivité des internautes pour développer une
+vigilance critique à l’égard du travail des médias a eu,
+en retour, des effets sur le travail des journalistes en
+rehaussant certaines exigences de factualité ou en encou-
+rageant l’investigation, comme en témoigne aux États-
+unis la naissance du site Pro-Publica qui se revendique
+d’un « journalisme d’investigation à but non lucratif ». en
+France, le lancement de Mediapart, en mars 2008, relève de
+la même dynamique. Ce journal d’information de profes-
+sionnels de l’enquête journalistique combine les fonction-
+nalités des journaux en ligne traditionnels avec des outils
+communautaires collaboratifs. Il invite ainsi le lecteur-
+adhérent à commenter, à échanger et à rédiger, celui-ci
+devenant ainsi co-auteur et coproducteur de l’information.
+Mediapart a su développer un modèle économique rare sur
+le Web, le financement par abonnements (près de 73 000
+en 2013), pour garantir son indépendance à l’égard du
+marché publicitaire et devenir un des principaux lieux de
+critique médiatique du pouvoir. en de nombreuses occa-
+sions, le journal en ligne dirigé par edwy Plenel va révéler
+des affaires concernant les hommes politiques au pou-
+voir, parfois sans susciter de reprise de la part des autres
+médias professionnels, comme dans le cas de l’affaire
+Jérôme Cahuzac, le ministre du Budget du gouvernement
+socialiste de Jean-Marc ayrault, détenteur d’un compte
+bancaire caché en Suisse. exerçant une surveillance à la
+fois sur le champ du pouvoir et sur les médias dominants,
+Médiapart prolonge ainsi sur le Web, et dans un cadre pro-
+fessionnel, la logique de la critique contre-hégémonique.
+De nombreuses expériences tentent de redéfinir les
+formats du journalisme en y associant fortement les
+internautes. Par exemple, le journal en ligne américain
+Mediactivistes.indb 123 24/10/13 16:33
+)82.921.452.491
+:PI(
+elliL
+ed
+étisrevinU
+aiv
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| oP
+secneicS
+ed
+sesserP
+124 médiactiviSteS
+Spot.us propose aux lecteurs de financer la réalisation
+d’enquêtes approfondies conduites par des journalistes
+professionnels sur les sujets qui les intéressent. Dans
+d’autres contextes, qui renouent avec le modèle des médias
+participatifs des années 1970, ce sont des populations
+exclues de la sphère de la représentation publique qui
+sont amenées, dans des dispositifs souvent initiés par des
+journalistes ou des associations, à produire elles-mêmes de
+l’information et des enquêtes. Citons l’exemple de l’expé-
+rience du Bondyblog, « un média différent porté par des
+gens qui habitent les quartiers », initiée en novembre 2005
+par des journalistes du magazine suisse L’Hebdo avec des
+jeunes de Bondy11. Créé à l’origine pour assurer de l’inté-
+rieur un suivi de l’expérience des populations locales lors
+des mouvements de révolte dans les quartiers français au
+lendemain de la mort d’un jeune poursuivi par la police,
+ce média de quartier a prolongé sous forme associative
+une production régulière d’information par des non-
+professionnels. S’inscrivant initialement dans une petite
+galaxie de médias (vuedesquartiers.com, prisedirecte.fr,
+etc.), défendant l’idée d’une information sur la banlieue
+produite par ces habitants, Bondyblog s’est depuis inté-
+gré à l’espace des médias dominants, par le biais d’une
+émission télévisée mensuelle diffusée sur la chaîne parle-
+mentaire LCP-assemblée nationale (« Bondy blog café »).
+Les blogueurs se montrent-ils moins dépendants des
+sources officielles et gouvernementales que les journalistes
+professionnels ? L’une des vertus du développement de
+la blogosphère ne serait-elle pas d’aider les journalistes
+11. Julie Sedel, « Bondy Blog. Le travail de représentation des
+habitants de la banlieue par un media d’information participa-
+tive », réseaux, 29 (170), 2011, p. 101-133.
+Mediactivistes.indb 124 24/10/13 16:33
+)82.921.452.491
+:PI(
+elliL
+ed
+étisrevinU
+aiv
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| oP
+secneicS
+ed
+sesserP
+deS médiaS aLternatifS aux médiaS participatifS 125
+à réaffirmer leurs propres normes professionnelles en
+s’auto nomisant d’une dépendance mortifère à l’égard de
+la communication officielle ? Plusieurs études se sont
+intéressées aux sources d’information utilisées par les
+blogueurs politiques à partir des liens hypertextes qu’ils
+laissaient dans leurs posts12. Gina Walejko et Thomas
+Ksiazek ont isolé les vingt blogs politiques et les vingt
+blogs scientifiques les mieux classés ayant parlé au moins
+dix fois du thème du changement climatique entre 2004
+et 200713. Ils montrent que les blogueurs citent d’abord les
+médias traditionnels (36 %) et d’autres blogueurs (35 %).
+en revanche, ils n’évoquent que très rarement des sources
+gouvernementales (3,5 %). Même si cette comparaison doit
+être établie avec beaucoup de précaution, leur travail tend
+à demontrer que les pratiques de sourcing de ces blogueurs
+influents diffèrent fortement de ce qui a pu être observé
+dans les pratiques professionnelles des journalistes. Les
+nombreux travaux conduits aux États-unis sur la question
+témoignent de façon répétée, depuis des années, que les
+sources officielles composent de 40 à 80 % des citations des
+articles de la presse américaine. D’après Walejko et Ksiazek,
+si les blogueurs de leur échantillon citent moins de sources
+officielles, c’est parce qu’ils s’ouvrent beaucoup plus à des
+sources alternatives : 30 % des liens qu’ils suggèrent dans
+leurs posts renvoient à des sources universitaires, à des
+ONG et à toutes sortes de sites d’information alternatifs.
+12. Linda J. Kenix, « Blog as Alternative », Journal of Computer-
+Mediated Communication, 14, 2009, p. 790-822.
+13. Gina K. Walejko et Thomas B. Ksiazek, « The Politics of
+Sourcing. A Study of Journalistic Practices in the Blogosphere »,
+International Conference on Weblogs and Social Media,
+Seattle (Wash.), 30 mars-2 avril 2008.
+Mediactivistes.indb 125 24/10/13 16:33
+)82.921.452.491
+:PI(
+elliL
+ed
+étisrevinU
+aiv
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| oP
+secneicS
+ed
+sesserP
+126 médiactiviSteS
+Plutôt que de mettre en compétition blogueurs et jour-
+nalistes comme deux catégories unifiées et concurrentes,
+ces enquêtes établissent que la question de la critique des
+sources se joue dans les deux univers et révèle leur inter-
+dépendance de plus en plus forte. Le fait de sourcer consti-
+tue une activité cardinale de la pratique journalistique, une
+sorte de révélateur en acte des pratiques de production de
+l’information, une manière de se positionner dans le rap-
+port de forces entre informateurs. Or, il apparaît qu’en étu-
+diant les pratiques informationnelles de certaines localités
+de la blogosphère, on observe effectivement une manière
+décalée et plus experte de faire de l’information, car modi-
+fiant l’équilibre entre les sources14.
+Les capacités critiques des internautes agissent en retour
+sur les formes prises par le développement du journalisme
+professionnel en ligne15. Outre les interactions avec les
+internautes, les enquêtes collectives menées sur le principe
+du crowdsourcing (lorsque le journaliste demande à ses
+lecteurs de l’aider à collecter des informations) et la dif-
+fusion des articles à travers les fonctionnalités de partage
+des réseaux sociaux, parmi les traits les plus marquants
+du nouveau journalisme numérique16. une autre caracté-
+ristique centrale tient à la tendance à l’autonomisation, au
+sein des rédactions, des journalistes à l’égard du titre qui
+les emploie. Sur les réseaux sociaux notamment, il n’est
+pas rare que les comptes personnels des journalistes aient
+14. Chris Atton, « Sourcing Routines and Representation in Alternative
+Journalism », Journalism Studies, 6 (3), 2005, p. 347-359.
+15. Alice Antheaume, Le Journalisme numérique, Paris, Presses
+de Sciences po, 2013.
+16. Éric Dagiral et Sylvain Parasie, « Presse en ligne : où en
+est la recherche ? », réseaux, 28 (160-161), 2010, p. 13-42.
+Mediactivistes.indb 126 24/10/13 16:33
+)82.921.452.491
+:PI(
+elliL
+ed
+étisrevinU
+aiv
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| oP
+secneicS
+ed
+sesserP
+deS médiaS aLternatifS aux médiaS participatifS 127
+une notoriété plus importante que celle de leur journal.
+Cette personnalisation apparaît comme une conséquence
+du travail continu et régulier d’interactions que les jour-
+nalistes entretiennent avec les internautes. Par ailleurs le
+journalisme numérique est marqué par l’accélération du
+rythme de l’information ; laquelle renforce la compétition
+entre journalistes professionnels. Toutefois, cette course de
+vitesse se joue aussi désormais via les blogs et les réseaux
+sociaux. enfin, il faut souligner le développement d’un
+usage conjoint et croisé par les professionnels et les ama-
+teurs des données permettant d’exercer une critique plus
+forte de la factualité des informations relayées par les
+médias en ligne (voir infra chapitre 6). Le développement
+d’un journalisme de vérification factuelle des informations
+(fact checking) apparaît comme une conséquence du tra-
+vail de contre-expertise qu’exercent les internautes sur la
+production des professionnels.
+subjectivités et détournements
+Parallèlement, et dans une direction opposée, on
+observe une part plus grande de subjectivité dans les for-
+mats médiatiques de la nouvelle culture participative :
+énonciation en première personne, investissement d’af-
+fects, détournements ironiques, etc. qui marquent le ton
+des informations et des conversations sur internet. L’espace
+public numérique s’ouvre à de nouvelles formes d’échange
+qui « déformalisent » le débat public traditionnel. La
+revendication d’un ton libre, personnel et sans apprêt, une
+relation plus directe aux informations, la capture d’événe-
+ments ayant lieu dans les coulisses des scènes publiques
+ainsi que la recherche d’un ton conversationnel dans le
+Mediactivistes.indb 127 24/10/13 16:33
+)82.921.452.491
+:PI(
+elliL
+ed
+étisrevinU
+aiv
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| oP
+secneicS
+ed
+sesserP
+128 médiactiviSteS
+ressenti des événements constituent autant de moyens
+d’introduire une part plus forte de subjectivité dans la
+production et le commentaire de l’information. Ces nou-
+veaux formats se nourrissent aussi d’un affaiblissement de
+la frontière entre information et divertissement et d’une
+personnalisation des événements publics. Ils rencontrent
+ainsi les intérêts de la presse people et tendent à renforcer
+une certaine proximité entre la sphère de l’information et
+celle de la culture de masse17.
+un des principaux aspects de cette culture expressive
+est le remix et l’hybridation des contenus produits par
+les grands médias d’information et de divertissement, à
+l’instar du film-machinima The French Democracy, lequel
+met en scène, dans un environnement de jeu vidéo, les
+préjugés racistes de la police française au moment des
+révoltes des banlieues de 2005. Cette culture du détour-
+nement prolonge les connexions entre avant-gardes
+artistiques et cultures populaires qui se sont opérées dans
+de nombreux groupes activistes dans les années 1990
+(adbusters, Negativeland, The Barbie Liberation army,
+Paper Tiger TV, etc.), tout en ayant une histoire beau-
+coup plus ancienne inspirée des surréalistes ou des situa-
+tionnistes. elle propose des répertoires d’actions axés sur
+le happening, la lutte festive, la « guérilla sémiotique »
+et l’action directe, et revendique un droit à la dérision,
+au détournement symbolique et au chahut parodique18.
+17. Merlyna Lim et Mark E. Kann, « Politics: Deliberation,
+Mobilization, and Networked Practices of Agitation », dans Kazys
+Varnelis (ed.), Networked Publics, Cambridge (Mass.), The MIT
+Press, 2008, p. 77-107.
+18. Mark Dery, Culture Jamming. Hacking, Slashing and Sniping
+in the empire of Signs, Westfield (N.J.), Open Media, 1993.
+Mediactivistes.indb 128 24/10/13 16:33
+)82.921.452.491
+:PI(
+elliL
+ed
+étisrevinU
+aiv
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| oP
+secneicS
+ed
+sesserP
+deS médiaS aLternatifS aux médiaS participatifS 129
+Cette forme d’intervention est particulièrement mobi-
+lisée par les activismes qui se sont développés autour
+des thèmes de l’environnement (Faucheurs volontaires,
+Cyclonudistes), de la critique de la publicité (Stopub),
+du droit au logement (Jeudi noir, Macaq), de la précarité
+(Génération précaire, La France qui se lève tôt), des libertés
+publiques ou encore de la critique des technologies (Pièce
+et main-d’œuvre, Big Brother awards). Ces différents col-
+lectifs, souvent de petite taille et réunissant des militants à
+fort capital culturel, acquièrent une visibilité dans l’espace
+médiatique en organisant des actions à forte dimension
+humoristique et parodique afin d’être notamment vus et
+repris par les médias dominants et de médiatiser eux-
+mêmes leurs actions.
+Dans ce contexte, les formes d’activisme médiatique
+sur internet empruntent souvent leur format aux genres
+populaires, comme le détournement de vidéos d’actualité,
+de clips vidéo ou de films à succès19. Ces détournements,
+même s’ils sont généralement pratiqués par des militants
+proches des avant-gardes esthétiques, offrent plus faci-
+lement prise à des appropriations populaires permettant
+d’introduire dans l’espace public des pratiques informa-
+tionnelles originales. Henry Jenkins s’est fait le promoteur
+de ces nouvelles articulations entre culture de masse et
+culture politique. Il analyse par exemple la manière dont
+CNN a demandé à des téléspectateurs de poser des ques-
+tions aux candidats démocrates et républicains à la can-
+didature sous forme de vignettes vidéo enregistrées avec
+une simple webcam et déposées sur YouTube. Or, parmi
+19. Olivier Blondeau avec Laurence Allard, Devenir Média.
+L’activisme sur internet, entre défection et expérimentation,
+Paris, Éditions Amsterdam, 2007.
+Mediactivistes.indb 129 24/10/13 16:33
+)82.921.452.491
+:PI(
+elliL
+ed
+étisrevinU
+aiv
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| oP
+secneicS
+ed
+sesserP
+130 médiactiviSteS
+les trois mille vidéos envoyées par ces citoyens ordinaires,
+une a particulièrement retenu l’attention. elle montrait un
+bonhomme de neige demandant s’il allait pouvoir survivre
+au réchauffement climatique et s’interroger sur les mesures
+que les candidats comptaient prendre sur ce thème20. La
+polémique suscitée par cette vidéo a été très vive aux États-
+unis. Le gouverneur républicain Mitt romney s’est indigné
+du fait que CNN dégradait le débat politique traditionnel et
+a refusé de participer aux débats de la chaîne pour « ne pas
+se faire interviewer par un bonhomme de neige ». Comme
+le souligne Jenkins, cette polémique témoigne des vertus et
+des ambiguïtés de l’individualisation des formes d’expres-
+sion dans la « culture de la convergence » des médias et des
+publics. Si certaines d’entre elles font montre d’inventivité,
+de radicalité ou d’une manière nouvelle et originale de
+questionner le pouvoir, d’autres dissimulent, derrière une
+ironie désabusée, un profond conservatisme ou une forme
+détachée de désengagement cynique.
+Mais les réseaux sociaux d’internet ont aussi, ces der-
+nières années, contribué à « démocratiser » cette expres-
+sivité ordinaire afin de porter sur la place publique les
+opinions, les désirs et les volontés d’engagement des
+internautes. en se coordonnant « par le bas » (voir infra),
+ces actions diffuses parviennent à acquérir une visibilité
+publique inédite. elle peut prendre la forme immédiate,
+massive, de l’organisation spontanée de rassemblements
+festifs, de type « apéros Facebook », réunissant plusieurs
+milliers de participants. Si le réseau sert, en ce cas, de
+20. Henry Jenkins, « Afterword. Reflexions on Politics in the
+Age of Youtube », dans Henry Jenkins, Convergence Culture.
+Where Old and New Media Collide, New York (N.Y.), New York
+University Press, 2006, p. 271-294.
+Mediactivistes.indb 130 24/10/13 16:33
+)82.921.452.491
+:PI(
+elliL
+ed
+étisrevinU
+aiv
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| oP
+secneicS
+ed
+sesserP
+deS médiaS aLternatifS aux médiaS participatifS 131
+simple outil de coordination au service de l’affirmation de
+certains traits contemporains de la sociabilité juvénile21, il
+peut aussi devenir, en d’autres occasions, un outil de pro-
+pagation virale de messages informationnels et politiques.
+Sur Twitter notamment, des fils de commentaires se créent
+autour de « mots-dièses » thématiques (hashtags – #xxx),
+où s’agrègent des messages visant par exemple à critiquer,
+à expliquer ou à moquer les déclarations des hommes poli-
+tiques ou celles des journalistes. L’installation progressive
+d’un commentaire continu, distribué, public et partagé de
+l’actualité par une fraction d’internautes réactifs contribue
+à élargir l’enceinte fermée de l’espace public traditionnel.
+Dans les démocraties délégatives, la politique s’énonce
+deux fois : en son centre, dans les médias et les institu-
+tions représentatives, et en périphérie, dans le maillage
+foisonnant et multiple des conversations des citoyens. À
+cet antagonisme, tenu pour responsable de la crise de la
+représentation, le numérique – et notamment les réseaux
+sociaux d’internet – prétend apporter un remède. en rap-
+prochant sur la toile ces deux territoires séparés de la
+parole politique, internet viendrait décloisonner un espace
+politico-médiatique clos sur lui-même et confisqué par les
+professionnels de la communication. Favorisant l’expres-
+sion de quiconque, rendant visible les discussions de la
+sociabilité ordinaire et relayant de manière distanciée les
+informations des médias, internet fait trace de la bruyante
+conversation des citoyens, laquelle ne s’évapore plus dans
+les cercles sociaux de la vie quotidienne. Visible, fron-
+deuse, virale, elle est désormais au contact direct des lieux
+21. Monique Dagnaud, Génération Y. Les jeunes et les réseaux
+sociaux, de la dérision à la subversion, Paris, Presses de Sciences
+po, 2013.
+Mediactivistes.indb 131 24/10/13 16:33
+)82.921.452.491
+:PI(
+elliL
+ed
+étisrevinU
+aiv
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| oP
+secneicS
+ed
+sesserP
+132 médiactiviSteS
+d’énonciation de la politique professionnelle. D’aucuns
+estiment qu’il s’agit là d’un échange immédiat, sans
+intermédiaire ni pare-feu, permettant d’encourager une
+démocratie plus ouverte et participative. Ce serait pour-
+tant se méprendre que de croire que ce rapprochement est
+susceptible de révolutionner les formes de la communi-
+cation politique traditionnelle. Tout montre en effet que
+ce nouvel espace de la discussion politique, aussi élargi
+soit-il, relève toujours d’un entre-soi, qui s’est s implement
+étendu à ceux des internautes qui disposent d’un fort capi-
+tal politique et d’un intérêt affirmé pour l’actualité22 les
+rapprochant socioculturellement des professionnels de
+l’information et de la communication qu’ils critiquent par
+ailleurs. L’enrichissement de l’information politique sur
+le Web augmente d’abord les ressources de ceux qui sont
+déjà très informés et dont les choix politiques sont acquis
+et stables, mais ne semble avoir guère d’influence sur les
+autres. À très grande vitesse et dans un style beaucoup
+plus désinhibé que dans les médias de masse traditionnels,
+la twittosphère politique perpétue ainsi la compétition
+que se livrent les acteurs politiques, les journalistes et les
+professionnels du marketing, auxquels s’adjoint une nou-
+velle frange d’internautes qui participent à la construction
+d’interprétations dominantes des actions politiques. Si les
+règles du jeu des luttes de définition et d’attribution du
+sens social de nombre d’événements ne se voient donc
+pas foncièrement modifiées, il n’en reste pas moins remar-
+quable que l’expressivité politique sur internet déplace le
+centre de gravité du débat public vers des espaces plus
+22. Viviane Le Hay, Thierry Vedel et Flora Chanvril, « Usages
+des médias et politique : une écologie des pratiques information-
+nelles », réseaux, 29 (170), 2011, p. 45-73.
+Mediactivistes.indb 132 24/10/13 16:33
+)82.921.452.491
+:PI(
+elliL
+ed
+étisrevinU
+aiv
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| oP
+secneicS
+ed
+sesserP
+deS médiaS aLternatifS aux médiaS participatifS 133
+diversifiés, plus critiques et de plus en plus autonomes
+à l’égard des gouvernants. L’expressivité défiante dont
+fait montre cette frange connectée de la société civile
+témoigne à sa manière d’une désaffection pour les formes
+de fidélisation et d’affiliation aux structures et aux per-
+sonnalités élues de la démocratie représentative.
+Non sans paradoxe, les nouvelles pratiques informa-
+tionnelles de l’internet renforcent à la fois la contre-
+expertise à visée objective et les détournements subjectifs.
+Ces deux dynamiques de la culture participative émer-
+geant sur internet dessinent les différentes opportunités
+qui s’ouvrent aux mobilisations informationnelles. elles
+témoignent de la variété, parfois contradictoire, des stra-
+tégies qui s’offrent aujourd’hui pour critiquer l’informa-
+tion et dessiner des alternatives aux médias dominants.
+Se renforce d’abord une logique de vigilance à l’égard de
+l’information. Celle-ci s’appuie sur des interdépendances
+nouvelles entre experts et citoyens ordinaires pour récla-
+mer davantage de transparence et d’accès à l’information
+publique. Cette revendication vise un affermissement des
+procédures collectives de vérification et de certification
+de l’information tout en exerçant une vigilance constante
+sur les représentations du monde produites par les médias
+et les pouvoirs. Mais la multiplication des pratiques de
+détournement parodique sur internet, comme l’avènement
+timide et fragile de dispositifs permettant la prise de parole
+d’acteurs périphériques, montre aussi qu’une pluralité de
+points de vue subjectifs, désinhibés des formes distantes
+et froides de la parole publique, est attendue dans l’espace
+médiatique. L’humour, la parodie et le remix constituent
+désormais autant de manières d’agir dans l’espace public
+pour y propulser des messages à forte visibilité, en essayant
+Mediactivistes.indb 133 24/10/13 16:33
+)82.921.452.491
+:PI(
+elliL
+ed
+étisrevinU
+aiv
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| oP
+secneicS
+ed
+sesserP
+134 médiactiviSteS
+d’alerter et d’intervenir sur les représentations dominantes.
+L’économie de moyens et la structure potentiellement virale
+de la circulation de l’information sur internet constituent
+un moteur décisif pour ces formes nouvelles de mobilisa-
+tions informationnelles à forte charge symbolique.
+Il reste que, si ces deux dynamiques impriment aujour-
+d’hui des directions différentes au médiactivisme qui se
+construit en ligne, elles restent néanmoins soumises à
+une harassante guerre de visibilité visant à inscrire sur
+l’agenda médiatique des productions d’information sou-
+vent extrêmement locales. Si internet tend à faire dispa-
+raître la barrière des gatekeepers dans la sélection et la
+hiérarchisation des informations méritant d’être diffusées
+à une large échelle, les nouveaux producteurs de la culture
+participative doivent toutefois, pour se faire entendre sur
+la toile, s’engager dans des pratiques autopromotionnelles
+complexes et virtuoses. en effet, ce qu’introduit de nou-
+veau le réseau des réseaux, c’est un processus de plus en
+plus stratégique pour gagner en visibilité, notamment en
+obtenant la reconnaissance des autres internautes, les-
+quels, en référençant leurs informations, contribuent à leur
+accorder une publicité plus importante. La construction de
+l’audience sur internet est, comme dans les médias tradi-
+tionnels, même si cela s’opère différemment, dominée par
+les acteurs les plus centraux de l’espace public23. aussi s’y
+rejoue-t-il, avec une marge de jeu certes plus grande, une
+compétition aux règles très asymétriques pour donner écho
+aux messages venant de la périphérie.
+23. Matthew Hindman, The Myth of Digital Democracy,
+Princeton (N.J.), Princeton University Press, 2009.
+Mediactivistes.indb 134 24/10/13 16:33
+)82.921.452.491
+:PI(
+elliL
+ed
+étisrevinU
+aiv
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| oP
+secneicS
+ed
+sesserP

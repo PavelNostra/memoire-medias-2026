@@ -1,0 +1,911 @@
+Gilets jaunes et colères noires
+Violence, médias et émotions
+Fabien Granjon
+Dans Questions de communication 2021/2 n° 40 , pages 303 à 318
+Éditions Éditions de l'Université de Lorraine
+ISSN 1633-5961
+ISBN 9782384510054
+DOI 10.4000/questionsdecommunication.27090
+Date de mise en ligne : 22/07/2022
+Article disponible en ligne à l’adresse
+https://shs.cairn.info/revue-questions-de-communication-2021-2-page-303?lang=fr
+Découvrir le sommaire de ce numéro, suivre la revue par email, s’abonner...
+Scannez ce QR Code pour accéder à la page de ce numéro sur Cairn.info.
+Distribution électronique Cairn.info pour Éditions de l'Université de Lorraine.
+Vous avez l’autorisation de reproduire cet article dans les limites des conditions d’utilisation de Cairn.info ou, le cas échéant, des conditions générales de la licence souscrite par votre
+établissement. Détails et conditions sur cairn.info/copyright.
+Sauf dispositions légales contraires, les usages numériques à des fins pédagogiques des présentes ressources sont soumises à l’autorisation de l’Éditeur ou, le cas échéant, de
+l’organisme de gestion collective habilité à cet effet. Il en est ainsi notamment en France avec le CFC qui est l’organisme agréé en la matière.
+Questions de communication
+40 | 2021
+Plateformiser, un impératif ?
+Gilets jaunes et colères noires
+Violence, médias et émotions
+Yellow vest protesters’ rage. Violence, media and emotions
+Fabien Granjon
+Édition électronique
+URL : https://journals.openedition.org/questionsdecommunication/27090
+DOI : 10.4000/questionsdecommunication.27090
+ISSN : 2259-8901
+Éditeur
+Presses universitaires de Lorraine
+Édition imprimée
+Date de publication : 1 décembre 2021
+Pagination : 303-318
+ISBN : 978-2-38451-005-4
+ISSN : 1633-5961
+Distribution électronique Cairn
+Référence électronique
+Fabien Granjon, « Gilets jaunes et colères noires », Questions de communication [En ligne], 40 | 2021,
+mis en ligne le 01 juin 2022, consulté le 20 juillet 2022. URL : http://journals.openedition.org/
+questionsdecommunication/27090 ; DOI : https://doi.org/10.4000/questionsdecommunication.
+27090
+Creative Commons - Attribution - Pas d'Utilisation Commerciale - Pas de Modification 4.0 International
+- CC BY-NC-ND 4.0
+https://creativecommons.org/licenses/by-nc-nd/4.0/
+)74.501.62.951
+:PI(
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+|
+eniarroL
+ed
+étisrevinU'l
+ed
+snoitidÉ
+questions de communication, 2021, 40, 303-318
+> NOTES DE RECHERCHE
+FABIEN GRANJON
+Université Paris 8 Vincennes – Saint-Denis, Experice, F-93200 Saint-Denis, France
+fabien.granjon[at]univ-paris8.fr
+GILETS JAUNES ET COLÈRES NOIRES
+VIOLENCE, MÉDIAS ET ÉMOTIONS
+Résumé. — Le mouvement des Gilets jaunes a été largement présent sur les réseaux
+sociaux numériques. Cela a eu pour effet de faciliter la viralité de certains contenus au
+début du mouvement, puis, par la suite et dans la durée, celui des contenus accompagnant
+la dynamique protestataire. Le récit et la mise en scène des violences, ainsi que la
+mobilisation des émotions ont été partie intégrante des opérations médiatiques de
+disqualification du mouvement, mais ils ont aussi été des éléments de réarmement du
+mouvement lui-même. Dans le cadre de cet article, nous souhaitons apporter quelque
+éclairage sur les usages protestataires des médias numériques par les Gilets jaunes. Il
+s’agit de présenter les premiers résultats d’une enquête exploratoire attestant, d’une part,
+du déplacement des pratiques de consommation médiatique à mesure de l’évolution
+du mouvement et, d’autre part, de mettre en lumière la place de l’émotion dans la
+mobilisation, notamment relayée par un usage de plus en plus important des réseaux
+sociaux numériques.
+Mots clés. — émotions, Facebook, gilets jaunes, internet, médias, mobilisation, violence
+303
+)74.501.62.951
+:PI(
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| eniarroL
+ed
+étisrevinU'l
+ed
+snoitidÉ
+F. Granjon
+L
+e mouvement des Gilets jaunes (GJ) signe son acte de naissance le
+17 novembre 2018 par une manifestation qui, à l’initiative de deux
+chauffeurs routiers (Éric Drouet et Bruno Lefevre), vise à organiser un
+blocage national contre la hausse du carburant. Largement relayé sur Facebook,
+cet appel à mobilisation va rencontrer son public. Près de 2 000 ronds-points
+sont pris d’assaut, des barrages filtrants sont dressés et des péages sont occupés
+un peu partout en France (métropole et outre-mer). Les potentiels de circulation
+de l’information, largement encouragés par les programmes d’action des réseaux
+sociaux numériques (forward, retweet, stories, partage, groupes, etc.), ont, de facto,
+facilité le caractère viral de certains contenus au début du mouvement, puis,
+par la suite et dans la durée, celui des contenus accompagnant généralement
+la dynamique protestataire (tracts, appels à manifestation, expertises diverses,
+annonces d’événements, cagnottes, etc.). Ainsi des sites web et, surtout, des
+milliers de groupes Facebook vont-ils participer à l’extension de la visibilité du
+mouvement, par ailleurs accrue par l’intérêt des médias dominants.
+Lors des premières semaines du mouvement des Gilets jaunes, « la couverture
+médiatique se révèle plutôt bienveillante. […] [Mais] à mesure que s’amplifie la
+colère des manifestants, la bienveillance des médias laisse place à une certaine
+animosité » (Siroux, 2020 : 61-63). In fine, les GJ vont, sans surprise, avoir les
+« honneurs » d’une couverture médiatique à charge (notamment sur les plateaux
+des chaînes d’information en continu – Cnews, BFM, etc.) qui les dépeint comme
+la partie la plus visible des classes dangereuses cumulant toutes les inconduites
+possibles : sexisme, homophobie, antisémitisme, racisme, philistinisme inculte,
+naïveté, attitudes quétaines, etc., dont « Jojo le Gilet jaune » serait l’incarnation. La
+figure caricaturale du « beauf » (Mauger, 2013), de l’analphabète, du « décérébré »,
+du « sans dents » qui « fume des clopes et roule au diesel » s’est alors logée dans
+nombre de commentaires journalistiques et politiques cherchant, à bon compte,
+à disqualifier la mobilisation. Par-là s’est exprimé un mépris de classe visant celles
+et ceux « qui ne sont rien », lequel n’était, parfois, pas même habillé des clauses
+de style habituelles en ce genre d’opération de discrédit. Son acmé fut sans
+doute la saillie de Luc Ferry, ex-ministre de la Jeunesse, de l’Éducation nationale
+et de la Recherche, qui s’étonna que les forces de l’ordre n’aient pas fait usage
+de leurs armes létales contre « ces espèces de salopards d’extrême droite ou
+d’extrême gauche ou des quartiers qui viennent taper du policier ». Les termes
+de « poujadisme », de « jacqueries », de « complotisme » et de « populisme »
+ont très souvent été employés pour qualifier un mouvement qui en appelle
+notamment à une fiscalité plus juste (et non un anti-fiscalisme primaire) et le
+rattacher bien rapidement à des orientations d’extrême droite.
+Les débordements langagiers de quelques-uns et les moments insurrectionnels
+lors des différents « actes » ont contribué à alimenter cette veine dépréciative
+faisant des GJ de séditieux individus indisciplinés, repoussoirs de la démocratie
+représentative, fragilisant une République « en danger » ; effet de cadrage à
+charge qui s’est toutefois retrouvé en concurrence avec une opinion publique
+304 NOTES DE RECHERCHE
+)74.501.62.951
+:PI(
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| eniarroL
+ed
+étisrevinU'l
+ed
+snoitidÉ
+Gilets jaunes et colères noires
+qui, dans les sondages, leur est restée globalement favorable, malgré les
+désagréments occasionnés par les nombreuses opérations de blocage et la
+répétition des manifestations du samedi. Reste que la violence et les prédations
+accompagnant les mobilisations des GJ a été un des principaux ressorts de
+la couverture médiatique, épousant des logiques et des registres largement
+éprouvés, consistant à s’insurger de la « brutalité » des événements :
+« Des heures durant, journalistes et invités ont disserté sur les images qui leur parvenaient en direct
+des manifestations. Lesquelles manifestations avaient préalablement fait l’objet de longues heures
+d’antennes, expertisant pour les uns la stratégie policière, pour les autres celle du gouvernement, et
+dénonçant à l’unisson l’‘‘irresponsabilité’’ des manifestants et de tous ceux qui se refusaient encore
+à lancer des appels au calme et à l’arrêt des manifestations » (Siroux, 2020 : 9).
+La litanie des commentaires sur les casseurs, les black blocs, les « bons » et les
+« mauvais » Gilets jaunes a occupé un important temps d’antenne, distillée par
+des éditorialistes, des journalistes spécialisés, des « experts », mais aussi des
+porte-parole de syndicats policiers.
+Si le récit et la mise en scène des violences ainsi que la mobilisation des
+émotions font partie intégrante des opérations médiatiques de disqualification
+du mouvement, ils sont également des éléments de réarmement du mouvement
+lui-même. Aussi, dans le cadre de cet article, souhaitons-nous apporter quelque
+éclairage sur les usages protestataires des médias numériques par les GJ. Il s’agit
+de présenter les premiers résultats d’une enquête exploratoire1 attestant, d’une
+part, du déplacement des pratiques de consommation médiatique à mesure
+de l’évolution du mouvement et, d’autre part, de mettre en lumière la place de
+l’émotion dans la mobilisation, notamment relayée par un usage de plus en plus
+important des réseaux sociaux numériques.
+Une consommation médiatique en (r)évolution
+Les GJ auprès de qui nous avons conduit des entretiens nous ont, pour la plupart
+d’entre eux, décrit des dynamiques de consommation des contenus télévisuels
+qui ont suivi une évolution particulière. Dans un premier temps, les productions
+télévisuelles ont pu être relativement prisées :
+« Au départ, on regardait pas mal BFM et les émissions comme ça, parce que ça parlait de
+nous… enfin nous, les Gilets jaunes quoi. Pas forcément nous ici. C’était marrant de nous voir à
+la télé. C’est idiot, mais y avait comme une sorte de fierté à se voir ».
+1 Les entretiens que nous avons menés avec les GJ ont, en majorité, été conduits durant les
+manifestations ou en marge de celles-ci, dans le cadre d’une participation observante. Nous les avons
+toutefois complétés par des entretiens semi-directifs plus traditionnels menés fin 2020 et début 2021,
+durant une période où le mouvement a été largement freiné par la pandémie due à la Covid-19.
+NOTES DE RECHERCHE 305
+)74.501.62.951
+:PI(
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| eniarroL
+ed
+étisrevinU'l
+ed
+snoitidÉ
+F. Granjon
+Mais au fur et à mesure de l’installation de la mobilisation dans la durée, les
+formats de traitement médiatique des « actes » sont apparus à celles et ceux
+qui y participaient comme partisans, défavorables à la cause et foncièrement
+redondants. Ainsi, au fil du temps, la « télé » a-t-elle été délaissée pour n’être plus
+visionnée que par l’entremise d’extraits et de « morceaux choisis », transitant sur
+les réseaux sociaux numériques :
+« J’ai compris que, bah là, fallait pas compter sur les médias [la télévision] pour dire vraiment ce
+qui se passait. Ils sont vendus aux politiques. Enfin pas tous, mais en gros si quand même. […]
+Je me suis informé avec le groupe [Facebook]. Y avait largement de quoi faire et on avait tout
+dessus. Pas besoin d’aller chercher sur les chaînes ».
+Par ailleurs, cette translation du « petit écran » vers les « très petits écrans » – ceux
+du smartphone et des ordinateurs personnels – semble s’être accompagnée d’un
+déplacement des consommations médiatiques liées à l’information. Les sources
+se sont diversifiées et le répertoire des « titres » consultés en ligne sensiblement
+étendu au profit de médias alternatifs revendiquant un journalisme indépendant
+(Vécu, Taranis News, Là-bas si j’y suis, Le Média, Révolution permanente, Paris-luttes.
+info, Nantes révoltés, Cerveaux non disponibles, Alternative International Movement2,
+etc.) et d’une production médiactiviste parfois individuelle (Granjon et al., 2014 ;
+Cardon et Granjon, 2013). L’on peut ici avancer l’hypothèse, à tout le moins
+pour certains GJ – vraisemblablement, plutôt ceux disposant d’un niveau de
+certification scolaire minimal, mais pas uniquement – que leur engagement dans
+la mobilisation les a acculturés à une certaine critique des médias. Cette dernière,
+bien que souvent assez sommaire dans ses expressions et parfois complotistes
+(« les médias des riches », « du gouvernement », « les journalistes vendus », « les
+merdias », « les médiaputes », etc.), a néanmoins eu pour effet de les amener à
+se confronter à un spectre de propositions médiatiques plus vastes que celles
+qu’ils avaient pour habitude de fréquenter.
+Ce décloisonnement épouse par ailleurs des formes diverses. Quand certains
+expliquent avoir développé de nouvelles pratiques qu’ils désignent comme des
+opérations proactives d’approfondissement de « connaissances militantes »
+débordant largement les revendications portées par les GJ (repérage de sites
+web thématiques, lecture d’articles longs, abonnement à des listes de diffusion
+dédiées, etc.), d’autres semblent s’en remettre aux logiques algorithmiques
+inscrites dans les programmes d’action des réseaux sociaux numériques. Ils
+profitent de ce qui arrive dans leurs fils d’actualité, confiant ainsi, sans en avoir
+franchement conscience, leurs pratiques informationnelles aux bulles de filtres
+(Gentzkow et Shapiro, 2011 ; Badau, 2019). Celles-ci établissent des hiérarchies
+2 À côté des médias « alternatifs » qui se sont notamment spécialisés sur les mobilisations sociales,
+il faut également citer les médias dits de « réinformation » qui se présentent comme indépendants
+et citoyens tout en étant parfois proches des milieux complotistes : Thinkerview, La vraie démocratie,
+L’info en questionS, Russia Today, Sputnik France, France soir, etc.
+306 NOTES DE RECHERCHE
+)74.501.62.951
+:PI(
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| eniarroL
+ed
+étisrevinU'l
+ed
+snoitidÉ
+Gilets jaunes et colères noires
+et des périmètres de pertinence sur lesquels ils n’ont évidemment pas la main3,
+mais qui ne les desservent pas nécessairement :
+« Contrairement à ce que pensent les gilets jaunes, persuadés que Macron les censure par
+l’entremise de Facebook, leur meilleur allié s’appelle Mark Zuckerberg. Le mouvement a été
+sans conteste aidé par le nouvel algorithme Facebook qui valorise les contenus de groupes au
+détriment des contenus postés par des pages (et donc par les médias). Après quelques likes sur
+un groupe, on se retrouve submergé du contenu de ce groupe dans son fil d’actualité » (Glad,
+cité dans Ertzscheid, 2019 : 138).
+Le fait que les GJ internautes aient massivement adhéré aux groupes Facebook
+GJ, a minima de leurs régions – mais le plus souvent aussi à des groupes présents
+sur des territoires géographiquement éloignés –, leur permet également de
+profiter des posts de la communauté mobilisée. Parfois des plus foisonnants
+(plusieurs dizaines de posts par jour et des centaines de commentaires durant les
+périodes de haute intensité), le fil d’information de ces groupes est fréquemment
+parcouru sur un mode sérendipitaire et certains contenus sélectionnés à partir
+de critères variés qui ne relèvent guère de stratégies définies (« Ouuuhh là ! C’est
+un peu au pif faut dire ») et dépendent de facilités d’usage ou d’une économie
+de l’attention qui guide volens nolens les conduites de clic via la sensibilité à
+certaines affordances :
+« Je vais surtout regarder les vidéos ; je préfère. C’est plus facile et plus rapide qu’une page de
+texte, ça prend moins la tête. […] Alors les critères… Bah… faut que l’image me plaise. […]
+Je vais être attiré par un titre, alors clac, je clique. Je choisis comme ça, au feeling. Faut que ça
+reste amusant, sinon je passe à autre chose. […] C’est plus rare, mais il y a aussi les vidéos des
+copains. »
+De fait, sur les groupes Facebook observés4, il est possible de repérer de nouvelles
+formes expressives de type « selfie vidéo » (utilisant notamment la fonction
+Facebook Live), mettant en scène dans un décor sommaire (souvent domestique
+tel que les salons, cuisines, garages, voitures…) une prise de parole personnelle
+qui relève fréquemment d’un « coup de gueule ». Elle peut également épouser
+d’autres formats énonciatifs tels que les appels à mobilisation, analyses politiques,
+« méditations » philosophiques, revues de presse, témoignages, épanchements
+personnels, etc. :
+3 Le nouvel algorithme de recommandation de Facebook majore les informations issues des
+groupes et des réseaux d’amis et minore les contenus émanant des sources « officielles »,
+lesquels peuvent toutefois être présents au sein des posts des cercles affinitaires. En deçà des
+logiques algorithmiques cachées, inscrites dans les « boîtes noires » au sein même des dispositifs
+numériques, les scripts les plus ordinaires qui en définissent les fonctionnalités premières ne sont
+pas non plus sans conséquence. É. Bouté et C. Mabi (2020 : 34) soulignent, par exemple, combien
+le design des interfaces peut influencer l’organisation et la structuration des échanges en ligne : « En
+fonction des formats de communication, différentes manières de faire sens avec le monde sont
+rendues possibles ».
+4 Les groupes observés sont essentiellement liés aux mobilisations des régions rennaises (35) et
+langonnaises (33).
+NOTES DE RECHERCHE 307
+)74.501.62.951
+:PI(
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| eniarroL
+ed
+étisrevinU'l
+ed
+snoitidÉ
+F. Granjon
+« Clo, dès qu’elle poste une vidéo, je regarde. J’aime beaucoup cette fille et sa manière de
+penser. Elle est pas bégueule tu vois, elle fait ça chez elle, y a sa fille à côté. C’est sans manière
+et ce qu’elle dit c’est bien. Elle apporte toujours des bonnes informations sur ce qui se passe
+dans le coin, mais aussi ailleurs. C’est devenu comme une copine, même si je la connais pas
+personnellement ».
+Ce qui rapproche ces vidéastes égocentrés – dont il faut convenir que les
+discours peuvent s’avérer particulièrement décousus, peu documentés, voire
+simplistes ou confusionnistes – de leurs éventuels publics semble davantage tenir
+à une proximité sensible qu’au lien classique unissant un leader d’opinion à ses
+« suiveurs » (Katz, 1957).
+Ce qui est énoncé compte finalement moins que la manière dont cela est
+exprimé. Les réceptions positives de ces selfies vidéo apparaissent comme
+essentiellement indexées à la charge affectuelle qu’ils portent (Ahmed, 2004) :
+colère, indignation, tristesse, cynisme, ironie, humour, enthousiasme, etc. Les
+phénomènes d’influence chers à la sociologie fonctionnaliste des médias (Katz et
+Lazarsfeld, 1955) ne semblent guère s’exercer en ces circonstances. Ni « leaders
+d’opinion », ni « influenceurs » (au sens où l’entend le marketing numérique),
+ni « porte-parole » autodéclaré, ces self-vidéastes locaux ne semblent, sauf
+exception, ni spécialement exposés aux contenus médiatiques, ni jouir d’une
+légitimité spécifique ex ante, ni être porteurs d’une vision du monde originale,
+ni même être particulièrement insérés dans les structures de mobilisation. En
+revanche, ils sont régulièrement présents en ligne, osent se rendre visibles à
+toutes et tous et, surtout, expriment ouvertement leurs émotions.
+La place de l’émotion
+La connivence qu’ils arrivent à construire n’est pas fondée sur un quelconque
+« magistère », mais sur un émoi rendant sensible une morale commune. Ce
+qui est apprécié tient à la fois au courage qu’ils ont d’exprimer des émotions,
+lesquelles sont perçues comme preuve d’une humanité mise à mal et font de
+leurs porteurs des combattants à saluer. Ces adresses vidéo incarnées par des
+personnalités – non au sens d’individus réputés ou simplement connus, mais de
+sujets singuliers – sont reçues au titre d’une intimité publicisée susceptible d’être
+l’objet d’un jugement (de fait, parfois exprimé dans certains commentaires) et
+c’est cette exposition-prise de risque qui leur donne une valeur et les rend
+estimables :
+« J’apprécie ses vidéos parce qu’on voit bien qu’il est pas spécialiste de la com’. Il y va parce qu’il
+peut plus se taire. Il crie son mal-être quoi. Il gueule son ras-le-bol. Ça se voit bien qu’il est en
+colère et ça me touche de le voir gueuler. »
+Ce que cet interrogé met en avant quand il évoque les selfies vidéo de ce GJ qui
+s’exprime – la plupart du temps en des termes assez verts, pour commenter les
+mesures gouvernementales et de la représentation nationale –, c’est la satisfaction
+308 NOTES DE RECHERCHE
+)74.501.62.951
+:PI(
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| eniarroL
+ed
+étisrevinU'l
+ed
+snoitidÉ
+Gilets jaunes et colères noires
+qu’il ressent à voir s’extérioriser dans une forme de vérité émotionnelle5, une
+colère qu’il identifie comme étant aussi la sienne, bien que celle-ci soit davantage
+« rentrée ». Il y voit l’expression d’une authenticité (une « maladresse touchante »)
+qu’il reconnaît volontiers « émouvante » depuis une disposition compassionnelle
+dont il souligne qu’elle n’a « rien à voir avec de la pitié », mais plutôt avec un penchant
+à la commisération qu’il affirme remonter à l’enfance et qui lui aurait toujours
+fait détester l’injustice. Force est de constater que, dans son développement, la
+publication/publicisation des contenus et des personnes mobilise des formes
+d’investissement de plus en plus disparates hybridant défiance institutionnelle et
+promotion personnelle. Aussi est-ce « la notion même de public qui se trouve
+modifiée par ces formes d’autoproduction, dans la mesure où la séparation entre
+réception et production devient partiellement indistincte, mais surtout parce que
+le travail de production du public apparaît comme une activité personnalisée et
+interactive » (Cardon et al., 2006 : 13).
+Si l’engagement dans le mouvement enclenche des réajustements quant aux
+manières de s’informer, le niveau d’implication dans la mobilisation ne semble
+pas forcément orienter les pratiques de consommation médiatique en faveur
+d’un modèle proactif, surtout s’agissant de « néo-militants » dont la récente
+socialisation politique n’a pas encore eu le temps de déplacer les appétences
+et les tendances comportementales préalablement ancrées. En revanche, l’on
+constate que le capital culturel dans sa forme incorporée s’avère un déterminant
+important concernant les façons de réviser ses usages médiatiques. Les habiletés
+technico-culturelles et dispositionnelles déjà acquises pèsent de tout leur poids
+sur les « négociations », le plus souvent inconscientes, qui sont à l’œuvre quand des
+schèmes d’action et de pensée hérités et parfois bien enracinés rencontrent des
+situations et des contextes sociotechniques plus ou moins inédits. Par exemple,
+dans ce couple de petits fonctionnaires affectés à des tâches administratives
+similaires au sein d’une même collectivité territoriale, aux mêmes origines
+villageoises et du même âge – qui en plaisantant se décrivent comme « une vraie
+paire de siamois » –, il est intéressant de constater que si leur participation au
+mouvement des Gilets jaunes se négocie largement en commun et épouse des
+contours parfaitement identiques, les contenus médiatiques qu’ils fréquentent
+sont en revanche nettement différents, bien qu’ils aient pour point commun de
+relayer des informations validant la légitimité de la mobilisation et affermissant,
+par là même, leurs convictions (Gurri, 2018).
+Odile, qui avant les GJ ne lisait que la presse quotidienne régionale et plutôt « en
+diagonale », se déclare maintenant intéressée par des articles de fond qu’elle va
+5 « À l’époque du stratégisme communicationnel, la vérité émotionnelle nous semble parée d’un
+supplément de valeur, elle est immédiatement accessible sans qu’il faille en passer par de longs
+raisonnements et elle semble vierge de tout calcul d’intérêt. On comprend l’importance qu’elle
+revêt aujourd’hui, le pouvoir d’influence qu’elle procure à ceux qui parviennent à susciter ou capter
+l’émotion collective : un sanglot devant les caméras vaut davantage qu’une longue analyse et s’il
+s’inscrit dans un récit victimaire, il a quasiment partie gagnée » (Eraly, 2019 : 142)
+NOTES DE RECHERCHE 309
+)74.501.62.951
+:PI(
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| eniarroL
+ed
+étisrevinU'l
+ed
+snoitidÉ
+F. Granjon
+chercher en ligne sur des sites d’organes de presse reconnus (notamment lus par son
+père, également soutien des GJ) et dont elle achète même parfois les versions papier :
+L’Humanité, Marianne, Le Monde diplomatique, etc. Son conjoint, lui, se déclare « très
+YouTube », avec une préférence pour les vidéos de manifestations et d’échauffourées
+« contre les flics ». Cet appétit qu’il décrit comme insatiable (« j’y passerais mes
+journées si Odile mettait pas le holà »), il le met en relation avec un goût ancien et
+particulièrement prononcé pour les sports de contact (il a longtemps joué au rugby),
+les films d’action dont il collectionne les DVD, ainsi que les émissions de téléréalité
+qui suivent des équipes de policiers qu’elles magnifient6 (par exemple Enquête
+d’action). Interrogé sur les raisons de cet attrait pour ce qui pourrait s’apparenter à
+des pratiques de riot porn7 (Razsa, 2014), il met en avant la curiosité et l’excitation
+qu’il ressent à observer et percer les tactiques mises en place par les différents
+protagonistes : « Ce que je préfère, c’est les batailles rangées avec beaucoup de
+monde et quand ils arrivent à repousser les forces du Mordor8 ». Il évoque également
+la colère et l’empathie qui l’habitent à la vue des violences perpétrées par les forces
+de l’ordre, notamment lors de lives durant lesquels le sentiment de vivre en direct
+les événements renforce – chez ceux qui y sont a priori déjà sensibles – une certaine
+jubilation notamment due à la dynamisation des émotions :
+« Quand Rodrigues a perdu son œil9, qu’ils lui ont tiré dessus au LBD, on a vu ça en direct. Nous
+on n’était pas dans les manifs ce jour-là. J’étais complètement fou de colère. Les salauds ! Il a fallu
+que je sorte prendre l’air, parce que j’aurais tout pété sans ça. Odile m’a presque foutu dehors
+en me disant d’aller faire un tour pour me calmer. »
+Si les images télévisées ont, globalement, plutôt relayé les actes violents émanant
+des manifestants (destruction au transpalette de la porte du secrétariat d’État aux
+relations avec le Parlement, bagarre entre le boxeur Christophe Dettinger10 et
+deux gendarmes, incendie du restaurant Le Fouquet’s, etc.), les réseaux sociaux
+numériques se sont, eux, chargés d’une multitude d’images fixes et animées,
+mais aussi de textes témoignant d’abus policiers et de leurs conséquences,
+contenus parfois produits par des collectifs dédiés (e.g. Désarmons-les !11) : usage
+6 Quand nous faisons remarquer à Félix que son engouement pour ces émissions pro-forces de
+l’ordre nous semble ne pas aller de soi, au regard de son (nouveau) penchant « anti-flic », il répond
+n’y voir « aucun paradoxe », car il se dit insensible au message et ne porter intérêt qu’à « l’action
+pour l’action ».
+7 Le riot porn consiste dans le visionnage plus ou moins compulsif et fasciné d’images animées de
+violences urbaines.
+8 L’enquêté fait ici référence à l’univers du Seigneur des anneaux de J. R. R. Tolkien.
+9 Rodrigues a perdu un œil lors de l’acte XI, le 26 janv. 2019.
+10 Une cagnotte Leetchi a été rapidement mise en place suite à la mise en garde à vue de
+Christophe Dettinger, afin de couvrir ses frais de justice. En quelques jours, c’est près de
+150 000 euros qui ont été récoltés. L’entreprise de crowdfunding avait toutefois mis fin rapidement
+à la collecte, sous la pression des syndicats de police et de certains politiques. La justice a par
+ailleurs prononcé la nullité du contrat conclu entre la société Leetchi et l’initiateur de la cagnotte,
+en vertu de l’article 1162 du Code civil (violation à l’ordre public) et a ordonné la restitution des
+fonds aux contributeurs.
+11 Accès : https://desarmons.net.
+310 NOTES DE RECHERCHE
+)74.501.62.951
+:PI(
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| eniarroL
+ed
+étisrevinU'l
+ed
+snoitidÉ
+Gilets jaunes et colères noires
+disproportionné de la force, charges, gazages, nassages, arrestations préventives,
+gardes à vue abusives, interventions des street medics, etc. : « Les violences policières,
+c’est une des grandes affaires du moment. On s’est rendu compte du niveau de violence
+général, avec les reportages vidéo partout en France et le boulot de Dufresne12 ; et puis
+se rendre compte aussi que ce qu’on vivait là, les jeunes des banlieues, ils vivaient ça
+tous les jours ». Il faut d’ailleurs constater l’impressionnant travail de veille qui est
+effectué sur certains groupes Facebook de Gilets jaunes, tout particulièrement
+pour documenter sur la répression policière et judiciaire et construire peu à peu
+une « martyrologie » qui se nourrit d’images « choc » (blessures, coups) et se
+ressource, là encore, dans un travail émotionnel qui renforce les imaginaires de
+lutte. La mise en visibilité de ces faits a valeur en soi (montrer la vérité dans toute
+sa crudité), mais elle est aussi envisagée comme un levier facilitant la mobilisation
+politique et « l’enrôlement des soutiens à une cause » (Traïni et Siméant, 2009).
+De l’entretien de consciences indignées
+Au sein du mouvement des GJ, l’émotion participe pleinement à la construction des
+causes et des revendications en problèmes publics. Celle-ci repose sur des formes
+de guérilla sémiotique – dont le fluorescent gilet jaune a été l’un des principaux
+supports – produisant des écritures de lutte (slogans, punchlines, graffitis13, etc.) qui,
+médiatisées et couplées à la spectacularisation des violences, nourrissent des guerres
+de représentation et de définition. D’un côté, des tentatives de décrédibilisation d’un
+mouvement que l’on essaie de diviser ; de l’autre, la construction et l’entretien de
+consciences indignées14 en livrant des contenus reprenant notamment les codes
+de la culture populaire et/ou geek (blockbusters, séries TV, mèmes Internet, etc. ;
+12 Il est ici fait référence au travail de recension des blessés, mutilations et décès initié par l’écrivain-
+documentariste David Dufresne, au travers d’un dispositif participatif original : Allo Place Beauvau :
+https://www.davduf.net/-allo_place_beauvau-. En 2020, il a également réalisé, sur ce sujet, un film
+documentaire intitulé Un pays qui se tient sage qui a rencontré un franc succès populaire lors de
+sa sortie en salle.
+13 Durant le mouvement contre la « loi Travail » en 2016, le graffiti « On sait radicaliser sur Internet »
+est, à cet égard, tout particulièrement intéressant. Il a servi à signer divers actes de dégradation
+largement photographiés ou filmés. Il fait référence, d’une part, à l’amalgame qui a été fait par certains
+hommes politiques, assimilant militants des cortèges de tête de manifestation et terroristes islamistes
+(ces derniers étant censés s’être radicalisés sur Internet), mais aussi, d’autre part, au fait que les
+représentations des actes de casse pourraient bien être une source de radicalisation politique.
+14 Les forces de l’ordre produisent également, pour leur propre compte (identification, fichage,
+etc.) de plus en plus de vidéos ou se servent des enregistrements de vidéosurveillance en appui
+de leurs enquêtes. Les policiers, également utilisateurs des réseaux sociaux numériques à titre
+personnel, peuvent également publier des images de certaines de leurs interventions, à l’instar de
+la séquence maintenant bien connue de l’arrestation, à Mantes-la-Jolie, d’une centaine de lycéens
+mis à genoux, les mains sur la nuque, à la manière d’une humiliation collective (https://www.
+youtube.com/watch?v=TnOwLMdYBDs). Il faut aussi signaler la place grandissante donnée par les
+médias télévisuels aux représentants syndicaux de la police dont l’exubérant corporatisme tend à
+renforcer les positions binaires pro/anti-police.
+NOTES DE RECHERCHE 311
+)74.501.62.951
+:PI(
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| eniarroL
+ed
+étisrevinU'l
+ed
+snoitidÉ
+F. Granjon
+voir Lim et Kann, 2008), censés faire référence et sens pour le plus grand nombre
+et, plus particulièrement, pour la jeunesse, à l’instar du sentiment de ce lycéen
+préparant un baccalauréat professionnel dans le secteur du bâtiment, qui précise
+être complètement en phase avec une large partie de l’esprit des posts qu’il lit sur les
+groupes Facebook GJ auxquels il est abonné :
+« C’est un même état d’esprit. C’est le même humour, c’est les mêmes conneries qu’on trouve
+d’habitude sur Internet. Mais y a aussi des trucs graves. Les mecs qui se font arracher une main
+ou qui perdent un œil, ça fout direct les boules. Quand tu regardes ça, surtout quand t’es avec
+tes potes, tu te jures qu’ils vont payer pour ce qu’ils ont fait. T’as envie de les défoncer. T’as la
+haine. Ça marche comme ça, on a l’habitude de cet état d’esprit. Moi, ça me parle. »
+Un étudiant nous fait également part de son appréciation à aller au contact des
+forces de l’ordre et se mettre personnellement à l’épreuve dans l’action lors de
+sa participation au cortège de tête en manifestation. De son propre aveu, « un
+peu accro à l’adrénaline », il semble trouver quelque ersatz à cette activation
+émotionnelle de soi dans le visionnage de vidéos de manifestations tournées
+depuis l’intérieur. Par ailleurs, il souligne l’importance de l’esthétique de certains
+posts qui semble le faire plus commodément « adhérer » aux contenus :
+« Les messages de Nantes révoltée, par exemple, Bah… je ne sais pas trop comment dire,
+mais ça me parle tout de suite. Les lettres, les visuels, les couleurs… J’ai l’impression déjà d’être
+dedans. Ça m’est tout de suite familier. »
+La brutalité est justifiée par la nécessité d’une réponse qui se doit d’être à la
+hauteur des avanies subies par les manifestants dans le cadre d’une violence
+exercée par les institutions policières qui n’apparaît plus légitime. Mais celle-ci
+est également réhabilitée par le biais d’opérations d’esthétisation la rendant, à
+tout le moins aux yeux de certains, plus nécessaire et désirable que ce qui est, en
+temps normal, établi par les seuils de sensibilité ordinaires. Le penchant général
+à la dévalorisation de la violence et à contenir ces états émotifs n’est plus une
+norme incontestée. Si les actes de violence émanant des forces de l’ordre sont
+construits comme des débordements inacceptables (produisant des victimes),
+ceux des GJ sont globalement considérés comme des pratiques de légitime
+défense, potentiellement appréciés en tant qu’ils sont des formes de résistance
+et de recouvrement d’une certaine dignité (ne pas se laisser faire).
+Les affects de la conflictualité sociale trouvent leur principe dans les subjectivités,
+mais celles-ci se voient activées par des vécus qui peuvent aussi s’appuyer sur des
+expériences médiatiques. La matérialité politico-affectuelle (Braun et Whatmore,
+2010) est aussi numérique, portée par des scripts15 et des contenus au nombre
+15 Les émotions sont également prises en charge par des fonctionnalités dont le « like » est sans
+doute la plus répandue. Son usage est d’ailleurs parfois équivoque dans la mesure où il n’est pas
+toujours évident de considérer la cible exacte d’un « pouce levé » : ratifie-t-on un contenu, sa
+mise en visibilité, la personne qui en est à l’origine ? S. Zuboff (2020 : 405) rend compte d’une
+expérimentation de grande ampleur mobilisant près de 700 000 individus qui furent exposés par
+Facebook à des expressions émotionnelles dans leur fil d’actualité : « L’expérience était structurée
+comme comme un test A/B (lesquels sont en général anodins). Deux groupes, l’un dans lequel les
+312 NOTES DE RECHERCHE
+)74.501.62.951
+:PI(
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| eniarroL
+ed
+étisrevinU'l
+ed
+snoitidÉ
+Gilets jaunes et colères noires
+desquels les images s’avèrent tout à fait centrales en tant que vecteurs privilégiés
+de la mise en circulation d’affects qui façonnent les subjectivités politiques.
+Clairement éloignée des critères normatifs de l’espace public et de l’agir
+communicationnel habermassiens (distanciation, réflexivité, maîtrise, pondération,
+etc.), l’économie des pratiques de production iconiques ouvre, en quelque sorte,
+un front de lutte symbolique qui concourt au cadrage des perceptions ordinaires
+des mobilisations et à la mise en forme de l’expérience protestataire. De par les
+potentialités conversationnelles qu’ils offrent, les réseaux sociaux numériques
+facilitent à la fois l’expression des émotions individuelles, mais favorisent aussi
+leur transformation en émotions « socialement recevables », c’est-à-dire leur
+transcription dans un système de significations partagées (Traïni, 2011a). Comme
+le souligne Coline Salaris (2017 : 860), « les émotions permettent de faire lien
+entre dynamique de construction individuelle et collective des engagements
+et dynamique collective de construction d’une cause ». Les réseaux sociaux
+numériques participent donc de ce que Christophe Traïni (2011b) nomme des
+dispositifs de sensibilisation16. Ceux-ci relèvent moins d’un exercice tenu de la raison
+argumentative qu’ils ne visent à prescrire des sentiments (peur, enthousiasme,
+indignation, colère, dégoût, etc.), à créer des chocs moraux (Jasper, 1997), à
+réarmer les sensibilités, à aligner les registres émotionnels à la cause collective, à
+créer des identités en lutte, etc. Ils conduisent finalement, à faire recouvrer à ceux
+qui se ou s’y voient ou reconnaissent, une certaine puissance d’agir notamment
+traversée par un sentiment d’injustice. Gérard Noiriel (2019 : 26) rappelle que
+l’injustice est « l’un des plus puissants ressorts affectifs permettant de mobiliser
+les individus », mais la sociologie de l’action collective a toutefois montré qu’elle
+était un ingrédient largement insuffisant pour produire une mobilisation, laquelle
+dépend étroitement d’autres ressources (finances, organisations, entrepreneurs
+de cause, etc.) et des conjonctures.
+Les images des affrontements du premier décembre 2018 autour de l’Arc de
+Triomphe ou bien les compilations diverses du type « les meilleurs moments
+chocs » ont, par exemple, fait des millions de vues. Les images de violence
+sont donc des enjeux de lutte qu’il s’avère toutefois difficile à manier et dont
+les usages politiques ne sont jamais garantis, notamment parce qu’en tant que
+signes semblant faire directement sens, elles ne sont, la plupart du temps, que
+peu accompagnées d’explicitations quant aux raisons, contextes et choix de
+gens étaient exposés à des messages pour la plupart positifs dans leur fil d’actualité ; l’autre où les
+messages étaient pour la plupart négatifs. Hypothèse à tester : une exposition fut-elle subliminale, à
+des contenus émotionnels spécifiques, poussait-elle les utilisateurs à modifier leur comportement
+en matière de posts Facebook pour refléter ces contenus ? Réponses : oui. Quelle que soit l’humeur
+de ces utilisateurs, le ton de leurs posts était modifié par la teneur de leur fil d’actualité ».
+16 « Par dispositifs de sensibilisation, il faut entendre, plus précisément, l’ensemble des supports
+matériels, des agencements d’objets, des mises en scène, que les militants déploient afin de susciter
+des réactions affectives qui prédisposent ceux qui les éprouvent à s’engager ou à soutenir la cause
+défendue » (Traïni et Siméant, 2009 : 12).
+NOTES DE RECHERCHE 313
+)74.501.62.951
+:PI(
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| eniarroL
+ed
+étisrevinU'l
+ed
+snoitidÉ
+F. Granjon
+production qui ont pourtant prévalu à leur fabrication17. Par exemple, Lamine,
+autoentrepreneur qui, après avoir insisté sur le fait d’avoir reçu une éducation
+familiale particulièrement stricte, avec un père qui n’hésitait pas à frapper
+ses enfants au moindre faux pas, va nous expliquer, sans pouvoir référencer
+précisément les images qu’il mentionne :
+« Je suis Gilet jaune à 100 %. 100 % d’accord avec eux. Vraiment à 100 %. 100 % ! Mais
+franchement, je suis pas d’accord avec les dégradations des commerces. Certains commerçants,
+ils sont comme nous, ils essaient de s’en sortir. C’est pas bien de tout casser. Je suis dégoûté par
+le cassage des petits commerces qui sont comme nous. J’ai failli pas revenir à cause de ça, de
+toutes ces images qu’on voit et qui sont pas normales. Les Gilets jaunes à la base, c’est pas ça.
+On défend ceux qui ont du mal à s’en sortir. »
+A contrario, les vidéos virales de violences policières, aux formats courts et à la
+lisibilité instantanée (son direct et sans montage), occupent une place importante
+dans la production de la preuve quant à l’usage illégitime de la force outrepassant
+les nécessités du maintien de l’ordre. Elles « constitue[nt] un contenu attractif, qui
+anime[nt] le débat et échauffe[nt] le commentaire » (Gunthert, 2018 : 146). « Dans le
+contexte des manifestations des Gilets jaunes, ces traits formels fonctionnent comme
+une indication narrative, donnant à l’acte de filmer un rôle de veille citoyenne » (ibid.,
+2020 : 193). Le sens de ces images (de quoi sont-elles la preuve ? Que disent-elles ?)
+ou les nuances interprétatives à y apporter sont parfois âprement discutées au sein
+de dynamiques conversationnelles, produit d’une activité socialement située au sein
+de laquelle l’affectivité (Allard et al., 2017) joue souvent le rôle d’arbitre.
+Les éléments d’authenticité et d’interprétation sont donc soumis au jeu de
+discussions collectives qui, pour autant qu’elles s’avèrent soutenues, participatives
+et traversées de compétences relatives à des formes d’éducation aux médias,
+ne sont pas pour autant porteuses d’arbitrages définitifs. Les positions sont
+généralement étayées par des manières de penser plus ou moins sclérosées qui
+tendent à surdéterminer la production située du sens en la reliant à des visions
+générales de la société qui, elles, ne sont que rarement mises en débat et, surtout,
+dépendent des positions sociales des internautes que les propriétés prêtées
+aux images numériques ne sauraient gommer ni même amoindrir. Si les images
+sont plus conversationnelles du fait de l’environnement technosémiotique qui
+les portent, elles restent aussi des « surfaces » sur lesquelles se voient projetées
+des dispositions cognitives mâtinées de charges valoratives qui en font parfois
+moins des objets de débat que des prétextes à des formes de réassurance
+de positionnements idéologiques et d’entretien de communautés affectives
+construites autour de coordonnées politiques singulières. En ce cas, « on cherche
+alors moins à exposer la vérité qu’à susciter l’émoi, parfois de façon ostentatoire,
+[par exemple en mettant] en avant des analogies et des similitudes avec d’autres
+17 Un média alternatif « pro-mouvement » comme Taranis News revendique, par exemple, le fait
+que ses reportages ne contiennent jamais de commentaires : « Nous sommes convaincus que ce
+sont à vos yeux de trouver l’information dans nos images, non d’être guidés par nos voix ou nos
+idées » (https://www.facebook.com/taranisnews/posts/1822355907977922:0).
+314 NOTES DE RECHERCHE
+)74.501.62.951
+:PI(
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| eniarroL
+ed
+étisrevinU'l
+ed
+snoitidÉ
+Gilets jaunes et colères noires
+événements […] afin de créer des symétries émotionnelles. Les [éléments]
+associés invitent alors au relais d’opinions et à la mise en circulation d’affects »
+(Bouté et Mabi, 2020 : 47).
+Dans les périodes de basse intensité de la mobilisation, une visibilité accrue
+est apportée à diverses luttes se déroulant sur le territoire national (grèves,
+manifestations, zones à défendre, etc.), mais aussi à de nombreux soulèvements
+à l’échelon international (Birmanie, Rojava, Pays-Bas, Belgique, etc.) qui
+n’entretiennent pas toujours – tant s’en faut – de rapport avec les revendications
+des Gilets jaunes. Ces opérations de mise en proximité permettent toutefois
+d’entretenir une humeur de lutte et un imaginaire de l’insurrection populaire. Elles
+facilitent également l’éclosion de « points de regroupement » qui peuvent rendre
+plus aisé le partage d’un socle plus précis de revendications, de postures et de
+sentiments qui ouvrent, de temps à autre, vers des arènes publiques. Celles-ci
+rendent à leur tour possible la configuration de poches de sens (logos) et
+d’affects (pathos) plus spécifiques, plus spécialisées et plus distinctives (un partage
+du sensible au sens de Rancière). La mise en visibilité d’une pluralité d’intérêts
+de lutte encourage en quelque sorte l’agrégation-recomposition d’internautes
+au sein de sous-groupes davantage affinitaires, fondés sur des proximités
+idéologiques et sensibles plus avérées, mais qui entendent rester solidaires de
+l’ensemble du mouvement, estimant appartenir à une même communauté
+émotionnelle fondée sur « la sincérité du ressenti […] présentée comme étant
+de nature à faire oublier les divergences d’intérêts » (Le Bart, 2020 : 61).
+Conclusion
+Le mouvement des Gilets jaunes est composé d’une population bigarrée qui agrège
+divers membres des classes populaires et moyennes inférieures. Il a rendu visibles
+des situations statutaires certes hétérogènes, mais aussi des proximités existentielles
+marquées par le manque, travaillées par des sentiments (e.g. de pauvreté) et des
+comportements proches, par exemple dans le domaine du politique quant à
+la défiance entretenue vis-à-vis d’une démocratie considérée comme élitaire,
+confisquée par « ceux d’en haut » (Hoggart, 1957), qui se traduit notamment par
+un rejet plus global du politique et des affaires publiques. Une large part des GJ se
+mobilisait, là, pour la première fois. Aussi nombre d’entre eux peuvent être décrits
+comme des néophytes ou des novices en politique (Collectif d’enquête sur les Gilets
+jaunes, 2019), mais dont le moins qu’on puisse dire est qu’ils ont rapidement appris
+« sur le tas », prouvant que « des individus peu politisés, très peu encadrés par
+les organisations traditionnelles de mouvement social [notamment les syndicats]
+et sans relais institutionnel, peuvent aujourd’hui se mobiliser sur une large échelle
+pour faire entendre leurs revendications » (Agrikoliansky et Aldrin, 2019 : 14). Sans
+appuis matériels et organisationnels substantiels, les Gilets jaunes ont dû inventer des
+manières de faire mouvement « avec les moyens du bord », développant des arts de
+NOTES DE RECHERCHE 315
+)74.501.62.951
+:PI(
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| eniarroL
+ed
+étisrevinU'l
+ed
+snoitidÉ
+F. Granjon
+faire politiques relevant autant du bricolage que de la routine militante. Sans surestimer
+le caractère novateur de cette fluorescente action collective, il faut souligner sa réelle
+capacité à investir l’espace des revendications depuis un répertoire d’actions menuisé
+avec les chutes d’une tradition mobilisatrice et manifestante déroutinisée, qu’ils ne
+maîtrisent qu’en partie, s’appuyant davantage sur des savoir-faire profanes et des
+ressources ordinaires présentes à des degrés divers au sein des classes populaires
+(relationnelles, professionnelles, dispositionnelles, etc.) que sur un capital militant
+avéré. Parmi ces aptitudes ordinaires, on trouve aussi une panoplie de capacités
+relevant de la pratique de l’informatique connectée : créer des pages web, gérer un
+compte Twitter, animer un groupe Facebook, implémenter une vidéo, etc. D’ailleurs,
+elles semblent, la plupart du temps, moins relever d’une conversion de qualifications
+professionnelles que d’un « détournement » de savoir-faire pratiques acquis dans la
+sphère du loisir.
+Au regard de ces conditions initiales peu favorables, d’aucuns pensaient que les GJ
+ne pourraient se maintenir très longtemps : une théorie qui sera démentie. L’un des
+éléments – ce n’est évidemment pas le seul – qui ont permis que ce mouvement
+s’inscrive durablement dans le paysage protestataire tient, nous semble-t-il, au
+travail émotionnel qui a permis de créer du liant là où, a priori, il n’y avait guère
+de commun. Nous n’avons, ici, fait qu’esquisser la documentation de certaines
+dynamiques émotionnelles qui mériteraient que l’on s’y attarde plus précisément.
+Plus encore, il semble important, dans la période, de considérer avec attention le rôle
+que jouent les réseaux sociaux numériques dans la construction, la circulation et la
+réception de l’émotion. L’informatique connectée participe aujourd’hui pleinement à
+la sensibilisation du politique et des mobilisations et sans doute l’encourage-t-elle de
+surcroît, dans la mesure où les décloisonnements et les élargissements de la sphère
+publique qu’elle permet font une place toujours plus importante aux sujets, aux
+pratiques et aux élaborations profanes et s’ouvrent au « kaléidoscope des états
+affectifs » (Blondiaux et Traïni, 2018 : 17). Dans le cas précis des Gilets jaunes, les
+dispositifs numériques ont permis de mettre en visibilité (donner à voir) et en publicité
+(donner à discuter) des ressentis éprouvés (donner à ressentir), mais ces expressions
+sensibles provisionnent d’autres états affectifs qui peuvent également trouver à se
+déporter « in real life » et jouer sur la mobilisation. Les contenus qui transitent en
+ligne et les programmes d’action qui cadrent leur mise en forme définissent une
+formalisation de la réception, mais aussi de la production de l’affectivité politique qu’il
+s’agirait donc d’étudier plus avant dans ses différentes conséquences.
+Références
+Agrikoliansky É. et Aldrin P., 2019, « Faire avec la politique. Novices, amateurs et
+intermittents en politique », Politix. Revue des sciences sociales du politique, 128 (4),
+p. 7-29. https://www.cairn.info/revue-politix-2019-4-page-7.htm
+Allard L. et al., 2017, « Émergences : les affects numériques. Introduction », Revue française des
+sciences de l’information et de la communication, 11. https://journals.openedition.org/rfsic/2518
+316 NOTES DE RECHERCHE
+)74.501.62.951
+:PI(
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| eniarroL
+ed
+étisrevinU'l
+ed
+snoitidÉ
+Gilets jaunes et colères noires
+Badau H., 2019, « Intelligence artificielle et réseaux socionumériques : étude d’impact
+sur la dynamique des réseaux sociaux en France et en Roumanie », Les Cahiers du
+numérique, 15 (3), p. 221-226.
+Blondiaux L. et Traïni C., 2018, « Introduction : les émotions, angle mort et dimension
+essentielle de la participation politique », dans id. (dir.), La Démocratie des émotions, Paris,
+Presses de Sciences Po, p. 7-43.
+Bouté É. et Mabi C., 2020, « Des images en débat : de la blessure de Geneviève Legay à
+la répression des Gilets jaunes », Études de communication, 54, p. 29-52. https://journals.
+openedition.org/edc/9996
+Braun B. et Whatmore S., 2010, Political Matter. Technoscience, Democracy and Public Life,
+Minneapolis, University of Minnesota Press.
+Cardon D. et Granjon F., 2013, Médiactivistes, Paris, Presses de Sciences Po.
+Cardon D. et al., 2006, « Présentation », Réseaux. Communication, technologie, société, 137
+(3), p. 9-25. https://www.cairn.info/revue-reseaux1-2006-3-page-9.htm
+Collectif d’enquête sur les Gilets jaunes, 2019, « Enquêter in situ par questionnaire sur une
+mobilisation. Une étude sur les Gilets jaunes », Revue française de science politique, 69 (5-6),
+p. 869-892.
+Eraly A., 2019, Une démocratie sans autorité ?, Toulouse, Éd. Érès.
+Ertzscheid O., 2019, « De l’algorithme des pauvres gens à l’Internet des familles modestes »,
+dans Confavreux J. (coord.), Le Fond de l’air est jaune. Comprendre une révolte inédite,
+Paris, Éd. Le Seuil, p. 135-146.
+Gentzkow M. et Shapiro J. M., 2011, « Ideological Segregation Online and Offline », The
+Quarterly Journal of Economics, 126 (4), p. 1799-1839.
+Granjon F. et al., 2014, Médias numériques & participation. Entre engagement citoyen et
+production de soi, Paris, Mare & Martin.
+Gunthert A., 2018, « La visibilité des anonymes. Les images conversationnelles colonisent
+l’espace public », Questions de communication, 34, p. 133-154. https://journals.openedition.
+org/questionsdecommunication/15693
+Gunthert A., 2020, « L’image virale comme preuve. Les vidéos des violences policières
+dans la crise des Gilets jaunes », Communications, 106, p. 187-207. https://www.cairn.
+info/revue-communications-2020-1-page-187.htm
+Gurri M., 2018, The Revolt of the Public and the Crisis of Authority in the New Millennium, San
+Francisco, Stripe Press.
+Hoggart R., 1957, The uses of literacy. Aspects of working-class life, Londres, Chatto and Windus.
+Jasper J. M., 1997, The Art of Moral Protest. Culture, Biography, and Creativity in Social
+Movements, Chicago, University of Chicago Press.
+Katz E., 1957, « The two-step flow of communication: An up-to-date report on a
+hypothesis », Public Opinion Quarterly, 21 (1), p. 61-78.
+Katz E. et Lazarsfeld P., 1955, Personal influence : The part played by people in the flow of mass
+communication, Glencoe, Free Press.
+Le Bart C., 2020, Petite sociologie des Gilets jaunes. La contestation en mode post-institutionnel,
+Rennes, Presses universitaires de Rennes.
+NOTES DE RECHERCHE 317
+)74.501.62.951
+:PI(
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| eniarroL
+ed
+étisrevinU'l
+ed
+snoitidÉ
+F. Granjon
+Lim M. et Kann M. E., 2008, « Politics: Deliberation, Mobilization, and Networked Practices of
+Agitation », dans Varnelis K., éd., Networked Publics, Cambridge, The MIT Press, p. 77-107.
+Mauger G., 2013, « De ‘‘l’homme de marbre’’ au ‘‘beauf’’. Les sociologues et ‘‘la cause
+des classes populaires’’ », Savoir/Agir, 26, p. 11-16. https://www.lames.cnrs.fr/IMG/pdf/
+mauger_de_l_homme_de_marbre_au_beauf_savoir_agir.pdf
+Noiriel G., 2019, Les Gilets jaunes à la lumière de l’histoire. Dialogue avec Nicolas Truong, La
+Tour d’Aigues/Paris, Éd. de l’Aube/Le Monde.
+Razsa M. J., 2014, « Beyond “Riot Porn”: Protest Video and the Production of Unruly
+Subjects », Ethnos, 79 (4), p. 496-524.
+Salaris C., 2017, « Mobiliser par émotions, mobiliser les émotions. Le cas des victimes du
+Distilbène », Revue française de science politique, 67 (5), p. 857-878.
+Siroux J.-L., 2020, Qu’ils se servent de leurs armes. Le traitement médiatique des Gilets jaunes,
+Vulaines-sur-Seine, Éd. du Croquant.
+Traïni C., 2011a, « Les émotions de la cause animale. Histoires affectives et travail militant »,
+Politix. Revue des sciences sociales du politique, 93, p. 69-92.
+Traïni C. 2011b, « Des sentiments aux émotions (et vice-versa) : comment devient-on
+militant de la cause animale ? », Revue française de science politique, 60 (2), p. 335-358.
+Traïni C. et Siméant J., 2009, « Introduction. Pourquoi et comment sensibiliser à la cause ? »,
+p. 11-34, dans Traïni C. (dir.), Émotions… Mobilisation !, Paris, Presses de SciencesPo.
+Zuboff S., 2020, L’Âge du capitalisme de surveillance, trad. de l’anglais (États-Unis) par
+B. Fomentelli et A.-S. Homassel, Paris, Éd. Zulma.
+318 NOTES DE RECHERCHE
+)74.501.62.951
+:PI(
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| eniarroL
+ed
+étisrevinU'l
+ed
+snoitidÉ

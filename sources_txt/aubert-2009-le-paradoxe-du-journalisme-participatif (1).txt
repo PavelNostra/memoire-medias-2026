@@ -1,0 +1,915 @@
+Le paradoxe du journalisme participatif
+Motivations, compétences et engagements des rédacteurs des
+nouveaux médias (enquête)
+Aurélie Aubert
+Dans Terrains & travaux 2009/1 n° 15 , pages 171 à 190
+Éditions ENS Paris-Saclay
+ISSN 1627-9506
+DOI 10.3917/tt.015.0171
+Date de mise en ligne : 17/09/2009
+Article disponible en ligne à l’adresse
+https://shs.cairn.info/revue-terrains-et-travaux-2009-1-page-171?lang=fr
+Découvrir le sommaire de ce numéro, suivre la revue par email, s’abonner...
+Scannez ce QR Code pour accéder à la page de ce numéro sur Cairn.info.
+Distribution électronique Cairn.info pour ENS Paris-Saclay.
+Vous avez l’autorisation de reproduire cet article dans les limites des conditions d’utilisation de Cairn.info ou, le cas échéant, des conditions générales de la licence souscrite par votre
+établissement. Détails et conditions sur cairn.info/copyright.
+Sauf dispositions légales contraires, les usages numériques à des fins pédagogiques des présentes ressources sont soumises à l’autorisation de l’Éditeur ou, le cas échéant, de
+l’organisme de gestion collective habilité à cet effet. Il en est ainsi notamment en France avec le CFC qui est l’organisme agréé en la matière.
+Cet article est disponible en ligne à l’adresse :
+http://www.cairn.info/article.php?ID_REVUE=TT&ID_NUMPUBLIE=TT_015&ID_ARTICLE=TT_015_0171
+Le paradoxe du journalisme participatif. Motivations, compétences et
+engagements des rédacteurs des nouveaux médias (enquête)
+par Aurélie AUBERT
+| ENS Cachan | Terrains & Travaux
+2009/1 - N° 15
+ISSN 1627-9506 | pages 171 à 190
+Pour citer cet article :
+— Aubert A., Le paradoxe du journalisme participatif. Motivations, compétences et engagements des rédacteurs des
+nouveaux médias (enquête), Terrains & Travaux 2009/1, N° 15, p. 171-190.
+Distribution électronique Cairn pour ENS Cachan.
+© ENS Cachan. Tous droits réservés pour tous pays.
+La reproduction ou représentation de cet article, notamment par photocopie, n'est autorisée que dans les limites des
+conditions générales d'utilisation du site ou, le cas échéant, des conditions générales de la licence souscrite par votre
+établissement. Toute autre reproduction ou représentation, en tout ou partie, sous quelque forme et de quelque manière
+que ce soit, est interdite sauf accord préalable et écrit de l'éditeur, en dehors des cas prévus par la législation en vigueur
+en France. Il est précisé que son stockage dans une base de données est également interdit.
+)74.501.62.951
+:PI(
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+|
+yalcaS-siraP
+SNE
+Aurélie Aubert
+Le paradoxe du journalisme participatif
+Motivations, compétences et engagements
+des rédacteurs des nouveaux médias
+(enquête)
+La France connaît depuis 2005 de nouvelles formes de jour-
+nalisme sur internet, qualifiées de « participatives », c’est à dire
+offrant la possibilité à des internautes non journalistes de parti-
+ciper à l’élaboration de l’information, selon des formes variées1.
+Le site AgoraVox a ainsi été lancé en 2005. Le constat de départ
+des fondateurs est de considérer que, grâce à la démocratisation
+effective du multimédia et des NTIC, « tout citoyen peut de-
+venir potentiellement un «reporter» capable d’identifier et de
+proposer des informations à haute valeur ajoutée ». La politique
+éditoriale d’AgoraVox consiste « à mettre librement à disposi-
+tion de ses lecteurs des informations thématiques dans la me-
+sure du possible inédites, détectées par les citoyens »2.
+Deux ans plus tard, le concept de « média participatif » est
+repensé par des journalistes qui cherchent à rester maîtres du
+processus d’élaboration des nouvelles, tout en offrant une place
+aux non-journalistes, soit en publiant leurs contributions, soit
+en hébergeant leur blog, soit en enquêtant sur des informations
+envoyées par des internautes à la rédaction : c’est l’initiative de
+quatre anciens de Libération qui lancent le 6 mai 2007 rue89.
+com. En mars 2008, Edwy Plenel est à l’origine de la création
+de Mediapart.fr dont le contenu est accessible sur abonnement.
+Le terme « participatif » dont se revendiquent aujourd’hui aussi
+bien les politiques que les médias contraste – comme l’a signalé
+1. Parmi les premières expériences de journalisme participatif figure le site coréen Oh-
+mynews fondé en 2000. Rédigé conjointement par des internautes et des journalistes pro-
+fessionnels, ce site a connu un succès très important en Corée avant d’être diffusé en langue
+anglaise en 2006.
+2. Extrait de la « politique éditoriale» présentée sur le site AgoraVox.fr.
+!"##$%&’()(!#$*$+,!"!#$!%&!’())*+!"!%,%
+)74.501.62.951
+:PI(
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| yalcaS-siraP
+SNE
+fig. 1 - Auteurs vedettes de la semaine sur OhMyNews
+[www.english.ohmynews.com, février 2009]
+Henry Jenkins à propos des communautés de fans sur Inter-
+net – avec la représentation de spectateurs passifs. Les notions
+de producteurs et de consommateurs de l’information, aux rôles
+distincts, deviennent donc caduques au profit de « participants
+créatifs suivant un nouvel ensemble de règles qu’aucun d’entre
+nous ne comprend encore très bien » (Jenkins, 2006 : 31-36).
+Si les règles ne sont pas encore totalement élaborées, le statut
+de ce « lecteur-auteur » n’est pas fixé non plus, puisque les seules
+activités fondées sur une production auctoriale de contenus se
+réduisent, en définitive, « à posséder un blog » ou « diffuser ses
+propres contenus audio et vidéo » (Rébillard, 2007 : 44). S’ap-
+puyant sur une étude de Médiamétrie d’octobre 2006, Franck
+Rébillard souligne que « seuls 6 % des Français de plus de 15
+ans (3 sur 50 millions) créent des contenus sur l’internet ; et
+même avec une conception très extensive de l’intervention sur
+le contenu élargie à la catégorie des «contributeurs», on arrive à
+%,(!"!!"##$%&’()(!#$*$+,!"!#$!%&!’())*+
+)74.501.62.951
+:PI(
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| yalcaS-siraP
+SNE
+moins d’un tiers (autour de 30 % : 14,8 sur 50 millions) ». Enfin,
+cette pratique « minoritaire » est « socialement discriminée »
+(Rébillard, 2007 : 48-49). La publication sur ce type de support
+constituerait un discours et un dispositif de légitimation, l’in-
+terface internet serait un espace de visibilité de soi au sein d’un
+« collectif sensible » (Trédan, 2007 : 118).
+Du côté des usages professionnels, notre propre enquête menée
+sur Rue89 (Aubert, 2008b) a mis en évidence que la nature des
+sources sur lesquelles s’appuient les journalistes professionnels
+de ce site est aujourd’hui en train d’évoluer. En parallèle des
+sources institutionnelles sur lesquelles les journalistes de cette
+rédaction s’appuient, émergent des sources d’une nouvelle na-
+ture : des informations fournies par les citoyens eux-mêmes. Ces
+derniers mettent en valeur (en envoyant un mail à la rédaction)
+des informations sur lesquelles les professionnels peuvent en-
+quêter, si celles-ci ne sont pas jugées trop partisanes.
+Le profil précis des rédacteurs des nouveaux médias sur In-
+ternet est cependant encore mal connu. On ignore souvent les
+démarches personnelles qui conduisent ces citoyens à s’investir
+dans la rédaction de papiers rendus publics sur le web. L’objet
+de cet article est d’analyser, sur un plan qualitatif, deux points
+essentiels du parcours des contributeurs aux nouveaux médias :
+les logiques et dispositions personnelles qui les poussent à pro-
+poser des articles non rémunérés, ainsi que leurs démarches et
+méthodes de travail.
+fig. 2 - Un auteur d’AgoraVox (février 2009)
+L’enquête empirique permet de mettre en perspective les discours te-
+nus sur le « journalisme participatif » (citizen journalism), qui se repré-
+!"##$%&’()(!#$*$+,!"!#$!%&!’())*+!"!%,-
+)74.501.62.951
+:PI(
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| yalcaS-siraP
+SNE
+sentent le citoyen comme une source alternative d’information. Les
+principaux théoriciens – les journalistes Joseph Lasica (2003), Mark
+Glaser (2003) et Dan Gillmor (2004) – définissent le phénomène
+dans les termes suivants. Il consiste d’abord dans la publication par
+des « gens ordinaires » de nouvelles et de faits d’actualité dont ils sont
+les témoins, et devrait permettre de renouveler la couverture des évé-
+nements ignorés par les médias traditionnels. Cette enquête souligne
+un certain décalage avec une telle conception puisque les contributeurs
+réguliers aux sites de nouveaux médias s’appuient sur des matériaux
+accessibles à tous sur le web, et mettent en avant leur subjectivité dans
+le traitement de l’information.
+L’enquête s’appuie sur une série d’entretiens semi-directifs menés avec
+12 rédacteurs (et lecteurs) de ces sites. Onze des participants à l’en-
+quête sont des contributeurs réguliers ou occasionnels de www.ago-
+ravox.fr et de www.rue89.com ou parfois des deux sites en parallèle3.
+Ces contributeurs ont été sélectionnés également dans la mesure où ils
+ne sont pas eux-mêmes journalistes afin de cerner les pratiques d’in-
+dividus qui n’ont pas de rapport avec le milieu du journalisme, tout en
+s’y intéressant fortement. Ces onze entretiens sont complétés par un
+douzième mené avec un internaute très actif sur les forums du Monde
+en 2005, abonné à Mediapart mais qui a choisi de ne pas contribuer à
+ces sites. Ces entretiens ont été menés entre mars et juillet 2008. Les
+analyses des entretiens sont complétées par une étude des contribu-
+tions publiées sur AgoraVox du 1er février au 1er mars 2007.
+La socialisation des contributeurs aux nouveaux médias
+Le recensement des professions et raisons sociales fournies par
+les contributeurs sur les sites des « nouveaux médias » confirme
+leur appartenance à des catégories socioprofessionnelles élevées
+et le caractère intellectuel des professions mentionnées. Ce re-
+censement opéré sur les profils en ligne des contributeurs d’Ago-
+raVox met en évidence plusieurs caractéristiques de cette popu-
+3. Ces deux sites - AgoraVox et Rue89 - sont très différents. AgoraVox n’est pas administré
+par des journalistes et s’il se qualifie de « média », ne revendique pas une ligne éditoriale
+aussi claire que celle de Rue89. L’essentiel de ce qui est publié sur Rue89 est encore écrit
+par des professionnels, contrairement à AgoraVox dont beaucoup d’articles s’apparentent
+à du commentaire de l’actualité, effectué par de simples citoyens mettant en valeur leur
+appartenance à la société civile.
+%,.!"!!"##$%&’()(!#$*$+,!"!#$!%&!’())*+
+)74.501.62.951
+:PI(
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| yalcaS-siraP
+SNE
+lation4 : les cadres en représentent la grande majorité, constituée,
+pour une part non négligeable, d’ingénieurs informaticiens dont
+la profession est liée aux nouvelles technologies (13 %, selon ce
+recensement). Parallèlement, les professions à caractère « artis-
+tiques » sont surreprésentées (12 % se signalent comme écri-
+vains, chroniqueurs, scénaristes). Les professionnels de la santé
+apparaissent dans 5 % des déclarations ; les universitaires et les
+enseignants dans 13 % d’entre elles. Enfin, la qualification de
+« journaliste », ou « journaliste indépendant » est fréquemment
+fournie par ces internautes pour se présenter (11 %). Cependant,
+ce sont les étudiants (18 %) qui semblent les plus nombreux
+sur AgoraVox. Dernière caractéristique fondamentale : la sur-
+représentation des hommes : ils sont environ quatre fois plus
+nombreux que les femmes.
+Dans le groupe des personnes interrogées dans cette enquête,
+trois contributeurs se présentent comme « auteurs », tandis que
+l’une d’entre elles, jeune mère de famille, se consacre à l’écri-
+ture d’articles historiques pour son blog. Une autre partie de
+ce groupe est constituée de cadres : un travailleur social, un di-
+recteur financier, un administrateur de l’Insee, un ingénieur in-
+formaticien anciennement modérateur d’AgoraVox5, ainsi qu’un
+cadre travaillant pour une société de téléphonie mobile. Enfin,
+c’est le professorat qui structure la dernière partie de ce groupe :
+un professeur à la retraite, un titulaire d’un doctorat scientifique
+aujourd’hui enseignant à domicile, un titulaire d’un CAPES de
+lettres classiques, qui occupe aujourd’hui un poste à responsabi-
+lité au sein du centre pour l’édition électronique.
+Dans ses déclarations, cette population exprime son attrait pour
+les questions d’actualité et l’information politique. L’ensemble
+des professions exercées souligne un intérêt fort pour les affaires
+sociales, économiques ou culturelles contemporaines. Curieux
+du monde qui les entoure, les contributeurs interrogés souli-
+4. Recensement réalisé sur 100 profils classés dans la rubrique « rédacteurs » du site Ago-
+raVox, au 1er septembre 2008, dans lesquels les internautes précisent leur profession. Ce
+recensement ne prend en compte que ce qu’ils écrivent sur eux-mêmes et ne peut évaluer la
+part de mise en scène, voire d’indications fantaisistes.
+5. La fonction de modérateur sur le site est accessible à tout rédacteur ayant publié au
+minimum trois articles sur le site.
+!"##$%&’()(!#$*$+,!"!#$!%&!’())*+!"!%,&
+)74.501.62.951
+:PI(
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| yalcaS-siraP
+SNE
+gnent d’abord leur besoin incessant de « se tenir au courant »,
+pour proposer ensuite une vision plus critique de la sphère jour-
+nalistique.
+Un rapport « boulimique » à l’information
+De manière récurrente c’est un rapport « addictif » et « bouli-
+mique » aux médias qui caractérise cette population, à quelques
+exceptions près. Plusieurs rédacteurs signalent leur « comporte-
+ment compulsif » envers les médias : la consommation média-
+tique est d’abord celle de la presse écrite lue sous forme papier
+ou électronique. Cette lecture est une activité constituante de la
+journée de ces internautes qui y passent plusieurs heures par jour
+(en moyenne deux heures, mais beaucoup plus pour certains).
+Lorsque la question est posée du type de média consommé, c’est
+à la presse écrite (quotidienne ou hebdomadaire) qu’il est fait
+référence, puis à la radio, enfin à la télévision, lorsque la question
+est posée. Julien6 explique ainsi :
+« Je lis tous les jours plus ou moins quatre journaux. Je lis
+Libé, Le Figaro, Les Echos et Le Monde… ça peut être
+plus ou moins dense. Il y a des jours où je suis moins occupé
+ou alors, je suis fatigué ou pas, mais je jette forcément un œil
+sur tous les grands titres… plutôt version papier, sauf pour
+Le Monde qui est majoritairement électronique et le Figaro,
+les Echos, Libé, c’est électronique. Au niveau radio, je suis
+75 % sur France Inter et je zappe sur Europe 1, RTL, France
+Culture, RFI. Le matin très tôt j’écoute RFI pour avoir une
+actualité mondiale plus complète… Moi, je suis un peu spécial,
+je suis un malade d’info, je ne veux pas rater quelque chose.
+Qu’éventuellement j’aie raté une info me pose un problème. »
+Ces habitudes témoignent d’un intérêt global pour l’actualité,
+d’une volonté d’en avoir une vision la plus exhaustive possible.
+Le rapport à la télévision est nettement moins structurant : cer-
+tains expliquent qu’ils l’ont délaissée depuis longtemps (en ce qui
+concerne le journal de 20 heures, par exemple), d’autres qu’ils la
+regardent occasionnellement. Le fait de ne plus regarder la té-
+6. Les prénoms ont été modifiés.
+%,/!"!!"##$%&’()(!#$*$+,!"!#$!%&!’())*+
+)74.501.62.951
+:PI(
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| yalcaS-siraP
+SNE
+lévision est parfois même revendiqué avec fierté. Parallèlement,
+on constate aussi une consommation médiatique qui pourrait
+être qualifiée de cumulative, davantage qu’exhaustive, comme on
+le remarque par exemple chez Albert qui décrit ainsi sa consom-
+mation médiatique quotidienne :
+« Je suis un affreux zappeur, actuellement je suis sur RMC
+(…) ensuite c’est la matinale de Canal +, et puis après j’ai
+mon Internet et en même temps j’écoute la radio, j’écoute la
+télé devant mon ordinateur : c’est un affreux capharnaüm ! »
+Les deux rédacteurs qui se démarquent de ce type de compor-
+tement sont deux contributeurs plus spécialisés que les autres.
+Ariane, qui tient un blog consacré au cinéma et à la littérature,
+s’est ainsi spécialisée sur AgoraVox dans la rédaction d’articles
+culturels ou philosophiques et confesse que sa consommation
+médiatique tient davantage du « picorement ». Titulaire d’un
+doctorat en biologie, Daniel a quitté le milieu universitaire pour
+se consacrer à l’enseignement à domicile. Il est devenu l’un des
+« vulgarisateurs scientifiques » attitrés de Rue89, déclare avoir
+des rapports aux médias « pas hyper fréquents ». Plus l’activité
+de production de contenu semble spécialisée, moins le rapport
+à l’information et la recherche d’exhaustivité de l’information
+sont importants.
+Un positionnement critique vis-à-vis du travail des journalistes
+professionnels
+On note néanmoins parmi cette population boulimique de mé-
+dias, une désaffection envers les grands médias traditionnels en
+raison du contenu jugé de moins en moins satisfaisant (pau-
+vreté du contenu ou prises de position avec lesquelles on se sent
+en désaccord), mais aussi du prix, apparaissant pour certains
+comme un obstacle à l’achat.
+La perception critique des pratiques des journalistes profes-
+sionnels constitue l’une des récurrences dans les déclarations de
+ces contributeurs réguliers aux nouveaux médias. L’élaboration
+d’une théorie critique envers la sphère médiatique et les pro-
+fessionnels du journalisme est plus ou moins élaborée dans les
+!"##$%&’()(!#$*$+,!"!#$!%&!’())*+!"!%,,
+)74.501.62.951
+:PI(
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| yalcaS-siraP
+SNE
+discours, variant aussi avec le degré d’engagement de ces « jour-
+nalistes citoyens »7.
+fig. 3 - Un auteur d’AgoraVox contre le « système » (février 2009)
+Le discours évolue entre la reconnaissance des qualités de la
+profession, qui sont loin d’être toutes niées, et des reproches de
+nature différente. Cette population apparaît comme particuliè-
+rement sourcilleuse envers les pratiques d’une profession consi-
+dérée comme responsable de l’élaboration de la connaissance au
+sein de l’espace public. Parmi les critiques les plus élaborées dans
+les discours, on rencontre des remarques relatives à ce que Cyril
+Lemieux, nomme le non respect des « règles de la grammaire
+publique » (Lemieux, 2000) : le non respect de la règle de « sé-
+paration des faits et des commentaires », le manque de « distan-
+ciation énonciative », notamment :
+« Des gens qui passent à la télévision tous les soirs, dans les
+grands talk shows etc… qui se réclament d’une certaine im-
+partialité, alors que visiblement ils ne l’ont plus, ça ne peut pas
+marcher. Les émissions politique du dimanche soir à la radio,
+quand vous avez des gens qui sont journalistes, qui ont leur
+carte de presse et qui posent des questions qui font, que, en fait,
+ils ont un message à faire passer plutôt qu’une information à
+récolter… et ça, ça se sent, ça se voit, et le malaise est là. (…)
+Un journaliste ne peut pas être juge et partie, il doit avoir du
+recul ou dire très clairement «je prends parti, au moins sur ce
+sujet là, je prends parti et je cesse d’être journaliste parce que
+j’ai un message à faire passer» »
+7. Cette appellation est loin de satisfaire tous les membres de l’enquête qui ne se revendi-
+quent pas tous ainsi
+%,0!"!!"##$%&’()(!#$*$+,!"!#$!%&!’())*+
+)74.501.62.951
+:PI(
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| yalcaS-siraP
+SNE
+Dans une moindre proportion, on note aussi les traces d’un dis-
+cours plus marqué idéologiquement et qui pourrait faire penser,
+dans ce cas, à un discours d’inspiration bourdieusienne, relatif
+aux contraintes financières ou économiques auxquelles le milieu
+médiatique est soumis. Il apparaît dans les propos des contribu-
+teurs qui se déclarent militants d’un parti de gauche ou forte-
+ment sensibilisés aux questions sociales.
+« C’est un problème de système. Un tas de journaux sont main-
+tenant liés à des groupes financiers, à des groupes industriels,
+enfin bon… il commence à se produire une concentration de
+médias entre les mains de personnages marqués politiquement,
+donc, il est clair que, dans cette optique les journalistes n’ont
+pas la liberté de pouvoir exprimer les choses. Alors, il y en a, je
+suppose, qui doivent être carrément, comment dire, partiaux,
+pas forcément honnêtes, mais la majorité des journalistes s’ils
+pouvaient, ils feraient un boulot honnête, mais je pense qu’ils
+sont bridés par les groupes, on ne peut pas diffuser d’informa-
+tions contraires à l’intérêt du groupe qui les finance. »
+La perception du travail des journalistes varie néanmoins selon
+la profession des personnes. Les propos tenus à ce sujet consis-
+tent en général à décrypter le travail des professionnels selon son
+propre domaine de compétence. Le docteur en biologie, égale-
+ment spécialiste d’astrophysique, considère ainsi que les journa-
+listes ne savent pas retransmettre le discours scientifique.
+Cependant, aucun de ces contributeurs ne se considère en
+concurrence avec les journalistes professionnels, qui assurent
+selon eux des rôles de vigie démocratique et un rôle social fon-
+damental. La mission qu’ils s’assignent est d’un ordre différent
+et apparaît, dans leur esprit, comme complémentaire du travail
+effectué par les professionnels.
+Les motivations du passage à l’écriture
+Le fait de devenir un contributeur régulier à un site de journa-
+lisme participatif relève d’une logique naturelle liée à une acti-
+vité d’écriture personnelle anciennement ancrée.
+!"##$%&’()(!#$*$+,!"!#$!%&!’())*+!"!%,*
+)74.501.62.951
+:PI(
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| yalcaS-siraP
+SNE
+La contribution sous forme d’article aux nouveaux médias :
+l’aboutissement d’une réflexion ancienne
+« L’écriture est pour moi un moyen d’explorer le monde, quand
+je veux comprendre quelque chose, quand il y a quelque chose
+qui m’intéresse et que je veux en décortiquer les rouages in-
+ternes (…) : le meilleur moyen c’est d’écrire. Donc écrire sur
+un sujet c’est être happé dans une logique ; on a tout un tas de
+contraintes qui surgissent tout à coup qui consistent à devoir
+se documenter, à aller lire précisément, citer etc. (….). L’écri-
+ture c’est à la fois une contrainte et une possibilité qui permet
+d’explorer le monde, tout simplement. »
+Cet extrait de l’entretien avec Pascal, normalien, spécialiste de
+l’édition électronique et bloggeur depuis de nombreuses années,
+exprime bien ce que la plupart des contributeurs aux nouveaux
+médias ressentent par rapport à l’écriture, sans le verbaliser aussi
+clairement : une pratique permettant de « penser » l’environne-
+ment dans lequel ils évoluent, de le comprendre et de se posi-
+tionner par rapport, non seulement, à des sujets d’actualité, mais
+aussi et surtout à des questions contemporaines qui façonnent
+leur rapport au monde. Cet effort intellectuel est qualifié par
+l’un d’entre eux d’ « hygiène mentale » et apparaît comme incon-
+tournable dans la construction de leurs personnalités. La seule
+exception concerne Emmanuel, l’internaute qui participa, pen-
+dant un temps, aux forums du Monde mais qui se refuse à en-
+voyer des contributions personnelles aux nouveaux médias, esti-
+mant que cela lui demanderait trop de temps. Il avoue d’ailleurs
+avoir un rapport avec l’écriture qui n’est « pas simple » depuis
+l’enfance : celle-ci n’est pas assimilée, dans son cas, à un plaisir,
+mais davantage à un exercice professionnel, qu’il ne lui sied pas
+de reproduire dans un article.
+Pour tous les contributeurs interrogés, l’écriture est une pra-
+tique fortement ancrée dans leurs habitudes : publication d’ou-
+vrages de poésie, de littérature, de romans ou d’essais. Le terme
+de « nègre » fut employé par deux rédacteurs pour décrire une
+partie de leur activité professionnelle. Cette activité d’écriture
+est – ou a toujours été – exercée indépendamment de la fourni-
+%0)!"!!"##$%&’()(!#$*$+,!"!#$!%&!’())*+
+)74.501.62.951
+:PI(
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| yalcaS-siraP
+SNE
+ture de contenus aux médias participatifs (trois de ces rédacteurs
+alimentent aujourd’hui, en parallèle, un blog). On peut la carac-
+tériser d’apaisée (le rédacteur a déjà à son actif plusieurs livres
+publiés) ou de conflictuelle (l’impossibilité de se faire publier
+pouvant entraîner une souffrance).
+On constate, par ailleurs, que de nombreux contributeurs aux
+nouveaux médias ont, par le passé, déjà publié (ou tenté de pu-
+blier) des tribunes libres dans les quotidiens généralistes. L’ac-
+tivité de « journaliste-citoyen » est venue remplacer cette expé-
+rience individuelle de publication, se rattachant au genre « débat
+d’idées ». Publier sur Internet apparaît ainsi beaucoup plus aisé
+que de tenter de passer les barrages de la presse écrite, comme
+l’explique Pascal :
+« Pour cet article-là, j’ai essayé de le faire passer vers un public
+plus large, plus diversifié [que celui de son blog], et j’ai pris
+l’exact opposé, je l’ai envoyé au Figaro, parce que j’ai pris le
+plus loin de moi. Moi, j’ai déjà publié des tribunes il y assez
+longtemps dans Libération […] à l’époque c’était possible. On
+avait au moins un numéro de téléphone, un numéro de fax où
+on pouvait envoyer un texte, et là j’ai bien cherché sur le site
+du Figaro, impossible. Il n’y a pas d’interface de soumission et
+je ne me vois pas aujourd’hui, imprimer mon texte, le mettre
+dans une petite enveloppe et le mettre à la poste, ça n’a pas
+de sens ! Donc, ce que j’ai fait, j’ai pris mon texte, je l’ai mis
+sur une interface Google bloc-notes et je l’ai rendu public et
+je l’ai envoyé à l’adresse contact web mail figaro.fr […] J’ai
+envoyé… Évidemment je n’ai eu aucune réponse, j’ai fait la
+même chose avec Le Monde et avec Libé et je n’ai eu aucune
+réponse des trois. Et le dernier c’était Rue89, je me suis rap-
+proché de moi en quelque sorte et c’est Rue89 qui a pris ! »
+Pour certains, un lien fort avec le journalisme préexiste à l’acti-
+vité de contribution aux nouveaux médias, qu’il provienne d’une
+formation au journalisme, pendant leurs études ou de la rédac-
+tion actuelle de chroniques pour des sites internet. Cyr, 40 ans,
+par exemple, a effectué le master « management de médias »
+d’une école de commerce parisienne et a conservé d’anciens ca-
+!"##$%&’()(!#$*$+,!"!#$!%&!’())*+!"!%0%
+)74.501.62.951
+:PI(
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| yalcaS-siraP
+SNE
+marades de promotion qui sont devenus journalistes. Avant de
+devenir un contributeur régulier d’AgoraVox, il avait songé à
+monter son propre site internet, avec des amis, qui aurait été
+« une revue journalistique avec un regard un peu plus en profondeur
+sur les sujets d’actualité ». Il explique aujourd’hui contribuer par
+des « chroniques » à des sites internet politiques. Ariane, pour
+sa part, la cinquantaine passée, explique qu’elle a dû interrompre
+des études de journalisme parce qu’elle s’est mariée à vingt ans.
+Mère très jeune et habitant Annecy, elle n’a alors pas pu exercer
+cette profession qui la faisait rêver. Pour maintenir une activité,
+elle s’est tournée vers des études de graphologie et de psycholo-
+gie, renouant ainsi, par un autre biais, avec l’écriture. Alors qu’elle
+a déjà publié plusieurs essais et recueils de poèmes, elle s’équipe,
+à la cinquantaine, d’un ordinateur pour communiquer avec son
+fils vivant à l’étranger. C’est ainsi qu’elle découvre la possibilité
+d’ouvrir un blog, initiative dans laquelle elle se lance en 2006,
+conseillée par un ami. Une autre connaissance lui fait découvrir
+AgoraVox où elle a publié, à ce jour, une trentaine d’articles. Les
+papiers d’Ariane sont souvent des chroniques culturelles. Habi-
+tante de la côte normande, elle explique « couvrir » le festival du
+film américain de Deauville en septembre, renouant ainsi avec
+ce métier de journaliste qu’elle n’a pas pu exercer (« j’aurais aimé
+bien sûr, mais c’est un peu un rêve, faire la chronique cinéma pour un
+journal » explique-t-elle).
+Si, dans ces cas, la proposition d’articles a été vécue comme le
+prolongement d’une activité d’écriture très solidement ancrée,
+le rapport avec la publication peut parfois être plus conflictuel.
+L’exemple d’Yves, rédacteur prolixe de la première heure sur
+AgoraVox (plus de 200 articles en ligne), montre comment ce
+support est devenu, pour lui, une véritable chaire, un lieu d’illus-
+tration de ses théories sur les médias. Yves est professeur dans
+le secondaire, aujourd’hui à la retraite. Il a également enseigné
+à l’université comme vacataire à la fin de sa carrière. Ardent ad-
+mirateur de Paul Watzlavick, il revendique sa théorie de l’in-
+formation, selon laquelle l’objectivité n’existe pas, et en particu-
+lier n’existe pas dans les médias. Yves a également ferraillé une
+grande partie de sa vie avec l’Education nationale qu’il accuse
+de véhiculer « une scholastique sorbonnarde » digne « du Moyen-
+%0(!"!!"##$%&’()(!#$*$+,!"!#$!%&!’())*+
+)74.501.62.951
+:PI(
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| yalcaS-siraP
+SNE
+Age ». Dans une volonté d’exprimer ses théories et de les illustrer,
+Yves a cherché à publier en vain, depuis trente ans, des tribunes
+libres polémiques dans les grands quotidiens généralistes, no-
+tamment Le Monde.
+« J’ai vu tout de suite l’intérêt de cet organe [AgoraVox] qui
+est de pouvoir immédiatement et de façon très réactive mettre
+sous le nez d’un certain nombre de gens… […] J’ai vu tout
+de suite qu’il était possible de transmettre un certain nombre
+d’observations que vous n’avez jamais trouvées dans les mé-
+dias, ils faisaient barrage systématiquement »
+AgoraVox qui met en ligne quasi-instantanément tous ses pa-
+piers constitue donc cette « chaire » qui lui a « manqué ». L’ar-
+ticle est alors considéré comme un « espace de liberté » et non de
+contraintes comme il peut l’être pour des journalistes profes-
+sionnels, astreints à des formats ou des obligations de réserve.
+Démarche de soumission : rendre visible et se rendre visible
+L’idée de soumettre une de ses productions aux nouveaux mé-
+dias sur Internet provient, le plus souvent, d’un désir de faire
+entendre son interprétation d’un fait d’actualité ou sa propre
+explication sur un phénomène dans l’air du temps. Déçus par la
+faible interactivité des médias traditionnels, ces consommateurs
+assidus d’actualité sont venus aux sites d’information alternatifs
+pour « entendre une autre voix », car c’est l’uniformité des nou-
+velles dans les médias généralistes qui est aussi dénoncée.
+Le règne du « consensus » et des « idées reçues » est ce qui permet
+d’unifier les discours décryptant le milieu médiatique. Les ré-
+dacteurs cherchent ainsi à dévoiler, non pas une autre vérité – le
+mot n’est jamais prononcé – mais une réalité cachée. Il faut aller
+débusquer « le silence », poser la question qui n’a pas été posée,
+faire apparaître l’angle de compréhension inédit d’un problème
+politique dont tous les journalistes parlent sans le rendre perti-
+nent.
+« Un exemple qui m’a beaucoup frappée, c’était une interview
+!"##$%&’()(!#$*$+,!"!#$!%&!’())*+!"!%0-
+)74.501.62.951
+:PI(
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| yalcaS-siraP
+SNE
+sur Europe 1 d’Elkabbach qui interviewait une jeune femme
+[…] qui est pro-européenne, bon pourquoi pas ?... Et qui di-
+sait clairement : ‘‘c’est incroyable de voir que un pays comme
+l’Irlande, un pays sur 27, peut bloquer le processus d’adhésion,
+enfin le processus de ratification au traité de Lisbonne’’. Et
+j’ai été frappée de voir que M. Elkabbach n’a pas une seule
+seconde, et ça, à mon avis, c’est une faute énorme ou c’est vo-
+lontaire, et je pense que c’est volontaire ! Il n’a simplement
+pas relevé que personne d’autre n’avait eu le droit de voter !
+Après, l’avantage des sites comme Rue89 ou AgoraVox c’est
+de dire : ‘‘Attendez, moi je ne suis pas d’accord, je ne suis pas
+complètement stupide !’’ »
+Pour Axelle, 35 ans, historienne de formation se consacrant à la
+rédaction de son blog historique et à l’éducation de ses enfants,
+qui s’exprime ici, il s’agit de montrer « qu’on peut penser autre-
+ment ». Pour Cyr, Julien, Alain ou Marc c’est le désir d’accorder
+une place plus visible à des événements, des réalisations, des an-
+nonces qui ont été presque passés sous silence dans les médias de
+masse. La mission qu’ils se sont assignée serait de rendre visible
+une information qui leur paraît capitale mais qui n’a pas été mé-
+diatisée alors qu’elle conditionne, à leurs yeux, l’évolution sociale,
+économique, géopolitique du monde. C’est ce qu’explique Cyr :
+« Je pense à un article sur Wal-Mart que j’ai écrit sur une
+nouvelle que j’avais vue : deux lignes dans Les Echos ou La
+Tribune : ils parlaient d’un nouveau système de gestion du
+temps des employés chez Wal-Mart. Donc j’ai été sur le site de
+Wal-Mart, j’ai regardé de quoi il s’agissait, je trouvais le sujet
+intéressant parce que, en l’occurrence, les employés n’avaient
+plus d’horaires. Ils avaient mis au point un système de super-
+vision de l’affluence dans les points de vente qui leur permet-
+tait de définir leurs besoins de main d’œuvre. […] L’article
+sur Wal-Mart c’est deux lignes dans La Tribune, alors que
+potentiellement, ça veut dire qu’aux Etats-Unis, potentiel-
+lement, demain, vu leur taille, l’industrie de la distribution
+va s’aligner : ça fait que des millions de gens n’ont plus d’ho-
+raires… Donc c’est une information relativement importante
+sur la façon dont l’emploi évolue aux Etats-Unis, donc il n’y
+%0.!"!!"##$%&’()(!#$*$+,!"!#$!%&!’())*+
+)74.501.62.951
+:PI(
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| yalcaS-siraP
+SNE
+a pas de raison pour qu’on ne fasse pas un article là dessus. Je
+pense que c’est une information qui structure de manière ex-
+trêmement importante les évolutions sociales et la façon dont
+se structure le travail. En l’occurrence je n’ai pas vu un seul
+article sur le sujet en France »
+L’attention aux choses publiques, à la vie de la cité, la volonté de
+mettre en lumière ce type d’inégalités sociales caractérise bien
+la « culture civique » de ces internautes (Dahlgren, 2003). La
+prise en considération d’un problème social s’accompagne d’une
+manifestation de désaveu, d’indignation, de justification. Daniel
+Céfaï et Dominique Pasquier considèrent d’ailleurs que les pu-
+blics médiatiques font partie du réseau conceptuel qui fournit
+ses « interprétants » à la vie démocratique (Céfaï et Pasquier,
+2003 : 15).
+Envoyer un article, c’est donc rendre visible, mettre en valeur,
+mais c’est aussi se rendre visible, en se prouvant que l’on peut
+être publié. Ces rédacteurs bénévoles cherchent peu la confron-
+tation avec d’autres points de vue. La discussion permise par
+ces sites (système des commentaires) est perçue comme « impos-
+sible », « agressive » car « émotionnelle et passionnelle ». Si l’échange
+et l’apport d’informations nouvelles que peuvent apporter ces
+discussions sont peu mises en avant, c’est la recherche de l’ap-
+probation qui semble davantage être une source de motivation,
+comme l’explique Axelle : « ce qui m’importait, avant tout, une fois
+que l’article était publié c’était de savoir si les gens étaient d’accord
+ou pas… ! » Contribuer consiste donc à révéler un fait, un mode
+de pensée, dans le but de convaincre, sans nécessairement pas-
+ser par l’échange, pour ces internautes qui semblent plus à l’aise
+dans l’élaboration du papier que dans la réponse aux polémiques
+qu’ils ont pu susciter.
+Le paradoxe du « rédacteur citoyen »
+Une fois le sujet d’actualité cerné, le rédacteur élabore son papier
+en quelques heures, deux jours tout au plus. Ce travail est pré-
+senté comme un mûrissement intellectuel, précédé d’une phase
+de recherche ou de vérification de données.
+!"##$%&’()(!#$*$+,!"!#$!%&!’())*+!"!%0&
+)74.501.62.951
+:PI(
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| yalcaS-siraP
+SNE
+Méthodes de travail : le recours aux données du web
+Au commencement figure, dans presque tous les cas, une ré-
+flexion engagée à partir d’un fait d’actualité, saillant ou non.
+Viennent ensuite les recherches, soit pour vérifier l’information,
+soit pour élargir son champ de compréhension. Les recherches
+se font avant tout sur le web, les journalistes amateurs travaillant
+peu à partir d’autres sources. Les rédacteurs ont recours aux sites
+des entreprises ou des organismes autour desquels va porter l’ar-
+ticle, mais surtout aux sites des médias traditionnels qui ont
+traité l’information avant eux.
+Une enquête menée par nos soins du 1er février au 1er mars 2007
+sur les articles publiés par AgoraVox fait ainsi apparaître que
+les références et sources citées par les rédacteurs font peu appel
+aux sources « humaines » au profit de ce qui est glané sur le
+web : on constate ainsi le poids important de la citation d’autres
+sites web8 (26,2 % des « posts » analysés pour cette veille). Les
+informations provenant de la presse écrite sont une importante
+source d’inspiration puisque elles sont à l’origine de 15 % des
+articles – 20 % lorsque le papier porte sur un sujet d’actualité
+internationale (Aubert, 2008a : 117).
+Pour les contributeurs spécialisés sur un sujet bien spécifique, il
+est fréquent de recourir aux sites spécialisés agrégés grâce à un
+moteur de recherche. En revanche, le recours à des références
+livresques est peu mentionné, tout comme celle à des revues :
+le web apparaît quasiment comme le seul espace de vérifica-
+tion plausible, tout en incarnant aussi un lieu où il faut finir
+par accepter que l’information est invérifiable… paradoxe de ces
+journalistes citoyens qui reprochent aux professionnels de ne pas
+suffisamment recouper les informations, tout en se retrouvant
+confrontés aux mêmes types de problèmes.
+« Il faut vérifier un tas de sources quand même. Moi je prends
+des sources sur Internet, je les recoupe mais je ne vérifie pas
+l’authenticité des sources non plus. Un vrai professionnel doit
+vérifier la véracité de toutes ses sources, moi j’en suis réduit
+8. Hors ceux des grands médias nationaux.
+%0/!"!!"##$%&’()(!#$*$+,!"!#$!%&!’())*+
+)74.501.62.951
+:PI(
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| yalcaS-siraP
+SNE
+à faire confiance à des sources auxquelles je fais confiance a
+priori »
+Alors que les définitions du « journalisme citoyen » soulignent
+l’importance de l’expérience locale, celle-ci apparaît de manière
+infime dans les propos des personnes interrogées pour cette en-
+quête : trois intervenants signalent qu’ils se sont appuyés sur
+des témoignages pour illustrer un de leurs articles. La démarche
+d’Ariane qui explique avoir « couvert » les festivals de cinéma de
+Deauville, reste anecdotique dans son parcours.
+Carences d’expertises liées à son propre domaine d’activité…
+et revendication d’un droit à la créativité
+Écrire un papier c’est, en premier lieu, faire appel à ses propres
+critères de compréhension sur un sujet dont on n’est pas tou-
+jours spécialiste. Pascal est ainsi le seul à considérer que les tri-
+bunes qu’il a soumises à Rue89 ou AgoraVox sont directement
+en rapport avec son activité. Ce contributeur est d’ailleurs l’un
+des moins prolixes (une tribune publiée sur AgoraVox, une autre
+sur Rue89), puisqu’il ne s’autorise à publier sur ces supports que
+sur des sujets qu’il connaît avec précision. Il correspond ainsi
+davantage à la figure de l’expert, qui ne caractérise pas vérita-
+blement les autres contributeurs cités ici. Dans les autres cas,
+on peut plutôt parler d’un intérêt général pour le sujet, non pas
+d’une expertise liée à son secteur d’activité. Daniel, qui se définit
+lui-même comme « vulgarisateur scientifique », explique ainsi :
+« Mon premier article c’était un sujet sur l’amiante : il y avait
+une actualité et j’ai voulu en parler sur un aspect biologique,
+sur les effets néfastes au niveau biologique. C’est un sujet que
+je ne connaissais pas du tout. D’ailleurs, la plupart des articles
+que j’ai écrits, je les ai choisis parce que c’était des thèmes d’ac-
+tualité, mais au départ c’est des sujets que je ne connaissais pas
+à fond, donc je fais des recherches pour pouvoir acquérir un
+minimum de compétences. »
+Le paradoxe du « journaliste citoyen » réside bien là : la plu-
+part des articles qu’il rédige ne portent pas directement sur son
+!"##$%&’()(!#$*$+,!"!#$!%&!’())*+!"!%0,
+)74.501.62.951
+:PI(
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| yalcaS-siraP
+SNE
+domaine de compétence, mais plutôt sur des sujets qui le pas-
+sionnent. Ces sujets peuvent avoir un lien plus ou moins loin-
+tain avec l’activité du rédacteur, mais ils correspondent plutôt à
+ses centres d’intérêt. Il s’agit de sujets qui le questionnent parce
+qu’ils sont en rapport avec ses préoccupations sociales, écolo-
+giques, mais aussi identitaires. Ecrire et publier sur Internet
+permet de montrer une autre facette de soi. L’individu cherche
+moins à exploiter des compétences qui sont directement en rap-
+port avec son activité professionnelle, mais plus à faire émerger
+une facette plus ludique et plus créative.
+La réalisation de soi consiste, pour ces rédacteurs, à s’exprimer
+par ce canal que sont les nouveaux médias : exprimer une fa-
+cette de soi qui représente moins ce que l’on est que ce que l’on
+aime, un idéal qui se réaliserait dans la créativité. Car, ce qui
+diffère ensuite entre ces différents internautes, c’est le traitement
+de l’événement ou du sujet de société qui va être réalisé. Il peut
+s’agir, au départ, de la volonté de relayer de manière assez neutre
+une information ou une pétition sur un sujet auquel on est sen-
+sibilisé. Il peut s’agir aussi de prendre parti, en entrant alors dans
+une forme de polémique avec les adversaires de l’autre camp, que
+l’on va chercher à convaincre. Il peut s’agir, enfin, de laisser place
+à sa créativité en interprétant l’information de manière loufoque
+ou décalée, attitude revendiquée par l’un des contributeurs les
+plus appréciés par les lecteurs de Rue89 qui avoue :
+« Je suis dans du subjectif, entièrement subjectif et je ne reven-
+dique aucune objectivité dans les propos que je peux tenir…
+donc je suis plutôt dans le récréatif. Pour moi, Rue89, c’est ma
+récréation, ma cour de récré ! »
+Cet internaute connu et estimé des lecteurs de Rue89 est, dans
+le civil, travailleur social. Sa sensibilité « de gauche » l’invite à
+traiter de sujets polémiques quant au gouvernement de Nicolas
+Sarkozy, mais sous un angle ludique. Très sensibilisé aux pro-
+blèmes sociaux en particulier à l’exclusion, dans son travail, il ad-
+met revêtir un autre rôle lorsqu’il prend la plume, incarnant un
+personnage cocasse qui analyse avec « un humour trash et provoc »
+%00!"!!"##$%&’()(!#$*$+,!"!#$!%&!’())*+
+)74.501.62.951
+:PI(
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| yalcaS-siraP
+SNE
+la vie sociale et politique rennaise, ville où il réside, notamment9.
+Écrire est ici envisagé comme une création qui donne sens à
+l’expérience. Écrire c’est s’engager, mais c’est aussi créer et établir
+une certaine image de soi. L’affichage de la subjectivité peut y
+être revendiqué. On s’éloigne ici d’une vision du « journaliste-
+citoyen » qui copierait l’habitus des journalistes professionnels :
+nous sommes ici davantage dans l’invention d’un nouveau para-
+digme. Les contributeurs aux nouveaux médias concilient enga-
+gement et créativité en s’investissant dans les affaires de la cité.
+Endossant un rôle qu’ils estiment complémentaire par rapport à
+celui des journalistes, ils proposent une forme renouvelée de leur
+engagement.
+Conclusion
+Les propos des contributeurs aux nouveaux médias analysés ici
+ne reflètent pas l’intégralité des profils. Ils correspondent aux
+rédacteurs qui interviennent sur des sujets variés, mais dont ils
+ne sont pas toujours spécialistes, ce qui ne signifie pas que leurs
+articles soient mal documentés ou mal écrits, bien au contraire.
+Dans les cas présentés ici, écrire et envoyer sa contribution sur
+un support internet consiste à rendre visible une facette de soi
+souvent différente de son appartenance institutionnelle. En dé-
+voilant une information passée sous silence, en promouvant ses
+convictions sociales, son engagement polémique, sa culture per-
+sonnelle, sa créativité débridée… le rédacteur bénévole donne
+aussi un sens à son expérience personnelle : il mêle ainsi citoyen-
+neté et individualité. Il prend plaisir à créer, mais pas nécessaire-
+ment à convaincre par un échange interactif.
+Les rédacteurs bénévoles ne sont pas des journalistes et ne cher-
+chent pas à imiter systématiquement les pratiques de ces der-
+niers. Ils proposent plutôt un mode d’expression engagé, fondé
+sur la revendication d’une « culture civique », et associé à un
+désir de création.
+9. Le cas de cet internaute est particulier car l’usage de l’ironie est signalé par la plupart des
+rédacteurs comme la principale cause de refus d’un article (notamment sur AgoraVox) : son
+succès réside bien ici dans la qualité de sa plume, davantage que dans l’usage de l’ironie qui
+ne caractérise pas l’ensemble des contributions.
+!"##$%&’()(!#$*$+,!"!#$!%&!’())*+!"!%0*
+)74.501.62.951
+:PI(
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| yalcaS-siraP
+SNE
+RÉFÉRENCES
+AUBERT (A.), 2008a. « L’actualité internationale à l’heure des
+médias participatifs ». In : PALMER (M.) et AUBERT (A.),
+L’information mondialisée, Paris, L’Harmattan, pp. 109-119.
+AUBERT (A.), 2008b. « Rue89 : un modèle horizontal de la
+production d’information ? ». In F. Lambert et C. Laville (dir.),
+Faut-il encore former les journalistes ? Médiamorphoses n°24, Paris,
+INA / Armand Colin, pp. 99-104.
+CEFAÏ (D.), PASQUIER (D.) (dir.), 2003. Les Sens du public.
+Publics politiques, publics médiatiques, Paris, PUF.
+DAHLGREN (P.), 2003. « Reconfigurer la culture civique dans
+un milieu médiatique en évolution », Questions de communica-
+tions, n°3, p. 151-168.
+GILLMOR (D.), 2004. We the Media. Grassroots Journalism by
+the People, for the People, New York, O’Reilly.
+GLASER (M.), 2003. “Journalists debate closure of another
+blog”, Online Journalism Review.
+JENKINS (H.), 2006. Culture Convergence, When Old media and
+New media collide, New York, New York University Press.
+LASICA (J.), 2003a. “Participatory Journalism Puts the Reader
+in the Driver’s Seat”, Online Journalism review.
+LASICA (J.), 2003b. “What is participatory journalism”, On-
+line Journalism review.
+LEMIEUX (C.), 2000. Mauvaise Presse, Paris, Métaillié.
+REBILLARD (F.), 2007. Le web 2.0 en perspective, Paris, L’Har-
+mattan.
+TREDAN (O.), 2007. « Le journalisme citoyen en ligne : un
+public réifié », Hermès n°47, Paris, CNRS ed, pp. 115-122.
+%*)!"!!"##$%&’()(!#$*$+,!"!#$!%&!’())*+
+)74.501.62.951
+:PI(
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| yalcaS-siraP
+SNE

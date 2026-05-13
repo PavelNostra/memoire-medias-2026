@@ -1,0 +1,966 @@
+Cédric Tant
+LE MÉDIA – A POPULIST
+DOSSIER
+CRITIQUE OF JOURNALISTS
+AND THE MEDIA BY
+JOURNALISTS:
+journalism as a social good of the
+people
+CÉDRIC TANT
+Université Saint-Louis, Brussels - Belgium
+ORCID: 0000-0003-0402-896X
+DOI: 10.25200/BJR.v17n3.2021.1431
+Received in: March 31st, 2021
+Desk Reviewed: June 7th, 2021
+Desk Review Editor: Tania Gosselin
+Revised on: September 10th, 2021
+Approved on: September 24th, 2021
+ABSTRACT – This paper aims to question the critique of journalists and the media by
+Le Média, a French press body close to a populist party (La France insoumise), which
+means regularly opposing “the people” and “the elites” (De Cleen & Stavrakakis, 2017;
+De Cleen, 2019). Through a methodology inspired by the sociolinguistics of Gee (2014)
+and by the concept of “social goods”, the results bring to light: a metajournalistic
+critique based on the opposition between “the people” and “the elites”, a desire to
+delegitimize legacy media and the wish to make journalism a “social good” in the
+service of “the people”.
+Key words: Critique of journalists. Metajournalism. Populism. Media. Social goods.
+Elites.
+628 Licensed under the creative commons Attribution 4.0 International (CC BY 4.0)
+DOI: 10.25200/BJR.v17n3.2021.1431
+LE MÉDIA – A POPULIST CRITIQUE OF JOURNALISTS AND THE MEDIA BY JOURNALISTS
+LE MÉDIA – UNE CRITIQUE POPULISTE DES JOURNALISTES
+ET DES MÉDIAS PAR LES JOURNALISTES :
+le journalisme comme bien social du peuple
+RÉSUMÉ – Cette recherche vise à interroger la critique des journalistes et des médias
+par Le Média, un organe de presse français proche d’un parti populiste (La France
+insoumise), c’est-à-dire qui met régulièrement en avant l’opposition entre le “peuple”
+et les “élites” (De Cleen & Stavrakakis, 2017; De Cleen, 2019). Plus particulièrement, à
+travers une méthodologie inspirée de la sociolinguistique de Gee (2014) et notamment
+du concept de “social goods”, ce travail met au jour une critique métajournalistique,
+basée sur l’opposition entre le peuple et les élites, qui, tout en délégitimant les médias
+traditionnels, pose le journalisme en véritable “bien social” au service du peuple.
+Mots clés: Critique des journalistes. Métajournalisme. Populisme. Médias. Social goods.
+Élites.
+LE MÉDIA – UMA CRÍTICA POPULISTA DOS JORNALISTAS
+E DAS MÍDIAS PELOS JORNALISTAS: jornalismo como
+um bem social do povo
+RESUMO – Esta pesquisa busca questionar a crítica sobre os jornalistas e a mídia feitas
+por Le Média, um veículo da imprensa francesa próximo a um partido populista (La France
+insoumise), ou seja, que destaca regularmente a oposição entre o “povo” e as “elites” (De
+Cleen & Stavrakakis, 2017; De Cleen, 2019). De forma mais específica, por meio de uma
+metodologia inspirada na sociolinguística de Gee (2014) e, particularmente, no conceito
+de “social goods”, a pesquisa atualiza uma crítica metajornalística, baseada na oposição
+entre povo e elites, que, ao mesmo em que deslegitimam as mídias tradicionais, definem
+o jornalismo como um verdadeiro “bem social” a serviço do povo.
+Palavras-chave: Crítica dos jornalistas. Metajornalístico. Populismo. Mídia. Social
+goods. Elites.
+LE MÉDIA – UNA CRITICA POPULISTA DE LOS PERIODISTAS
+Y DE LOS MEDIOS POR LOS PERIODISTAS:
+el periodismo como bien social del pueblo
+RESUMEN – Este estudio tiene como objetivo interrogar la critica de los periodistas y de
+los medios por Le Média, una entidad de prensa francesa cercana al partido populista (La
+France insoumise), es decir que destaca a menudo la oposición entre el “pueblo” y las
+“elites” (De Cleen & Stavrakakis, 2017; De Cleen, 2019). Y más específicamente, a través
+de una metodología inspirada de la sociolingüística de Gee (2014) y del concepto de
+“social goods” que pone al dia una critica metaperiodista, basado en la oposición entre
+el pueblo y las élites que, al tiempo que deslegitima los medios tradicionales, plantea al
+periodismo como un verdadero “social good” al servicio del pueblo.
+Palabras clave: Critica a los periodistas. Metaperiodista. Populismo. Medios de
+comunicación. Social goods. Élites.
+Braz. journal. res., - ISSN 1981-9854 - Brasília -DF - Vol. 17 - N. 3 - December - 2021. 628 - 651 629
+Cédric Tant
+1 Introduction
+Populism – understood as a propensity to oppose “the people”
+and “the elites” (see below) –, represents an entry point that is both
+original and relevant when it comes to questioning the critique of
+the media and journalists. Among the strong and stereotypical social
+representations related to journalism (Grevisse, 2016), the links
+between journalists and “elites” have often inspired research which
+attempts, among other things, to capture their evolution (Rieffel,
+1985; Mercier & Amigo, 2021), and even have been condemned by
+certain authors (Chomsky & Herman, 2008; Bourdieu, 1996). This
+article aims to understand the critique of the media by another
+medium that feeds this type of critique with a strong distinction
+between “the people” and “the elites” (in which traditional journalists
+are sometimes integrated).
+The article is based on the speeches delivered by an online
+press organ created in January 2018, in France, called Le Média.
+This news media, close to the left-wing populist party “La France
+insoumise” (Castaño, 2018)1, has the status of a cooperative society
+of collective interest and positions itself on the left on the political
+spectrum, claiming both progressivism and citizen anchoring.
+Indeed, it clearly mentions in its “manifesto” the place of citizens in
+its productions: Le Média “relying on a network of correspondents,
+associations, NGOs (...) will call for citizen collaborations”2. This
+appeal to citizen collaboration is part of a populist vision which tends
+to put in parallel (and in opposition) “the people” and “the elites”, the
+first being the legitimate representative of the majority (De Cleen &
+Stavrakakis, 2017; De Cleen, 2019; Muller, 2016). We believe that
+this invocation of “the people” tends to question the place and role
+of “traditional” journalists3 and their legitimacy in representing and
+serving citizens, a representation of journalists often found in the
+literature (see below).
+What seems interesting in Le Média productions is its
+propensity to take a critical look at journalistic practices, as evidenced
+by the following editorial line: “Committed to social and environmental
+causes, Le Média, through its free access, strives to fulfill the public
+information service mission that is now disappearing in the media
+landscape”4. This research thus focuses on a media which criticizes
+“traditional” media, which underlies a metajournalistic process (see
+the theoretical framing). It, therefore, aims to better understand this
+630 Licensed under the creative commons Attribution 4.0 International (CC BY 4.0)
+DOI: 10.25200/BJR.v17n3.2021.1431
+LE MÉDIA – A POPULIST CRITIQUE OF JOURNALISTS AND THE MEDIA BY JOURNALISTS
+type of critical metadiscourse by linking it to the notions of people
+and citizens mobilized by Le Média.
+The interest of such research is twofold. First, it apprehends
+media critique through the citizen, popular, even populist prism,
+which makes it easier to grasp the relationships between the media
+and “the people”, the importance granted to citizens in the public
+space, mistrust of elites, etc. Then, it looks at a rather particular
+critical discourse of the media and journalists: the critique by another
+medium. Such critique is based, in our opinion, on the increased
+development of media critique by other media and journalists. This
+movement is particularly noticeable in France but could also be found
+everywhere. This critical genre is attested by Halimi (1997) who points
+out the collusion between the traditional media and the political and
+economic worlds. Associations such as Acrimed (Action-Critique-
+Médias) or even websites for analyzing and criticizing media such as
+“Arrêt sur images”, eponymous of a program with similar objectives
+that ended in 2007, are good examples of this representation.
+2 Conceptual framework: questioning the roles of
+journalists through metajournalistic critique
+By no means exhaustive, this conceptual framework reflects
+a connection between representations of news journalism and the
+critiques that accompany this activity. Then, from the roles and values
+regularly associated with journalism in the literature, the objective is
+to bring out certain reasons which would explain the loss of legitimacy
+of journalists and the media (see below). More precisely, we show
+that such a critique has a metajournalistic dimension. As such, the
+critique developed by Le Média deserves particular attention: on the
+one hand, it is explicitly based on a reproach of non-integration of
+the public – the “people”– to journalism and, on the other hand, an
+opposition between the “people” and the “elites” (see, on this point,
+the analysis proposed below).
+First, let’s focus on journalistic values and roles that both
+appear to be inherent in journalism and are a good tool for capturing
+the way journalism can be inclusive in society. Deuze (2005) questions,
+in connection with journalistic ideologies, five components (or
+values) which are public service, objectivity, autonomy, immediacy,
+and ethics. His work shows that the sometimes unconscious or
+Braz. journal. res., - ISSN 1981-9854 - Brasília -DF - Vol. 17 - N. 3 - December - 2021. 628 - 651 631
+Cédric Tant
+contradictory nature of these values d oes not represent a problem for
+journalists: they integrate these values into the debate which allows
+them to constitute and constantly reinvent themselves (Deuze, 2005).
+The roles of journalists, on their side, represent an
+interesting object to understand a series of issues surrounding
+how they are integrated into society (see the work of Hallin, 1986).
+Their mobilization makes it possible, for example, to question the
+missions of journalists, especially the way they serve a “public”
+(Hallin & Mancini, 2004), their independence (Thibault et al., 2020),
+or even their fragmentation and diversity (Bernier & Watine, 2019).
+For example, McQuail (2006) identifies four kinds of missions that
+are intertwined: journalists are informants (monitoring role) who,
+helping democracy (facilitator role), associate – or collaborate –
+with society and institutions (role of collaborative) to test authority
+(critical role). Among these roles, participation in democracy is
+regularly cited by authors who refer to a collective imagination made
+up of expressions such as “watchdog” (Curran, 1991) or “fourth
+power” (Derville, 2017), regularly mobilized by journalists to defend
+themselves. On this subject, Le Bohec (2000), in an ideal-typical
+construction of journalism, clearly highlights a close link between
+this democratic role and the place of journalists in the public sphere
+as actors of the “res publica”.
+As we can see, journalism and journalists carry values and
+play roles whose (non-)respect constitutes an important issue of
+legitimacy. The legitimacy of journalists is most of the time associated
+with the relationship they have with the public as “representatives”
+of the citizen (Cornu, 1997). In this regard, the identification of the
+public to the media and journalists is essential, otherwise, there may
+be an erosion of legitimacy (Esquenazi, 1999). In this article devoted
+to the critique of journalists and the media by another medium that
+invokes citizens, I decided to evoke a particular origin of the loss of
+legitimacy: the (non-)participation in/of journalism.
+By representing the world, journalists regularly face critique
+based on the premise that these representations are invalid. According
+to some research, some citizens then develop a double critique:
+these representations do not correspond to their representations
+and access to the production process of these representations is not
+available to them. In this regard, Heikkilä and Kunelius (1998) believe
+that journalists, by focusing on “the elites”, restrict access to their
+journalistic practices, which has the effect of not always offering a
+632 Licensed under the creative commons Attribution 4.0 International (CC BY 4.0)
+DOI: 10.25200/BJR.v17n3.2021.1431
+LE MÉDIA – A POPULIST CRITIQUE OF JOURNALISTS AND THE MEDIA BY JOURNALISTS
+fair distribution of “publicness”. In other words, access to journalism
+is largely guaranteed to social groups who themselves give access to
+their group (to journalists). This access corresponds to a give-and-
+take process that tends to exclude minorities or to represent them in
+a very general way without allowing them to make their voices heard
+(Heikkilä & Kunelius, 1998)5.
+Aubert’s work (2009) shows in this sense the ambiguous
+and sometimes even paradoxical integration of a public both critical
+of the media and asking for greater participation. This integration
+seems to increasingly involve more granted through what the author
+calls the empowerment of individuals over the media. From this
+sort of paradoxical frustration emerges the so-called “alternative”
+(or “free”, “cooperative”, etc.) media, which one of the most natural
+characteristics is to criticize the media then qualified as “dominant”
+(Cardon & Granjon, 2013).
+From these elements, it is possible to bring out a central
+aspect of the research: critiques addressed to the media, moreover
+those which come from other media, refer to a metajournalistic
+dimension, in other words, to a reflective discourse on journalism.
+We are particularly thinking of the work of Carlson (2015, 2017) on
+metajournalistic discourses or of Ogbebor’s one (2020) who evokes
+the concept of journalistic metadiscourses. If the first comes from
+journalists as well as other actors, and the second points to journalistic
+discourse, then the two concepts refer not only to attempts at drawing
+the boundaries of journalism but also at legitimizing the practices of
+journalists. Whether we are talking about journalistic metadiscourse
+or metajournalistic discourse, these are central notions for this article:
+they underlie a metadiscursive dimension of the media critique that
+must be questioned in this article. For the remainder of this article,
+we choose to speak, in general, of metajournalistic discourses.
+Finally, based on several reflexive points such as the
+critiques related to non-participation in journalism, the obvious lack
+of legitimacy that results from it, or the discussions about journalistic
+roles, it is possible to show how the study of this kind of speech
+from a media close to a populist party seems promising. To start the
+research from this point, we rely, among others, upon the work of De
+Cleen (2019), in which the author presents populist discourse from the
+“down-up” opposition between an illegitimate “elite” and “the people”
+who are the only ones to benefit from absolute legitimacy. From this
+opposition, actors who carry a populist discourse exclude from the
+Braz. journal. res., - ISSN 1981-9854 - Brasília -DF - Vol. 17 - N. 3 - December - 2021. 628 - 651 633
+Cédric Tant
+“real people” other actors who do not have – or no longer have – the
+legitimacy to represent this “real people” (Muller, 2016). However, if
+the appeal to “the people” seems to represent the constancy of the
+populist discourse, as Valadier (2018) underlines, the fact remains
+that these same discourses do not define these “people”.
+Concerning the media and journalists, the nodal point of
+tension, therefore, lies in their ability to represent “the people” whose
+constituency is therefore far from easy. However, for this research, it is
+less a question of apprehending the definition that media journalists
+give to “the people” than of grasping the way in which journalists
+present themselves as legitimate actors of the democracy (an issue that
+goes beyond the journalistic field as pointed out by Valadier, 2018), to
+the detriment of others who do not have this legitimacy. Consequently,
+the lack of participation and integration in journalism becomes an
+essential issue of legitimacy. Indeed, it tends to oppose journalists
+who are part of an “elite” and “the people” (or the citizens) who do
+not feel included not only in the decision-making processes (political,
+economic, and media) but also in the way in which the information
+which concerns them is made available. It is therefore reasonable to
+imagine a close link between populist discourse and the critique of the
+media and journalists, as they share a common base: the critique of a
+non-integration of “the people” by “the elites” in media logic.
+This theoretical framework pinpoints certain crucial issues
+around the critique of journalists, such as the (non-)integration of
+citizens in the information process or the metajournalistic dimension
+of critique. These are all elements that can be found in a media
+populist critique. This article aims to answer the following research
+question: how does the metajournalistic component of the critique
+addressed by Le Média to traditional journalists express itself in its
+journalistic productions?
+3 Methodology
+To question how Le Média produces a metajournalistic
+critical discourse, I chose to develop a discourse analysis that is
+largely inspired by Gee (2014). The relevance of this choice lies in
+two of Gee’s main contributions in the field of discourse studies,
+and more particularly in their methodological aspects, which allow
+understanding of the metajournalistic discourse.
+634 Licensed under the creative commons Attribution 4.0 International (CC BY 4.0)
+DOI: 10.25200/BJR.v17n3.2021.1431
+LE MÉDIA – A POPULIST CRITIQUE OF JOURNALISTS AND THE MEDIA BY JOURNALISTS
+First, the author introduces and develops the concept of
+“social goods”, which precisely captures the way in which politics
+fits into any discourse, making it a tool of power and legitimacy.
+Indeed, for Gee (2014, p. 8), the speeches make it possible to bring
+to light things (an idea, a set of ideas, values, etc.) which are valued
+and redistributed in a political way by actors within a social group:
+“politics... is about how to distribute social goods in a society: who
+gets what in terms of money, status, power, and acceptance on a
+variety of terms”.
+Through this notion, the author offers a reflective tool for
+considering journalistic power and legitimacy in the sense that these
+“social goods” can be attributed or taken often to the detriment
+of something else. This notion is quite “potestative”, in the sense
+of Vibert (2016), which is based on the vision of a conflicting
+social world in which the search for power seems to guide the
+actors. Without making this logic a nodal point in our approach,
+we recognize the relevance of a concept that brings out certain
+underlying tensions in the attribution of “social goods”. We argue
+that the latter then make accessible the metajournalistic aspects of
+the critique offered by Le Média.
+The second contribution of Gee’s conception of discourse
+is operational and resides in what the author calls “building tasks”
+which are ways of constructing a part of reality through language
+(Gee, 2014). There are seven tasks (significance, practices [activities],
+identities, relationships, politics, connections, sign systems, and
+knowledge), each one representing one line of investigation that a
+discourse analyst is entitled to follow when he or she questions one
+or more discourses. Assuming that these tasks can be modulated
+according to the research objectives, we will take into account: the
+(non)significance given to certain things, ideas, or behaviors in order
+to bring out the core criticisms addressed to journalism; identities,
+whether received, created or attributed, with the idea of d etermining
+how media journalists are discursively distinguished from “traditional”
+journalists; the relationships between the actors to understand how Le
+Média forges links between itself and other journalists but also with the
+audience, the people, etc.; the valuation as well as the (re)distribution
+of social goods as mentioned above with the perspective of identifying
+the logic of power and legitimacy in discourses (Gee, 2014).
+Concretely, I analyzed the 26 discursive productions of Le Média
+on its website (lemediatv.fr) which were marked, by journalists, with
+Braz. journal. res., - ISSN 1981-9854 - Brasília -DF - Vol. 17 - N. 3 - December - 2021. 628 - 651 635
+Cédric Tant
+the “media critique” tag over a period from March 22, 2019 (first article
+containing such a “tag”) to January 19, 2021 (at the time of writing this
+article). It seemed appropriate to us to directly target productions that have
+the explicit purpose of criticizing the media to circumscribe the corpus.
+Each production, which sometimes takes the form of a written text and
+sometimes the appearance of a video, was analyzed by considering how
+media journalists attach importance to a particular element, construct
+their (journalistic) identities as well as those of other actors, establish
+relationships between people and groups and mobilize social goods
+in the logic of legitimacy. The building tasks guided the categorization
+carried out inductively via the NVivo qualitative analysis software which
+will serve as a structure for the part presented below. The categories of
+meaning, consequently, emerged from the corpus from the following
+three questions (see Gee, 2014): how is this piece of language being used
+to make certain things significant or not by Le Média, and in what ways?;
+what identity or identities is this piece of language enacting, and what
+identity or identities is this piece of language attributing to others, and
+how does this help the speaker or writer enact his or her own identity?;
+what sort of relationship or relationships is this piece of language seeking
+to enact with others (present or not)?
+4 Analysis
+Guided by the tools and considerations exposed in the
+methodology, the analysis of journalistic media productions as
+metajournalistic critiques addressed to “traditional” media has
+highlighted three nodal points that will structure this part. The
+first element analyses how Le Média opposes “the people” and the
+traditional (dominant) journalists who constitute the non-citizen
+elite. This metajournalistic process tends to show that journalism
+should nevertheless work for “the people”. The second point of
+the analysis intends to identify the metajournalistic aspects which
+participate in delegitimizing journalists and in withdrawing the public
+or citizen confidence in the media. Finally, the analysis highlights the
+importance that Le Média gives to journalism and public information
+considered as a “social good” essential to democracy. Such a point
+of view reinforces the idea of a metajournalistic component of Le
+Média discourses: through its critique, it points to the importance of
+journalism as much as it delimits its contours.
+636 Licensed under the creative commons Attribution 4.0 International (CC BY 4.0)
+DOI: 10.25200/BJR.v17n3.2021.1431
+LE MÉDIA – A POPULIST CRITIQUE OF JOURNALISTS AND THE MEDIA BY JOURNALISTS
+a) “The people” and “the elites”, a strong opposition
+The relationships established by Le Média tend to place its
+critical approach towards other media in a systematic opposition
+between “the people” and “the elites”, whether political, intellectual,
+or mediatic. In this dichotomous representation, the media and
+the “mainstream” journalists are part of “the elite”, and Le Média
+regularly associates them with politicians, the economic world, and
+the intellectual “elite”. For each of these associations, Le Média marks
+the distance that separates the traditional media – and the other
+members of “the elites” – from “the people” who are only very rarely,
+if ever, included in a (weakened) democracy. Through its critique,
+Le Média, therefore, underlines, as we shall see, that the role of
+journalism must be part of a close relationship with “the people” and
+dissociate itself from “the elites”.
+At the political level, traditional journalists are qualified as
+“sociologically and emotionally” close to the ruling class (Kouamouo,
+2020)6. By regularly associating journalists with power, with
+the government, or with the President of the Republic, Le Média
+emphasizes the social distance between the media and “the people”.
+Thus, according to Le Média, journalists and politicians are qualified
+as “above ground” elites and disconnected from the world (Roulot,
+2020) without considering citizens who do not or no longer find
+themselves on the same horizon (Roulot, 2020). At the level of
+identity, the journalists of the “dominant press” are then represented
+both as members of this “elite” or these “elites” and as agents of
+the “propaganda” of the government and French President Emmanuel
+Macron (Le Stagirite, 2021).
+Analysis of the corpus on this subject shows that, according
+to Le Média, the traditional press does not or no longer meet
+the expectations of “the people”, who do not seem to matter.
+By contrast, Le Média considers that political power, for its part,
+greatly influences journalists. An extract from the corpus illustrates
+this representation of an “official” press being part of “the elites”
+while serving the propaganda of the state (Kouamouo, 2020).
+The journalist reports on a controversy between Jean-Louis Rocca
+presented as an “expert on China”, and Pierre Haski, president of
+Reporters Without Borders. When the first draws a parallel between
+China and France by emphasizing that, to be informed, one must
+not read the official press – in other words, the media qualified as
+Braz. journal. res., - ISSN 1981-9854 - Brasília -DF - Vol. 17 - N. 3 - December - 2021. 628 - 651 637
+Cédric Tant
+dominant – the second reacts strongly by pointing out that in France
+the journalists are not locked up.
+The comparison of China with France allows Le Média both to
+associate the latter with a country where democracy is undermined and
+to underline certain complicity on the part of traditional journalists in
+this situation. In doing so, Le Média takes the opportunity to emphasize
+the uselessness of a press which, being this close to power, “does not
+deserve to be saved”. This point is particularly challenging because
+it accounts for the way in which Le Média deprives traditional media
+of a large part of their democratic role: too close to decision-makers,
+belonging to the same “elite”, they do not or no longer exercise the
+counter-power that characterizes them.
+These media, therefore, lose an important “social good”
+for Le Média: the public and citizen legitimacy. By simply “relaying
+the power discourse”, the “dominant media” (Le Stagirite, 2021)
+delegitimize their own role. However, withdrawing public legitimacy
+from traditional media is not a way for Le Média to give it to its
+journalists but to put it in the hands of “the people” who are the only
+ones, in the current state of the politico-media situation, to be able
+to benefit from this democratic legitimacy. We will come back to this
+notion of legitimacy in the next part of the analysis when we discuss
+media treatment as well as the liberal structures that could weigh on
+the media.
+The very marked opposition between “the people” and
+“the elites” is also found in the links of interdependence that
+journalists maintain with “experts”, “specialists” and, more generally,
+“intellectuals” (Roulot, 2020). The issue of public legitimacy as we
+have just mentioned is also found in this relationship between the
+media and experts or intellectuals who are very distant from citizens.
+One of the examples that best illustrate this resides in the way in
+which they regularly gave the floor to Prof. Didier Raoult7 and in the
+way in which the latter took advantage of his media exposure to
+convey his ideas (Roulot, 2020). It is interesting to note that Le Média
+dissociates itself from the figure of Didier Raoult who is, however,
+often represented as popular, even a populist figure. Indeed, the
+corpus shows that the professor, far from the concerns of citizens,
+serves more his own interests as well as those of a media-intellectual
+“elite” far removed from “the people”.
+In this regard, Le Média pinpoints the column that Didier Raoult
+regularly holds in Les Échos, a French newspaper, even qualifying him
+638 Licensed under the creative commons Attribution 4.0 International (CC BY 4.0)
+DOI: 10.25200/BJR.v17n3.2021.1431
+LE MÉDIA – A POPULIST CRITIQUE OF JOURNALISTS AND THE MEDIA BY JOURNALISTS
+as a “columnist”. The professor then is presented as part of the same
+media environment, which illustrates the close relationship between
+the professor and the media in general and this newspaper to which
+he often seems to give exclusivity. This is a situation which, according
+to Le Média, shows “a proximity that goes beyond the framework of
+the usual relationship between a newspaper and its subject” (Roulot,
+2020). “Raoultmania”, as Le Média describes it, reinforces the feeling
+of interdependence and the feeling of belonging to the same “elite”.
+Thus, Le Média invokes a speech that D. Raoult had given twenty
+years ago and in which he explained that to reach politicians, it was
+necessary to go through the press, which is the only way to attract
+their attention. An interdiscursiveness that allows Le Média to bring to
+light both advertising and decision-making mechanisms that involve
+politicians, experts, and the traditional media at the same time.
+This situation is found in a more general intellectual context,
+beyond the sphere of experts, in which the media are also associated
+with “the elites”. Indeed, Le Média tends to confuse actors such as the
+media, journalists, editorial writers, philosophers, presenters, etc. All
+these “elites” convey false values in society in the sense that they are
+far removed from those values of the citizens. Le Média particularly
+targets television, both programs such as “On n’est pas couché”
+or “Balance ton post”, as well as the BFMTV channel, described as
+“masses” during which “buzz” and “clash” are made (Enthoven &
+Chastrusse, 2019).
+It is interesting to note that Le Média does not question the
+audience of this type of program to know whether it belongs to the
+same elite. Here again, the uselessness of these media moments
+which primarily serve “the elites” is emphasized: “The people” do not
+need intellectual reflections which do not concern them. The image
+that emerges is that of an “elite” disconnected from “the people” and
+made up of the media, government, intellectuals, experts, etc. Le
+Média also considers that the boycott of the traditional press, as a
+channel of transmission “elites” of which it is part, represents the
+only solution to a situation far from being democratic (Enthoven &
+Chastrusse, 2019).
+It appears that Le Média is part of a logic of populist
+metajournalistic critique in the sense defined above: it strongly
+distinguishes “the elites” from “the people” (even if it does not define
+either one of them). To counter the grip of journalistic “elites” on
+information, Le Média invokes society and “the people”, the only ones
+Braz. journal. res., - ISSN 1981-9854 - Brasília -DF - Vol. 17 - N. 3 - December - 2021. 628 - 651 639
+Cédric Tant
+capable of forcing the dominant media out of their position. In this
+sense, one journalist from Le Média believes that, if images of police
+violence are found in traditional media, it is thanks to the citizens who
+published them on Twitter (Le Stagirite, 2020a). A process which aims,
+as we will see in the following part, to restore the lost trust in them.
+b) Delegitimize journalists and (re) trust
+Beyond placing the dominant media in the sphere of “the
+elites”, Le Média assigns them identities and highlights a series of
+significant elements (in the sense of Gee) intending to delegitimize
+them. In doing so, it proposes, in a metajournalistic manner, a new
+way of thinking about the relationship between journalists and “the
+people” in which (re)trust plays a central role. It is possible to identify
+two types of central elements: on the one hand, those targeting the
+practices, topics, and the way of practicing journalism, and, on the
+other hand, those which reflect the membership of journalists in a
+restrictive structure crossed by liberal ideology.
+First, Le Média often discredits journalists by targeting the
+way they treated topics, which refers to the way of practicing their
+activity. A first point raised by Le Média lies in how journalists evoke
+the actors. For example, the discrediting of Greta Thunberg regarding
+her age, the tone she uses, etc., pushes Le Média to qualify many
+journalists as reactionaries, meaning that they are threatened in
+their position within the public sphere (Le Stagirite, 2019). How they
+mobilize and present certain actors such as Greta Thunberg or the
+“Gilets jaunes” (or “Yellow vests protests”) delegitimizes them in the
+sense that they embody the “system”. Le Média, therefore, considers
+that these journalists, wishing to maintain this system, are carrying
+out biased and non-objective media treatment. The comparison
+between G. Thunberg and the “Gilets jaunes” by Le Média illustrates
+the flaws – and delegitimization – of practices characterized by bias,
+“contempt” and “very great symbolic violence” (Le Stagirite, 2019).
+We see in this observation of misguided practices an echo of
+the media’s connections with the government (see previous section). In
+terms of practices, the relationship between journalists and politicians
+is reflected in journalistic productions that tend towards political
+communication, and more particularly governmental, or even State
+propaganda (Le Média, Robert, 2019a). Far from investigative articles
+characterized by independence in the service of readers (Collectif de
+640 Licensed under the creative commons Attribution 4.0 International (CC BY 4.0)
+DOI: 10.25200/BJR.v17n3.2021.1431
+LE MÉDIA – A POPULIST CRITIQUE OF JOURNALISTS AND THE MEDIA BY JOURNALISTS
+medias independents, 2020), the productions of traditional media are
+portrayed as press releases at the service of the ruling power.
+This idea is reflected in the choice of sources made by
+traditional media, directly questioned by Le Média. Indeed, extending
+the critique that points to the communicative nature of journalistic
+productions, Le Média questions the institutional aspect of information
+sources (Le Stagirite, 2020a). It also believes that the non-diversity of
+journalistic sources symbolizes the biased treatment of news: it does
+not allow neutral information to be returned to the public. The best
+example from the corpus is found in the media management of police
+violence that accompanied the “Gilets jaunes” movement. For many
+months, journalistic sources, according to Le Média, came either
+from the Interior Ministry or from press releases from the national
+police (Le Stagirite, 2020a). Le Média reports dependence on these
+kinds of institutional sources, particularly police sources, which it
+believes are so rare that the traditional media tend to overvalue
+them. In addition, to avoid any conflict with these precious sources,
+the traditional media tend to spare them in their treatment in a logic
+of interdependence that we have already noted regarding politicians
+and experts.
+Significance is also placed on sources that come from other
+newsrooms. The loss of credit is embodied here by the dominance
+of certain media which put on the agenda what will end up in the
+media coverage space (Le Stagirite, 2020a). The dominant journalists
+are grouped in a single entity, the “press choir”, in which each media
+looks at what the other is doing through activities such as press
+reviews, Twitter, or 24/7 news channels. This media context of self-
+sustaining content seems to explain why the media cover or do not
+cover a subject. For example, Le Média criticizes how police violence
+coverage by traditional media was long.
+The other nodal element of the loss of legitimacy of the
+traditional media underlined by Le Média lies in the participation
+in liberalism which appears as a driving force in mistrust of the
+press. The corpus has shown that, while the dominant media are
+systematically associated with the liberalism in which they participate,
+they are also – and perhaps above all – constrained by this current
+of thought, particularly within the major press groups. It should be
+noted that, if we imagined finding this element in the analysis, we did
+not expect to find in the corpus such a recurrence of the discourse
+aimed directly at the bosses or the press groups in general. Critique
+Braz. journal. res., - ISSN 1981-9854 - Brasília -DF - Vol. 17 - N. 3 - December - 2021. 628 - 651 641
+Cédric Tant
+in this sense is, moreover, quite explicit: “we criticize the dominant
+press, which is overwhelmingly owned by banks, telecom operators,
+luxury goods companies and other armaments companies” (Collectif
+de medias independents, 2020). These large groups belong to a
+liberal economic “elite” – which also includes the French government
+– very distant from citizens, or at least which does not necessarily
+take them into account (Le Stagirite, 2021).
+According to Le Média, the consequences of a media
+world in the hands of these large companies are the constraints
+weighing on editorial choices. An idea that could explain the non-
+coverage in the traditional media of the possible privatization
+of “Aéroports de Paris”. By dealing very little with this topic, the
+dominant media, qualified as “press in the hands of billionaires”
+(Gautheron, 2019), did not address a democratic issue. In this
+regard, it is interesting to note that the bosses of these media
+are very often mentioned and even named – Bernard Arnaud,
+Patrick Drahi, Vincent Bolloré, or Xavier Niel – by emphasizing
+the monopoly they hold. Le Média is opposed to this monopoly
+and goes so far as to suggest, along with other media that define
+themselves as independent, to ban the possession of multiple
+media (Collectif de medias independents, 2020). It would be
+possible to multiply the examples as Le Média systematically
+attributes this liberal identity to the dominant media which would
+contribute to the loss of trust in the press.
+To counter this discredit which generates a loss of trust
+in the traditional press, Le Média proposes a redefinition of the
+contract which binds it with “the people”. By recognizing information
+as a “public good and service” (Kouamouo, 2020), it believes that
+verifying the impartiality of journalistic content should not be
+the responsibility of individuals but of “institutions that produce
+knowledge” (Le Stagirite, 2021), the two players being bound by a
+contract of trust. And according to Le Média, only new conditions
+to produce this “public knowledge” would generate renewed
+confidence in the traditional press. Confidence in this institution is
+what citizens need, so as not to fall into a conspiracy, the origin of
+which lies precisely in the loss of confidence (Le Stagirite, 2021). As
+we will see in the last part of the analysis, emphasizing the need
+to trust traditional media goes hand in hand with a real defense of
+journalism and its values.
+642 Licensed under the creative commons Attribution 4.0 International (CC BY 4.0)
+DOI: 10.25200/BJR.v17n3.2021.1431
+LE MÉDIA – A POPULIST CRITIQUE OF JOURNALISTS AND THE MEDIA BY JOURNALISTS
+c) Defense of journalism through public and citizen
+information
+This observation of the desire to (re)instill confidence in
+the media invites us to insist on a final essential element that the
+analysis has highlighted: the defense of journalism, its values, and
+its role (or roles) within society. Indeed, if the critique of traditional
+media is virulent, it also makes it possible to (re)define the contours
+of ideal journalism according to Le Média, showing once again
+the metajournalistic dimension of such critique. In this sense, it is
+useful to underline the fact that Le Média defends journalism and
+even journalists, sometimes underlining the precariousness of the
+profession (Robert, 2019b; Cazenaves, 2020), sometimes erecting
+the public information as a real “social good”. The value of the latter
+relates directly to the capacity of the media to provide work for “the
+people” to participate in democracy. Two aspects seem to guide Le
+Média in its position: the quality of public information geared towards
+“the people” and represented by certain journalistic values, on the
+one hand, and the democratic effects of this information which refers
+to the roles of the media, on the other hand.
+Through its critique of the mainstream media, Le Média
+associates a series of values, characteristics, and standards that it
+considers essential to journalism and that it struggles to find in current
+traditional media. In this sense, freedom of thought and expression,
+as well as freedom of the press, represent necessary prerequisites
+for public information (Collectif de medias independents, 2020).
+Upstream the journalistic production, there must therefore be a
+political and economic environment characterized by independence
+and freedom that makes it possible to provide information free
+from any constraint (Collectif de medias independents, 2020), like
+the previous sections of the analysis has already pointed this out.
+Above all, these different facets of freedom condition the existence
+of democratic debate accessible to citizens (Collectif de medias
+independents, 2020).
+Public information produced under good conditions can thus
+reflect values o ften associated with journalism (see above) such as
+objectivity, neutrality (Le Stagirite, 2020a), or even independence of the
+press (Kouamouo, 2020). Le Média recognizes the legitimacy of these
+journalistic values i n that they participate – when they are respected – in
+the maintenance of the public sphere, which it defines as an “abstract
+Braz. journal. res., - ISSN 1981-9854 - Brasília -DF - Vol. 17 - N. 3 - December - 2021. 628 - 651 643
+Cédric Tant
+space which relies materially on newspapers, books, radio, television,
+debates, and public meetings” (Le Stagirite, 2020b). This point seems
+essential in the defense of journalism, which participates in the
+development of a space for dialogue and democratic exchanges for “the
+people” if the values i t is supposed to convey are truly respected. Le
+Média, therefore, links values to the roles of journalists, the main one
+of which is to promote, even encourage exchanges within this space.
+One of the main roles of journalists consists in making public,
+democratic, and diversified debate possible. The lack of media coverage
+of a shared initiative referendum on the privatization of “Aéroports
+de Paris” that we mentioned above illustrates this need, expressed by
+citizens, for a space for discussion, even for direct democracy to which
+journalists are invited to participate (Gautheron, 2019). According to
+Le Média, this citizens’ initiative – therefore coming from “the people”
+– should be publicized because it concerns the whole society. Here,
+the challenge for the media and journalists lies in the need to account
+for the diversity of points of view and actors that exist in the public
+sphere, which echoes the diversity of citizens (Collinet, 2019).
+A press that respects this principle of diversity would then
+offer information understood as citizens’ knowledge because it
+concerns society as a whole and not only “the elites” (Robert, 2019b;
+Robert, 2019a). In doing so, the media would renew the conditions
+conducive to the development of critical thinking and thus promote
+the democratic debate which is the basis of the public sphere (Le
+Stagirite, 2020b). This point refers directly to the new contract of
+trust that we have pinpointed and would link journalists and the
+media to “the people” in order to make the public sphere a real place
+of critique of the elite (Le Stagirite, 2020b).
+5 Discussion and conclusion
+The analysis of the discursive productions of a media close
+to a populist political party from the notion of metajournalism offers,
+in my opinion, an interesting perspective for approaching the critique
+of traditional journalists produced by this kind of media. Indeed, the
+theoretical framework has shown that part of the loss of legitimacy
+of journalists lies in their disconnection, their failure to consider the
+audience, and, in doing so, an exercise of their less legitimate roles.
+It is therefore entirely relevant to question a media which criticizes
+644 Licensed under the creative commons Attribution 4.0 International (CC BY 4.0)
+DOI: 10.25200/BJR.v17n3.2021.1431
+LE MÉDIA – A POPULIST CRITIQUE OF JOURNALISTS AND THE MEDIA BY JOURNALISTS
+them and whose editorial line not only places citizens at the heart of
+discussions but tends to oppose “the people” and “the elites”.
+In this, I believe it is possible to provide some answers to the
+research question, posed earlier in the theoretical framework, which was:
+“How does the metajournalistic component of the critique addressed
+by Le Média to traditional journalists express itself in its journalistic
+productions?”. In this discussion and conclusion section, I articulate
+elements of answers with a more theoretical reflection, pointing out
+what the research brings to the works on the critique of the media.
+First, it appears that Le Média’s critique of the media and journalists
+is built around the populist opposition between “the people” and “the
+elites” to which traditional journalists seem to belong. This opposition
+allows Le Média to invoke the need of rethinking the relationship between
+“the people” and the media to restore confidence. In this sense, Le Média
+echoes the work on participation in journalism which questions the (non-)
+consideration of citizens in the process of journalistic production (Heikkilä
+& Kunelius, 1998; see also Ahva & Wiard, 2018).
+This opposition is also linked to the communication contract
+(Charaudeau, 2011) to legitimize a certain type of media discourse. In
+this regard, Le Média brings to light and questions what it considers to
+be the current contract between journalists and citizens which is part
+of a communication situation (the power of “the elites”) that should no
+longer be accepted. In this sense, Le Média proposes the evolution of this
+contract based on a greater integration of “the people” in the editorial
+choices of journalists. In a populist discourse, the regular invocation of
+“the people” who take on the role of witness and guarantor – even judge
+– of the quality of public information is essential in justifying the critique
+of journalism. In this context, it appears that the discourse mobilized by
+a media which criticizes the traditional media and opposes “the people”
+and “the elites”, fits quite well into the general critique of traditional
+media: this kind of critique brings back journalistic practices to an ideal
+that is not or no longer respected, which leads to a loss of legitimacy.
+Next, it is interesting to underline that the critique developed
+by Le Média seems to be based on several “forms” of journalism
+criticism, articulating the more pessimistic vision carried by the
+Frankfurt School and the structural approach of Bourdieu (who is not
+as far from it that much as underlined by Lemieux, 1999) or drawing
+on representations strongly opposing an “innocent public” to the “evil
+journalists” that Muhlmann (2004) associates in particular with the
+work of Chomsky and Halimi. However, it was possible to observe
+Braz. journal. res., - ISSN 1981-9854 - Brasília -DF - Vol. 17 - N. 3 - December - 2021. 628 - 651 645
+Cédric Tant
+that Le Média’s political project in no way aims to call into question the
+place and, above all, the democratic role of journalists in society. On
+the contrary, journalism and its ability to provide public information
+is a necessary condition for the public sphere and the development of
+critical thinking. The analysis of media productions thus contributes
+to extending the work that raises the question of the social and
+political meaning of journalism (see, for example, Muhlmann, 2004).
+Through its critique of the media and journalists, Le Média poses a
+metajournalistic dimension that combines reproach and normativity
+in the name of a certain legitimacy that can be awarded or not.
+In addition, this paper has several contributions that articulate
+media critique and journalists with metajournalism. First, it points to
+the entanglement between metajournalistic discourse and critique of
+the media and journalists by another medium. There was no question
+here of comparing critiques from different fields (journalistic, political,
+citizen, etc.), but the mere abundance of metajournalistic aspects of
+the critique proposed by Le Média tends to show a strong presence of
+these elements. In addition, the corpus has shown that critique of the
+media and journalists is protean, which invites to apprehend it from
+different objects and actors.
+However, it is possible to identify constancy in this critique such
+as the non-respect for certain values a nd certain roles necessary for
+journalism. In this sense, the research shows that the metajournalistic
+discourse that arises from such critique carries journalistic renewal,
+through a new normativity and a new communication contract
+between journalists and the public – “the people”. As such, I believe
+that the journalistic productions offered by Le Média reflect its populist
+tendency but pose a metajournalistic reflection which, in our opinion,
+goes beyond the simple political project.
+The oscillation between the virulence of certain disapproving
+speeches and a media normativity based on the inclusion of journalism
+in society invites us to think of journalism as a real “social good” for
+many actors who pose a metajournalistic discourse – a “social good”
+questioned, of course, but also valued. The challenge for researchers
+in journalism who have made this critique their object of study then
+lies in considering the many interests that run through it and make it
+so difficult both to understand and to describe, despite the constants
+that seem to guide it.
+646 Licensed under the creative commons Attribution 4.0 International (CC BY 4.0)
+DOI: 10.25200/BJR.v17n3.2021.1431
+LE MÉDIA – A POPULIST CRITIQUE OF JOURNALISTS AND THE MEDIA BY JOURNALISTS
+NOTES
+1 I therefore postulate a link between Le Média journalists and this
+political party [see, for example, an article published in the web
+version of the newspaper Liberation (Moullot, 2018)].
+2 This manifesto can be viewed on the lemediatv.fr site from
+the following URL: www.lemediatv.fr/annexes/manifeste, site
+consulted on March 14, 2021.
+3 In the sense of journalists working for the “legacy media”.
+4 A quote that can be found at the bottom left of each article in
+Le Média, as on the home page accessible via the following URL:
+www.lemediatv.fr
+5 On this subject, see the update of this vision of participation in
+Ahva and Wiard (2018) and Ahva et al. (2011).
+6 The sources contained in the analytical part all come from the
+corpus as defined in the methodology.
+7 Didier Raoult is a French doctor, a specialist in infectious
+diseases, who became well known during the health crisis linked
+to covid-19, both in his controversial proposal to use a treatment
+based on hydroxychloroquine and azithromycin to treat the
+disease and in the over-mediation it has benefited from.
+REFERENCES
+Ahva, L., Heikkilä, H., & Kunelius, R. (2011). Civic Participation and
+the Vocabularies for Democratic Journalism. In C. Atton (Ed.), The
+Routledge Companion to Alternative and Community Media (pp. 155–
+164). London: Routledge.
+Ahva, L., & Wiard, V. (2018). Participation in Local Journalism. Assessing
+Two Approaches through Access, Dialogue and Deliberation. Sur
+le journalisme, 7(2), 64–76. Retrieved from www.surlejournalisme.
+kinghost.net/rev/index.php/slj/article/view/359
+Aubert, A. (2009). La société civile et ses médias. Quand le public
+prend la parole. Paris: Le Bord de l’eau
+Bernier, M.-F., & Watine, T. (2019). Penser les journalismes. Les Cahiers
+Braz. journal. res., - ISSN 1981-9854 - Brasília -DF - Vol. 17 - N. 3 - December - 2021. 628 - 651 647
+Cédric Tant
+du journalisme, 2(3), 173–180. DOI:10.31188/CaJsm.2(3).2019.R173
+Bourdieu, P. (1994). L’emprise du journalisme. Actes de la recherche
+en sciences sociales, 101(1), 3-9. DOI: 10.3406/arss.1994.3078
+Bourdieu, P. (1996). Sur la télévision. Paris: Liber-Raisons d’agir.
+Cardon, D. & Granjon, F. (2013). Chapitre 1. De la critique des
+médias aux médias de la critique. In D. Cardon & F. Granjon (Eds.),
+Médiactivistes (pp. 15–25). Paris: Presses de Sciences Po.
+Carlson, M. (2015). Metajournalistic Discourse and the Meanings of
+Journalism: Definitional control, Boundary Work, and Legitimation.
+Communication Theory, 26(4), 349–368. DOI: 10.1111/comt.12088
+Carlson, M. (2017). Journalistic Authority. Legitimating News in the
+Digital Era. New-York: Columbia University Press.
+Castaño, P. (2018). Populismes de gauche en Europe : Une comparaison
+entre Podemos et la France insoumise. Mouvements, 96(4), 169–180.
+DOI: 10.3917/mouv.096.0169
+Cazenaves, T. (2020, May 6). Exclusif : Pendant l’épidémie, BFM tente
+de flouer ses salariés. Le Média. Retrieved from www.lemediatv.fr/
+articles/2020/exclusif-pendant-lepidemie-bfm-tente-de-flouer-ses-
+salaries-_BP0tnz7RuGTFi83kJyIHA
+Charaudeau, P. (2011). Les médias et l’information. L’impossible
+transparence du discours. Brussels: De Boeck.
+Chomsky, N., & Herman, E. (2008). La fabrication du consentement.
+De la propagande médiatique en démocratie. Agone: Marseille.
+Collectif de médias indépendants. (2020, April 17). Pour un renouveau
+de la liberté de la presse le jour d’après. Le Média. Retrieved from
+www.lemediatv.fr/articles/2020/pour-un-renouveau-de-la-liberte-de-
+la-presse-le-jour-dapres-d2udc3SHTRGtHNMXilVduw
+Collinet, J. (2019, May 15). En Belgique aussi, des médias sous influence.
+Le Média. Retrieved from www.lemediatv.fr/articles/2019/en-
+belgique-aussi-des-medias-sous-influence-HrE-NbTcTVqGYjXE8QJjOA
+Cornu, D. (1997). Éthique de l’information. Paris: Presses Universitaires
+de France.
+Curran, J. (1991). Mass Media and Democracy: A Reappraisal. In J.
+Curran & M. Gurevitch (Eds.), Mass Media and Society (pp. 82–117).
+London: Edward Arnold.
+De Cleen, B. (2019). The populist Political Logic and the Analysis of the
+discursive Construction of ‘the People’ and ‘the Elite’. In J. Zienkowski
+& R. Breeze (Eds.), Imagining the Peoples of Europe: Populist Discourses
+648 Licensed under the creative commons Attribution 4.0 International (CC BY 4.0)
+DOI: 10.25200/BJR.v17n3.2021.1431
+LE MÉDIA – A POPULIST CRITIQUE OF JOURNALISTS AND THE MEDIA BY JOURNALISTS
+Across the Political Spectrum (pp. 19–42). Amsterdam / Philadelphia:
+John Benjamin Publishing. DOI: 10.1075/dapsac.83.02cle
+De Cleen, B., & Stavrakakis, Y. (2017). Distinctions and Articulations:
+A Discourse Theoretical Framework for the Study of Populism
+and Nationalism. Javnost – The Public, 24(4), 301–319. DOI:
+10.1080/13183222.2017.1330083
+Derville, G. (2017). Le pouvoir des medias. Grenoble: Presses
+universitaires de Grenoble.
+Deuze, M. (2005). What is Journalism? Professional Identity and
+Ideology of Journalists Reconsidered. Journalism, 6(4), 442–464.
+DOI: 10.1177/1464884905056815
+Enthoven, M., & Chastrusse, C. (2019, October 19). Manifeste jaune:
+Faire sombrer le royaume macroniste. Le Média. Retrieved from
+www.lemediatv.fr/emissions/2019/manifeste-jaune-faire-sombrer-le-
+royaume-macroniste-1ofugOOlS46E2PhZvBTuFw
+Esquenazi, J.-P. (1999). Télévision et démocratie : La politique à la
+télévision française 1958–1990. Paris: Presses Universitaires de France.
+Gautheron, L. (2019, August 1). Référendum ADP : les médias au
+service du pouvoir. Le Média. Retrieved from www.lemediatv.fr/
+emissions/2019/referendum-adp-les-medias-au-service-du-pouvoir-
+0z4S258wQWObV9CQ7R4jow
+Gee, J. P. (2014). An Introduction to Discourse Analysis. Theory and
+Method. London: Routledge.
+Grevisse, B. (2016). Déontologie du journalisme: Enjeux éthiques et
+identités professionnelles. Bruxelles: De Boeck.
+Halimi, S. (1997). Les Nouveaux Chiens de garde. Paris: Liber-Raisons
+d’agir.
+Hallin, D. C. (1986). The uncensored war: The media and Vietnam.
+Berkeley: University of California Press.
+Hallin, D. C., & Mancini, P. (2004). Comparing Media Systems: Three
+Models of Media and Politics. Cambridge: Cambridge University Press.
+Heikkilä, H., & Kunelius, R. (1998). Access, Dialogue, Deliberation
+Experimenting with Three Concepts of Journalism Criticism.
+Nordicom, (1), 71–84. Retrieved from www.nordicom.gu.se/sites/
+default/files/kapitel-pdf/38_heikkila_kunelius.pdf
+Kouamouo, T. (2020, May 22). Fin du confinement, début de la révolte ?
+Le Média. Retrieved from www.lemediatv.fr/emissions/2020/fin-du-
+confinement-debut-de-la-revolte-8HfYAZtrT7SwOcDeQl6Qmg
+Braz. journal. res., - ISSN 1981-9854 - Brasília -DF - Vol. 17 - N. 3 - December - 2021. 628 - 651 649
+Cédric Tant
+Le Bohec, J. (2000). La question du “rôle démocratique” de
+la presse locale en France. Hermès, (26-27), 185–198. DOI:
+10.4267/2042/14774
+Le Stagirite. (2019, October 8). Greta Thunberg, Gilets Jaunes
+et gros co******. Le Média. Retrieved from www.lemediatv.
+fr/emissions/2019/greta-thunberg-gilets-jaunes-et-gros-co-
+aQWhWFVmTUS4Q8cg8IDz5w
+Le Stagirite. (2020a, January 22). Gouvernement et médias: Complices
+pour nier les violences policières. lemediatv.fr. Retrieved from www.
+lemediatv.fr/emissions/2020/gouvernement-et-medias-complices-
+pour-nier-les-violences-policieres-9XsDdfvWTVC_BPV7YDpBhg
+Le Stagirite. (2020b, March 3). Fin de l’anonymat: Les puissants veulent
+museler internet. Le Média. Consulté à l’adresse www.lemediatv.fr/
+emissions/2020/fin-de-lanonymat-les-puissants-veulent-museler-
+internet-PZiFgra-QnWEHbXhFhfFBw
+Le Stagirite. (2021, January 5). Ce cadeau que le complotisme fait
+aux médias mainstream. Le Média. Retrieved from www.lemediatv.
+fr/emissions/2021/ce-cadeau-que-le-complotisme-fait-aux-medias-
+mainstream-8INk9CEVR6u1q2IfVX1DRQ
+Lemieux, C. (1999). Une critique sans raison. L’approche
+bourdieusienne des médias et ses limites. In B. Lahire (Ed.), Le travail
+sociologique de Pierre Bourdieu. Dettes et critiques (pp. 205–229).
+Paris: La Découverte.
+McQuail, D. (2006). Media roles in society. In N. Carpentier, P.
+Pruulmann-Vengerfeldt, K. Nordenstreng, M. Hartmann, P. Vihalemm, &
+B. Cammaerts (Eds.), Researching media, democracy and participation:
+The intellectual work of the 2006 European Media and Communication
+doctoral summer school (pp. 47–58). Tartu: Tartu University Press.
+Mercier, A., & Amigo, L. (2021). Tweets injurieux et haineux contre
+les journalistes et les « merdias ». Mots, (125), 73-91. DOI: 10.4000/
+mots.28043
+Moullot, P. (2018, March 7). Est-il vrai que Le Média est un organe
+de propagande pour la France Insoumise? Libération. Retrieved from
+www.liberation.fr/checknews/2018/03/07/est-il-vrai-que-le-media-
+est-un-organe-de-propagande-pour-la-france-insoumise_1653299/
+Muhlmann, G. (2004). Du journalisme en démocratie. Paris: Payot.
+Muller, J.-W. (2016). What Is Populism?. Philadelphie: University of
+Pennsylvania Press.
+Ogbebor, B. (2020). British Media Coverage of the Press Reform Debate.
+Journalists Reporting Journalism. London: Palgrave Macmillan. DOI:
+10.1007/978-3-030-37265-1_5
+650 Licensed under the creative commons Attribution 4.0 International (CC BY 4.0)
+DOI: 10.25200/BJR.v17n3.2021.1431
+LE MÉDIA – A POPULIST CRITIQUE OF JOURNALISTS AND THE MEDIA BY JOURNALISTS
+Rieffel, R. (1985). L’élite des journalistes. Paris: Presses Universitaires
+de France.
+Robert, D. (2019a, September 28). En marche vers la fin de ce monde.
+Le Média. Retrieved from www.lemediatv.fr/emissions/2020/en-
+marche-vers-la-fin-de-ce-monde-aRmDMUtCRpWfIqKI8g_mew
+Robert, D. (2019b, October 23). En marche vers notre ruine. Le Média.
+Retrieved from www.lemediatv.fr/emissions/2019/en-marche-vers-
+notre-ruine--u5jDtaHSh-xT9sVai9XUA
+Roulot, O.-J. (2020, April 17). Chloroquine, la molécule qui m’a
+rendu fou—Le dernier protocole (6). Le Média. Retrieved from www.
+lemediatv.fr/articles/2020/chloroquine-la-molecule-qui-ma-rendu-
+fou-le-dernier-protocole-6-J0xWX1HsRZCHg_BZMKw1AQ
+Thibault, S., Brin, C., Hébert, V., Bastien, F., & Gosselin, T. (2020).
+L’autonomie journalistique et ses limites: Enquête pancanadienne
+auprès d’anciens praticiens. Communiquer, (29), 15-37. DOI:
+10.4000/communiquer.6498
+Valadier, P. (2018). Les populismes et l’appel au “peuple”. Études, (11),
+43-52. DOI: 10.3917/etu.4254.0043
+Vibert, S. (2016). Le bain acide des relations de pouvoir. Critique de
+la socioanthropologie potestative. Revue du MAUSS, 47(1), 287–303.
+DOI: 10.3917/rdm.047.0287
+CÉDRIC TANT. Researcher at the Engage-
+Research Center for Publicness in Contemporary
+Communication and Centre d’anthropologie,
+sociologie, psychologie – études et recherches
+(CASPER) at Saint-Louis University in Brussels. His
+research focuses on public criticism, in particular
+its metadiscursive dimensions, as an element
+structuring the relationship between journalists
+and politicians. E-mail: cedric.tant@usaintlouis.be
+ENGLISH REVISION: SOLÈNE MIGNON, EVA SEIFARTH AND
+TONY MCDOWELL.
+Braz. journal. res., - ISSN 1981-9854 - Brasília -DF - Vol. 17 - N. 3 - December - 2021. 628 - 651 651

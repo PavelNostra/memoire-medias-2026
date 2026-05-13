@@ -1,0 +1,1140 @@
+Variations
+Revue internationale de théorie critique
+20 | 2017
+Expériences oppositionnelles
+Résistances en ligne : mobilisation, émotion,
+identité
+Fabien Granjon
+Édition électronique
+URL : http://journals.openedition.org/variations/819
+DOI : 10.4000/variations.819
+ISSN : 1968-3960
+Éditeur
+Les amis de Variations
+Référence électronique
+Fabien Granjon, « Résistances en ligne : mobilisation, émotion, identité », Variations [En ligne], 20 |
+2017, mis en ligne le 25 avril 2017, consulté le 25 février 2021. URL : http://journals.openedition.org/
+variations/819 ; DOI : https://doi.org/10.4000/variations.819
+Ce document a été généré automatiquement le 25 février 2021.
+Les ami•e•s de Variations
+Résistances en ligne : mobilisation, émotion, identité 1
+Résistances en ligne : mobilisation,
+émotion, identité
+Fabien Granjon
+1 La conflictualité sociale s’appuie sur des « armes matérielles » au nombre desquelles les
+technologies d’information et de communication (TIC) ont très souvent joué un rôle
+central1. Les big media écrits et audiovisuels (presse, radio et télévision), tout comme les
+small media nettement plus mobilisables (« ronéo », cassettes audio, vidéo, etc.) font
+partie des technologies des mouvements sociaux. L’action collective protestataire
+s’actualise en effet dans des formes d’agir pour le moins variées dont certaines sont
+assurément en lien avec ces médiations (ce par quoi il faut passer) médiatiques et
+technologiques qui organisent matériellement la diffusion, la mise en visibilité/
+publicité et la discussion de productions symboliques (informations, savoirs, idéologies)
+prenant part à la conflictualité sociale. Les politiques du conflit2 ont, tout comme la
+plupart des activités sociales contemporaines, notamment politiques, partie liée avec
+une variété de supports technologiques qui, aujourd’hui, relèvent assez largement de
+l’informatique connectée. Celle-ci permet de rassembler plusieurs formes de
+production médiatique (écrits, sons, images fixes et animées), d’en faciliter la
+production et l’articulation (intertextualité, interdiscursivité) et de les coupler
+aisément à des espaces de commentaires, de débats et de sociabilité conduisant
+potentiellement à l’édification d’espaces publics oppositionnels3. Le « réseau des réseaux »
+est devenu un outil essentiel pour un nombre croissant de mouvements sociaux qui en
+développent des usages variés, afin d’ouvrir de nouveaux modes de participation à
+l’action collective, d’élargir le spectre des participants aux dynamiques protestataires,
+ou encore de faciliter la tenue de mobilisations, parfois de grande ampleur et de haute
+intensité. Internet et la téléphonie mobile sont ainsi largement mobilisés durant les
+séquences de conflit ouvert, mais les technologies numériques d’information et de
+communication(TNIC) font également partie du répertoire des instruments nécessaires
+à l’entretien des logiques contestataires durant les périodes ordinaires de basse ou
+moyenne intensité, notamment s’agissant des capacités de mobilisation. Précisément,
+dans le cadre de cet article, nous souhaitons aborder cet aspect spécifique de la
+Variations, 20 | 2017
+Résistances en ligne : mobilisation, émotion, identité 2
+matérialité numérique de la conflictualité sociale contemporaine qui tient aux
+nouvelles modalités de mobilisation de l’action.
+De nouvelles communautés pertinentes pour l’action
+2 À la fin des années 1990, les premières enquêtes de terrain menées sur les usages
+militants de l’Internet4 montraient que la probabilité qu’un individu s’engage, suite à la
+réception d’un appel à mobilisation lancé sur une liste de diffusion restait largement
+indexée à sa motivation à participer. La participation était d’autant plus forte qu’elle
+sollicitait des individus ayant le sentiment d’appartenir à une communauté
+immédiatement concernée par l’objet de la mobilisation et donc ayant, a priori, une plus
+grande volonté de participer5. Aussi, les thèses d’Anthony Oberschall6, pour qui la
+mobilisation pour l’action consiste plutôt à recruter des groupes d’acteurs déjà organisés
+et actifs, et non à solliciter des individus plus ou moins isolés semblaient également se
+vérifier s’agissant de l’engagement sur réseaux. L’Internet ne semblait pouvoir jouer un
+rôle de renforcement des mobilisations in praesentia qu’auprès des individus parmi les
+plus impliqués dans des activités militantes de terrain. Pour autant, pouvaient se
+constater, en certaines occasions, des formes d’élargissement de l’engagement vers des
+personnes qui, par exemple, n’étaient pas nécessairement membres d’une organisation
+militante. Si les communautés pertinentes pour l’action7 restaient donc indexées à un
+principe d’intégration préalable des sujets agissants à une structure contestataire, il
+était néanmoins possible d’observer la constitution de fragiles collectivités concrètes de
+référence tenant davantage à la valorisation d’un « Nous » naissant du partage de
+services en ligne (pour l’essentiel forums et listes de diffusion à l’époque). Par ailleurs,
+les formes empiriques de protestation collective relevant de l’hacktivisme étaient
+encore peu développées, mais elles composaient un faisceau de signaux de moins en
+moins faibles qui laissaient à penser qu’allaient, à l’avenir, se développer des collectifs
+erratiques susceptibles de se transformer en communautés d’action à partir,
+précisément, des expériences que ceux-ci tirent de leurs usages de l’informatique
+connectée.
+3 Quelques années plus tard, émerge notamment un ensemble de collectifs (Anonymous,
+WikiLeaks, etc.) qui se fonde largement sur l’accrétion de contributeurs qui se
+constituent en collectifs, nettement moins par l’appartenance ou l’affiliation, mais
+davantage par la volonté commune et révisable à tout moment de mener une action
+pour laquelle Internet devient une condition de possibilité essentielle de leur mise en
+capacité. Clay Shirky8 relate ainsi l’improbable mobilisation de jeunes Sud-Coréen(ne)s
+contre la réouverture des importations de viande bovine états-unienne. Celle-ci
+n’aurait pas été conduite à l’initiative d’organisations associatives ou politiques, mais
+aurait été lancée par de jeunes fans d’un boys band qui, fréquentant le forum du groupe,
+auraient, à un moment donné, polarisé leurs discussions « légères » sur ce thème plus
+politique et lancé l’idée d’une protestation publique qui aurait finalement abouti. Si, en
+l’occurrence, la mobilisation en ligne s’est traduite par une manifestation de rue, il est
+des actions qui se maintiennent dans l’espace numérique. Qualifiées par Romain
+Badouard de « mobilisations de clavier », elles se fondent sur la cumulation « d’actions
+individuelles dans le cadre d’une activité dont l’objectif attendu est souhaité par
+l’ensemble des internautes qui y prennent part, dans la mesure où il répond à un
+intérêt commun, ou du moins à des intérêts partagés9 ». Attachés à la figure du réseau
+Variations, 20 | 2017
+Résistances en ligne : mobilisation, émotion, identité 3
+qui n’agrège pas, mais réticule des nœuds, ces collectifs plus ou moins durables
+réinterrogent la place du sujet dans l’élaboration d’un « Nous », via le modèle de la
+connexion dont ils font la forme privilégiée de la constitution communautaire. À
+l’action tactique « ordinaire » décidée en amont par un collectif qui mobilise à cet effet,
+s’ajoutent d’autres formes de dialectique Je/Nous : coordination conjoncturelle d’une
+action, légitimation et reconnaissance des actions individuelles par le collectif, etc.
+4 Les réseaux télématiques tendent à devenir des contextes communs de socialisation et
+il n’est pas incongru de penser qu’ils peuvent se trouver à l’origine de dispositions
+(manières d’agir, de penser, etc.) qui, sans être pleinement nouvelles, s’hybrident à une
+diversité toujours plus grande de contextes sociaux en ligne et hors ligne, et
+reconfigurent ainsi certaines pratiques sociales au nombre desquelles on compte donc
+la création de collectifs et de minorités actives davantage tournés vers l’action directe.
+Les « mouvements de crise » ou certaines actions de type « Take the square », menées
+lors des « Printemps » arabes (Tunisie, Égypte), d’érable (Québec) ou en Turquie
+(occupation de la place Taksim et du parc Gezi d’Istanbul), empruntent très
+certainement au réseau et à son parangon Internet ; pas seulement comme
+technologies d’information et de communication, mais également comme technologies
+intellectuelles susceptible d’organiser une structure oppositionnelle labile dont la
+principale force tiendrait à ce qu’elle est une structure, expression directe de la
+communauté. Quand un candidat du Parti pirate français déclare : « Nous sommes prêts
+à travailler avec n’importe quelle formation politique, qu’elle soit de droite ou de
+gauche, peu importe », sans doute définit-il moins une improbable orientation
+politique « neutre » qu’il n’exprime cette disposition pragmatique à faire communauté
+autour d’objectifs qui se définissent dans et par l’action, c’est-à-dire sans préjuger des
+orientations préalables des personnes prenant part à cette action et sur laquelle, en une
+situation donnée, ils s’entendent précisément pour agir. Reprenant les travaux d’Alex
+Khasnabish10, Geoffrey Pleyers et Marlies Glasius proposent de décrire les
+« mouvements de crise » comme des phénomènes de résonance qui produisent des
+significations politiques de par les rencontres erratiques dont ils sont le moteur : « Il
+s’agit pour nous d’un lien social qui se situe au plan de l’expérience des activistes et des
+enjeux et valeurs des mouvements partagés par des activistes, lesquels ne s’engagent
+pas directement dans une lutte dans un contexte éloigné, mais trouvent dans cette lutte
+un sens partagé une culture politique et des enjeux qui correspondent à leurs propres
+luttes11 ».
+Des mobilisations incrémentales
+5 Depuis les travaux de Charles Tilly12 et Doug McAdam13, l’une des « lois » robustes de la
+sociologie de l’action collective, pose que plus existent des liens forts entre les
+protestataires, leurs amis et leurs connaissances, plus il y a de chances que ces derniers
+en viennent à s’engager également. Par ailleurs, un certain nombre de chercheurs14
+estime que lesdits liens forts deviendraient, aujourd’hui, plus rares et plus fragiles, à
+l’instar des espaces publics physiques (places publiques, bars, cafétérias d’entreprise,
+etc.) qui en étaient les principaux supports. Quand les TNIC ne sont pas purement et
+simplement considérées comme un facteur aggravant de cette délitescence du capital
+social15, elles sont parfois, a contrario, appréhendées comme permettant de pallier cette
+supposée perte d’une sociabilité – notamment politique – composée de « strong ties ».
+Variations, 20 | 2017
+Résistances en ligne : mobilisation, émotion, identité 4
+Plus raisonnablement, les technologies de l’Internet sont également décrites, non pas
+comme remettant en cause l’exactitude du « binding process » que nous décrivions en
+ouverture de ce paragraphe, mais comme révélatrices du fait que l’engagement dans
+une action contestataire peut aussi être indexé à des formes relevant davantage d’un
+« bridging process », articulant aussi un nombre non négligeable de liens faibles. Pour
+Rodrigo Nunes, par exemple, le phénomène ne relève pas « d’une simple vague de fond
+qui permettrait l’augmentation et l’intensification des liens, mais d’un mouvement plus
+complexe dans lequel les clusters de liens forts et la cohérence organisationnelle qu’ils
+offrent deviennent essentiels à la structuration de la contagion en ligne et de ce qui se
+passe sur le terrain16 ».
+6 Le rôle que jouent les liens forts semble donc rester essentiel dans la mesure où c’est à
+partir de ces derniers que se construisent, par cercles concentriques et intégration
+progressive aux communautés et aux identités les plus affirmées, des collectifs
+mobilisés. Ces liens forts peuvent préexister à la constitution des communautés en
+ligne, mais ils peuvent aussi être la conséquence d’un travail spécifique mené sur
+Internet17. Par ailleurs, ils se trouvent enchâssés dans des réseaux de liens plus
+nombreux, mais plus faibles qui posent, eux aussi, à nouveaux frais, la question de la
+construction de la confiance au sein de dispositifs médiatisés qui ne permettent qu’une
+réassurance ténue de la communauté quant à la volonté de participer de ses membres.
+Outre les posts qui peuvent toutefois être essentiels dans l’établissement explicite d’une
+certaine assurance quant au déroulement positif de la mobilisation, ce sont surtout, sur
+les SNS, des indicateurs quantitatifs qui jouent ce rôle de certification des intentions
+des autres ; à l’instar des pages événements de Facebook qui comptabilisent les
+personnes déclarant vouloir participer ou être intéressées et construisent
+« l’impression, ou du moins l’illusion nécessaire, qu’il y a un enthousiasme derrière
+l’événement et que l’on ne finira pas accompagné seulement de quelques autres
+personnes face à des forces de police écrasantes18 ».
+7 Nourris du travail de Chantal Mouffe et d’Ernesto Laclau, Paolo Gerbaudo19 ou Jeffrey
+Juris20 estiment que les TNIC soutiennent des manières nouvelles de faire collectif, par
+agrégation : « En l’absence d’identités embarquées et de l’existence de réseaux sociaux
+denses permettant de soutenir l’action collective, ces éléments ont besoin d’être créés
+pro-activement et de manière ad hoc dans le cours du processus de mobilisation21 ». Aux
+opérations de réticulation de collectifs (networking22) censées, par exemple, caractériser
+les engagements typiques du mouvement altermondialiste, Gerbaudo préfère mettre
+l’accent sur ce qu’il estime être, aujourd’hui, le plus remarquable, à savoir les processus
+de « montage » (assembling) de sujets individuels pouvant avoir des backgrounds
+militants, politiques et idéologiques fort disparates, mais dont l’agrégation est
+doublement assurée : d’une part, par des rassemblements publics in situ et, d’autre part,
+par la constitution de communautés en ligne. Par exemple, si le mouvement Occupy
+s’est appuyé sur les outils largement utilisés par les générations antérieures de
+militants(mail, listes de diffusion, sites Web, etc.), il a également mobilisé les dispositifs
+du Web 2.0 (Wiki, Twitter, Facebook, MeetUp, Reddit, Tumblr, Mumble23, etc.), ainsi que
+les médias alternatifs tels que Diaspora, Riseup, The Global Square, Occupii, etc. Cet
+ensemble de ressources a permis que se développent des pratiques utiles à la
+mobilisation que Christian Fuchs24 décrit comme relevant de dimensions à la fois
+cognitives, communicationnelles et collaboratives, mais dont il relativise l’importance
+– sans en dénier pour autant l’effectivité –, en insistant notamment sur le rôle
+Variations, 20 | 2017
+Résistances en ligne : mobilisation, émotion, identité 5
+prépondérant des conversations en face-à-face (street-level communication), notamment
+dans la dissémination des informations sur le mouvement. Les SNS semblent
+néanmoins tout particulièrement prisés car ils donnent accès à de larges publics et
+facilitent les logiques de diffusion virale dans la mesure où leurs usages, parce qu’aisés,
+tendent à devenir communs à une partie de la population toujours plus importante.
+Contrairement aux dispositifs militants qui, même s’ils s’ouvrent en leurs entours,
+restent globalement fréquentés par des communautés relativement restreintes, les
+sites de réseaux sociaux portent notamment des audiences nettement moins
+spécialisées, allant au-delà des cercles militants convenus, constituées pour l’essentiel
+de liens faibles, mais potentiellement beaucoup plus étendues :
+« Dans l’ensemble, alors que les médias sociaux étaient importants pour rassembler
+une base élargie des jeunes gens issus des classes moyennes, la communication de
+rue a, elle, permis à ces mouvements de se développer et de devenir véritablement
+populaires en brisant la fracture numérique et en permettant aux membres de la
+soi-disant “génération Internet” de s’engager auprès de “ceux qui n’ont pas de
+compte Facebook”25 ».
+8 Pour Gerbaudo, les médias numériques attestent ainsi de l’extension de la manière dont
+les groupes se forment au sein de nos sociétés supposées fragmentées et dispersées, en
+relation étroite avec un processus complexe de médiations symboliques et techniques
+qui en assure certaines des conditions de possibilité :
+« De tels procédés sont en outre facilités par l’exploitation des hashtags Twitter qui
+ont le pouvoir de rassembler une communauté d’intérêt autour d’événements et de
+thèmes mis à jour et identifiés comme les plus pertinents par les membres de cette
+communauté. Utilisés de cette façon – et il convient de noter que les hashtags
+peuvent avoir d’autres fonctions que des marqueurs thématiques – les hashtags
+sont en mesure d’aider à la formation des publics ad hoc sur Twitter ; ces publics ad
+hoc, àleur tour, représentent un sous-ensemble d’un public plus large qui relève de
+l’écologie globale des médias et de la société elle-même. […] Ces publics sont
+dynamiques, leur durée de vie est fonction de la longévité de l’intérêt porté au
+thème considéré et des contributions et interactions continues entre les membres
+de ces publics26 ».
+Chorégraphier la lutte
+9 Aussi, « Les formes contemporaines de communication contestataires conduiraient à
+un élargissement des pratiques de “chorégraphie” : le “scénario” et la “scénarisation” de
+l’assemblage physique des personnes dans l’espace public27 ». Pour leur part, Bennett et
+Segerberg28 avancent l’idée que les dynamiques organisationnelles des mouvements
+sociaux se modifient dès lors que les médias numériques occupent un rôle central dans
+la mobilisation collective. Le remplacement des formes et des structures hiérarchisées
+de l’action collective traditionnelle profite, selon eux, à la communication qui devient
+alors la forme de base de toute organisation collective. Les TNIC permettraient
+notamment un renouvellement et une flexibilisation des formats d’intégration au
+mouvement auquel les individus engagés pourraient s’adapter plus aisément en
+fonction de leurs disponibilités. Ils offriraient par ailleurs la possibilité de promouvoir
+croyances, convictions et valeurs sans avoir à se soumettre aux procédures
+hiérarchisées de la prise de parole régulant généralement la diffusion des opinions.
+Bennett et Segerberg proposent ainsi la notion de « connective action » – qu’ils
+considèrent comme complémentaire à celle d’action collective29 – afin de rendre compte
+de ce type de modalités d’organisation fondées sur les usages de l’informatique
+Variations, 20 | 2017
+Résistances en ligne : mobilisation, émotion, identité 6
+connectée et qui autorisent la formation de collectifs erratiques tournés vers l’action, y
+compris en partant de communautés initialement peu intéressées par la chose
+politique30. À partir d’une recherche reprenant l’appareillage conceptuel de Bennett et
+Segerberg et s’appuyant sur une enquête empirique portant sur 77 manifestations de
+masse qui ont eu lieu dans 9 pays européens entre décembre 2009 et juin 2012, Camilo
+Cristancho et Eva Anduiza31 montrent, d’une part, que les mobilisations qui s’appuient
+sur les SNS tendent à regrouper une large part de personnes qui n’adhèrent à aucune
+organisation et, d’autre part, que celles-ci font sortir dans la rue des individus qui ne
+sont pas nécessairement celles et ceux qui battaient jusqu’alors le plus facilement le
+pavé : « Plus de jeunes, de chômeurs, moins de personnes ayant une implication
+formelle dans la vie associative, [des individus ayant] des niveaux d’identification plus
+faibles avec les collectifs organisant les manifestations [et ayant aussi] des niveaux
+inférieurs de participation politique ». Le rapport au politique et à l’action se créerait
+davantage via le partage d’expériences et d’événements que par le biais
+d’appartenances à des organisations militantes ou à des minorités actives.
+10 Henry Jenkins32 donne ainsi l’exemple de la communauté Harry Potter Alliance (HPA)
+dont les membres se servent du contenu fictionnel de l’œuvre de J. K. Rowling pour
+comprendre les problèmes sociopolitiques du monde qui les entoure et vont parfois
+jusqu’à s’impliquer dans des actions politiques. Le réseau de fans, par ailleurs entretenu
+et animé par une lourde équipe de salariés, permet de construire des problèmes
+publics, d’identifier les acteurs impliqués dans les situations considérées comme
+problématiques et de mobiliser les jeunes membres de l’Alliance qui acquièrent ainsi
+des compétences politiques à partir d’un intérêt pour une « culture fan » qui, restant
+essentielle, sert notamment de sas d’entrée motivationnel à une politisation « de
+surcroît » pour le moins inattendue. HPA dispose, actuellement, de plus de 100 000
+membres réunis et distribués en fonction des chapitres du best-seller auxquels ils
+« adhèrent » et à partir desquels ils sont notamment mis en lien avec un panel varié
+d’organisations citoyennes qu’ils peuvent soutenir, par exemple financièrement, à
+l’instar de cette collecte réussissant à lever 123 000 dollars qui ont servi à affréter cinq
+avions transportant des médicaments de première nécessité à destination d’Haïti. La
+culture populaire « de masse » pourrait ainsi être le support permettant la construction
+d’une culture populaire « de résistance ». Internet permet de les combiner, facilitant
+ainsi le passage d’une vision du monde non-élaborée à une culture critique ou
+oppositionnelle du présent. La possibilité de l’action, et notamment de la conversation/
+discussion, concomitante à la production de l’information permet de relativiser le
+caractère fétiche des culturèmes de masse qui, s’ils tentent d’imposer les signes, les
+idées, les normes et les désirs correspondant aux conditions concrètes de la
+marchandisation, peuvent être, au sein même de leur espace de circulation,
+déconstruits et réappropriés. Ce potentiel de redéfinition et d’assimilation critique
+d’une culture mainstream, qui par ailleurs peut continuer à être appréciée, pose, d’une
+part, que les processus contre-hégémoniques ne sont pas nécessairement le fait d’une
+élite culturelle, tant s’en faut, et, d’autre part, que les formes de résistance peuvent
+reposer sur des culturèmes, des appétences, des aversions, des rapports au travail et
+aux loisirs issus à la fois de traditions culturelles anciennes, des industries culturelles,
+de l’innovation technologique et d’un projet de dépassement de ces héritages.
+11 Cette complexité n’est toutefois pas toujours au cœur des réflexions dédiées. Pour
+Manuel Castells33, par exemple, « la véritable transformation révolutionnaire » des
+Variations, 20 | 2017
+Résistances en ligne : mobilisation, émotion, identité 7
+politiques du conflit médiées par Internet tiendrait à ce que le changement social
+émergerait de plus en plus, non d’objectifs programmatiques, mais des « expériences »
+des individus organisés en réseaux, tant en ligne qu’hors ligne. On peut toutefois être
+un tant soit peu sceptique devant ce type d’affirmation qui, si l’on prend en
+considération des mouvements sociaux plus directement politiques, tend à faire
+l’impasse sur ce que la production et le maintien de la conflictualité sociale suppose en
+termes de ressources ad hoc à mobiliser et de l’existence d’un capital militant qui, s’il
+n’est pas distribué entre tous les individus mobilisés, reste nécessairement présent au
+sein de la frange souvent la plus active et impliquée de ces personnes et qu’ils héritent
+le plus souvent de trajectoires biographiques les ayant déjà fait traverser d’autres
+expériences militantes (syndicales, partidaires, etc.) plus « classiques ».
+12 Par ailleurs, quand les « mouvements de crise » sont amenés à quitter l’espace des
+mouvements sociaux34 pour investir le champ politique via, notamment, leur
+participation à des échéances électorales, apparaissent au grand jour des difficultés qui
+viennent quelque peu casser le « rythme de la pulsation d’une nouvelle forme de
+révolution35 ». Cette autre manière de faire (de la) politique rappelle les conditions
+concrètes d’instauration de rapports de force indispensables à l’implémentation des
+changements sociaux, autrement que sous l’égide d’abstractions telles que « la
+perméabilité des institutions » ou encore « la volonté des mouvements sociaux à
+s’investir dans des processus de négociation36 ». De facto, on risque le malentendu à
+vouloir trop rapidement confondre la démocratisation de l’espace public numérique et
+des campements avec les procédures de la démocratie représentative. L’émergence de
+mobilisations d’individus « par le bas » portées par les TNIC, aussi considérables que
+celles qui ont eu lieu lors des révolutions arabes et des « mouvements de crise », ne
+s’articulent pas naturellement à la construction, « par le haut », d’une représentation
+politique. Alors que la première coordonne ponctuellement des individus,
+indépendamment du tissu d’organisations du champ politique, la seconde invite à
+organiser durablement les citoyens en leur demandant de distribuer leur vote à des
+collectifs politiques délégataires censés les représenter. On comprend, ainsi, que les
+résultats des élections en Tunisie, en Égypte, en Espagne ou en Grèce aient pu décevoir
+tous ceux qui considéraient par trop rapidement les mobilisations réussies d’individus
+politiquement disparates comme permettant de trouver automatiquement un
+débouché du côté de la représentation politique. Là, coexistent deux formes
+d’expression de la citoyenneté beaucoup moins superposables que ne le laissent penser
+les théoriciens des « nouveaux » « nouveaux mouvements sociaux », de la « démocratie
+liquide », des « organisations non organisées37 », tout comme ceux qui considèrent, à
+l’instar de Gerbaudo, que « c’est la communication qui organise plutôt que
+l’organisation qui communique38 ». En témoignent les difficultés qu’ont rencontré les
+oppositions progressistes du « Printemps arabe » ou les Indignados, dont les velléités
+électorales les ont mis face à des nécessités qu’ils n’ont su complètement relever ou qui
+les ont fait se transformer en des forces politiques coupées d’une partie non négligeable
+de leurs bases originelles.
+Émotions et identités 2.0
+13 Si la circulation accrue de l’information et la facilitation des communicationssont deux
+des caractéristiques évidentes du renouvellement des manières de faire mobilisation,
+Variations, 20 | 2017
+Résistances en ligne : mobilisation, émotion, identité 8
+les technologies de l’Internet jouent également un rôle dans la production, l’entretien
+et la propagation des émotions39, lesquelles influent notamment sur l’expression des
+motivations des personnes à prendre part à l’action. Jusqu’à une date récente, le thème
+des émotions accompagnant les divers moments des politiques du conflit n’a été que
+peu couvert40. Les travaux récents de James M. Jasper montrent pourtant toute
+l’importance de l’énergie émotionnelle, c’est-à-dire de « l’atmosphère d’excitation et
+d’enthousiasme entretenue autour d’une identité commune41 » qui devient alors une
+ressource essentielle dans le déroulement d’une mobilisation. Ceux de Christophe
+Traïni soulignent également en quoi l’émotion est un ressort essentiel de certaines
+mobilisations, à l’instar de la défense de la cause animale, des luttes pour ou contre
+l’avortement ou encore celles portées par les malades du sida42. La présence toujours
+plus importante des TNIC et la possibilité qu’elles ouvrent quant au partage des
+événements collectifs et des sensibilités individuelles a toutefois permis de rebattre
+quelque peu les cartes et de prendre la mesure des ressources émotionnelles pour créer
+des « chocs moraux43 », mais aussi, plus ordinairement, pour « orienter les gens vers
+des manifestations spécifiques, fournir aux participants des suggestions et des
+instructions sur la façon d’agir et construire une narration émotionnelle afin de rendre
+possible leur rencontre dans l’espace public44 ». Une analyse des tweets durant les
+émeutes londoniennes de 2011 montre, par exemple, que Twitter a été principalement
+utilisé pour notifier aux internautes les événements à venir – plutôt que de promouvoir
+des actions illégales45. S’agissant de la page « Democracia Real Ya » des Indignados,
+Gerbaudo estime qu’elle peut être décrite comme le lieu permettant une accumulation
+d’énergie émotionnelle « capable de motiver les gens, de les faire “sauter dans la rue”
+et de les faire surmonter leur isolement et leur passivité46 ». Au fait que les collectifs
+des « mouvements de crise » sont présentés comme étant spontanés, sans leader et
+ouverts à toutes les contributions, s’ajoutent les invitations à commenter, aimer et
+partager les informations qui sont incessantes. Les mises à jour sont particulièrement
+nombreuses, tout comme les réponses rapides apportées aux commentaires, qui
+donnent l’impression aux contributeurs de participer pleinement à une communauté
+d’échanges, mobilisée et partageant des valeurs identiques.
+Les messages produits sur les SNS « reflètent la construction d’un effort émotionnel
+(emotional striving) pour éloigner les activistes d’un sentiment d’isolement, de
+dispersion et de passivité que ceux-ci considèrent comme la marque de l’expérience
+sociale des régimes autoritaires […], mais aussi celle du néolibéralisme qui s’attaque
+à toutes les formes d’espace public. Devant cette situation de crise de l’espace
+public, les SNS sont devenus des canaux émotionnels permettant de reconstruire un
+sentiment de cohésion entre des individus spatialement dispersés et de faciliter
+leur rapprochement physique dans l’espace public. [...] [Les activistes numériques]
+ont ainsi utilisé les SNS pour construire une tension émotionnelle, en tirant un pont
+entre les interactions très disperséeset individualisées que les gens maintiennent
+via [les SNS] et l’immersion corporelle des rassemblements collectifs. Ces formes de
+communication ont contribué à créer un sentiment contagieux d’anticipation et
+d’élan (impetus) avant les manifestations et une attraction émotionnelle autour de la
+participation aux sit-in de masse. [...] Les SNS peuvent [ainsi] être utilisés pour
+construire un sentiment de solidarité au sein d’une communauté hétérogène
+partageant un sentiment commun d’indignation, de colère, de frustration […]. Les
+médias sociaux deviennent le pôle d’agrégation ou, mieux encore, de concentration,
+de ces sentiments individuels, en les transformant en passions politiques dans un
+récit d’unité populaire. [...] Le rôle le plus important des SNS réside dans la
+construction d’un sentiment émotionnel de solidarité parmi les participants
+dispersés, plutôt que dans la coordination des opérations de combat sur le terrain.
+Variations, 20 | 2017
+Résistances en ligne : mobilisation, émotion, identité 9
+[...] On peut d’ailleurs supposer que les mouvements contemporains pourraient se
+débrouiller assez bien sans les moyens tactiques offerts par les SNS. Mais ce dont ils
+ne peuvent pas se passer (ou ce qu’ils font mieux avec), tient à la capacité des SNS à
+devenir les instruments d’une narration émotionnelle capable de motiver l’individu à
+se mobiliser dans la rue47 ».
+14 Les TNIC semblent donc favoriser la constitution de communautés pré-politiques à
+travers le partage d’émotions, d’intérêts et de valeurs. La possibilité de suivre les
+événements en temps réel, celle de pouvoir garder traces des événements majeurs, de
+publiciser les « ressentis de la lutte », tout comme de pouvoir échanger avec une
+communauté élargie de personnes intéressées ou impliquées dans la mobilisation,
+contribue en effet à créer ou maintenir des sentiments spécifiques, d’appartenance ou
+d’activation des engagements (affective synchronisation48). La chose est par exemple
+observable dans le cas des groupes Facebook créés après les attentats du 7 janvier de
+2015 visant les bureaux parisiens du journal Charlie Hebdo et ayant causé la mort de
+douze personnes, dont huit collaborateurs du journal satirique. Deux groupes de
+soutien « Je suis Charlie » et « Nous sommes Charlie » ont alors été montés par des
+individus isolés, récoltant rapidement, pour l’un, près de 91 000 membres et pour
+l’autre plus de 200 000. Le succès de ses communautés qui vont, par la suite, porter des
+mobilisations hors ligne tient, selon Romain Badouard, au fait qu’elles permettent aux
+membres du public de s’approprier l’événement et d’exprimer une émotion à la
+première personne. Elles offrent aux « prenant-parts » l’agrément d’une nouvelle
+perception du monde à partir d’un Je qui se transforme en Nous, en s’appuyant sur des
+émotions individuelles : « Le recours à la première personne correspond également à la
+manière dont se structurent les mouvements d’opinion et les actions collectives sur
+Internet et les réseaux sociaux : ceux- ci présentent toujours une dimension
+individuelle, puisque les internautes sont seuls devant leur écran, et la mise en
+commun d’une émotion ou d’une indignation relève toujours d’un processus
+d’agrégation de prises de parole isolées49 ».
+15 La mise en visibilité et en publicité des causes et des mobilisations, accompagnée d’une
+expression publique de leurs dimensions sensibles (souffrances, résignations, colères,
+etc.) tend notamment, pour certains chercheurs50, à faciliter le passage de l’indignation
+personnelle à l’action individuelle et de cette dernière à l’action collective, en
+maintenant un « sens du collectif » qui se nourrirait « de la tension émotionnelle de la
+connexion à distance [jusqu’]à l’effervescence de la proximitéphysique51 ». Les travaux
+empiriques portant sur le caractère « performatif » des médias numériques restent
+toutefois relativement évasifs quant aux mécanismes précis reliant publicisation/
+réception des émotions et engagement dans l’action. Ils se fondent, le plus souvent, sur
+des explications mécanistes, linéaires et médiacentristes, à l’instar des recherches de
+Castells qui estime que l’existence d’une « culture Internet » aurait été la condition de
+possibilité à l’émergence des révoltes ou de celles de Juris qui stipule que les logiques
+agrégatives des mouvements Occupy sont directement empruntées aux scripts des sites
+de réseaux sociaux. Les études de cas les plus précises portent, en ce domaine, sur les
+révolutions arabes et notamment les « Printemps » tunisien et égyptien. Elles
+montrent, par exemple, que la mobilisation autour des pages Facebook « Kullena
+Khaled Saïd » a permis que se construisent des formes de « condensation émotionnelle »
+autour de « signifiants vides » et neutres (empty signifier), à partir desquels une unité
+performative peut émerger. Wael Ghonim témoigne ainsi : « Dès les premiers jours, 36
+000 personnes rejoignent la page. […] C’est l’image de la mort atroce de Khaled, ainsi
+Variations, 20 | 2017
+Résistances en ligne : mobilisation, émotion, identité 10
+que son appartenance à la classe moyenne, qui catalysent cette énorme réaction. La
+photo est impossible à oublier, et grâce aux réseaux sociaux, elle prolifère. À la fin du
+premier jour, il y a plus de 1800 commentaires sur la page52 ». Ulrike Riboni montre,
+pour sa part, que les « stratégies visuelles », tout au long du processus révolutionnaire
+tunisien, notamment celles prenant en charge le traitement médiatique des blessés et
+des martyrs opèrent largement sur le registre émotionnel. Analysant des vidéos
+donnant à voir la répression subie par les habitants de Redeyef, elle identifie deux
+registres iconiques : les images-preuve, « destinées à servir de preuve de l’usage de
+lacrymogènes, de balles réelles ou de violences sur les personnes » et les images-émotion
+« destinées à galvaniser [et à rendre] compte d’un sentiment d’oppression et de
+danger »53. Et Cécile Boëx d’estimer que dans le cas de la Syrie,
+« la mise en images des manifestations contribue également à façonner des
+dispositifs de sensibilisation spécifiques, dont l’objectif est de susciter des réactions
+affectives promptes à rallier un soutien. Ces dispositifs permettent une
+réappropriation de l’espace public, tout comme ils constituent des vecteurs
+puissants d’un imaginaire protestataire articulé autour du paradigme du courage.
+Slogans, chants et danses sont autantde techniques pour faire corps et démontrer
+la cohésion ainsi que la détermination du collectif, tout en communiquant une
+charge émotionnelle. Ces vécus émotionnels et leurs modes de communication sont
+d’autant plus forts et efficaces qu’ils exposent également, en creux, le sacrifice
+consenti54 ».
+De la construction des identités
+16 La question de l’émotion est par ailleurs intimement liée à celle de la construction des
+identités. Depuis la fin des années 1960, la problématique identitaire a été largement
+mobilisée au sein de la sociologie de l’action collective, notamment afin de rendre
+compte des liens qui se tissent entre les militants mobilisés, mais aussi des motivations
+à s’engager au sein d’un mouvement. L’émergence de ce que l’on a appelé les
+« nouveaux mouvements sociaux » (NMS), portant des combats autres que ceux
+découlant de la contradiction capital/travail (féminisme, immigration, écologie,
+homosexualité, etc.) et s’appuyant sur des identités autres que celles de classes55, a
+entrainé la conduite de recherches relatives à une série de mobilisations politisant des
+enjeux qui étaient, auparavant, largement confinés à la sphère privée, et valorisant
+l’expérience des sujets56, y compris parfois dans ce que celle-ci peut avoir de plus intime
+(identity-oriented). L’étude des NMS a donc permis de saisir les processus de
+construction identitaire commeune composante essentielle des luttes sociales, lesquels
+ont aussi été étudiés au sein des travaux les plus récents. Certains chercheurs voient en
+effet, dans les « mouvements de crise », une actualisation des dynamiques qui étaient
+celles des NMS, dans la mesure où les identités citoyennes en jeu au sein de ces luttes
+semblent fonctionner comme des ressorts affectifs et fournir aux militants des
+ressources expressives « encapacitantes57 ». Ces travaux mettent notamment en
+lumière que la formation des identités militantes se nourrit assez largement des
+pratiques partagées en ligne par les internautes mobilisés. On sait maintenant, depuis
+des décennies, que l’intérêt à l’engagement est motivé par des paramètres
+psychoaffectifs58, une réassurance identitaire, la recherche de solidarités59 et le gain
+d’un ensemble de rétributions symboliques60. Ces satisfactions spécifiques solidaires de
+la figure du militant investi classiquement dans une organisation semblent pouvoir
+être, au moins partiellement, prises en charge par certaines activités de discussion, de
+Variations, 20 | 2017
+Résistances en ligne : mobilisation, émotion, identité 11
+commentaire, de partage de contenus, d’expériences et d’émotions. Réitérées et se
+transformant en habitudes, celles-ci permettent l’émergence de sociabilités singulières
+et de sentiments d’appartenance ; à l’instar de ce qui peut se passer sur Avaaz ou
+Facebook, où les formes d’interactivité et de réciprocité se trouvent au fondement du
+développement d’identités collectives.
+17 Angela Suarez Collado61 montre ainsi comment Internet a pu faciliter l’expression de
+l’identité amazighe (berbère), permettre l’expression des intellectuels organiques de
+cette communauté et autoriser la conservation du patrimoine immatériel de celle-ci
+(proverbes, musique, etc.). Certaines fêtes sont documentées, filmées et mises en ligne,
+les personnages historiques imazighen sont valorisés, les traditions culturelles sont
+présentées comme des repères transnationaux susceptibles de lier la communauté par-
+delà les frontières. En ce cas, Internet permet également de renforcer les singularités
+communautaires régionales au principe desquelles sont nées des revendications
+autonomistes, par exemple dans le Rif ou le Sousse. Au surplus, les espaces de
+discussion ouverts sur le Web (blogs, forums, groupes Facebook, etc.) contribuent à ce
+que se renforce une conscience commune à partir de laquelle les actions protestataires
+de rue – à l’instar du « Mouvement du 20 février 2011 » – deviennent possibles et leur
+coordination plus commode à conduire. Autrement dit, les technologies de l’Internet
+permettent d’appareiller les différentes dimensions identitaires telles que définies par
+Verta Taylor et Nancy Witthier62 : l’établissement de frontières distinguant un « Nous »
+et un « Eux » et amenuisant les différences au sein même de la minorité mobilisée ;
+l’activation d’une mémoire populaire en résistance ouvrant à un exercice de réflexivité
+et de réévaluation positive de traditions (culturelles, de lutte, etc.) ; la redéfinition des
+cadres hexogènes de définition des singularités du collectif. Dans un tout autre
+domaine, une ethnographie du média alternatif Attac-info63 montre, par exemple, qu’il
+s’agit d’un collectif dont le potentiel « se prépare et s’alimente dans la situation de
+latence64 ». En effet, le rassemblement physique des militants épouse les phases
+successives de convergence et de mise en veille caractérisant le cycle de mobilisation
+du mouvement altermondialiste lors des forums sociaux. Aussi, le groupement
+n’acquiert de la permanence et ne maîtrise son identité collective que dans la mesure
+où un effort est effectué pour entretenir certaines relations affectives, expertes et/ou
+militantes dans l’intervalle des mobilisations. Et Internet se présente comme un
+élément majeur de structuration de la vie du collectif, permettant de maintenir « une
+série de liens [qui deviennent] explicites seulement à l’occasion des mobilisations
+collectives sur des enjeux à propos desquels le réseau latent remonte à la surface, pour
+ensuite s’immerger à nouveau dans le tissu du quotidien65 ».
+18 L’usage des TNIC renforce également une expressivité qui fait droit à la particularité et
+à l’autonomie des individus en leur permettant de mettre en visibilité des causes et des
+identités personnelles particulières – notamment celles qui peuvent se trouver parmi
+les plus stigmatisées ou dévaluées par les institutions politiques et médiatiques
+dominantes (Denouël et al., 2014). Par conséquent, les repères communautaires servent
+également de terreau à des formes d’affirmation de soi liées à des demandes explicites
+de reconnaissance66. Se défiant des « totalités militantes », les internautes mettent en
+avant leurs expériences et leurs qualités personnelles via la production d’expressions
+citoyennes qui peuvent être appréhendées comme des formes d’accomplissement
+pratique dont l’un des ressorts est celui du « self at source67 ». Singularités identitaires et
+intérêt général se côtoient. Autrement dit, les internautes engagés se mobilisent à
+Variations, 20 | 2017
+Résistances en ligne : mobilisation, émotion, identité 12
+partir d’un double motif qui relève à la fois d’un sens de la réalité tenant à l’intérêt
+public et à un processus identitaire. Ces modes de production de soi s’appuient sur la
+mise en visibilité de traits distinctifs davantage attachés au sujet (goûts, descriptions
+d’activités triviales, échanges avec des proches, etc.) tout en revendiquant la
+participation citoyenne à des communautés solidaires de pensée et de débat. Dans un
+style qui n’emprunte plus guère aux sciences sociales, Castells écrit par exemple : « Les
+racines d’une nouvelle vie se répandent partout, sans plan central, se déplaçant et se
+réticulant, conservant la fluidité de l’énergie, en attendant le printemps. Parce que ces
+nœuds sont toujours connectés. Il y a les nœuds des réseaux de l’Internet, locaux et
+mondiaux, et il y a les réseaux personnels, vibrant sous l’impulsion d’une nouvelle sorte
+de révolution dont l’acte le plus révolutionnaire est l’invention de soi68 ». Si le constat
+ainsi formulé apparaît quelque peu désincarné, il est toutefois confirmé par de
+nombreux travaux69 que l’investissement dans la production d’expressions citoyennes
+qui, à un premier niveau, relève d’un engagement civique, se double également de
+formes de production de soi dont l’importance peut fortement varier d’un sujet à l’autre.
+La participation à l’espace numérique par le biais de la production symbolique de
+contenus informationnels de portée publique vient en fait s’arrimer à des dynamiques
+de construction d’identités narratives70 qui semblent constituer une part non négligeable
+des ressorts motivationnels des blogueurs et utilisateurs de SNS.
+« Les révoltes des années 2010 [mêlent] profondément les revendications
+économiques, sociales, politiques et culturelles et les combinent avec une forte
+dimension éthique. Elles sont à la fois profondément personnelles et globales,
+ancrées dans des enjeux locaux et nationaux, tout en s’inscrivant dans une vague
+mondiale de mobilisation. […] L’engagement d’aujourd’hui n’y est pas que social et
+collectif. Il est aussi profondément personnel. L’implication dans un mouvement
+social travaille profondément l’individu jusque dans sa subjectivité et sa
+subjectivation, entendue comme la manière de se penser et de se construire soi-
+même comme principe de sens71 ».
+19 Le recouvrement d’intérêts à la fois généraux et personnels enjoint à trouver des
+équilibres singuliers entre ce que les internautes proposent et ce qu’ils sont, mais
+également entre leurs activités en ligne et leur vie hors ligne. Si d’aucuns passent par le
+pseudonymat et travaillent à la séparation étanche des pratiques, d’autres, au
+contraire, cherchent l’intégration publique de leurs activités et de leurs identités. La
+réussite et la pérennité de ces entreprises semblent ainsi tenir à la gestion de stabilités
+multiples entre l’individuel et le collectif, le singulier et le général, le online et le offline,
+etc., qui dépendent notamment des interactions avec les publics. Il s’agit donc de
+mettre en œuvre des compétences particulières, socialement différenciées, concernant
+l’aptitude à maintenir une compatibilité entre des formes symboliques à forte charge
+civique et des facettes singulières de soi dans un espace de parole composite liant des
+publics susceptibles de ratifier ces deux aspects. Dans ce domaine, l’économie de
+moyens et la structure potentiellement virale de la circulation de l’information sur
+Internet, constituent alors un moteur décisif pour ces formes nouvelles de
+mobilisations informationnelles.
+20 S’agissant des internautes tunisiens, Romain Lecomte note qu’expressions de soi et
+paroles politiques ont été fortement enchevêtrées : « Un grand nombre de blogueurs
+[…] alternent […] des billets consacrés à leur vie privée et leur intériorité, d’autres à un
+thème spécifique qu’ils affectionnent particulièrement […] et d’autres encore à des
+questions d’intérêt général, des questions sociétales et politiques72 ».
+Variations, 20 | 2017
+Résistances en ligne : mobilisation, émotion, identité 13
+21 Et d’ajouter : « Un exemple illustrant la variété des formes d’énonciation en public
+portées par un(e) même internaute est celui de la célèbre blogueuse Lina Ben Mhenni
+(professeur d’anglais à l’Université de Tunis) : celle-ci, sur son blog et sur ses comptes
+Facebook et Twitter, alterne et même souvent entremêle depuis plusieurs années,
+dévoilement de son intériorité et de sa vie privée (sentiment de déprime, prise de
+médicaments, envies de ‘‘se faire belle’’, relation entretenue avec son père, etc.) et
+expression politique. Même lors des mobilisations protestataire de l’hiver 2010-2011,
+que Lina a couvertes intensivement (se rendant également sur le terrain), la blogueuse
+a continué à affirmer sa subjectivité et se mettre en récit73 ».
+22 Les travaux effectués sur les « mouvements de crise » semblent confirmer l’hypothèse
+selon laquelle les identités singulières se visibilisant en ligne sont, elles aussi, marquées
+par des demandes de reconnaissance. La circulation de l’information en ligne facilite
+l’échange d’expériences, de sentiments, de valeurs, d’opinions et, partant, l’invention
+de nouvelles formes d’identités politiques74. Celles-ci se modulent autour d’attendus
+citoyens qui tiennent moins à un accord idéologique préalable ou à des convictions
+communes unanimement ratifiées, qu’au partage d’une culture civique75 élargie qui
+emprunte diversement à l’idéal participatif, à l’impératif d’information, ainsi qu’à la
+nécessité du débat public.
+« Par exemple, depuis 2006, de nombreux blogueurs réalisaient chaque 25 décembre
+une “note blanche” pour défendre la cause de la liberté d’expression et en
+particulier pour dénoncer la censure d’Internet : ils publiaient sur leur espace
+personnel un billet avec pour titre “Note blanche”, mais dépourvu de contenu. […]
+ce type d’actions, parallèlement à leur dimension protestataire (parfois très ténue),
+avait également une dimension rituelle : elles contribuaient à l’expression et la
+consolidation d’une “communauté” de blogueurs tunisiens76 ».
+23 Les revendications des Indignés dénoncent par exemple la violation des principes de
+justice et d’égalité, cadrage large d’expressions politiques qui permet une ouverture
+maximale à l’intégration de points de vue hétérogènes qui trouvent par ailleurs, sur
+Internet, le moyen de s’exprimer. C’est ainsi, par la stimulation d’un imaginaire
+commun de résistance au pouvoir, le ralliement à des valeurs civiques générales, le tout
+mêlé à des demandes de reconnaissance qui trouvent à s’actualiser en ligne, que des
+sentiments d’appartenance se créent77. De facto, l’usage de l’informatique connectée
+permet aux divers contributeurs de bénéficier auprès de publics variés d’un ensemble
+de rétributions symboliques qu’ils n’auraient pu obtenir dans l’exercice « classique »
+d’un militantisme où la valorisation du travail tient davantage à la mise en œuvre de
+compétences politiques et organisationnelles qu’ils ne maîtrisent pas nécessairement.
+Peter Dahlgren78 estime qu’Internet permet de sortir les expressions citoyennes de la
+normativité de la sphère publique et des secteurs militants et partisans pour les
+indexer davantage à l’idéal de la subjectivité, de la communication et de la sociabilité :
+« Les identités militantes ne sont pas données mais sont constituées dans le processus
+d’action collective en ligne79 ». Elles sont le précipité des engagements, sourdent des
+investissements singuliers qui se concatènent, mais ne leur préexistent pas. Vivre le
+collectif et partager un entre-soi n’est plus une condition préalable de l’action, mais en
+est plutôt le résultat. Aussi apparaît-il difficile de créer un « Nous » pleinement
+mobilisateur quand il se compose d’« individus aux engagements éphémères, résiliables
+à tout moment, limités dans le temps comme dans la tâche à accomplir80 ». Certains
+chercheurs soulignent alors combien ces identités collectives pour parties nourries
+d’opérations online génèrent des configurations identitaires instables (transient
+Variations, 20 | 2017
+Résistances en ligne : mobilisation, émotion, identité 14
+identity81) à partir desquelles il reste difficile d’élever et de pérenniser des cadres
+d’action82. Natalie Fenton et Veronica Barassi notent à cet effet que « les formes
+autocentrées de communication que les [sites de] réseaux sociaux génèrent peuvent
+contraindre plutôt que renforcer la créativité collective des mouvements sociaux83 ».
+Elles suggèrent notamment que les formes particulières d’interaction qui donnent voix
+aux opinions individuelles, aux niches affinitaires, aux micro-dépendances amicales et
+aux initiatives de sous-collectifs peuvent, in fine, amoindrir la créativité globale d’un
+mouvement qui, sur Internet, peut devenir bavard, illisible, incohérent et s’en trouver
+alors fragilisé, notamment quant à ses potentiels de ralliement et ses capacités de
+mobilisation.
+24 Nous assistons, aujourd’hui, au niveau mondial, à une dégradation importante des
+conditions sociales d’existence. Le salariat exploité ne cesse d’augmenter, les politiques
+d’austérité se multiplient, la crise de 2008 a accru le nombre de travailleurs précaires,
+pauvres, vulnérables et sans emploi (notamment chez les femmes et les jeunes) ; la
+croissance des salaires est bloquée pour les moins dotés économiquement, les
+déplacements forcés de population s’intensifient, etc. La part des revenus alloués au
+travail a diminué, tandis que les richesses sont toujours plus concentrées entre les
+mains d’une oligarchie. À cet abaissement général des conditions de vie des « 99 % »,
+fait pièce une recrudescence des protestations sociales et politiques. À l’échelle
+internationale, les syndicats et les mobilisations, sur fond de contradiction capital/
+travail, se sont largement développés. Le mouvement altermondialiste a permis que se
+tissent des liens militants pérennes permettant une coordination plus aisée de
+certaines causes et luttes. Les « mouvements de crise » ont mobilisé en nombre.
+L’instabilité politique, les crises de régime et les dysfonctionnements institutionnels
+des pays émergents, autoritaires, mais aussi des démocraties occidentales vont
+grandissant.
+25 La liste des points de tension avec l’ordre social dominant est, ici, loin d’être complète,
+mais on peut globalement avancer que les volontés pratiques de dépassement du
+capitalisme restent très actives. Elles s’ajustent aux spécificités plus nombreuses des
+formes d’impérialisme (régionaux, nationaux, continentaux, etc.), et notamment à la
+nouvelle division internationale du travail. Leur vitalité (« Printemps arabe »,
+mouvements d’occupation, grèves ouvrières, mobilisations féministes, LGBTI,
+écologistes, de migrants, etc.) crée d’ailleurs un raffermissement des réponses du
+système, lesquelles vont des révolutions passives d’aménagement du Welfare – là où il
+existe encore –, à la libéralisation accrue des communs, en passant par la mise en œuvre
+de contre-révolutions violentes, ou encore celle de formes plus classiques de répression
+et d’offensives réactionnaires (état d’exception, mise à mal des droits sociaux
+fondamentaux, montée du néoconservatisme, des extrêmes droites, du
+fondamentalisme, du racisme, etc.). La mondialisation capitaliste fait évoluer les modes
+de domination de classe, les durcit, mais déclenche aussi un niveau de conflictualité
+sociale particulièrement important qui semble la plonger dans une instabilité
+structurelle. D’aucuns estiment que s’ouvre actuellement une séquence de crise
+permanente (institutionnelle, idéologique, de légitimité), où le niveau d’affrontement
+social (grèves, manifestations, occupations, insurrections, émeutes, etc.) pourrait
+devenir particulièrement élevé – i.e. ouvrir des crises révolutionnaires : grèves
+générales insurrectionnelles, guerres populaires prolongées – et épouser des formes
+d’engagement et d’action collective de plus en plus variées, tant sur le plan des causes
+Variations, 20 | 2017
+Résistances en ligne : mobilisation, émotion, identité 15
+qu’au niveau des manières de faire collectif, ou quant à celui des répertoires de
+mobilisation.
+26 Malgré cette diversité, la plupart des mouvements protestataires ont en commun leur
+rapport négatif au système capitaliste et à la crise économique mondiale. Ils partagent
+le fait de dénoncer la démocratie représentative (désobéissance civile, valorisation du
+consensus, de la démocratie directe, etc.), mais aussi d’utiliser les technologies
+numériques d’information et de communication à des fins de diffusion, de débat, de
+mobilisation et de coordination84. Davantage qu’une simple infrastructure, fut elle « de
+résistance85 », Internet tend à redéfinir à la marge, mais aussi de plus en plus
+centralement, les frontières de l’action collective et la nature des modes de résistance
+et de contestation. Dès la fin des années 1990 et l’émergence du mouvement
+altermondialiste, le développement des usages d’Internet a permis que s’actualisent de
+nouveaux potentiels d’entraide, d’échange d’information, d’expertise et que soit
+facilitée l’articulation de fronts de contestation au niveau local, national et/ou
+international. Aussi, Bruce Bimber et ses collègues86 avancent qu’Internet ouvre de
+nouvelles formes de mobilisation dont l’étude permettrait d’éclairer plusieurs aspects
+fondamentaux de l’action collective qui, jusqu’alors, avaient été peu ou mal théorisés. À
+l’évidence, décrire, expliquer, comprendre et juger des modalités concrètes de
+déploiement de la conflictualité sociale oblige aujourd’hui à prendre en considération
+la dialectique sociotechnique87 qui nourrit les politiques du conflit à l’ère du numérique,
+laquelle peut être aussi bien habilitante que limitative.
+BIBLIOGRAPHIE
+Alhassen (Maytha), Shihab-Eldin (Ahmed) eds., Demanding Dignity: Young Voices from the Arab
+Spring, Ashland, White Cloud, 2012.
+Badouard (Romain), « “Je ne suis pas Charlie” : pluralité des prises de paroles sur le web et les
+réseaux sociaux », in Lefebure (Pierre), Secail (Claire), Le défi Charlie, Les médias à l’épreuve des
+attentants, Paris, Le Mieux-Éditeur, 2015, pp. 187-221.
+Badouard (Romain), « Les mobilisations de clavier. Le lien hypertexte comme ressource des
+actions collectives en ligne », Réseaux, vol. 5, n° 181, 2013, pp. 87-117.
+Bauman (Zygmunt), The Individualized Society, Cambridge, Polity Press, 2001.
+Bennett (Lance), Segerberg (Alexandra), The Logic of Connective Action. Digital Media and the
+Personalization of Contentious Politics, New York, Cambridge University Press, 2014.
+Bennett (Lance), Segerberg (Alexandra), «The logic of connective action: Digital media and the
+personalization of contentious politics », Information, Communication & Society, vol. 15, n° 5, 2012,
+pp. 739-768.
+Benski (Tova), Langman (Lauren), « The effects of affects: the place of emotions in the
+mobilizations of 2011 », Current Sociology, vol. 61, n° 4, 2013, pp. 525-540.
+Variations, 20 | 2017
+Résistances en ligne : mobilisation, émotion, identité 16
+Bimber (Bruce), Flanagin (Andrew J.), Stohl (Cynthia), « Reconceptualizing Collective Action in
+the Contemporary Media Environment », Communication Theory, vol. 15, n° 4, 2005, pp 365-388.
+Boëx (Cécile), « La vidéo comme outil de l’action collective et de la lutte armée », in Burgat
+(Françoise), Paoli (Bruno), Pas de printemps pour la Syrie. Les clés pour comprendre les acteurs et les
+défis de la crise [2011-2013], Paris, La Découverte, 2013, pp.173-184.
+Bruns (Axel), Highfield (Tim), « The Arab Spring on Twitter: Language Communities in #egypt an
+#lybia », in Bebawi (Saba), Bossio (Diana) eds., Social Media and the Politics of reportage. The « Arab
+Spring », New York, Palgrave Macmillan, 2014, pp. 33-55.
+Castells (Manuel), Networks of Outrage and Hope. Social movements in the Internet Age, Cambridge/
+Malden, Polity Press, 2012.
+Chadwick (Peter), Continuum mechanics: concise theory and problems, Londres, Courier Corporation,
+2012.
+Chambat (Pierre), Jouët (Josiane), « Machines à communiquer : acquis et interrogation », in
+dixième Congrès National des SIC, Grenoble-Echirolles, SFSIC, 1996, pp. 207-214.
+Cristancho (Camilo), Anduiza (Eva), « Connective Action in European Mass Protest »,
+communication aux ECPR Joint Sessions of Workshops Mainz, 11-16 March 2013http://
+www.lapietradialogues.org/area/pubblicazioni/doc000075.pdf.
+Dahlgren (Peter), The political web: Media, participation and alternative democracy, Londres, Palgrave
+Macmillan, 2013.
+Dahlgren (Peter), « The Internet, public spheres, and political communication: dispersion and
+deliberation », Political Communication, n° 22, 2005, pp. 147-162.
+Dahlgren (Peter), « Reconfigurer la culture civique dans un milieu médiatique en évolution »,
+Questions de communication, n° 3, 2003, pp. 151-168.
+Denouël (Julie), Granjon (Fabien), Aubert (Aurélie), Médias numériques et participation. Entre
+engagement citoyen et production de soi, Paris, Mare & Martin, 2014.
+Fenton (Natalie), Barassi (Veronica), « Alternative media and social networking sites: The politics
+of individuation and political participation », The Communication Review, vol. 14, n° 3, 2011, pp.
+179-196.
+Fuchs (Christian), OccupyMedia! The Occupy Movement and Social Media in Crisis Capitalism,
+Winchester, Zero Books, 2013.
+Gaxie (Daniel), « Économie des partis et rétributions du militantisme », Revue française de science
+politique, vol. 27, n° 1, 1977, pp. 123-154.
+Gerbaudo (Paolo), Tweets and the Streets: Social Media and Contemporary Activism, London, Pluto
+Press, 2012.
+Ghonim (Wael), Révolution 2.0. Le pouvoir des gens plus fort que les gens au pouvoir, Paris, Steinkis,
+2012.
+Goodwin (Jeff), Jasper (James M.), Polletta (Francesca) eds., Passionate Politics. Emotions and Social
+Movement, Chicago, University of Chicago Press, 2001.
+Granjon (Fabien), « Attac-info : entre communauté d’action et espace de représentation.
+Ethnographie d’un média ‘‘alter’’ lors du Forum social mondial 2003 », Matériaux pour l’histoire de
+notre temps, n° 79, 2005, pp. 70-76.
+Variations, 20 | 2017
+Résistances en ligne : mobilisation, émotion, identité 17
+Granjon (Fabien), L’Internet militant. Mouvement social et usages des réseaux télématiques, Rennes,
+Apogée, 2001.
+Granjon (Fabien), Lelong (Benoît), « Capital social, stratifications et technologies de l’information
+et de la communication. Une revue des travaux français et anglo-saxons », Réseaux, vol. 24, n° 139,
+2006, pp. 147-182.
+Halleck (DeeDee), Hand-held Visions. The Impossible Possibilities of Community Media, New York,
+Fordham University Press, 2002.
+Honneth (Axel), La lutte pour la reconnaissance, Paris, Cerf, 2000.
+Ion (Jacques) dir., L’engagement au pluriel, Publications de l’Université de Saint-Étienne, Saint-
+Étienne, 2001.
+Jasper (James M.), « Emotions and Social Movements: Twenty Years of Theory and Research »,
+Annual Review of Sociology, n° 37, 2011, pp. 285-303.
+Jasper (James M.), The Art of Moral Protest. Culture, Biography, and Creativity in Social Movements,
+Chicago, University of Chicago Press, 1997.
+Jenkins (Henry), « Cultural Acupuncture: Fan Activism and the Harry Potter Alliance »,
+Transformative Works and Cultures, n° 10, 2012. http://journal.transformativeworks.org/
+index.php/twc/article/view/305/259.
+Jenkins (Henry), « The cultural logic of media convergence », International Journal of Cultural
+Studies, vol. 7, n° 1, 2006, pp. 33-43.
+Juris (Jeffrey), « Reflections on #Occupy Everywhere: Social Media, Public Space, and Emerging
+Logics of Aggregation », American Ethnologist, vol. 39, n° 2, 2012, pp. 259-279.
+Juris (Jeffrey), Networking futures: The movements against corporate globalization, Durham, Duke
+University Press, 2008.
+Khasnabish (Alex), « Insurgent Imaginations », Ephemera, vol. 7, n° 4, 2007, pp. 505-525.
+Khosrokhavar (Farhad), The New Arab Revolutions that Shook the World, Boulder, Paradigm
+Publishers, 2012.
+Klandermans (Bert), « Transient Identities? Membership Patterns in the Dutch Peace Movement
+», in Laraña (Enrique), Johnston (Hank), Gusfield (Joseph R.), eds., New Social Movement. From
+Ideology to Identity, Philadelphie, Temple University Press, 1994, pp. 168-184.
+Klandermans (Bert), « Mobilization and Participation: Social-Psychological Expansions of
+Resource Mobilization Theory », American Sociological Review, vol. 49, n° 5, 1984, pp. 583-600.
+Latté (Stéphane), « Des ‘‘mouvements émotionnels’’ à la mobilisation des émotions », Terrains/
+Théories, n° 2, 2015. http://teth.revues.org/244.
+Lecomte (Romain), « Les usages ‘‘citoyens’’ d’Internet dans le contexte autoritaire tunisien :
+analyse de l’émergence d’un nouvel espace public de la critique », in Najar (Sihem) dir., Le
+cyberactivisme au Maghreb et dans le monde arabe, Tunis/Paris, IRMC/Karthala, 2013.
+Mason (Paul), Why It’s Kicking Off Everywhere: The New Global Revolutions, Londres, Verso, 2012.
+Mathieu (Lilian), Comment lutter ? Sociologie et mouvements sociaux, Paris, Textuel, 2004.
+McAdam (Doug), Freedom Summer, Oxford, Oxford University Press, 1988.
+McAdam (Doug), Political Process and the Development of Black Insurgency (1930-1970), Chicago, The
+University of Chicago Press, 1982.
+Variations, 20 | 2017
+Résistances en ligne : mobilisation, émotion, identité 18
+Melucci (Alberto), Challenging Codes: Collective Action in the Information Age, Cambridge, Cambridge
+University Press, 1996.
+Melucci (Alberto), « The symbolic challenge of contemporary movements », Social research, vol.
+52, n° 4, 1985, pp. 789-816.
+Melucci (Alberto), « Mouvements sociaux, mouvements post-politiques », Revue internationale
+d’action communautaire, n° 10, 1983, pp. 13-30.
+Melucci (Alberto), « The New Social Movements: A Theoretical Approach », Social Science
+Information, n° 19, 1980, pp. 199-226.
+Milan (Stefania), Social movements and their technologies. Wiring social change, New York, Palgrave
+Macmillan, 2013.
+Mitrović (Marjira), Paltoglou (Georgios), Tadić (Bosiljka), « Quantitative analysis of bloggers’
+collective behavior powered by emotions », Journal of Statistical Mechanics: Theory and Experiment,
+n° 2, 2011. http://www.scl.rs/papers/Mitrovic_JSTAT_2011.pdf.
+Negt (Oskar), L’espace public oppositionnel, Paris, Payot, 2007.
+Nunes (Rodriguo), Organisation of the organisationless: collective action after networks, Lüneburg,
+Mute Books/PML Books, 2014.
+Oberschall (Anthony), Social Conflict and Social Movements, Englewood Cliffs, Prentice Hall, 1973.
+Offe (Claus), « New social movements: Challenging the boundaries of institutional politics », Social
+Research, vol. 52, n° 4, 1985, pp. 817–868.
+Papa (Venetia), Dynamics and Synergies around/and between civic and collective identity and the role of
+Facebook within the context of Indignados movement, thèse de doctorat, Cyprus University of
+Technology/Université Paris 8, 2015.
+Papa (Venetia), Milioni (Dimitra), « I don’t wear blinkers alright? An analysis of civic identity in
+the Indignados movement and the role of Facebook », Javnost-The Public, vol. 23, n° 3, 2016, pp.
+290-306.
+PLEYERS (Geoffrey), Capitaine (Brieg) dir., Mouvements sociaux. Quand le sujet devient acteur, Paris,
+Éditions de la Maison des sciences de l’homme, 2016.
+PLEYERS (Geoffrey), Glasius (Marlies), « La résonnance des ‘‘mouvements des places’’ :
+connexions, émotions, valeurs », Socio, n° 2, 2013, pp. 59-79.
+Poster (Mark), Information Please: Culture and Politics in the Age of Digital Machines, Durham, Duke
+University Press, 2006.
+Prentoulis (Marina), Thomassen, (Lasse), « Political theory in the square: Protest, representation
+and subjectification », Contemporary Political Theory, vol. 12, n° 3, 2013, pp. 166–184.
+Riboni (Ulrike L.), « Juste un peu de vidéo ». La vidéo partagée comme langage vernaculaire de la
+contestation : Tunisie 2008-2014, thèse de doctorat, Universisté Paris 8, 2016.
+Ricœur (Paul), « L’identité narrative », Esprit, n° 7-8, 1988, pp. 295-304.
+Segrestin (Denis), « Les communautés pertinentes de l’action collective : canevas pour l’étude des
+fondements sociaux et des conflits du travail en France », Revue française de sociologie, vol. 21, n° 2,
+1980, pp. 171-202.
+Shirky (Clay), Cognitive Surplus: Creativity and Generosity in a Connected Age, Londres, Penguin Press,
+2011.
+Variations, 20 | 2017
+Résistances en ligne : mobilisation, émotion, identité 19
+Shirky (Clay), Here Comes Everybody. The Power of Organizing without Organizations, Londres, Penguin
+Books, 2008.
+Suarez Collado (Angela), « Mouvements sociaux sur la Toile Numérique : les effets des TIC sur le
+militantisme amazigh au Maroc », in Najar (Sihem) dir., Le cyberactivisme au Maghreb et dans le
+monde arabe, Tunis/Paris, IRMC/Karthala, 2013, pp. 41-54.
+Taylor (Verta), Whittier (Nancy E.), « Collective identity in social movement communities:
+Lesbian movement mobilization», in Morris (Aldon), Mueller (Caroll) eds., Frontiers in social
+movements theory , New Haven, Yale University Press, 1992, pp. 104-129.
+Tilly (Charles), From Mobilization to Revolution, Reading, Addison-Wesley, 1978.
+Tilly (Charles), Tarrow (Sidney), Politique(s) du Conflit. De la grève à la révolution, Paris, Presses de
+SciencesPo, 2015.
+Tonkin (Emma), Pfeiffer (Heather D.), Tourte (Gregory), « Twitter, information sharing and the
+London riots », Bulletin of the American Society for Information Society and Technology, vol. 38, n° 2,
+2012, pp. 49-57.
+Traïni (Christophe), « Les émotions de la cause animale. Histoires affectives et travail militant »,
+Politix, n° 93, 2011, pp. 69-92.
+Traïni (Christophe) dir., Émotions... Mobilisation !, Paris, Presses de SciencesPo, 2009, pp. 11-34.
+Traïni (Christophe), Siméant (Johanna), « Introduction. Pourquoi et comment sensibiliser à la
+cause ? », in Traïni (Christophe) dir., Émotions... Mobilisation !, Paris, Presses de SciencesPo, 2009,
+pp. 11-34.
+Turkle (Sherry), « Cyberspace and Identity », Contemporary Sociology, vol. 28, n° 6, 1999, pp.
+643-648.
+NOTES
+1. Cet article reprend quelques développement d’un ouvrage à paraître dans la collection
+« Sciences sociales » aux Presses de Mines (2017) : Granjon (Fabien), avec la collaboration de
+Venetia Papa et Gökçe Tuncel, Mobilisations numériques. Politiques du conflit et technologies
+médiatiques.
+2. Par l’emploi du syntagme « politiques du conflit », Charles Tilly et Sidney Tarrow entendent
+« prendre en considération une gamme de luttes politiques beaucoup plus large que celle
+habituellement prise en compte par la littérature consacrée aux mouvements sociaux » : Tilly
+(Charles), Tarrow (Sidney), Politique(s) du Conflit. De la grève à la révolution, Paris, Presses de
+SciencesPo, 2015, p. 14. Et d’ajouter : « La politique du conflit est faite d’interactions où des
+acteurs élèvent des revendications touchant aux intérêts d’autres acteurs, ce qui conduit à la
+coordination des efforts au nom d’intérêts ou de programmes partagés ; et où l’État se trouve
+impliqué, soit en tant que destinataire de la revendication, soit comme instigateur, soit comme
+tierce partie. La politique du conflit réunit donc trois éléments bien connus de la vie sociale : le
+conflit, l’action collective et la politique. Le conflit implique qu’on pose une exigence portant
+atteinte aux intérêts de quelqu’un d’autre. […] L’action collective, c’est la coordination des efforts
+au nom d’intérêts ou de programmes partagés. […] On entre dans la politique quand on a affaire à
+des représentants de l’État, soit directement, soit en se lançant dans une activité qui touche aux
+droits de l’État, à ses règlements ou à ses intérêts » : ibid., pp. 26-27 et 28.
+3. Negt (Oskar), L’espace public oppositionnel, Paris, Payot, 2007.
+Variations, 20 | 2017
+Résistances en ligne : mobilisation, émotion, identité 20
+4. Granjon (Fabien), L’Internet militant. Mouvement social et usages des réseaux télématiques, Rennes,
+Apogée, 2001.
+5. Bert Klandermans montre qu’un trait essentiel de l’engagement dans l’action tient au fait que
+l’on soit persuadé que d’autres vont également s’engager : Klandermans (Bert), « Mobilization
+and Participation: Social-Psychological Expansions of Resource Mobilization Theory », American
+Sociological Review, vol. 49, n° 5, 1984, pp. 583-600.
+6. Oberschall (Anthony), Social Conflict and Social Movements, Englewood Cliffs, Prentice Hall, 1973.
+7. Segrestin (Denis), « Les communautés pertinentes de l’action collective : canevas pour l’étude
+des fondements sociaux et des conflits du travail en France », Revue française de sociologie, vol. 21,
+n° 2, 1980, pp. 171-202.
+8. Shirky (Clay), Cognitive Surplus: Creativity and Generosity in a Connected Age, Londres, Penguin
+Press, 2011.
+9. Badouard (Romain), « Les mobilisations de clavier. Le lien hypertexte comme ressource des
+actions collectives en ligne », Réseaux, vol. 5, n° 181, 2013, p. 93.
+10. Khasnabish (Alex), « Insurgent Imaginations », Ephemera, vol. 7, n° 4, 2007, pp. 505-525.
+11. Pleyers (Geoffrey), Glasius (Marlies), « La résonnance des ‘‘mouvements des places’’ :
+connexions, émotions, valeurs », Socio, n° 2, 2013, p. 61.
+12. Tilly (Charles), From Mobilization to Revolution, Reading, Addison-Wesley, 1978.
+13. McAdam (Doug), Freedom Summer, Oxford, Oxford University Press, 1988 ; McAdam (Doug),
+Political Process and the Development of Black Insurgency (1930-1970), Chicago, The University of
+Chicago Press, 1982.
+14. Bauman (Zygmunt), The Individualized Society, Cambridge, Polity Press, 2001 ; Poster (Mark),
+Information Please: Culture and Politics in the Age of Digital Machines, Durham, Duke University
+Press, 2006.
+15. Granjon (Fabien), Lelong (Benoît), « Capital social, stratifications et technologies de
+l’information et de la communication. Une revue des travaux français et anglo-saxons », Réseaux,
+vol. 24, n° 139, 2006, pp. 147-182.
+16. Nunes (Rodriguo), Organisation of the organisationless: collective action after networks, Lüneburg,
+Mute Books/PML Books, 2014, p. 24.
+17. Mason (Paul), Why It’s Kicking Off Everywhere: The New Global Revolutions, Londres, Verso, 2012.
+18. Gerbaudo (Paolo), Tweets and the Streets: Social Media and Contemporary Activism,
+London, Pluto Press, 2012, p. 150.
+19. Ibid.
+20. Juris (Jeffrey), « Reflections on #Occupy Everywhere: Social Media, Public Space, and
+Emerging Logics of Aggregation », American Ethnologist, vol. 39, n° 2, 2012, pp. 259-279.
+21. Gerbaudo (Paolo), op. cit., p. 36.
+22. Juris (Jeffrey), Networking futures: The movements against corporate globalization, Durham, Duke
+University Press, 2008.
+23. L’usage de Mumble a par exemple permis que se tiennent des réunions (Transnational
+Mumbles Forum) rassemblant différents protagonistes des mouvements de crise de plusieurs
+pays et continents.
+24. Fuchs (Christian), OccupyMedia! The Occupy Movement and Social Media in Crisis Capitalism,
+Winchester, Zero Books, 2013.
+25. Gerbaudo (Paolo), op. cit., pp. 154-155.
+26. Bruns (Axel), Highfield (Tim), « The Arab Spring on Twitter: Language Communities in #egypt
+an #lybia », in Bebawi (Saba), Bossio (Diana) eds., Social Media and the Politics of reportage. The
+« Arab Spring », New York, Palgrave Macmillan, 2014, p. 33.
+27. Gerbaudo (Paolo), op. cit., p. 40.
+Variations, 20 | 2017
+Résistances en ligne : mobilisation, émotion, identité 21
+28. Bennett (Lance), Segerberg (Alexandra), The Logic of Connective Action. Digital Media and the
+Personalization of Contentious Politics, New York, Cambridge University Press, 2014 ; Bennett
+(Lance), Segerberg (Alexandra), «The logic of connective action: Digital media and the
+personalization of contentious politics », Information, Communication & Society, vol. 15, n° 5, 2012,
+pp. 739-768.
+29. Pour Bennett et Segerberg, les logiques de l’action collective relèvent de logiques
+d’agrégation d’actions politiques personnelles. Nous serions ainsi les témoins d’une évolution
+majeure : la « personnalisation des causes » dont la « collectivisation » serait, pour l’essentiel,
+rendue possible par l’usage des médias numériques. Alors que la politique conventionnelle serait
+largement fragilisée, le développement des « issue politics » visant à mobiliser les individus
+autour de leurs préoccupations personnelles serait en pleine expansion, notamment au travers
+de la constitution de communautés en ligne.
+30. Stefania Milan évoque, pour sa part, l’existence d’un « cloud of protesting », afin de rendre
+compte de la manière dont les SNS permettent que se déploie une forme d’action collective de
+plus en plus « désincarnée, distribuée et individualisée » : Milan (Stefania), Social movements and
+their technologies. Wiring social change, New York, Palgrave Macmillan, 2013.
+31. Cristancho (Camilo), Anduiza (Eva), « Connective Action in European Mass Protest »,
+communication aux ECPR Joint Sessions of Workshops Mainz, 11-16 March 2013, http://
+www.lapietradialogues.org/area/pubblicazioni/doc000075.pdf.
+32. Jenkins (Henry), « Cultural Acupuncture: Fan Activism and the Harry Potter Alliance »,
+Transformative Works and Cultures, n° 10, 2012, http://journal.transformativeworks.org/
+index.php/twc/article/view/305/259.
+33. Castells (Manuel), Networks of Outrage and Hope. Social movements in the Internet Age, Cambridge/
+Malden, Polity Press, 2012.
+34. Mathieu (Lilian), Comment lutter ? Sociologie et mouvements sociaux, Paris, Textuel, 2004.
+35. Castells (Manuel), op. cit., pp. 144-145.
+36. Ibid., p. 234.
+37. Shirky (Clay), Here Comes Everybody. The Power of Organizing without Organizations, Londres,
+Penguin Books, 2008.
+38. Castells (Manuel), op. cit., p. 139.
+39. Benski (Tova), Langman (Lauren), « The effects of affects: the place of emotions in the
+mobilizations of 2011 », Current Sociology, vol. 61, n° 4, 2013, pp. 525-540.
+40. Goodwin (Jeff), Jasper (James M.), Polletta (Francesca) eds., Passionate Politics. Emotions and
+Social Movement, Chicago, University of Chicago Press, 2001.
+41. Jasper (James M.), « Emotions and Social Movements: Twenty Years of Theory and Research »,
+Annual Review of Sociology, n° 37, 2011, pp. 285-303.
+42. Stéphane Latté, montre également l’importance des expressions publiques d’émotions au sein
+du répertoire d’action victimaire : Latté (Stéphane), « Des ‘‘mouvements émotionnels’’ à la
+mobilisation des émotions », Terrains/Théories, n° 2, 2015, http://teth.revues.org/244. Cf. Traïni
+(Christophe), « Les émotions de la cause animale. Histoires affectives et travail militant », Politix,
+n° 93, 2011, pp. 69-92 ; Traïni (Christophe) dir., Émotions... Mobilisation !, Paris, Presses de
+SciencesPo, 2009, pp. 11-34 ; Traïni (Christophe), Siméant (Johanna), « Introduction. Pourquoi et
+comment sensibiliser à la cause ? », in Traïni (Christophe) dir., Émotions... Mobilisation !, Paris,
+Presses de SciencesPo, 2009, pp. 11-34.
+43. Jasper (James M.), The Art of Moral Protest. Culture, Biography, and Creativity in Social Movements,
+Chicago, University of Chicago Press, 1997.
+44. Gerbaudo (Paolo), op. cit., p. 12.
+45. Tonkin (Emma), Pfeiffer (Heather D.), Tourte (Gregory), « Twitter, information sharing and
+the London riots », Bulletin of the American Society for Information Society and Technology, vol. 38, n°
+2, 2012, pp. 49-57.
+Variations, 20 | 2017
+Résistances en ligne : mobilisation, émotion, identité 22
+46. Gerbaudo (Paolo), op. cit., p. 87.
+47. Ibid., p. 159 sq.
+48. Mitrović(Marjira), Paltoglou (Georgios), Tadić (Bosiljka), « Quantitative analysis of bloggers’
+collective behavior powered by emotions », Journal of Statistical Mechanics: Theory and Experiment,
+n° 2, 2011, http://www.scl.rs/papers/Mitrovic_JSTAT_2011.pdf.
+49. Badouard (Romain), « ‘‘Je ne suis pas Charlie’’ : pluralité des prises de paroles sur le web et les
+réseaux sociaux », in Lefebure (Pierre), Secail (Claire), Le défi Charlie, Les médias à l’épreuve des
+attentants, Paris, Le Mieux-Éditeur, 2015, pp. 196.
+50. Nunes (Rodriguo), Organisation of the organisationless: collective action after networks,
+Lüneburg, Mute Books/PML Books, 2014 ; Alhassen (Maytha), Shihab-Eldin (Ahmed) eds.,
+Demanding Dignity: Young Voices from the Arab Spring, Ashland, White Cloud, 2012.
+51. Gerbaudo (Paolo), op. cit., p. 14.
+52. Ghonim (Wael), Révolution 2.0. Le pouvoir des gens plus fort que les gens au pouvoir, Paris,
+Steinkis, 2012, p. 88.
+53. Riboni (Ulrike L.), « Juste un peu de vidéo ». La vidéo partagée comme langage vernaculaire
+de la contestation : Tunisie 2008-2014, thèse de doctorat, Universisté Paris 8, 2016, p. 152.
+54. Boëx (Cécile), « La vidéo comme outil de l’action collective et de la lutte armée », in Burgat
+(Françoise), Paoli (Bruno), Pas de printemps pour la Syrie. Les clés pour comprendre les acteurs et les
+défis de la crise [2011-2013], Paris, La Découverte, 2013, p.175.
+55. Contestant et déplaçant les règles du jeu politique en y introduisant des nouvelles
+revendications sociales et culturelles, Alberto Melucci estime que les NMS sont le fait d’individus
+guidés par la volonté « de revendiquer collectivement le droit de réaliser leur propre identité ; le
+droit de disposer de leur créativité personnelle, de leur vie affective et de leur existence
+biologique et interpersonnelle » : Melucci (Alberto), « The New Social Movements: A Theoretical
+Approach », Social Science Information, n° 19, 1980, p. 218.
+56. Toutefois, les principales différences entre les « nouveaux » mouvements sociaux et les
+formes plus classiques d’action collective ne résident pas seulement dans leur base sociale, leurs
+objectifs et leurs exigences, mais aussi dans leur capacité à créer un nouvel espace politique
+bousculant la distinction traditionnelle établie entre État et société civile, un espace public
+intermédiaire dont la fonction est de rendre visibles des problèmes publics qui peuvent faire
+l’objet d’une traduction politique, notamment en termes de droits. Aussi, l’usage du syntagme
+« identity politics » permet de désigner les logiques d’engagement qui valorisent « l’expérience
+propre du sujet » au sein des luttes qu’il mène et la construction identitaire d’apparaître alors
+comme un ressort essentiel de l’action collective : Offe (Claus), « New social movements:
+Challenging the boundaries of institutional politics », Social Research, vol. 52, n° 4, 1985, pp. 817–
+868 ; Melucci (Alberto), « The symbolic challenge of contemporary movements », Social research,
+vol. 52, n° 4, 1985, pp. 789-816.
+57. Papa (Venetia), Milioni (Dimitra), « I don’t wear blinkers alright? An analysis of civic identity
+in the Indignados movement and the role of Facebook », Javnost-The Public, vol. 23, n° 3, 2016, pp.
+290-306.
+58. McAdam (Doug), Freedom Summer, op. cit.
+59. Melucci(Alberto), « Mouvements sociaux, mouvements post-politiques », Revue internationale
+d’action communautaire, n° 10, 1983, pp. 13-30.
+60. Gaxie (Daniel), « Économie des partis et rétributions du militantisme », Revue française de
+science politique, vol. 27, n° 1, 1977, pp. 123-154.
+61. Suarez Collado (Angela), « Mouvements sociaux sur la Toile Numérique : les effets des TIC sur
+le militantisme amazigh au Maroc », in Najar (Sihem) dir., Le cyberactivisme au Maghreb et dans
+le monde arabe, Tunis/Paris, IRMC/Karthala, 2013, pp. 41-54.
+Variations, 20 | 2017
+Résistances en ligne : mobilisation, émotion, identité 23
+62. Taylor (Verta), Whittier (Nancy E.), « Collective identity in social movement communities:
+Lesbian movement mobilization», in Morris (Aldon), Mueller (Caroll) eds., Frontiers in social
+movements theory , New Haven, Yale University Press, 1992, pp. 104-129.
+63. Granjon (Fabien), « Attac-info : entre communauté d’action et espace de représentation.
+Ethnographie d’un média ‘‘alter’’ lors du Forum social mondial 2003 », Matériaux pour l’histoire
+de notre temps, n° 79, 2005, pp. 70-76.
+64. Melucci, art. cit., p. 15.
+65. Ibid.
+66. Telle que définie par Axel Honneth, la logique du rapport de reconnaissance relève d’une
+confirmation des dimensions « identitaires » des sujets concourant à leur réalisation individuelle.
+Sans rentrer dans le détail du dispositif conceptuel du philosophe allemand, précisons que, pour
+lui, l’une des dimensions essentielles de la reconnaissance repose sur le principe d’un sujet qui se
+conçoit réflexivement comme appartenant à une société organisée. Ce faisant, la reconnaissance
+est liée à une forme de relation pratique à soi-même assurant la valeur sociale de son identité et
+ouvrant à l’estime sociale de soi, c’est-à-dire à « l’attitude positive qu’un individu est capable
+d’adopter à l’égard de lui-même lorsqu’il est reconnu par les membres de sa communauté comme
+une personne d’un certain genre » : Honneth (Axel), La lutte pour la reconnaissance, Paris, Cerf,
+2000, p. 97. Pour Honneth, cette voie dans la reconnaissance habilite l’individu à se rapporter
+positivement à ses qualités personnelles et singulières en tant qu’il s’appuie sur des fins éthiques
+qui imprègnent la société à laquelle il participe.
+67. Turkle (Sherry), « Cyberspace and Identity », Contemporary Sociology, vol. 28, n° 6, 1999, pp.
+643-648.
+68. Castells (Manuel), op. cit., pp. 144-145.
+69. Denouël (Julie), Granjon (Fabien), Aubert (Aurélie), Médias numériques et participation. Entre
+engagement citoyen et production de soi, Paris, Mare & Martin, 2014.
+70. Ricœur (Paul), « L’identité narrative », Esprit, n° 7-8, 1988, pp. 295-304.
+71. Pleyers (Geoffrey), Capitaine (Brieg) dir., Mouvements sociaux. Quand le sujet devient acteur,
+Paris, Éditions de la Maison des sciences de l’homme, 2016 , p. 8.
+72. Lecomte (Romain), « Les usages ‘‘citoyens’’ d’Internet dans le contexte autoritaire tunisien :
+analyse de l’émergence d’un nouvel espace public de la critique », in Najar (Sihem) dir., Le
+cyberactivisme au Maghreb et dans le monde arabe, Tunis/Paris, IRMC/Karthala, 2013, p. 69.
+73. Ibid.
+74. Chadwick (Peter), Continuum mechanics: concise theory and problems, Londres, Courier
+Corporation, 2012.
+75. Dahlgren (Peter), « Reconfigurer la culture civique dans un milieu médiatique en évolution »,
+Questions de communication, n° 3, 2003, pp. 151-168.
+76. Lecomte (Romain), art. cit., p. 71.
+77. Khosrokhavar (Farhad), The New Arab Revolutions that Shook the World, Boulder, Paradigm
+Publishers, 2012.
+78. Dahlgren (Peter), The political web: Media, participation and alternative democracy, Londres,
+Palgrave Macmillan, 2013 ; Dahlgren (Peter), « The Internet, public spheres, and political
+communication: dispersion and deliberation », Political Communication, n° 22, 2005, pp. 147-162.
+79. Prentoulis (Marina), Thomassen, (Lasse), « Political theory in the square: Protest,
+representation and subjectification », Contemporary Political Theory, vol. 12, n° 3, 2013, pp. 166–
+184.
+80. Ion (Jacques) dir., L’engagement au pluriel, Saint-Étienne, Publications de l’Université de
+Saint-Étienne, 2001, p. 29.
+81. Klandermans (Bert), « Transient Identities? Membership Patterns in the Dutch Peace
+Movement », in Laraña (Enrique), Johnston (Hank), Gusfield (Joseph R.), eds., New Social
+Movement. From Ideology to Identity, Philadelphie, Temple University Press, 1994, pp. 168-184.
+Variations, 20 | 2017
+Résistances en ligne : mobilisation, émotion, identité 24
+82. L’appui de certains médias peut néanmoins, parfois conférer une notoriété élargie aux
+actions et à l’identité collective des mouvements et permettre de consolider les représentations
+et les cadrages élaborés au cœur des dispositifs en ligne.
+83. Fenton (Natalie), Barassi (Veronica), « Alternative media and social networking sites: The
+politics of individuation and political participation », The Communication Review, vol. 14, n° 3,
+2011, pp. 179-196.
+84. Il faut ici signaler que, si la multiplication des flux d’information est un marqueur de
+l’époque, la possibilité d’initier des interactions inédites via l’usage des TNIC ne relève toutefois
+en rien d’un automatisme tant cet usage reste soumis aux diverses formes de capitaux qui en
+dessinent nécessairement les contours (Urry, 2007), y compris dans l’espace des mouvements
+sociaux.
+85. Halleck (DeeDee), Hand-held Visions. The Impossible Possibilities of Community Media, New
+York, Fordham University Press, 2002.
+86. Bimber (Bruce), Flanagin (Andrew J.), Stohl (Cynthia), « Reconceptualizing Collective Action
+in the Contemporary Media Environment », Communication Theory, vol. 15, n° 4, 2005, pp
+365-388.
+87. Dans les années 1990, la sociologie des usages des TIC va s’appuyer sur le concept de (double)
+médiation, préconisant ainsi l’analyse concrète d’une articulation sociotechnique. Cette idée de
+la double médiation de la technique et du social va constituer un principe pour de nombreuses
+recherches, permettant de « sortir d’une instrumentalisation de la technique qui évacue les
+enjeux sociaux dont celle-ci est investie, [mais aussi] de réfuter le schéma réducteur du
+déterminisme social qui fait l’impasse sur la technique et voit, a contrario, le social comme un
+ensemble d’acteurs autonomes qui donneraient forme à une technique à la plasticité infinie » :
+Chambat (Pierre), Jouët (Josiane), « Machines à communiquer : acquis et interrogation », in
+dixième Congrès National des SIC, Grenoble-Echirolles, SFSIC, 1996, p. 211.
+INDEX
+Mots-clés : critique sociale, internet, mobilisation de l’action, mouvements sociaux, TNIC
+AUTEUR
+FABIEN GRANJON
+Fabien Granjon est sociologue, professeur en sciences de l’information et de la communication et
+directeur du Centre d’Études sur les Médias, les Technologies et l’Internationalisation (CEMTI) de
+l’Université Paris 8 Vincennes à Saint-Denis.
+Variations, 20 | 2017

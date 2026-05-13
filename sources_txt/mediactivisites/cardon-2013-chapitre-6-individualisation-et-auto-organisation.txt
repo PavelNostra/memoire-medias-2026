@@ -1,0 +1,2096 @@
+Chapitre 6. Individualisation et auto-organisation
+Dominique Cardon, Fabien Granjon
+Dans Médiactivistes 2013 , pages 135 à 177
+Éditions Presses de Sciences Po
+ISSN 1962-6274
+ISBN 9782724614312
+Date de mise en ligne : 01/02/2014
+Article disponible en ligne à l’adresse
+https://shs.cairn.info/mediactivistes--9782724614312-page-135?lang=fr
+Découvrir le sommaire de ce numéro, suivre la revue par email, s’abonner...
+Scannez ce QR Code pour accéder à la page de ce numéro sur Cairn.info.
+Distribution électronique Cairn.info pour Presses de Sciences Po.
+Vous avez l’autorisation de reproduire cet article dans les limites des conditions d’utilisation de Cairn.info ou, le cas échéant, des conditions générales de la licence souscrite par votre
+établissement. Détails et conditions sur cairn.info/copyright.
+Sauf dispositions légales contraires, les usages numériques à des fins pédagogiques des présentes ressources sont soumises à l’autorisation de l’Éditeur ou, le cas échéant, de
+l’organisme de gestion collective habilité à cet effet. Il en est ainsi notamment en France avec le CFC qui est l’organisme agréé en la matière.
+pitre 6
+cha
+individualisation
+et auto-organisation
+Ces dernières années, internet accueille, et sans doute
+est-ce là l’un des aspects les plus remarquables, de nou-
+velles formes de mobilisation informationnelle qui se
+caractérisent par leur spontanéité, ainsi que par leur nature
+auto-organisée, décentralisée et fortement réactive. elles
+se déploient notamment lors de mouvements populaires,
+de conflits sociaux ou d’événements dramatiques et sont
+documentés par les acteurs, les victimes ou les témoins
+(tsunami en asie du Sud-est, guerre en Irak, attentats de
+Londres, ouragan Katrina en Floride, etc.). Les technolo-
+gies de communication individuelle comme internet et le
+téléphone portable confèrent à de nouveaux publics la
+possibilité de devenir des capteurs et des relais d’informa-
+tion, et leur permettent aussi de s’engager plus avant dans
+l’action collective.
+C’est ce constat qui a poussé Manuel Castells à propo-
+ser la notion de « communication de masse individuelle »
+(mass self-communication1). Le sociologue catalan insiste
+sur la généralisation de la participation des individus,
+qu’il décrit comme un processus hybride d’empowerment,
+de réflexivité, d’autodidaxie, d’expérimentation et de
+réappropriation de la parole. La communication de masse
+1. Manuel Castells, Communication Power, Cambridge (Mass.),
+Oxford University Press, 2009.
+Mediactivistes.indb 135 24/10/13 16:33
+)82.921.452.491
+:PI(
+elliL
+ed
+étisrevinU
+aiv
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| oP
+secneicS
+ed
+sesserP
+136 médiactiviSteS
+individuelle serait, à cette aune, une nouvelle forme
+historique de communication, à la fois globale, person-
+nelle et interactive. Il est ainsi postulé que « plus un
+individu développe un projet d’autonomie personnel, plus
+il va utiliser internet, et plus il mobilise l’informatique
+connectée, plus il va s’émanciper des règles sociétales
+et institutionnelles2 ». Les perspectives que développe
+Castells sont à l’évidence empruntes d’un déterminisme
+de la performance technologique et ont tendance, bien
+que celui-ci s’en défende, à rabattre la communication, la
+production d’information et leurs usages sociaux sur les
+mythologies de la société de l’information et du Web par-
+ticipatif. Mais elles rendent bien compte de la tendance
+à l’individualisation des mobilisations informationnelles.
+Du mouvement altermondialiste à celui des Indignés,
+des nouvelles expériences militantes de « sub- » ou de
+« micro- » politique aux pratiques de consommation
+critique, des révoltes arabes aux attaques groupées de
+sites Web par les anonymous, la plupart des initiatives
+collectives récentes parmi les plus visibles dans l’espace
+numérique ont toutes pour racine des formes d’auto-
+organisation beaucoup plus lâches, souples et indétermi-
+nées que les structures traditionnelles des mouvements
+sociaux. Horizontales, sans centre organisateur ni vecteur
+programmatique, attentives au respect de la diversité de
+leurs composantes, obsédées par les procédures permet-
+tant de respecter l’égalité de chacun, ces mobilisations
+s’attachent à faire groupe à partir de singularités indi-
+viduelles. elles prennent une place prépondérante parmi
+2. Manuel Castells, « Communication, Power and Counter-
+power in the Network Society », International Journal of
+Communication, 1, 2007, p. 249.
+Mediactivistes.indb 136 24/10/13 16:33
+)82.921.452.491
+:PI(
+elliL
+ed
+étisrevinU
+aiv
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| oP
+secneicS
+ed
+sesserP
+individuaLiSation et auto-organiSation 137
+les formes de participation sur internet, notamment parce
+qu’elles permettent d’associer étroitement les processus
+d’exposition et de mise en récit de soi qui caractérisent
+les usages expressifs des réseaux sociaux numériques
+avec le développement d’un rapport plus individualisé à
+l’information et à l’engagement politique. Trois nouveaux
+traits du médiactivisme contemporain nous semblent ainsi
+devoir être plus particulièrement soulignés : d’une part, le
+développement de mobilisations informationnelles par le
+bas, dont le printemps arabe est une spectaculaire illus-
+tration ; d’autre part, la revendication de transparence
+sur l’information et l’émergence conjointe de nouvelles
+formes d’action collective numérique distribuées dont
+les anonymous sont l’incarnation emblématique ; enfin,
+la volonté de faire entrer les enjeux relatifs à la liberté
+numérique sur la scène politique, notamment à travers la
+création de partis pirates.
+des mobilisations informationnelles
+par le bas ?
+Certaines mobilisations informationnelles qui se
+déploient dans l’univers du Web prennent des formes iné-
+dites. en effet, internet produit des collectifs sensiblement
+différents de ceux qui émergent dans le monde offline.
+Cela ne signifie pas qu’il n’accueille pas aussi, en les
+reproduisant sur la toile, des mobilisations collectives de
+formes beaucoup plus traditionnelles. Mais en parvenant à
+produire des solidarités dans un contexte d’individualisa-
+tion expressive, internet peut éventuellement revendiquer
+une forme politique propre3. Sa marque de fabrique la
+3. Dominique Cardon, La Démocratie internet, Paris, Seuil, 2010.
+Mediactivistes.indb 137 24/10/13 16:33
+)82.921.452.491
+:PI(
+elliL
+ed
+étisrevinU
+aiv
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| oP
+secneicS
+ed
+sesserP
+138 médiactiviSteS
+plus novatrice tient à l’inversion presque systématique
+des étapes du processus de formation des groupes. Les
+opérations de filtrage, de sélection, d’agrégation, de coor-
+dination et de légitimation au sein de l’espace public ne
+s’exercent pas a priori mais a posteriori : les informations
+sont d’abord publiées, puis filtrées et hiérarchisées par
+les autres internautes4. aussi, les communautés en ligne
+sont-elles plus électives. elles ne résultent pas du modèle
+traditionnel de la communauté de destin, d’identité ou
+d’appartenance qui suppose l’existence, chez les individus,
+d’une valeur ou d’un attribut incorporé à leur personne
+antérieurement à leur engagement.
+en effet, la plupart des grands collectifs d’internet sont
+la conséquence émergente d’interactions plus opportu-
+nistes dont la prémisse est l’exposition par les individus
+de leur identité, de leurs opinions, de leurs activités ou de
+leurs productions amateurs. Les individus commencent
+par rendre publics leurs intérêts expressifs. D’autres se sai-
+sissent de ces prises offertes pour débuter une interaction
+avec eux. ainsi peuvent s’engager, sur ce principe, des
+coopérations faibles5. C’est le tissu d’engagements dans
+lequel les personnes se laissent « prendre » qui contri-
+bue à leur révéler les intérêts qu’elles ne savaient ou ne
+pouvaient formuler initialement. La mise en visibilité de
+leur individualité suscite des interdépendances qui les
+re définissent. en de rares occasions, ces coopérations
+4. Clay Shirky, Here Comes everybody. The Power of Organizing
+without Organizations, New York (N.Y.), The Penguin Press,
+2008, chapitre 4.
+5. Christophe Aguiton et Dominique Cardon, « The Strength of
+Weak Cooperation: An Attempt to Understand the Meaning of
+Web 2.0 », Communications & Strategies, 65, 1er trimester 2007,
+p. 51-65.
+Mediactivistes.indb 138 24/10/13 16:33
+)82.921.452.491
+:PI(
+elliL
+ed
+étisrevinU
+aiv
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| oP
+secneicS
+ed
+sesserP
+individuaLiSation et auto-organiSation 139
+faibles (au terme d’un long travail de consolidation et
+de renforcement des liens entre les participants) feront
+apparaître des normes et des valeurs que certains acteurs
+endosseront comme attributs identitaires en s’engageant
+explicitement dans la prise en charge de tâches collectives.
+alors elles pourront devenir fortes et se doter de ressources
+et d’instruments d’action, à la manière des collectifs du
+monde réel. C’est sur ce principe que les formes sociales
+les plus novatrices d’internet, le logiciel libre, Wikipédia
+ou les creative commons se sont développées pour fabri-
+quer du commun à partir d’engagements hétérogènes.
+Dans l’univers offline, les collectifs tiennent parce que
+les personnes qu’ils réunissent partagent préalablement
+un système de valeurs et d’intérêts suffisamment proches
+pour être incités à se coordonner. Dans le monde online,
+ces valeurs partagées sont une production émergente des
+interactions entre les participants qui incorporent pro-
+gressivement des identités et des croyances collectives6.
+Surtout, en raison de la diversité et de l’hétérogénéité
+des participants, les collectifs d’internet se définissent
+moins par des valeurs partagées que par des engagements
+circonstanciés. Même si, à l’évidence, les mobilisations sur
+internet s’appuient sur des engagements et des formes de
+socialisation politique précédentes, les capacités offertes
+par le réseau permettent une plus grande diversité et une
+plus large distribution des causes et des publics mobilisés.
+De nombreux exemples de mobilisations récentes se
+sont déroulés selon un tel processus, comme les mani-
+festations de 2001 aux Philippines contre le président
+6. Gabriella Coleman, Coding Freedom. The esthics and
+aesthetics of Hacking, Princeton (N.J.), Princeton University
+Press, 2013.
+Mediactivistes.indb 139 24/10/13 16:33
+)82.921.452.491
+:PI(
+elliL
+ed
+étisrevinU
+aiv
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| oP
+secneicS
+ed
+sesserP
+140 médiactiviSteS
+Joseph estrada, renforcées par l’usage du SMS, les mou-
+vements d’opposition au régime iranien en 2009, qui
+ont pu communiquer vers l’extérieur grâce à Twitter, la
+manifestation contre la guerre en Irak du 15 février 2003,
+laquelle a réuni près de dix millions de personnes dans
+six cents villes du monde, ou encore la marche virtuelle
+sur Washington organisée le 26 février 2003 par le site
+MoveOn. en France, la mobilisation pour le non lors du
+référendum européen pour la Constitution européenne en
+2005 a procédé de la même dynamique. alors que les prin-
+cipaux médias audiovisuels et la presse écrite montraient
+une franche inclination en faveur du oui, les réseaux inter-
+net ont été le support d’une diffusion large et massive
+de contre-informations de la part des opposants au Traité
+constitutionnel européen (TCe). Les mobilisations associa-
+tives, syndicales et partidaires, qui n’étaient que fort peu
+représentées dans l’espace médiatique traditionnel, mais
+très présentes sur le terrain, ont ainsi trouvé un moyen
+efficace de toucher de nouveaux publics via internet. La
+page personnelle d’Étienne Chouard, enseignant en éco-
+nomie-gestion à Marseille, est par exemple devenue une
+ressource emblématique de cette mobilisation en ligne des
+opposants au TCe7. Véritable « Don Quichotte du non », il
+n’était pourtant pas un militant actif et ne disposait pas
+d’une visibilité médiatique particulière. Pour autant, son
+contre-argumentaire, relayé par rezo.net et les listes de
+diffusion d’attac circula activement sur le Web, suscita de
+nombreuses discussions et fut débattu par de nombreuses
+personnalités. De façon inter active, Étienne Chouard
+7. Guilhem Fouetillou, « Le Web et le Traité constitutionnel euro-
+péen. Écologie d’une localité thématique compétitive », réseaux,
+26 (147), 2008, p. 229-257.
+Mediactivistes.indb 140 24/10/13 16:33
+)82.921.452.491
+:PI(
+elliL
+ed
+étisrevinU
+aiv
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| oP
+secneicS
+ed
+sesserP
+individuaLiSation et auto-organiSation 141
+amenda son texte en fonction des critiques qui lui étaient
+faites, processus qui contribua à amplifier la notoriété de
+ses propositions, leur circulation sur la toile et la mobilisa-
+tion d’un réseau extrêmement hétérogène d’organisations
+appelant à voter non. Si on ne saurait imputer à internet
+le vote négatif des Français lors du référendum sur le TCe,
+ce genre de processus, partant de points multiples, divers
+et indéterminés de la toile, constitue, à l’évidence, une
+dynamique nouvelle dans le champ des pratiques infor-
+mationnelles. Comme le souligne Manuel Castells : « C’est
+justement parce qu’ils sont multimodaux, divers et omni-
+présents que les réseaux de c ommunication sont capables
+d’inclure et de donner forme à une diversité culturelle et [à]
+une multiplicité de messages à une échelle beaucoup plus
+large qu’aucune autre forme de l’espace public dans l’his-
+toire […]. Dans un monde marqué par la communication de
+masse individuelle, les mouvements sociaux et la politique
+de la rébellion (i nsurgent politics) ont la chance d’entrer
+dans l’espace public à partir de sources diverses. en utili-
+sant à la fois les réseaux de communication horizontaux
+et les médias traditionnels, ils augmentent leur chance de
+jouer un rôle dans le changement politique – même s’ils
+partent dans une position de subordination dans l’ordre du
+pouvoir institutionnel, des ressources financières ou de la
+légitimité symbolique8. »
+Le mensonge de José Maria Aznar
+Le 11 mars 2004, un groupe islamiste radical marocain
+fait sauter une bombe dans la gare d’atocha à Madrid,
+impliquant la mort de 199 personnes. revendiqué dans la
+8. Manuel Castells, Communication Power, op. cit., p. 302.
+Mediactivistes.indb 141 24/10/13 16:33
+)82.921.452.491
+:PI(
+elliL
+ed
+étisrevinU
+aiv
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| oP
+secneicS
+ed
+sesserP
+142 médiactiviSteS
+soirée par al-Qaeda, l’attentat a lieu trois jours avant les élec-
+tions nationales en espagne. Quatre heures après l’attaque,
+le premier ministre José Maria aznar appelle les principaux
+directeurs des journaux espagnols pour leur dire que, compte
+tenu des informations en sa possession, il ne fait pas de
+doute que l’attentat a été perpétué par l’eTa. Le 12 mars,
+les télévisions et principaux organes de presse désignent
+l’organisation séparatiste basque comme responsable de
+l’attentat. Pourtant, au même moment, la police espagnole
+trouve une bande sonore avec des versets islamiques dans la
+camionnette depuis laquelle la bombe a été déclenchée par
+un téléphone mobile.
+Le porte-parole du gouvernement continuera cependant
+de soutenir la thèse d’un attentat de l’eTa, pensant qu’elle
+est susceptible de donner un avantage supplémentaire au
+Parti populaire lors du scrutin. Si certains journaux comme
+La Vanguardia et El Pais commencent à remettre en cause
+la version gouvernementale, la mobilisation va venir de
+citoyens espagnols qui, par le biais de SMS, vont faire passer
+des chaînes de messages demandant à leurs amis de ne pas
+croire à l’information diffusée par les médias et le gouver-
+nement, d’avertir leurs amis et de se mobiliser contre la
+tentative de désinformation menée par le gouvernement de
+aznar. usant du SMS pour contourner l’information offi-
+cielle, cette mobilisation initiera une série de rassemble-
+ments, puis de manifestations, afin de réclamer la vérité.
+Coordonnées dans l’urgence à partir de téléphones portables
+et de messages radiophoniques, les manifestations contre la
+manipulation de l’information joueront un rôle décisif dans
+le renversement de l’opinion et la défaite du Parti populaire
+lors du scrutin9.
+9. Pour le récit détaillé de cette mobilisation, voir Manuel
+Castells, ibid., p. 349 et suiv.
+Mediactivistes.indb 142 24/10/13 16:33
+)82.921.452.491
+:PI(
+elliL
+ed
+étisrevinU
+aiv
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| oP secneicS
+ed
+sesserP
+individuaLiSation et auto-organiSation 143
+Dans les pays de contrôle étatique de l’information,
+les médias numériques offrent, aujourd’hui, une des prin-
+cipales ressources pour constituer des collectifs et faire
+naître des mobilisations. Ces mobilisations par le bas ne
+sont jamais si apparentes que dans les nombreux pays où
+la liberté de la presse n’est pas simplement menacée par
+les effets de la professionnalisation, de la concentration
+économique ou du sensationnalisme, mais aussi par la
+censure et le contrôle de pouvoirs autoritaires. Les mobi-
+lisations informationnelles y constituent souvent une des
+principales voies d’expression de la dissidence et de la
+contestation. en Chine, en Birmanie, en Iran et dans les
+pays du Maghreb qui se sont soulevés lors du « printemps
+arabe », ce sont les blogueurs, les réseaux sociaux et les
+collectifs dissidents de production de contre-information
+qui parviennent à faire émerger des voix différentes. Les
+formes de la contestation se trouvent étroitement arti-
+culées aux outils de communication permettant, parfois
+à des individus isolés, d’exprimer et de faire circuler des
+informations sur les mouvements sociaux en échappant
+aux contrôles et aux censures. Même si les marges de
+liberté et de contournement offertes par internet et les
+technologies de l’information et de la communication
+peuvent aussi faire l’objet de surveillance et de manipu-
+lation de la part des autorités politiques10, elles ouvrent
+néanmoins des interstices à la critique et aux mobilisa-
+tions. en mars 2003, par exemple, Sun Zhigang, un jeune
+styliste originaire de la province de Hubei, est battu à mort
+par la police chinoise après avoir été arrêté parce qu’il ne
+10. Evgeny Morozov, The Net Delusion. How not to liberate the
+World, Londres, Penguin Books, 2011.
+Mediactivistes.indb 143 24/10/13 16:33
+)82.921.452.491
+:PI(
+elliL
+ed
+étisrevinU
+aiv
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| oP
+secneicS
+ed
+sesserP
+144 médiactiviSteS
+possédait pas de carte de résident à Canton. Cette affaire
+va connaître un développement considérable en Chine
+en mobilisant une forme de contestation publique sou-
+terraine à tr avers la diffusion de messages d’indignation
+sur internet11. L’écho donné à l’information, le lancement
+d’une pétition en ligne, la multiplication des échanges
+mobilisant de nombreux secteurs de la société chinoise
+pour constituer cette affaire en interpellation publique
+vont conduire les autorités chinoises à réviser le régime
+des conditions de détention par la police.
+Printemps arabe et médias participatifs
+Des ressorts semblables ont été activés lors des révo-
+lutions sociale et politique, égyptienne et tunisienne, de
+2010-2011, qui ont forcé les présidents Moubarak et Ben
+ali à quitter le pouvoir. Dans des pays frappés par un
+fort chômage, notamment dans les rangs de la jeunesse,
+par des inégalités sociales importantes et par la censure,
+Facebook et Twitter sont devenus des plates-formes
+d’échange parmi les plus populaires. Les activités en ligne
+dénonçant les abus des régimes dictatoriaux s’y sont mul-
+tipliées pour apparaître comme l’expression d’« un contre-
+projet face au monde hiérarchique du pouvoir, de ses
+cérémonies officielles et de sa discipline quotidienne12 ».
+Facebook a notamment permis que circulent des infor-
+mations particulièrement critiques à l’égard des pouvoirs
+11. Isabelle Thireau et Hua Linshan, « De l’épreuve publique à la
+reconnaissance d’un public. Le scandale Sun Zhigang », Politix,
+18 (71), 2005, p. 137-164.
+12. Jürgen Habermas, L’espace public. archéologie de la publi-
+cité comme dimension constitutive de la société bourgeoise,
+Paris, Payot, 1993, p. 7.
+Mediactivistes.indb 144 24/10/13 16:33
+)82.921.452.491
+:PI(
+elliL
+ed
+étisrevinU
+aiv
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| oP
+secneicS
+ed
+sesserP
+individuaLiSation et auto-organiSation 145
+centraux, que se déterritorialisent des événements locaux
+(notamment ceux à forte charge symbolique : immola-
+tions, répressions policières, arrestations, etc.) et que se
+cristallisent des subjectivités historiques cherchant à agir.
+Il aurait donc participé, en tant que structure d’informa-
+tion et de communication, à la construction de l’indigna-
+tion et à la convergence du sens en ligne (« formation
+du consensus »), mais aussi à la constitution d’un poten-
+tiel positif de mobilisation et d’activation de la révolte
+(« mobilisation pour l’action »13). S’il est indéniable que
+les sites de réseaux sociaux ont joué un rôle non négli-
+geable dans les révolutions du « printemps arabe », il
+serait toutefois abusif de considérer l’action collective
+comme la conséquence directe de ces répertoires d’actions
+numériques. Sous l’angle singulier de la production par-
+ticipative d’information et du rapport qu’elle entretient
+avec les mouvements sociaux, le caractère novateur que
+révèlent ces mobilisations tient surtout à l’ampleur du
+phénomène, puisque ces mobilisations informationnelles
+sur internet ont participé, non pas d’une action collective
+ponctuelle et/ou sectorielle, mais bien d’un mouvement
+de masse touchant tous les secteurs de la société.
+Face à un certain prophétisme et à une conception idéo-
+logique des médias participatifs, il faut rappeler combien
+il est nécessaire de ne pas s’en tenir à une forme de déter-
+minisme technique. une perspective nuancée sur le rôle
+des technologies numériques dans les révolutions arabes
+doit être déployée, interrogeant la profondeur sociale et
+historique de ces mouvements, ainsi que la sociologie
+13. Bert Klandermans, « The Formation and Mobilization of
+Consensus », International Social Movement research, 1, 1988,
+p. 73-95.
+Mediactivistes.indb 145 24/10/13 16:33
+)82.921.452.491
+:PI(
+elliL
+ed
+étisrevinU
+aiv
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| oP
+secneicS
+ed
+sesserP
+146 médiactiviSteS
+particulière des acteurs de ces mobilisations. riadh Ferjani
+et Tristan Mattelart rappellent par exemple que, bien
+avant le développement d’internet et du Web participatif,
+il existait déjà des alternatives médiatiques, notamment
+portées par des initiatives audiovisuelles transnationales
+qui échappaient à la censure étatique14. au nombre d’entre
+elles, les radios occidentales internationales (La voix de
+l’amérique, radio Sawa, Deutsche Welle, rMC Moyen-
+Orient, etc.) ont, durant des années, participé à l’éclosion de
+discours critiques et nourri la dissidence de représentations
+alternatives à celles produites par les pouvoirs autoritaires.
+et « chaque nouvelle génération de technologie va favo-
+riser les stratagèmes d’auto-information mis en place par
+les populations pour échapper aux carences des médias
+étatiques, donnant corps à de véritables circuits parallèles
+de communication qui propagent des nouvelles absentes
+de la sphère publique officielle15 ». L’influence des médias
+dissidents, les pratiques de communication sur les réseaux
+sociaux et, plus généralement, l’exposition à l’ensemble des
+produits et valeurs diffusés par les industries culturelles qui
+s’infiltrent même dans les pays soumis à une rigoureuse
+censure de l’information a contribué à développer de nou-
+velles subjectivités politiques, notamment chez les jeunes
+des classes moyennes urbaines16.
+La consommation d’information reposant de plus en
+plus sur des agencements complexes et pluriels, il est
+14. Riadh Ferjani et Tristan Mattelart, « Les Révolutions 2.0
+n’ont pas eu lieu », Médias, 30, 2011, p. 70-94.
+15. Tristan Mattelart, « Médias, internationalisation et contour-
+nement des censures », Médias, 30, 2011, p. 71.
+16. Yves Gonzalez-Quijano, arabités numériques. Le printemps
+du Web arabe, Paris, Sindbad/Actes Sud, 2012.
+Mediactivistes.indb 146 24/10/13 16:33
+)82.921.452.491
+:PI(
+elliL
+ed
+étisrevinU
+aiv
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| oP
+secneicS
+ed
+sesserP
+individuaLiSation et auto-organiSation 147
+erroné d’attribuer des effets sociopolitiques à un média
+en particulier, tout autant que d’esquisser la moindre
+démonstration quant à l’existence d’une influence directe
+des médias, fussent-ils numériques, sur la mobilisation
+des individus. L’écosystème qui porte les expériences
+médiatiques est foncièrement hybride et les diverses
+composantes du milieu (culturelles, sociales, politiques et
+techno-symboliques) sont fortement intriquées. Pourtant,
+à la suite du « printemps arabe », de nombreux discours
+mâtinés de médiacentrisme ont fait de Facebook le princi-
+pal acteur, voire l’instigateur principal, des mobilisations.
+Ces affirmations superficielles effacent notamment le rôle
+de la conflictualité sociale. elles font d’abord des élites
+intellectuelles, éduquées et connectées, les entrepreneurs
+centraux de la mobilisation. « réclamer la démocratie sur
+sa page Facebook semble, ainsi, plus original et plus gra-
+tifiant que de demander un salaire minimum ou de meil-
+leures conditions de travail au nom de la justice sociale17. »
+Cette focale octroie une moindre centralité à tous ces
+citoyens issus des classes populaires, sans doute beaucoup
+moins connectés, voire pas du tout et dont le rôle fut
+pourtant essentiel dans les mobilisations. Les racines du
+mouvement de protestation qui s’est in fine traduit par
+une mobilisation permanente de la rue tunisoise et cairote
+plongent dans les régions reculées des bassins miniers, des
+territoires fortement industrialisés et des couches sociales
+les plus pauvres, lesquelles ont vertébré les luttes depuis
+plusieurs années et ont parfois développé des formes
+d’auto-organisation politique dans une perspective de
+17. Youssef El-Chazli, « Du ‘‘mur’’ à la rue : la révolte des
+‘‘jeunes de Facebook’’ en Égypte », Médias, 30, 2011, p. 83-86.
+Mediactivistes.indb 147 24/10/13 16:33
+)82.921.452.491
+:PI(
+elliL
+ed
+étisrevinU
+aiv
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| oP
+secneicS
+ed
+sesserP
+148 médiactiviSteS
+« révolution permanente ». en Égypte, comme en Tunisie,
+les luttes ouvrières ont été décisives, car elles ont entre-
+tenu les foyers essentiels de la protestation. Certaines
+d’entre elles ont donné lieu à la création d’espaces numé-
+riques dédiés, telle la page Facebook relayant l’appel à la
+grève des ouvriers de Mahalla el-Kubra (ville égyptienne
+qui abrite la plus grande usine de textile du pays), rassem-
+blant près de 70 000 individus en avril 200818.
+Par ailleurs, les mobilisations numériques s’inscrivent
+aussi dans une tradition vivace de cyberdissidence19. en
+Tunisie par exemple, dès la fin des années 1990, des pro-
+testations furent ouvertes à l’encontre du pouvoir via
+des forums, des sites et des listes de diffusion (Takriz,
+Tunezine, réveilTunisien, Nawaat, Tunisnews, alternatives
+Citoyennes, etc.) parfois très suivis, notamment lors du
+second volet du Sommet mondial sur la société de l’infor-
+mation de Tunis (voir chapitre 3) ou bien lors d’initia-
+tives telles que la manifestation en ligne « Yezzi fock ! »,
+assez largement reprise par les médias étrangers (CNN,
+al Jazeera, etc.). C’est donc progressivement que la blo-
+gosphère puis les sites de réseaux sociaux sont apparus
+comme des lieux importants de la contestation, espaces
+d’interprétation où attentes, valeurs et représentations des
+résultats de l’action ont été travaillées par les conversa-
+tions en ligne. Le Web participatif apparaît donc comme
+un élément important d’un dispositif de mobilisation
+plus large. Cette mise en contexte ne doit cependant pas
+18. Carola Richter, « Virtual mobilization: The Internet and
+Political Activism in Egypt », Orient, 51 (1), 2010, p. 16-24.
+19. Romain Lecomte, « Internet et la reconfiguration de l’espace
+public tunisien : le rôle de la diaspora », Tic & société, 3 (1-2),
+2009, http://ticetsociete.revues.org/702
+Mediactivistes.indb 148 24/10/13 16:33
+)82.921.452.491
+:PI(
+elliL
+ed
+étisrevinU
+aiv
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| oP
+secneicS
+ed
+sesserP
+individuaLiSation et auto-organiSation 149
+conduire à négliger ce qui en fait l’originalité. Les réseaux
+sociaux d’internet offrent des éléments de nature socio-
+technique dont les potentiels ont été exploités par une
+frange de la population à des fins émancipatoires. Non
+parce qu’en soi internet serait une « force » habilitante,
+mais plus prosaïquement parce que les programmes d’ac-
+tion des dispositifs qu’ils portent entrent en résonance
+avec des dynamiques sociales qui y trouvent un support
+leur assurant une certaine efficacité et leur permettant de
+pérenniser leur existence.
+Les traits les plus singuliers des mobilisations sur
+Facebook tiennent à la distance prise à l’égard des forces
+politiques existantes et des collectifs de la dissidence,
+ainsi que le souci d’affirmer le caractère individuel de
+l’engagement en ligne – traits que l’on retrouve pareil-
+lement au sein du mouvement des Indignés/Occupy ou
+des anonymous (cf. infra). Les acteurs ne s’affichent pas
+en ligne au titre ou au nom d’une affiliation à un groupe
+organisé (syndicat, ONG, associations, médias alternatifs,
+etc.), mais de façon beaucoup plus personnalisée. Cette
+dynamique d’individualisation ne fait que prolonger, en
+le radicalisant, un mouvement qui caractérisait déjà les
+engagements dans le mouvement altermondialiste. Dans
+la phase révolutionnaire des mouvements tunisien et
+égyptien, les affiliations organisationnelles des acteurs
+sont mises à l’écart. Les groupes organisés sur Facebook
+se refusent à définir des lignes d’actions idéologiques et
+se positionnent délibérément à l’écart des jeux politiques
+traditionnels. À cet égard, il est significatif que, bien que
+l’Égyptien Wael Gonim ait été politiquement proche de
+Mohamed el Baradei dont il administrait le profil Facebook
+avant les premiers soulèvements populaires, celui-ci n’ait,
+Mediactivistes.indb 149 24/10/13 16:33
+)82.921.452.491
+:PI(
+elliL
+ed
+étisrevinU
+aiv
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| oP
+secneicS
+ed
+sesserP
+150 médiactiviSteS
+pendant toute la durée de la mobilisation autour des pages
+Facebook « Kullena Khaled Saïd » (en mémoire d’un jeune
+alexandrin torturé par la police) puis « Jan25 » (préparant
+la grande manifestation du 25 janvier 2012 place Tahir),
+jamais fait mention d’el Baradei, attentif en cela à ne pas
+prêter le flanc à l’accusation de soutenir ou d’agir pour
+un des opposants politiques au régime20. en se mobili-
+sant via internet, les sociétés civiles arabes ont montré
+qu’elles n’étaient pas composées des mêmes acteurs que
+la sphère des ONG, des syndicats, des associations et des
+groupes d’intérêt qui a donné son sens au travail d’insti-
+tutionnalisation de la société civile dans les années 1980.
+en cette occasion, ce sont davantage de simples citoyens
+non encartés qu’une avant-garde militante qui se sont
+coordonnés pour faire tomber les dictatures.
+Comme le souligne Youssef el-Chazli, en Égypte, dans
+les années 2000, une nouvelle culture politique s’est
+constituée, permettant d’acculturer une frange de la jeu-
+nesse à l’engagement et à un militantisme en réseaux dont
+internet a porté les formes organisationnelles de façon
+assez « naturelle ». Cette modalité contestataire rela-
+tivement inédite s’est construite sur le désir d’une jeu-
+nesse à la recherche de territoires culturels dont les accès
+leur étaient rendus difficiles, voire parfois impossibles.
+La mobilisation des ressources en ligne fut d’abord une
+réponse à un sentiment de frustration, une réplique décep-
+tive à une ségrégation culturelle. La peur de la répression
+exerçait un puissant effet d’autocensure. La soudaine
+capacité à dépasser cette crainte pour oser dire, sur les
+20. Wael Ghonim, révolution 2.0. Le pouvoir des gens plus fort
+que les gens au pouvoir, Paris, Steinkis, 2012.
+Mediactivistes.indb 150 24/10/13 16:33
+)82.921.452.491
+:PI(
+elliL
+ed
+étisrevinU
+aiv
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| oP
+secneicS
+ed
+sesserP
+individuaLiSation et auto-organiSation 151
+réseaux sociaux, ce que l’on pensait du régime politique
+a brutalement, et de façon contagieuse, encouragé l’ac-
+tion collective en transformant en carburant de la révolte
+cette nouvelle parole libre. Les médias participatifs ont
+ainsi été envisagés comme une opportunité pour accéder
+à des « ailleurs » culturels et bientôt politiques, sur fond de
+débrouille et de Do It Yourself : « en fait, internet a joué
+son rôle le plus visible auprès d’une partie de la population
+dont l’action politique ne constituait ni une nécessité de
+survie (comme pour les ouvriers), ni une conviction idéo-
+logique (comme pour les activistes). en d’autres termes, le
+Net a contribué, parmi bien d’autres éléments, à politiser
+la jeunesse éduquée, aisée et individualiste ; une jeunesse
+‘‘dorée’’ qui n’était pas perçue comme une menace par
+les autorités21. » Constituant un nouveau substrat social
+composé de quelques liens forts et de très nombreux liens
+faibles, ces réseaux de sociabilité en ligne en viendront
+à se mobiliser pour des initiatives ayant une charge poli-
+tique, telle que l’initiative « Nous sommes tous Khaled
+Saïd » et les appels à manifester.
+une des leçons à tirer des révolutions tunisienne et
+égyptienne, et plus généralement de ces mobilisations « par
+le bas », est que l’on risque le malentendu à vouloir trop
+rapidement superposer la démocratisation de l’espace public
+(numérique) et l’installation des procédures électorales de
+la démocratie représentative. L’émergence de mobilisa-
+tions d’individus portées par internet, aussi considérables
+que celles qui ont eu lieu lors des révolutions arabes, ne
+s’articulent pas naturellement à la construction, « par le
+haut », d’un système de r eprésentation politique organisée.
+21. Youssef El-Chazli, « Du “mur” à la rue », art. cité, p. 85.
+Mediactivistes.indb 151 24/10/13 16:33
+)82.921.452.491
+:PI(
+elliL
+ed
+étisrevinU
+aiv
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| oP
+secneicS
+ed
+sesserP
+152 médiactiviSteS
+alors que la première coordonne ponctuellement des indi-
+vidus, indépendamment du tissu d’organisations collectives
+du champ politique, la seconde invite à structurer durable-
+ment les citoyens en leur demandant de distribuer leur vote
+à des organisations politiques censées les représenter. On
+comprend ainsi que les résultats des élections en Tunisie
+et en Égypte aient pu décevoir tous ceux qui considéraient
+par trop rapidement les mobilisations d’individus comme
+un équivalent des rapports de force électoraux entre les
+différents acteurs, anciens et nouveaux, des scènes poli-
+tiques nationales. De fait, deux formes d’expression de la
+citoyenneté coexistent, beaucoup moins superposables que
+ne le laissent penser les apparences.
+Mobilisations pour la transparence
+de l’information
+Les mobilisations par le bas sur internet contribuent
+à un repositionnement plus important qu’il n’y paraît de
+l’opposition entre critiques contre-hégémonique et expres-
+siviste. Car, désormais, l’affirmation de la liberté d’expres-
+sion croise de plus en plus fréquemment la critique du
+monopole que les médias professionnels et les institutions
+publiques et privées ont sur le contrôle de certains types
+d’information et de données. Pour se réaliser pleinement, la
+libération des subjectivités numériques revendique un accès
+libre et ouvert aux informations protégées par le secret, la
+propriété intellectuelle ou des privilèges corporatistes. Cette
+ambition contre-hégémonique se manifeste notamment à
+travers le déplacement des enjeux du médiactivisme vers la
+question de la transparence des informations, qui est à la
+fois au fondement de la liberté expressive des individus et
+de l’exercice d’une critique vigilante des puissants.
+Mediactivistes.indb 152 24/10/13 16:33
+)82.921.452.491
+:PI(
+elliL
+ed
+étisrevinU
+aiv
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| oP
+secneicS
+ed
+sesserP
+individuaLiSation et auto-organiSation 153
+Cette exigence de contre-expertise, que nous avons
+évoquée supra, s’est notamment coalisée au sein du mou-
+vement open data qui demande aux institutions d’ouvrir
+et de rendre publiques leurs données, afin qu’elles soient
+soumises à la vérification des citoyens-internautes. Si le
+principe des données ouvertes est aujourd’hui défendu par
+des opérateurs privés qui considèrent que l’exploitation de
+l’information publique peut conduire à l’émergence de nou-
+veaux marchés particulièrement rentables, il l’est aussi par
+des élus, des citoyens et des militants, lesquels constatent
+que les pouvoirs publics conservent trop souvent les don-
+nées qu’ils produisent. Leur mise à disposition, pensent-
+ils, pourrait constituer un moteur d’accroissement du bien
+commun et de régulation démocratique (voir la campagne
+« Mash the State » au royaume-uni). Le président Obama
+en a fait l’un des axes forts de sa politique de gouver-
+nance. Depuis juin 2009, statistiques et données publiques
+de l’État fédéral des États-unis ont vocation à être mises
+en ligne et à disposition de tous via le site data.gov, portail
+permettant de trouver, de trier, de télécharger et de mani-
+puler les données publiques (un millier de bases de données
+disponibles lors de son lancement22). La dynamique lancée
+par l’administration Obama a trouvé des échos en europe
+à travers la politique d’ouverture des informations sur les
+dépenses de la Chambre des communes anglaise, qui a
+permis aux journalistes et aux blogueurs de dénoncer des
+abus. elle s’incarne également, en France, dans la nais-
+sance du site NosDéputés.fr, i nitiative citoyenne permettant
+22. Valérie Peugeot, « L’ouverture des données publiques :
+convergence ou malentendu politique ? », dans Bernard Stiegler
+(dir.), Confiance, croyance, crédit dans les mondes industriels,
+Paris, FYP Éditions, 2011, p. 79-101.
+Mediactivistes.indb 153 24/10/13 16:33
+)82.921.452.491
+:PI(
+elliL
+ed
+étisrevinU
+aiv
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| oP
+secneicS
+ed
+sesserP
+154 médiactiviSteS
+de connaître dans le détail les activités des parlementaires
+(site jumeau du theyworkforyou.com britannique), ainsi
+que dans le site data.gouv.fr. De la même manière, des
+initiatives ont été prises par des collectifs militants sur
+internet pour rendre publiques, accessibles et calculables
+les activités des lobbies auditionnés ou accrédités auprès
+des différents législateurs nationaux ou européens.
+« Ouvrir les gouvernements » est aussi l’un des projets-
+slogans de WikiLeaks, dispositif cofondé, fin 2006, par
+Julian assange, financé un temps par le groupe de hackers
+berlinois Chaos Computer Club et qui s’est fait connaître en
+donnant de la visibilité à des documents qui n’avaient pas
+vocation à être produits publiquement. Ces informations
+confidentielles sont apportées au site par des internautes
+« lanceurs d’alerte » (whistleblowers) et, dès 2007, plus d’un
+million de documents avaient été ajoutés à la base de don-
+nées. Suivi fin 2010 par près d’un million et demi de fans
+sur Facebook, WikiLeaks s’est construit une solide notoriété
+internationale, notamment à la suite de la mise en ligne
+d’une vidéo (Collateral Murder) tournée à Bagdad, montrant
+un hélicoptère américain abattant des civils, puis par la
+mise à disposition de documents militaires compromettants.
+Le site a notamment révélé plus de 250 000 télégrammes
+diplomatiques envoyés au siège du département d’État des
+États-unis et aux missions diplomatiques américaines.
+Wikileaks étant allié à de grands quotidiens nationaux
+(New York Times, The Guardian, Le Monde, El Pais et Der
+Spiegel), les câbles ont été confiés à une équipe internatio-
+nale de journalistes afin qu’ils t ravaillent à leur sélection, à
+leur analyse, à leur mise en contexte, à leur anonymisation
+et à leur publication.
+Mediactivistes.indb 154 24/10/13 16:33
+)82.921.452.491
+:PI(
+elliL
+ed
+étisrevinU
+aiv
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| oP
+secneicS
+ed
+sesserP
+individuaLiSation et auto-organiSation 155
+Cet « art de la fuite », qui est à la base d’autres sites
+comme Cryptome, OpenLeaks, al Jazeera Transparency
+unit, LocaLeaks, BrusselsLeaks ou Frenchleaks lancé par
+Mediapart en France, est une mise à mal de la tradition
+du pouvoir discrétionnaire d’État, du principe de la confi-
+dentialité diplomatique et plus généralement de l’opacité,
+auxquels WikiLeaks oppose une politique de la transpa-
+rence, du droit de savoir et de l’intérêt général. Mais ce
+phénomène est aussi l’expression d’une volonté de réarmer
+l’opinion publique et d’augmenter la capacité de pression
+des citoyens ordinaires (souvent considérés dans la tradition
+libérale comme incompétents, instables et incapables). Dans
+l’expérience de WikiLeaks, il est vite apparu qu’il pouvait
+être contre-productif de publier des informations brutes
+sans médiation, comme les identités des opposants aux
+régimes totalitaires mentionnés dans les câbles de la diplo-
+matie américaine. aussi l’organisation de Julian assange
+a-t-elle trouvé plus judicieux d’associer les médias profes-
+sionnels au travail de divulgation des informations pour en
+augmenter l’efficacité (voir plus récemment l’enquête sur les
+paradis fiscaux menée par l’ICIJ [International Consortium
+of Investigative Journalists] ou les révélations faites par
+edward Snowden au Guardian et au Washington Post sur
+les programmes secrets de surveillance de la NSa [agence
+nationale de sécurité des États-unis]). Il s’agit là d’une
+forme de vigilance démocratique parfois qualifiée de sous-
+veillance23 (watching from below), dans la mesure où celle-ci
+est exercée par la société civile sur les institutions. elle se
+23. Steve Mann, Jason Nolan et Barry Wellman, « Sousveillance:
+Inventing and Using Wearable Computing Devices for Data
+Collection in Surveillance Environments », Surveillance &
+Society, 1 (3), 2005, p. 331-355.
+Mediactivistes.indb 155 24/10/13 16:33
+)82.921.452.491
+:PI(
+elliL
+ed
+étisrevinU
+aiv
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| oP
+secneicS
+ed
+sesserP
+156 médiactiviSteS
+fonde, non pas sur l’amateurisation des producteurs d’infor-
+mation, mais sur celle des informateurs, poursuivant ainsi la
+remise en cause des frontières entre informants et informés,
+interprétants et interprétés, représentants et représentés. La
+figure, qui n’est pas nouvelle, du « lanceur d’alerte » apparaît
+ainsi comme un témoignage du développement des logiques
+de désobéissance civile, preuve de l’individualisation du
+sentiment d’être dépositaire, même contre l’État et les ins-
+titutions représentatives, des valeurs de l’intérêt général.
+Facilitée par l’accessibilité des informations numériques, la
+« fuite d’information » devient un répertoire d’actions poli-
+tiques individuelles, invitant les personnes à faire sécession
+en rendant publiques les agissements de leurs institutions
+non conformes aux valeurs qu’elles affichent24.
+un travail de contrôle et de surveillance des activités
+des puissants s’opère enfin sous la forme d’un nouveau
+« journalisme de données ». Le principe du data journalism
+s’appuie sur la possibilité de traiter des informations issues
+de bases de données. apparu dans les années 1960 aux
+États-unis, il renaît aujourd’hui de ses cendres, eu égard
+aux potentialités technologiques ouvertes par le numé-
+rique. Si quelques acteurs situés aux marges du champ
+journalistique ont réussi à asseoir une activité pérenne
+de ce type (les projets Chicagocrime d’adrian Holovaty,
+ProPublica, Texas Tribune, etc.), ce sont surtout les médias
+les plus centraux qui ont innové en la matière (Reuters,
+Washington Post, The Economist, The Guardian, etc.)25.
+24. Albert Ogien et Sandra Laugier, Pourquoi désobéir en démo-
+cratie ?, Paris, La Découverte, 2010.
+25. Sylvain Parasie et Éric Dagiral, « Data-driven Journalism and
+the Public Good. Computer-assister Reporters and Programmer-
+journalists in Chicago », New Media & Society, published online
+before print, 18 novembre 2012.
+Mediactivistes.indb 156 24/10/13 16:33
+)82.921.452.491
+:PI(
+elliL
+ed
+étisrevinU
+aiv
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| oP
+secneicS
+ed
+sesserP
+individuaLiSation et auto-organiSation 157
+Simon rogers, responsable du data blog du Guardian
+(journal ayant collaboré avec WikiLeaks sur l’affaire des
+war logs concernant la guerre en afghanistan et en Irak,
+ainsi que sur celles des câbles diplomatiques états-uniens),
+publie par exemple sur ce site des informations sous forme
+de données brutes dont les publics peuvent se saisir.
+Parallèlement, il anime un service d’exploitation de ces
+données destinées cette fois aux journalistes de la rédac-
+tion. en France, de 2009 à 2012, le site Owni a fait figure
+de fer de lance du data journalism, proposant un disposi-
+tif de production constitué de quelques journalistes, mais
+surtout de plusieurs centaines de blogueurs (« un réseau
+de vigies européennes ») auxquels étaient venus s’ajou-
+ter des développeurs, des designers, des statisticiens, etc.
+Le site était développé en open source et les documents
+proposés en ligne étaient sans publicité, sous licence crea-
+tive commons et se composaient de contenus multimédias
+parfois enrichis d’aPI (application protocol interface) de
+visualisation, de mapping ou de data mining permettant
+une manipulation des informations par le lecteur, qui pou-
+vait aussi les annoter et les commenter. Owni affirmait
+ainsi s’opposer à un « journalisme de magistère » (gotcha
+journalism) pour y préférer un « journalisme augmenté »,
+« de liens », « en réseau », « de suivi », reposant sur le
+principe du crowdsourcing pour la collecte d’informations
+et de témoignages, un traitement approfondi des données
+(investigation et suivi des enquêtes) et une restitution inte-
+ractive s’appuyant sur les innovations numériques.
+en libérant des informations tenues secrètes ou en
+ouvrant les données publiques aux citoyens, une reven-
+dication de transparence plus grande sur l’information
+Mediactivistes.indb 157 24/10/13 16:33
+)82.921.452.491
+:PI(
+elliL
+ed
+étisrevinU
+aiv
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| oP
+secneicS
+ed
+sesserP
+158 médiactiviSteS
+s’affirme donc, tant du côté des militants que du
+renouvellement des pratiques journalistiques. Désormais
+placé au cœur de la plupart des discussions sur le nouvel
+espace informationnel ouvert par internet, le thème de
+l’open data constitue sans doute une réalisation des
+objectifs historiquement portés par les différents médiac-
+tivismes. Cette revendication laisse cependant en sus-
+pend de nombreuses questions. La première tient à la
+nature des informations susceptibles d’être ouvertes et
+partagées par tous. Les données personnelles (fichiers
+criminels, listes de personnels des administrations, par-
+ticipants aux appels d’offres, traces de mobilité, etc.)
+peuvent devenir des informations d’intérêt général, mais
+cette ouverture menace aussi le respect de la vie privée
+des individus. La seconde tient aux usages de ces données
+par les collectifs militants ou professionnels en mesure
+de les exploiter et d’en extraire de l’information. Car
+bien souvent, il est nécessaire de déployer des opérations
+statistiques et interprétatives complexes pour donner sens
+et pertinence à ces nouveaux gisements de données. Pour
+construire des opérations de connaissance ou des révé-
+lations critiques à partir de ce foisonnement de données,
+des techniques d’analyse et d’interprétation experte très
+importantes doivent être mobilisées, ce qui explique
+sans doute pourquoi l’ouverture des données publiques
+n’a pas encore conduit à la généralisation de nouvelles
+« machines à scandale26 ».
+26. Sylvain Parasie, « Des machines à scandale. Éléments pour
+une sociologie morale des bases de données », réseaux, 2-3 (178-
+179), 2013, p. 127-160.
+Mediactivistes.indb 158 24/10/13 16:33
+)82.921.452.491
+:PI(
+elliL
+ed
+étisrevinU
+aiv
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| oP
+secneicS
+ed
+sesserP
+individuaLiSation et auto-organiSation 159
+des individus en essaim :
+des anonymous aux partis pirates
+La tradition expressiviste qui nourrissait notamment
+les expérimentations avant-gardistes des médias tactiques
+(voir supra, chapitre 4) a connu un tournant important
+avec la massification des usages d’internet au milieu
+des années 2000. Tout se passe comme si l’esprit hacker,
+élitiste et profondément méritocratique, s’était élargi et
+transformé pour s’adapter aux nouveaux publics jeunes
+et passionnés de l’internet se reconnaissant derrière l’éti-
+quette de geeks. une nouvelle culture politique du réseau,
+dont la nébuleuse anonymous est le symbole, s’est cris-
+tallisée dans une forme très lâche pour élargir la base
+sociale du médiactivisme à de nouveaux acteurs. Ce pro-
+cessus de politisation des cultures populaires, emprunt
+de modes d’action fondés sur la coordination d’enga-
+gements individuels résiliables à tout moment, est en
+affinité avec certaines revendications démocratiques qui
+tendent, aujourd’hui, à s’exprimer dans nos sociétés. On y
+observe notamment une sensibilité très forte aux questions
+de liberté d’expression, ainsi qu’un souci d’égalité et de
+démocratie directe qui voudrait associer étroitement la
+critique à l’action. aussi faut-il interroger ces nouvelles
+tendances qui, à travers les mouvements des Indignés/
+Occupy ou le développement des partis pirates, témoignent
+de l’articulation étroite des mobilisations information-
+nelles et démocratiques.
+Anonymous
+avec la massification des usages du Web s’est opérée
+une articulation originale entre la culture hacker des pion-
+niers de l’informatique connectée et certaines franges des
+Mediactivistes.indb 159 24/10/13 16:33
+)82.921.452.491
+:PI(
+elliL
+ed
+étisrevinU
+aiv
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| oP
+secneicS
+ed sesserP
+160 médiactiviSteS
+publics juvéniles et populaires d’internet. Les représenta-
+tions et récits des industries du cinéma, des séries télé-
+visées ou de la bande dessinée se mêlent aujourd’hui à
+un ensemble de pratiques de partage et de détournement,
+de moqueries et de provocations, de diffusions virales et
+d’expériences transgressives, pour dessiner les contours
+de nouvelles mythologies, mais aussi de nouvelles pra-
+tiques de résistance. Depuis le début des années 2000,
+le détournement des images et des contenus des indus-
+tries culturelles au profit d’une culture du « Lol » (pour
+laugh out loud) ou du « Lulz » (lorsque le rire s’exerce aux
+dépens de quelqu’un) s’est répandu dans des forums et des
+sites d’échanges fréquentés par les jeunes internautes. Le
+plus important d’entre eux est le site de partage d’images
+(imageboard) 4chan, créé en 2003 par Christopher Pool,
+alors qu’il avait 15 ans27. À la suite du japonais 2channel
+et des sites Fudaba Channel et Something awful, 4chan est
+une fabrique de mèmes, ces produits détournés et drola-
+tiques de la culture populaire qui circulent activement sur
+internet. Images ou vidéos d’animaux, de gags incongrus,
+de figurines de manga, de détournements publicitaires,
+icônes des sous-cultures juvéniles, photos pornogra-
+phiques, etc., c’est le patchwork hétéroclite de la culture
+visuelle numérique qui fait l’objet d’un immense brassage
+de significations au profit d’interprétations ironiques, allu-
+sives et provocatrices destinées à produire un écho viral
+sur le Web. 4chan est ainsi devenu un véritable laboratoire
+de signes dans lequel sont conçus, échangés et testés des
+codes visuels qui vont ensuite circuler à grande vitesse
+27. Cole Striker, epic Win for anonymous. How 4chan’s army
+Conquered the Web, New York (N.Y.), The Overlook Press, 2011.
+Mediactivistes.indb 160 24/10/13 16:33
+)82.921.452.491
+:PI(
+elliL
+ed
+étisrevinU
+aiv
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| oP
+secneicS
+ed
+sesserP
+individuaLiSation et auto-organiSation 161
+sur les pages des sites réseaux sociaux grand public. avec
+un mauvais esprit qui rappelle le mouvement punk, le
+passage à la limite, la provocation, le trash, le kitsch, la
+vulgarité, la violence ou encore la bêtise y sont valori-
+sés comme des signes d’appartenance à une communauté
+clandestine des marges invisibles du Web. retournant les
+grandeurs élitistes, sérieuses et commerciales des espaces
+numériques les plus visibles, 4chan se revendique comme
+les « bas-fonds » d’internet en développant le mauvais
+goût et l’outrance. Sans doute cette polarisation témoigne-
+t-elle des tensions sociales et culturelles qui pèsent sur
+l’organisation des contenus au sein du réseau des réseaux.
+Le privilège qu’accordent les moteurs de recherche à des
+formats informationnels vérifiés, professionnels et dis-
+tanciés, reproduisant les critères de sélection des médias
+de masse traditionnels contribue à stigmatiser les sous-
+cultures juvéniles populaires qui se déploient dans des
+zones en ligne à plus faible visibilité.
+À partir de 2008, des participants du canal de discus-
+sion b/ de 4chan vont également engager de façon dispa-
+rate et peu organisée des actions collectives sous le nom
+d’« anonymous ». Celles-ci ne prennent pas toujours un
+caractère politique, à l’instar du raid organisé en 2006 sur
+la piscine de Habbo Hotel, un univers persistant de jeu
+en 3D destiné aux enfants, dont l’objectif relevait surtout
+de la provocation moqueuse. Mais les « B/tards » (pour
+habitués du canal b/) vont aussi mener des chasses contre
+les pédophiles afin de les démasquer, rendre publique leur
+identité et les stigmatiser. en 2008, les anonymous vont
+par exemple se mobiliser contre l’église de scientologie
+en détournant des vidéos moquant l’acteur américain et
+admirateur de ron Hubbard, Tom Cruise, et en organisant
+Mediactivistes.indb 161 24/10/13 16:33
+)82.921.452.491
+:PI(
+elliL
+ed
+étisrevinU
+aiv
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| oP
+secneicS
+ed
+sesserP
+162 médiactiviSteS
+des attaques ciblées contre certains sites de la secte. Parmi
+les techniques de guérilla numérique, les anonymous pri-
+vilégient les attaques distribuées par déni de service (DDoS)
+et en facilitent l’emploi en créant des outils logiciels très
+simples d’utilisation, afin que n’importe quel internaute
+puisse participer à l’action. Le logiciel LOIC (low orbit ion
+cannon) rend ainsi possible, avec une anonymisation rela-
+tive, de cliquer-attaquer des sites cibles depuis son ordi-
+nateur personnel, sans même avoir à disposer de fortes
+compétences en informatique. Forts de ces premières opé-
+rations commandos, les anonymous vont ensuite parti-
+ciper à un nombre d’actions toujours plus important. Ils
+vont par exemple pirater le compte courriel de Sarah Palin,
+l’égérie du mouvement conservateur Tea Party, ou encore
+s’attaquer à la société multinationale Sony, motivés par le
+fait que l’entreprise poursuivait en justice un hacker qui
+avait réussi à déverrouiller les protections de la console
+de jeu vidéo PlayStation 3. La nébuleuse des anonymous
+va aussi constituer le bras armé des soutiens numériques
+à WikiLeaks, notamment lorsque le gouvernement améri-
+cain fera pression sur son hébergeur (amazon), ainsi que
+sur la banque en ligne PayPal recevant les dons financiers
+de soutien au collectif de Julian assange. Les anonymous
+lanceront alors deux opérations coordonnées : Payback
+(revanche) et avenge assange (Venger assange), afin de
+punir les opposants institutionnels à la liberté d ’expression.
+Les sites Web de Paypal, de Visa, de Mastercard, de
+PostFinance et d’amazon feront l’objet d’attaques de type
+DDoS et devront, pour certains d’entre eux, fermer leurs
+activités pendant quelques heures. On retrouve également
+les anonymous dans une série d’actions se couplant à des
+manifestations de rue, par exemple lors des mouvements,
+Mediactivistes.indb 162 24/10/13 16:33
+)82.921.452.491
+:PI(
+elliL
+ed
+étisrevinU
+aiv
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| oP
+secneicS
+ed
+sesserP
+individuaLiSation et auto-organiSation 163
+en 2012, s’opposant aux projets de loi américains PIPa
+(Protect Intellectual Property act) et SOPa (Stop Online
+Piracy act). enfin, la galaxie des anonymous mais aussi de
+nombreux réseaux de hackers militants, comme Telecomix
+(un collectif né en Suède en 2009), participeront à dis-
+tance aux différents mouvements de révolte dans les pays
+à régime autoritaire et à forte censure de l’espace public.
+en 2009, les anonymous attaquent par exemple l’agence de
+presse du régime iranien pendant les manifestations de rue.
+Ils seront également actifs dans les processus révolution-
+naires du « printemps arabe », en permettant une extension
+de la surface des conflits à la toile, notamment via des
+attaques dirigées contre des sites gouvernementaux. en
+Tunisie, le site du Premier ministre ou celui de la télévision
+nationale TV7 ont ainsi été piratés. Les anonymous contri-
+buent par là même à attirer l’attention des médias occiden-
+taux (France 24 reprendra par exemple des vidéos tournées
+par des manifestants), condition sine qua non pour que se
+constitue un mouvement de solidarité international.
+La caractéristique la plus originale de la nébuleuse
+des anons (diminutif d’« anonymous ») tient à l’ab-
+sence d’organisation de ces convergences d’actions
+individuelles. Ce réseau ne se présente pas comme une
+organisation. Il n’a pas de membres et encore moins de
+responsables, n’a pas de lieu de rencontres offline pour ses
+participants, et évidemment pas de programme d’actions
+préalablement défini, si ce n’est l’idéal de défense de la
+liberté d’expression sur internet. Sa seule identité est le
+nom-emblème « anonymous » que quiconque peut endos-
+ser pour agir avec d’autres. Pour autant, ces actions ne
+sont pas conduites sans règles. La première obligation
+est de rester anonyme en cachant l’identité de chaque
+Mediactivistes.indb 163 24/10/13 16:33
+)82.921.452.491
+:PI(
+elliL
+ed
+étisrevinU
+aiv
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| oP
+secneicS
+ed
+sesserP
+164 médiactiviSteS
+participant derrière le même masque. La fonction poli-
+tique de ce masque vise à construire l’égalité entre chaque
+participant et à interdire l’instauration de différenciations
+au sein de l’organisation. Le terme renvoie d’abord au
+fait que, sur 4chan, les utilisateurs apparaissent dans le
+fil de la discussion sous le nom d’« anonymous ». Mais
+la figuration iconique du mouvement, le masque à mous-
+tache noire et au sourire narquois, est empruntée à la
+bande dessinée V pour Vendetta écrite par allan Moore
+et dessinée par David Lloyd, laquelle met en scène un
+héros rebelle s’opposant à un gouvernement fasciste et
+portant le masque de Guy Fawkes, personnage histo-
+rique qui, lors de la Conspiration des poudres en 1605,
+s’était élevé contre le roi Jacques Ier d’angleterre et son
+Parlement. L’usage de l’anonymat et du masque servant
+à représenter le plus grand nombre et l’égalité de tous
+n’est pas tout à fait inédit. On le retrouve au principe de
+certains groupements, notamment médiactivistes, inspirés
+par les milieux autonomes, tels que, en Italie, le collectif
+postopéraïste Luther Blissett (du nom d’un footballeur
+maladroit du Calcio dans les années 1990), spécialisé
+dans la critique des médias et le détournement de type
+culture jamming, ou encore le mouvement San Precario,
+réseau de contre-information et de résistance sociale. en
+France, le Comité invisible, auteur collectif et anonyme
+de l’ouvrage L’Insurrection qui vient28, ou, à plus grande
+échelle, le mouvement des Indignés/Occupy, reprenant
+le slogan « Nous sommes les 99 % », visent également à
+égaliser radicalement les collectifs qu’ils constituent et à
+ouvrir les mobilisations à tous.
+28. Paris, La Fabrique, 2007.
+Mediactivistes.indb 164 24/10/13 16:33
+)82.921.452.491
+:PI(
+elliL
+ed
+étisrevinU
+aiv
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| oP
+secneicS
+ed
+sesserP
+individuaLiSation et auto-organiSation 165
+Dans leurs communiqués au ton souvent grandilo-
+quent, les anonymous soulignent les vertus de ce mode
+d’affiliation qui garantit l’égalité par l’invisibilité : « Nous
+sommes anonymous. Nous vous demandons de vous
+joindre à nous. recherchez-nous et vous nous trouverez.
+Nous sommes parmi vous. Nous sommes vous. Tout le
+monde peut s’exprimer en tant que membre d ’anonymous.
+Nous n’avons pas de dirigeants. uniquement des sen-
+sibilités. Nous n’avons pas d’objectifs. uniquement des
+résultats. Nous ne pouvons pas être arrêtés, car nous ne
+sommes qu’une idée. Nous ne pouvons pas être effacés,
+car nous sommes transparents29. » anonymous n’est donc
+pas une organisation, mais un nom collectif qui peut
+être endossé par des mouvements de protestation nés sur
+internet, mais ne se limitent pas pour autant aux actions
+online. On retrouvera ainsi fréquemment des masques de
+Guy Fawkes lors des rassemblements des Indignés/Occupy
+et les anonymous assureront un relais important de leurs
+actions sur la toile.
+une deuxième règle d’action tient aux processus
+de coordination et de définition des cibles. S’ils ne se
+connaissent ni ne se rencontrent, les anonymous se
+coordonnent en revanche à travers un ensemble diffracté
+de canaux de communication numérique : sur le canal
+b/ de 4chan, sur des pages Facebook et, surtout, par le
+truchement de nombreux canaux IrC (internet relay chat),
+notamment ceux du blog anonOps. Ils organisent aussi
+une communication publique de leurs actions à travers
+une multitude de chaînes sur YouTube, certaines vidéos
+29. Voir anonnews.org, cité dans Frédéric Bardeau et Nicolas
+Danet, anonymous. Peuvent-ils changer le monde ?, Paris, FYP
+Éditions, 2011, p. 117.
+Mediactivistes.indb 165 24/10/13 16:33
+)82.921.452.491
+:PI(
+elliL
+ed
+étisrevinU
+aiv
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| oP
+secneicS
+ed
+sesserP
+166 médiactiviSteS
+dépassant le million de vues. Ils y proposent des communi-
+qués ironiques parodiant le ton emphatique et sentencieux
+du journal télévisé. en l’absence de centre permettant de
+définir les valeurs et les objectifs du mouvement, n’im-
+porte qui peut initier des actions derrière le masque des
+anonymous. aussi, des règles de contrôle mutuel et de cri-
+tiques croisées s’exercent-elles afin de préserver un hori-
+zon commun à leurs actions. Chaque individu qui souhaite
+lancer une mobilisation propose sa cible dans les espaces
+de communication, invitant d’autres à le rejoindre. Il pré-
+sente les raisons qu’il a de choisir cette cible, définit un
+plan d’attaque et annonce le canal IrC qui sera le support
+à la coordination des actions. Ce mode d’annonce des
+actions favorise dans les faits des individus organisés et
+centraux dans la communauté. Des communautés de hac-
+kers, comme LulzSec, antisec ou Thehacker12, sont ainsi
+souvent à l’initiative des actions. Par ailleurs, le monde
+des anons est extrêmement divisé et ils ne cessent de se
+critiquer mutuellement, dénonçant l’opportunité de cer-
+taines actions ou déniant le fait qu’elles méritent d’être
+conduites sous la bannière des anonymous. un processus
+d’inclusion/exclusion s’opère ainsi, qui parvient, peu ou
+prou, à définir le périmètre flou des motifs d’engagement
+d’un collectif qui se revendique originellement sans orga-
+nisation ni programme.
+Il n’en reste pas moins que d’importantes tensions sont
+presque constitutives de ce mode d’organisation en essaim.
+La première porte sur la nature des modes d’action qui
+font l’objet d’appréciations divergentes. Certains consi-
+dèrent que les opérations de type DDoS sont contraires à
+l’éthique du réseau, alors que d’autres en font des équi-
+valents de la manifestation et du blocage dans l’espace
+Mediactivistes.indb 166 24/10/13 16:33
+)82.921.452.491
+:PI(
+elliL
+ed
+étisrevinU
+aiv
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| oP
+secneicS
+ed
+sesserP
+individuaLiSation et auto-organiSation 167
+numérique. en résonance directe avec le mauvais esprit
+de 4Chan, la pratique dite du « DOX » (une altération de
+DOCS), qui consiste à publier des informations person-
+nelles sur internet, est rejetée par les fractions les plus
+politiques de la nébuleuse qui y voient une forme infantile
+et contre-productive de provocation. en septembre 2011,
+par exemple, des anonymous ont mis en ligne les noms,
+dates de naissance et adresses de 25 000 policiers autri-
+chiens. Le compte Twitter anonaustria claironnait alors :
+« Personne n’a rien à cacher n’est-ce pas ? ». un certain
+nombre d’anonymous a condamné ces pratiques. enfin,
+une autre tension, plus sociologique celle-là, porte sur
+la signification politique de l’activisme du clic (click-
+tivism), lequel offre à tous un moyen de protestation à
+très faible coût. Celui-ci est la conséquence, au sein de la
+nébuleuse des anons, de l’articulation entre des hackers
+militants fortement investis et des publics beaucoup plus
+fugitifs, à l’engagement épisodique, désignés comme des
+« n00bs » (contraction de newbies qui veut dire « débu-
+tants »). en parvenant à étendre la culture du hack auprès
+d’internautes moins compétents techniquement et souvent
+moins sensibilisés à l’action collective, les anonymous
+ont cependant permis d’élargir l’accès au répertoire de la
+« guérilla numérique ».
+Partis pirates : la liberté d’expression en politique ?
+La revendication expressiviste de la liberté d’expres-
+sion et la critique contre-hégémonique de la monopoli-
+sation de la représentation du monde par les médias et
+les hommes politiques peuvent-elles se faire une place
+dans le système politique représentatif ? au terme de
+ce parcours, c’est la question que pose l’émergence de
+Mediactivistes.indb 167 24/10/13 16:33
+)82.921.452.491
+:PI(
+elliL
+ed
+étisrevinU
+aiv
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| oP
+secneicS
+ed
+sesserP
+168 médiactiviSteS
+partis pirates dans le jeu électoral d’un certain nombre de
+démocraties. réunissant d’une manière originale les deux
+traditions qui ont servi de fil directeur à cet ouvrage,
+leur surgissement, fragile et erratique, témoigne de la
+vigueur des recompositions actuelles du médiactivisme.
+en 2006, dans la continuité des revendications expres-
+sivistes des médias tactiques, des hackers et des mili-
+tants du logiciel libre, le Piratpartiet30 est créé en Suède
+par rickard Falkvinge. À peine trois ans après, le Parti
+pirate (PP) suédois devient le troisième parti politique en
+nombre de membres. Lors des élections européennes de
+juin 2009, Christian engström, son vice- président (ancien
+militant de l’organe libéral Parti du peuple), entre au
+parlement européen avec amelia andersdotter, donnant
+ainsi une crédibilité élective à un mouvement qui n’était
+jusqu’alors perçu que comme une initiative incongrue,
+visant surtout à publiciser les démêlés judiciaires des
+fondateurs de Pirate Bay, un site de partage de torrents31.
+D’autres partis pirates vont voir le jour et se fédérer, en
+2007, au sein du Parti pirate international, qui compte
+aujourd’hui plus d’une trentaine de représentations natio-
+nales et presque autant de groupes sympathisants ou
+observateurs, dont certains ont réussi à obtenir des man-
+dats électifs : en allemagne, en autriche ou en Islande
+où ils occupent plusieurs sièges au sein des parlements
+régionaux ou nationaux.
+30. Oskar Niedermayer, Die Piraten Partei, Berlin, Springer,
+2013 ; Christoph Bieber et Claus Leggewie (hrsg.), unter Piraten.
+erkundungen in einer neuen politischen arena, Bielefeld,
+Transcript Verlag, 2012.
+31. Les torrents sont les flux numériques permettant le partage
+et le téléchargement de contenus numériques souvent, mais pas
+toujours, protégés par le droit d’auteur.
+Mediactivistes.indb 168 24/10/13 16:33
+)82.921.452.491
+:PI(
+elliL
+ed
+étisrevinU
+aiv
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| oP
+secneicS
+ed
+sesserP
+individuaLiSation et auto-organiSation 169
+Le Parti pirate français est fondé la même année que
+son homologue suédois, à la veille du vote de la loi rela-
+tive au droit d’auteur et aux droits voisins dans la société
+de l’information (DaDVSI)32. en sus des revendications
+« historiques » concernant le libre accès au savoir et à la
+culture, il milite pour la défense des droits de l’homme
+et des libertés civiques, pour l’indépendance de la jus-
+tice, la transparence de la vie politique, l’ouverture des
+données publiques, la neutralité du Net. Il s’oppose à la
+création de la Haute autorité pour la diffusion des œuvres
+et la protection des droits sur internet (HaDOPI), ainsi
+qu’aux lois d’orientation et de programmation pour (la
+performance de) la sécurité intérieure (LOPSI et LOPPSI2),
+et dénonce plus largement les projets de loi et accords
+internationaux de type SOPa, PIPa, aCTa, etc., lesquels
+proposent de renforcer les procédures de surveillance
+et de contrôle étatique de l’internet au nom de la lutte
+contre le terrorisme, la contrefaçon ou la pédocriminalité.
+Inexistant sur l’échiquier politique français, peu médiatisé
+et n’ayant aucun élu, le PP français ne compte à ce jour
+que quelques centaines d’adhérents. Son activité la plus
+visible est numérique (constitution de communautés en
+ligne par exemple).
+Les objectifs du Parti pirate tiennent donc pour l’essen-
+tiel à la défense du droit d’expression (en ligne) et vise à
+s’opposer à toutes les politiques numériques, notamment
+commerciales et étatiques, permettant de brider, d’une
+quelconque manière, la liberté de créer, de produire,
+de diffuser et de s’approprier toutes formes de contenu
+32. Antoine Deschamps, Le Parti pirate, mémoire de master 2 en
+science politique, Amiens, université Picardie-Jules Verne, 2012.
+Mediactivistes.indb 169 24/10/13 16:33
+)82.921.452.491
+:PI(
+elliL
+ed
+étisrevinU
+aiv
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| oP
+secneicS
+ed
+sesserP
+170 médiactiviSteS
+symbolique. Les monopoles privés, les lobbies industriels,
+les droits d’auteur, les dispositifs de gestion numérique
+des restrictions d’usage (DrM), le principe du copyright,
+le dépôt de brevets, etc., sont reconsidérés au profit
+d’un usage libre et non commercial des œuvres et d’un
+développement des réseaux peer to peer. Si la critique
+expressiviste se greffe naturellement à la dénonciation
+du droit d’auteur limitant les échanges entre internautes,
+elle défend aussi farouchement le droit à la vie privée. Le
+fait que la valeur des services repose toujours davantage
+sur la contribution active des internautes et notamment
+sur leur expressivité invite le Parti pirate à insister sur les
+problèmes d’intrusion dans la sphère privée, de croise-
+ment des informations et de fichage des personnes par des
+puissances tutélaires, lesquelles disposent plus que jamais
+des technologies leur permettant de bafouer certains prin-
+cipes de liberté publique (à l’instar des programmes de
+surveillance des télécommunications comme echelon et
+plus récemment Prism, mis en place par les États-unis).
+Si ces revendications ne sont pas inédites, la nou-
+veauté tient toutefois au fait qu’elles sont ici portées
+par des collectifs qui s’appuient sur la forme parti et
+investissent les champs politiques nationaux davantage
+que « l’espace des mouvements sociaux33 », alors même
+qu’une frange non négligeable de ces groupements est,
+de fait, composée d’individus qui se revendiquent d’obé-
+dience libertaire. Outre cette contradiction apparente, les
+partis pirates ne sont pas exempts de positionnements
+ambigus qui pourraient parfois contenter aussi bien les
+33. Lilian Mathieu, Comment lutter ? Sociologie et mouvements
+sociaux, Paris, Textuel, 2004.
+Mediactivistes.indb 170 24/10/13 16:33
+)82.921.452.491
+:PI(
+elliL
+ed
+étisrevinU
+aiv
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| oP
+secneicS
+ed
+sesserP
+individuaLiSation et auto-organiSation 171
+tenants d’un libéralisme débridé (rickard Falkvinge se
+présente par exemple comme un « ultra-capitaliste » et a
+milité dans sa jeunesse au sein d’un parti conservateur de
+centre droit) que les plus fervents militants de l’internet
+non marchand. La racine libertaire de la revendication
+expressiviste, lorsqu’elle entre dans l’espace contraint de
+la politique représentative, peut aussi bien s’accrocher aux
+propositions politiques libérales que socialistes. L’usage
+de la forme parti conduit en effet le PP à prendre aussi
+en charge la thématique contre-hégémonique de la cri-
+tique de la représentation politique afin de lui opposer
+un contre-modèle. en cela, les initiatives du PP semblent
+rompre de manière nette avec les ressorts les plus tra-
+ditionnels de l’agir politique. Légaliste et se réclamant
+de la « boussole républicaine », le Parti pirate français
+affirme dans le même temps vouloir « hacker la poli-
+tique » (c ’est-à-dire se servir des élections pour détourner
+la politique et « fabriquer » autre chose à partir d’elle) et
+s’appuyer sur la mise en place d’une « démocratie liquide »
+ou « intera ctive », revisitant les manières de construire des
+communautés politiques. Jouant le jeu de la représentation
+politique, le PP prétend ainsi en changer les règles, instau-
+rant des formes de mandat impératif permettant de faire
+de la politique depuis le réseau expressif des personnes,
+en refusant le processus, jugé mortifère, de la délégation
+et de la professionnalisation politique.
+Cette prétention s’incarne notamment dans un dis-
+positif open source appelé « LiquidFeedback », tachant
+d’inscrire matériellement, par des scripts logiciels, de
+nouvelles potentialités participatives et coopératives afin
+de mettre sous le contrôle du plus grand nombre déci-
+sions et délibérations. Les votes exprimés en assemblée
+Mediactivistes.indb 171 24/10/13 16:33
+)82.921.452.491
+:PI(
+elliL
+ed
+étisrevinU
+aiv
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| oP
+secneicS
+ed
+sesserP
+172 médiactiviSteS
+par les élus du PP sont préalablement discutés, argu-
+mentés et commentés en ligne par les membres du parti.
+Le LiquidFeedback systématise la tenue de débats et de
+référendums, et soutient une logique de délégations tran-
+sitives aux plus experts (lesquels peuvent cumuler les pro-
+curations – proxy voting34), implémentant ainsi les règles
+d’un espace public numérique dont est censée sortir une
+gouvernance plus participative. Si l’outil ne fait pas l’una-
+nimité, notamment au vu de sa complexité technique et
+thématique (la plate-forme est organisée en catégories puis
+en domaines et en sujets), il est censé inciter à la mise en
+place d’une démocratie directe à base de consultations
+permanentes émanant « du bas » et cadrées par des pro-
+cédures portées par des technologies garantissant la mise
+en œuvre d’un mandat réellement impératif. Dans les faits,
+le LiquidFeedback rencontre les problèmes classiques des
+dispositifs participatifs : participation faible et concentra-
+tion du pouvoir dans les mains des plus experts, auxquels
+s’adjoignent des « superdélégués » pouvant représenter à
+eux seuls plusieurs centaines de voix. À l’évidence, la délé-
+gation technique ne permet pas de supprimer les logiques
+sociales de reconnaissance et de concentration de certaines
+formes de capital (technique, symbolique, social, militant,
+etc.) qui restent des ressources essentielles dans l’établisse-
+ment des rapports de force et pèsent sur la tenue des votes.
+Malgré ces difficultés, les innovations politiques des
+partis pirates sont intéressantes à plusieurs titres. en
+premier lieu, elles relancent, à l’ère du numérique, de la
+dématérialisation, de l’abondance et de la prolifération des
+34. James Green-Armytage, « Voluntary Delegation as the Basis for
+a Future Political System », Santa Barbara (Calif.), University of
+California, 2010, http://www.econ.ucsb.edu/~armytage/proxy2010.pdf
+Mediactivistes.indb 172 24/10/13 16:33
+)82.921.452.491
+:PI(
+elliL
+ed
+étisrevinU
+aiv
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| oP
+secneicS
+ed
+sesserP
+individuaLiSation et auto-organiSation 173
+contenus symboliques, les revendications qui avaient été
+portées par certaines mobilisations plus anciennes quant
+à la liberté d’expression et à la circulation des contenus
+informationnels (voir chapitre 3), que le slogan Let data
+flow du réseau Telecomix incarne bien. Ce combat pour la
+production et la diffusion de contenus immatériels libres
+de droit et le partage de l’information, de la culture et de
+la connaissance rentre par ailleurs en résonance avec les
+mouvements des hacklabs et fablabs35. Ils ont, eux aussi, le
+mérite de reposer à nouveaux frais, depuis une perspective
+technocentrée, la question de l’appropriation des outils de
+production et de l’autogestion, dont on voit qu’elle s’arrime
+assez naturellement à la lutte pour les droits et libertés
+fondamentales et pourrait, à ce titre, de nouveau rencontrer
+la critique contre-hégémonique. À leur manière, les ques-
+tionnements des partis pirates permettent de réintroduire
+des problématiques autour des rapports techniques et des
+rapports sociaux de production, de la forme marchandise,
+de la valeur d’usage, du travail abstrait ou encore du pira-
+tage de la valeur opéré par le capitalisme36, autant de thé-
+matiques qui mettent au cœur de la critique les conventions
+capitalistes prévalant au sein des sociétés contemporaines,
+ainsi que leur évolution sous le coup de la numérisation du
+signe et du développement du travail cognitif37. Toutefois,
+35. Neil Gershenfeld, Fab: The Coming revolution on Your
+Desktop. From Personal Computers to Personal Fabrication, New
+York (N.Y.), Basic Books, 2007 ; Chris Anderson, Makers. La
+nouvelle révolution industrielle, Paris, Pearson, 2012.
+36. Lawrence Lessig, « Industries de la culture, pirates et
+‘‘culture libre’’ », Critique, 733-734, 2008, p. 510-518.
+37. Yann Moulier Boutang, Le Capitalisme cognitif. La nou-
+velle grande transformation, Paris, Éditions Amsterdam, 2007 ;
+Trebor Scholz (ed.), Digital Labor. The Internet as Playground
+and Factory, Londres, Routledge, 2013.
+Mediactivistes.indb 173 24/10/13 16:33
+)82.921.452.491
+:PI(
+elliL
+ed
+étisrevinU
+aiv
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| oP
+secneicS
+ed
+sesserP
+174 médiactiviSteS
+cet accrochage avec la critique contre-hégémonique qui
+pourrait favoriser l’extension des exigences d’autonomie
+et de coopération jusqu’au travail ne semble pas à l’agenda
+des partis pirates qui, pour l’heure, paraissent plus à l’aise
+pour se connecter à d’autres revendications, généralement
+de type sociétal : légalisation du cannabis, développement
+des énergies renouvelables, mise en place d’un revenu uni-
+versel, etc., qui les rapprochent encore un peu plus des
+positions des partis écologistes qu’ils ont d’ailleurs rejoints
+au Parlement européen au sein du groupe les Verts-alliance
+libre européenne. S’ils considèrent ne pas devoir prendre
+position sur des sujets éloignés de leurs préoccupations ori-
+ginelles tenant à la liberté d’expression et d’accès aux patri-
+moines culturels et scientifiques de l’humanité, ils estiment
+cependant que, la médiation technique ayant pénétré tous
+les sphères sociales, l’ouverture à d’autres causes est une
+conséquence inévitable. Tout comme l’écologie politique
+sensibilisant à ses débuts à l’environnement « naturel » et
+au rapport homme-nature, la piraterie politique publicise
+des motifs qui ne sont pas à l’agenda des autres forma-
+tions politiques et tente de faire de l’environnement techno-
+logique, du rapport homme-technique et de la défense de la
+culture libre, des enjeux politiques qui convergent vers la
+mise en œuvre d’une démocratie participative d’un nouveau
+genre. La structure de la pensée pirate est donc potentiel-
+lement des plus larges, mais sa véritable originalité tient à
+son entrée singulière de et dans la chose politique.
+Les partis pirates font en effet rentrer la technique au
+sein du champ politique, certes après d’autres (l’écolo-
+gie politique, le mouvement des logiciels libres), mais de
+manière plus évidente, et surtout plus large, en investis-
+sant divers espaces politiques nationaux. Les initiatives
+Mediactivistes.indb 174 24/10/13 16:33
+)82.921.452.491
+:PI(
+elliL
+ed
+étisrevinU
+aiv
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| oP
+secneicS
+ed
+sesserP
+individuaLiSation et auto-organiSation 175
+des partis pirates permettent de rapprocher le statut d’usa-
+ger d’internet et celui de citoyen, autant pour ne pas faire
+oublier aux hackers qu’ils sont aussi susceptibles de peser
+sur les pouvoirs publics, de prendre la place du légis-
+lateur, que pour faire prendre conscience aux citoyens
+« ordinaires » qu’ils sont membres d’une société qui se
+technologise toujours davantage, dimension sur laquelle
+ils sont invités à poser un regard critique et politique.
+aussi, pour certains, la raison d’être des partis pirates
+serait d’« exprimer des constructions politiques origi-
+nales, précieuses pour penser un monde qui, parce qu’il
+est technicisé, est menacé par la dépolitisation38 ». Placer
+la technique au cœur de la réflexion politique, c’est insis-
+ter sur le fait que les technologies ne sont jamais neutres
+et seulement fonctionnelles, qu’elles guident les conduites
+et que, par conséquent, elles devraient être mises sous
+contrôle démocratique. Fondamentalement, les technolo-
+gies, qu’elles soient ou non numériques, cadrent les vies
+des sujets sociaux, les organisent et leur font prendre des
+chemins particuliers selon les intérêts de ceux qui les ont
+créées, les possèdent et/ou les régulent. Dans le sillage
+de la tradition critique, les partis pirates considèrent en
+quelque sorte que ce n’est que lorsque « nous compren-
+drons la nature subordonnée de la position à laquelle
+nous sommes assignés dans les systèmes techniques […]
+que nous commencerons à intervenir au niveau de leur
+conception en faveur d’une vie qui ait un sens et d’un
+environnement qui soit habitable39 ».
+38. Nicolas Auray, « Pirates en réseau : détournement, prédation
+et exigence de justice », esprit, 7, 2009, p. 168-179.
+39. Andrew Feenberg, (re)penser la technique. Vers une techno-
+logie démocratique, Paris La Découverte, 2004, p. 18-19.
+Mediactivistes.indb 175 24/10/13 16:33
+)82.921.452.491
+:PI(
+elliL
+ed
+étisrevinU
+aiv
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| oP
+secneicS
+ed
+sesserP
+176 médiactiviSteS
+enfin, les innovations politiques des partis pirates
+déplacent les instruments traditionnels de l’investissement
+et de la production politiques. Outre les procédures orga-
+nisationnelles offrant une souplesse plus importante de
+l’engagement et les normes de délibération qui élargissent
+potentiellement le cercle des « concernés », les outils les
+plus classiques, comme les programmes, se voient reconfi-
+gurer, avec, en l’occurrence, une partie obligatoire et une
+optionnelle, laquelle peut ou non faire partie de la profes-
+sion de foi des candidats pirates. On peut faire l’hypothèse
+que le renouvellement des procès de politisation tels qu’ils
+se donnent ici à voir est pour partie l’expression d’indivi-
+dus qui envisagent la constitution d’une communauté à
+partir de leurs expériences et des pratiques sociales qu’ils
+tirent de leurs usages des technologies numériques d’infor-
+mation et de communication. De manière sans doute par
+trop rapide, on pourrait affirmer que leurs manières de
+faire viennent d’internet. attachés à la figure du réseau
+qui n’agrège pas mais « réticule » des nœuds, ils réinter-
+rogent la place du sujet dans la constitution d’un nous
+via le modèle de la connexion dont ils font la forme pri-
+vilégiée de la constitution communautaire. et si internet
+est évidemment l’endroit où l’émergence de ce type de
+collectif paraît le plus évident, il semble également s’ex-
+porter in real life et influencer d’une nouvelle manière les
+cadres pratiques de l’action collective. On peut en effet
+penser que les répertoires d’actions mobilisés par des
+mouvements comme les Indignés (le mouvement 15-M)
+ou certaines actions de type Take the square (rappelant
+les TaZ d’Hakim Bey), menées lors des printemps arabes
+(Tunisie, Égypte), d’érable (Québec) ou plus récemment en
+Turquie (occupation de la place Taksim et du parc Gezi
+Mediactivistes.indb 176 24/10/13 16:33
+)82.921.452.491
+:PI(
+elliL
+ed
+étisrevinU
+aiv
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| oP
+secneicS
+ed
+sesserP
+individuaLiSation et auto-organiSation 177
+d’Istanbul), empruntent très certainement au réseau et à
+son parangon internet ; pas seulement comme techno-
+logies (im)matérielles d’information et de communica-
+tion, mais également comme technologies intellectuelles
+susceptibles d’organiser une structure oppositionnelle
+labile dont la principale force tiendrait précisément en
+l’expression directe de la communauté40. Ici, la produc-
+tion des standards de la lutte n’est pas l’émanation d’une
+instance supérieure et décisionnaire, mais de l’ensemble
+des membres de la communauté qui ne délèguent pas et
+s’organisent spontanément. Pour autant, ces mobilisations
+citoyennes auto-organisées suffisent-elles à construire de
+véritables alternatives politiques promptes à mettre réel-
+lement en difficulté l’ordre social ? Certains observateurs
+impliqués du mouvement Occupy semblent finalement en
+douter, car, si « les soulèvements spontanés ont souvent
+l’impression de sortir de nulle part et de pouvoir s’étendre
+partout, [il faut] aussi des approches systématiques pour
+obtenir le changement41 », mais aussi pour éviter que l’au-
+tonomie de façade ne cache des formes de confiscation
+bureaucratique du pouvoir.
+40. Klaus Raab, Wir sind online – wo seid ihr? Von wegen
+dumm gesurft! Die unterschätzte Generation, Munic, Blanvalet,
+2012.
+41. entretien avec Maria Poblet, membre d’Occupy Oakland,
+http://www.bastamag.net/article3067.html#nb1
+Mediactivistes.indb 177 24/10/13 16:33
+)82.921.452.491
+:PI(
+elliL
+ed
+étisrevinU
+aiv
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| oP
+secneicS
+ed
+sesserP

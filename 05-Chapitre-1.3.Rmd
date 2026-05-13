@@ -1,7 +1,7 @@
 \addtocontents{toc}{\protect\setcounter{tocdepth}{2}}
-## La convergence des médias indépendants vers un cadrage de mise en cause systématique définit empiriquement la rationalité critique construite en opposition à la rationalité narrative.
+## La convergence des médias alternatifs vers un cadrage de mise en cause systématique définit empiriquement la rationalité critique construite en opposition à la rationalité narrative.
 
-D'abord, ce que sous tend notre précédente hypothèse est que ce qui distingue les médias est une rationalisation différente de l'information, le récit pour les médias dominants, l'analyse critique pour les indépendants. Afin de penser cette conjecture d'un point de vue quantitatif, nous proposons de construire différents indicateurs. A partir des ces derniers, nous pourrons déterminer plus en détails les caractéristique de la rationalité critique et narrative. Notre premier indicateur est fondé sur la récurrence d'opérations de mise en cause. Nous postulons que c'est à travers celle-ci que les médias alternatifs expriment le plus leur rationalité critique. C'est en mettant en cause un récit, que l'analyse critique se construit. Ensuite, nous mettrons en place deux indicateurs que l'on suppose de rationalité narrative, l'un grammatical (proportion de verbes finis au passé), l'autre référentiel (densité d'entités nommées de lieux et de personnes). Finalament, nous réaliserions une analyse en composantes principales (ACP ; dont nous détaillerons le fonctionnement), dans l'objectif de synthétiser l'ensemble des indicateurs construits depuis le début du chapitre dans un espace factoriel commun, c'est-à-dire d'utiliser ensemble nos indicateurs pour construire les profils terminaux de nos rationalités.
+D'abord, ce que sous tend notre précédente hypothèse est que ce qui distingue les médias est une rationalisation différente de l'information, le récit pour les médias dominants, l'analyse critique pour les alternatifs. Afin de penser cette conjecture d'un point de vue quantitatif, nous proposons de construire différents indicateurs. A partir des ces derniers, nous pourrons déterminer plus en détails les caractéristique de la rationalité critique et narrative. Notre premier indicateur est fondé sur la récurrence d'opérations de mise en cause. Nous postulons que c'est à travers celle-ci que les médias alternatifs expriment le plus leur rationalité critique. C'est en mettant en cause un récit, que l'analyse critique se construit. Ensuite, nous mettrons en place deux indicateurs que l'on suppose de rationalité narrative, l'un grammatical (proportion de verbes finis au passé), l'autre référentiel (densité d'entités nommées de lieux et de personnes). Finalament, nous réaliserions une analyse en composantes principales (ACP ; dont nous détaillerons le fonctionnement), dans l'objectif de synthétiser l'ensemble des indicateurs construits depuis le début du chapitre dans un espace factoriel commun, c'est-à-dire d'utiliser ensemble nos indicateurs pour construire les profils terminaux de nos rationalités.
 
 ### La mise en cause systématique est un marqueur de la rationalité critique
 
@@ -83,7 +83,7 @@ ggplot(logos_crit, aes(x = source, y = crit_dens, fill = source)) +
   )
 ```
 
-La figure \ref{fig:graph-critique} fait apparaître une différence statistiquement significative entre les médias, différence confirmée par le test de Kruskal-Wallis. Blast et *Le Média* mobilisent significativement plus de marqueurs de mise en cause que le JT de France 2. Ce résultat valide directement la conjecture posée en conclusion du [I.2](#1-2) : les médias indépendants ne se contentent pas d'utiliser plus de connecteurs logiques mais les utilisent au service d'une opération discursive définie, celle de la contestation systématique de représentations établies.
+La figure \ref{fig:graph-critique} fait apparaître une différence statistiquement significative entre les médias, différence confirmée par le test de Kruskal-Wallis. Blast et *Le Média* mobilisent significativement plus de marqueurs de mise en cause que le JT de France 2. Ce résultat valide directement la conjecture posée en conclusion du [I.2](#1-2) : les médias alternatifs ne se contentent pas d'utiliser plus de connecteurs logiques mais les utilisent au service d'une opération discursive définie, celle de la contestation systématique de représentations établies.
 
 ### fdgfdgf
 
@@ -197,7 +197,7 @@ ggplot(narr_tense, aes(x = source, y = past_ratio, fill = source)) +
   )
 ```
 
-La figure \ref{fig:graph-narratif-tense} montre des résultats plus nuancés que les précédentes. Cependant, la différence entre France 2 et les médias indépendants reste statistiquement significative (*p<0.05*). On observe une utilisation plus importante de temps du passé chez France 2. Grâce à la méthode par lexique opaque, ce résultat démontre que le discours de France 2 est structurellement plus ancré dans le passé. Néanmoins, il faut noter que la taill d'effet reste modérée ce qui nous invite à ne pas expliquer la mise en récit de France 2 que par la variable des temps du passé. Etudions désormais les résultats de densité de lieux et de personnes.  
+La figure \ref{fig:graph-narratif-tense} montre des résultats plus nuancés que les précédentes. Cependant, la différence entre France 2 et les médias alternatifs reste statistiquement significative (*p<0.05*). On observe une utilisation plus importante de temps du passé chez France 2. Grâce à la méthode par lexique opaque, ce résultat démontre que le discours de France 2 est structurellement plus ancré dans le passé. Néanmoins, il faut noter que la taill d'effet reste modérée ce qui nous invite à ne pas expliquer la mise en récit de France 2 que par la variable des temps du passé. Etudions désormais les résultats de densité de lieux et de personnes.  
 
 
 ```{r graph-narratif-entites, fig.cap="Densités de lieux et de personnes selon les médias", fig.width=10, fig.height=5}
@@ -283,7 +283,7 @@ g_loc + g_pers + plot_annotation(
 )
 ```
 
-La figure \ref{fig:graph-narratif-entities} nous permet de dégager deux résultats. D'abord, comme attendu, France 2 mobilise d'avantage de lieu que Blast ou *Le Média*, et cela de façon statistiquement significative. Le second résultat, lui, est à rebourd de ce que l'on aurait pu attendre. En effet, il place les médias indépendants comme mobilisant statistiquement plus de personnes dans leur discours. En réalité, cela ne contredit pas notre hypothèse d'une dynamique discursive critique chez les médias indépendants plutôt que narrative car l'appel aux personnes, aux institutions, à la parole émise est nécessaire pour conduire une analyse critique. 
+La figure \ref{fig:graph-narratif-entities} nous permet de dégager deux résultats. D'abord, comme attendu, France 2 mobilise d'avantage de lieu que Blast ou *Le Média*, et cela de façon statistiquement significative. Le second résultat, lui, est à rebourd de ce que l'on aurait pu attendre. En effet, il place les médias alternatifs comme mobilisant statistiquement plus de personnes dans leur discours. En réalité, cela ne contredit pas notre hypothèse d'une dynamique discursive critique chez les médias alternatifs plutôt que narrative car l'appel aux personnes, aux institutions, à la parole émise est nécessaire pour conduire une analyse critique. 
 
 Par ailleurs, il faut noter que le commentaire que nous avons mené des figures \ref{fig:graph-narratif-tense} et \ref{fig:graph-narratif-entities} est succint car, en eux mêmes et pris de façon isolés, ces graphiques ne permettent pas de dégager une caractérisation globale des médias. En réalité, nous pouvons les considérés comme des éléments saillants qui par l'ACP à venir seront pleinement exploités. 
 
@@ -345,10 +345,10 @@ p_ind <- fviz_pca_ind(res_pca,
 ggarrange(p_var, p_ind, ncol = 2)
 ```
 
-La figure \ref{fig:graph-acp} confirme les conjectures issues des analyses précédentes. D'abord notons que le plan factoriel concentre près de deux tiers de la variabilité de nos données sur ses deux premiers axes (Dim. 1 = 41,7 %, Dim. 2 = 22,1 %), ce qui est grandement satisfaisant compte tenu de la complexité de nos corpus. Ensuite, les ellipses de confiance de Blast et de *Le Média* se recouvrent largement, tandis que celle de France 2 occupe une zone bien plus distincte et plus compacte. Alors, le recouvrement des deux premières peut s'interpréter ainsi : sur la base de l'ensemble des indicateurs rhétoriques mobilisés, les profils discursifs des deux médias indépendants sont stastiquement similaires. Aussi, il faut préciser que la compacité de l'ellispe de France 2 s'explique sûrement par l'homogénéité du corpus (transcriptions de JT) contrairement aux médias indépendants dont les transcritpions sont issues de vidéos au format bien plus varié. Néanmoins, sa place dans l'espace factoriel reste significative car opposé des médias indépendants. 
+La figure \ref{fig:graph-acp} confirme les conjectures issues des analyses précédentes. D'abord notons que le plan factoriel concentre près de deux tiers de la variabilité de nos données sur ses deux premiers axes (Dim. 1 = 41,7 %, Dim. 2 = 22,1 %), ce qui est grandement satisfaisant compte tenu de la complexité de nos corpus. Ensuite, les ellipses de confiance de Blast et de *Le Média* se recouvrent largement, tandis que celle de France 2 occupe une zone bien plus distincte et plus compacte. Alors, le recouvrement des deux premières peut s'interpréter ainsi : sur la base de l'ensemble des indicateurs rhétoriques mobilisés, les profils discursifs des deux médias alternatifs sont stastiquement similaires. Aussi, il faut préciser que la compacité de l'ellispe de France 2 s'explique sûrement par l'homogénéité du corpus (transcriptions de JT) contrairement aux médias alternatifs dont les transcritpions sont issues de vidéos au format bien plus varié. Néanmoins, sa place dans l'espace factoriel reste significative car opposé des médias alternatifs. 
 
 Alors, cette ACP nous permet donc de définir ce que l'on a conjecturé dans la partie [1.2](#1-2). L'ACP permet de donner une définition statistique de ce que l'on a nommé rationalité critique et rationalité narrative. 
-La première, la rationnalité critique, est principalement exprimée par la densité de connecteurs logiques, de mise en cause critique et dans une moindre mesure de personnes et d'émotion. 
+La première, la rationnalité critique, est principalement exprimée par la densité de connecteurs logiques, de mise en cause critique et dans une moindre mesure de personnes. Aussi, la densité émotionnelle se positionne du même côté du plan factoriel mais sa contribution est trop faible pour la considérer comme constitutibe du profil critique.
 La seconde, la rationalité narrative, est principalement exprimée par la densité de statistique, de lieux et de verbes au passé.
 Dès lors, on observe donc bien deux pôles médiatiques. Le pôle narratif, à droite de l'axe vertical de l'ACP, est celui du récit chiffré et situé dans l'espace et le temps. En opposition, à gauche de l'axe vertical de l'ACP, on retrouve le pôle critique, c'est-à-dire le pôle de la mise en cause argumentée passant par la nomination des adversaires. Ces deux pôles constituent deux rationalisations différentes de l'information. Notons que le recouvrement visible des ellipses nous permet d'affirmer que ces rationalités ne sont pas opaques l'une de l'autre, ces concepts sont relativement mouvants et pas typologiquement isolés l'un de l'autre.
 
@@ -356,7 +356,7 @@ Finalement, cette lecture et caractérisation des médias n'est pas issue de pr�
 
 ### Conclusion : la rationalité critique comme convergence empirique
 
-Au terme de ce premier chapitre, nous avons démontré que la distinction pathos / logos ne suffisait pas pour marquer une distinction claire entre média dominant et média audiovisuel indépendant numérique. Si, comme nous l'avions vu dans [l'état de l'art](#sec-etat-art), cette distinction suffisait à caractériser des médias indépendants type *Rue89*, notre analyse démontre qu'elle n'est pas valable pour des médias indépendants type Blast ou *Le Média*. 
+Au terme de ce premier chapitre, nous avons démontré que la distinction pathos / logos ne suffisait pas pour marquer une distinction claire entre média dominant et média audiovisuel alternatif numérique. Si, comme nous l'avions vu dans [l'état de l'art](#sec-etat-art), cette distinction suffisait à caractériser des médias alternatifs type *Rue89*, notre analyse démontre qu'elle n'est pas valable pour des médias alternatifs type Blast ou *Le Média*. 
 C'est pourquoi, à la lumière des résultats liés aux connecteurs logiques ayant fait émergé l'hypothèse d'une distinction narration / critique, il nous a été nécessaire de compléter ces indicateurs par de nouveaux marqueurs. Ensuite, grâce à la réalisation d'une ACP nous avons pu distinguer clairement deux profils que l'on a nommé rationalité critique et rationalité narrative.  
 Dès lors, nous pouvons dresser le tableau résumé suivant.
 
@@ -365,36 +365,36 @@ synthese_ch1 <- tibble(
   Indicateur   = c(
     "Densité émotionnelle (FEEL)",
     "Connecteurs logiques",
-    "Chiffres et statistiques",
     "Marqueurs de mise en cause",
     "Personnes",
     "Verbes au passé",
-    "Lieux"
+    "Lieux",
+    "Chiffres et statistiques"
   ),
   KW_p         = c(
     signif(kw_emot$p,    3),
     signif(kw_conn$p,    3),
-    signif(kw_stat$p,    3),
     signif(kw_crit$p,    3),
     signif(kw_narr_p$p,  3),
     signif(kw_narr_t$p,  3),
-    signif(kw_narr_l$p,  3)
+    signif(kw_narr_l$p,  3),
+    signif(kw_stat$p,    3)
   ),
   Effet        = c(
     round(es_emot$effsize,    3),
     round(es_conn$effsize,    3),
-    round(es_stat$effsize,    3),
     round(es_crit$effsize,    3),
     round(es_narr_p$effsize,  3),
     round(es_narr_t$effsize,  3),
-    round(es_narr_l$effsize,  3)
+    round(es_narr_l$effsize,  3),
+    round(es_stat$effsize,    3)
   ),
   Rationalité_majoritairement_exprimée = c(
-    "Plutôt rationalité critique (différenciation peu marquée)",
+    "Non discriminant",
+    "Rationalité critique",
+    "Rationalité critique",
     "Rationalité critique",
     "Rationalité narrative",
-    "Rationalité critique",
-    "Rationalité critique",
     "Rationalité narrative",
     "Rationalité narrative"
   )
@@ -410,3 +410,4 @@ synthese_ch1 |>
 ```
 
 Cette première démonstration appelle néanmoins un prolongement. Si la rationalité critique se laisse repérer à la surface du discours, encore faut-il en chercher la cause : pourquoi les médias alternatifs convergent-ils précisément sur cette rationalité, et pourquoi le média dominant s'en écarte-t-il ? Pour chercher à répondre à cette question, il est nécessaire de laisser les statistiques de côté et de se pencher vers les discours des agents eux-mêmes. C'est pourquoi, nous allons, à partir de nos entretiens semi-directifs, chercher à saisir comment le couple narration / critique structure pré-réflexivement la pratique journalistique. Tel est l'objet du chapitre suivant.
+Par ailleurs, notons que dans la suite du mémoire, nous entendrons par *fluide* l'effet des trois indicateurs narratifs car permettant un ancrage référentiel dans les lieux, le temps et les chiffres.

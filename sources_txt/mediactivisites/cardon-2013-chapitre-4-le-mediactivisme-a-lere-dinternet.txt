@@ -1,0 +1,1553 @@
+Chapitre 4. Le médiactivisme à l'ère d'internet
+Dominique Cardon, Fabien Granjon
+Dans Médiactivistes 2013 , pages 83 à 114
+Éditions Presses de Sciences Po
+ISSN 1962-6274
+ISBN 9782724614312
+Date de mise en ligne : 01/02/2014
+Article disponible en ligne à l’adresse
+https://shs.cairn.info/mediactivistes--9782724614312-page-83?lang=fr
+Découvrir le sommaire de ce numéro, suivre la revue par email, s’abonner...
+Scannez ce QR Code pour accéder à la page de ce numéro sur Cairn.info.
+Distribution électronique Cairn.info pour Presses de Sciences Po.
+Vous avez l’autorisation de reproduire cet article dans les limites des conditions d’utilisation de Cairn.info ou, le cas échéant, des conditions générales de la licence souscrite par votre
+établissement. Détails et conditions sur cairn.info/copyright.
+Sauf dispositions légales contraires, les usages numériques à des fins pédagogiques des présentes ressources sont soumises à l’autorisation de l’Éditeur ou, le cas échéant, de
+l’organisme de gestion collective habilité à cet effet. Il en est ainsi notamment en France avec le CFC qui est l’organisme agréé en la matière.
+pitre 4
+cha
+Le médiactivisme
+à l’ère d’internet
+La conception d’alternatives médiatiques se transforme
+sensiblement avec l’émergence des premiers réseaux télé-
+matiques et surtout d’internet comme support d’échange
+et de communication1. Les années 1980 vont être le
+théâtre de la convergence de l’informatique et des télé-
+communications. en 1978, le rapport Nora-Minc intro-
+duit le néologisme « télématique » pour qualifier cette
+nouvelle lignée technique : « aujourd’hui, l’information
+descendante est mal acceptée parce qu’elle est ressen-
+tie comme le prolongement d’un pouvoir, comme une
+manipulation : il sera de plus en plus nécessaire que ses
+destinataires soient associés à son élaboration, que les
+récepteurs soient émetteurs et que les émissions tiennent
+compte des conditions de réception. Cette participation
+ne sera acceptée que si les groupes antagonistes sont
+également capables de fabriquer, traiter et communiquer
+leur propre information. Ceci suppose que la plupart des
+citoyens puissent se constituer en collectivités ou asso-
+ciations, publiques ou privées, et s’outiller pour rassem-
+bler et exploiter l’information qui légitime leur projet2. »
+1. Fabien Granjon, L’Internet militant. Mouvement social et
+usages des réseaux télématiques, Rennes, Apogée, 2001.
+2. Simon Nora et Alain Minc, L’Informatisation de la société,
+Paris, La Documentation française/Seuil, 1978, p. 123.
+Mediactivistes.indb 83 24/10/13 16:33
+)82.921.452.491
+:PI(
+elliL
+ed
+étisrevinU
+aiv
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| oP
+secneicS
+ed
+sesserP
+84 médiactiviSteS
+Souhaitant prendre le contre-pied du mot d’ordre gis-
+cardien inspiré par ce rapport sur L’informatisation de
+la société, le président François Mitterrand lancera par
+ailleurs : « Le problème n’est pas d’informatiser la société,
+mais bien de démocratiser l’informatique3. »
+Inaugurales en un sens, ces prises de position seront
+au cœur de l’entrée du médiactivisme dans l’âge d’inter-
+net, portée par l’espoir d’élargir le cercle des producteurs
+d’information, tout en transformant le rapport passif à
+l’information en une production interactive.
+La naissance de l’internet militant
+avec l’émergence des réseaux de communication
+numériques, les ressources offertes à la conception d’al-
+ternatives médiatiques vont se transformer sensiblement.
+Si cette rupture technologique ne saurait expliquer en
+elle-même la relance d’une troisième vague de mobili-
+sation des médias alternatifs à la fin des années 1990,
+il est incontestable qu’elle présente des propriétés par-
+ticulièrement adaptées aux projets du médiactivisme :
+allègement des contraintes éditoriales, réduction dras-
+tique des coûts de diffusion, modèle de communication
+many to many (par opposition au modèle one to many
+des médias traditionnels), facilités de production coo-
+pérative et ouverture d’un espace de participation élar-
+gie permettant une plus grande interactivité. De façon
+tout à fait singulière, ce sont d’abord les militants les
+moins organisés et les groupes les plus périphériques
+qui se saisiront les premiers de ces nouvelles possibilités
+3. Armand Mattelart, « Une étape décisive : le rapport Mattelart/
+Stourdzé. Entretien avec Armand Mattelart », Dossiers de l’audio-
+visuel, 85, 1999, p. 20.
+Mediactivistes.indb 84 24/10/13 16:33
+)82.921.452.491
+:PI(
+elliL
+ed
+étisrevinU
+aiv
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| oP
+secneicS
+ed
+sesserP
+Le médiactiviSme à L’ère d’internet 85
+de communication qui privilégient l’horizontalité sur
+l’organisation verticale et hiérarchique.
+ainsi, dès le début des années 1990, les réseaux téléma-
+tiques vont être investis par quelques associations, mino-
+rités actives et groupements militants. C’est par exemple
+le cas de l’association pour la communication progressiste
+(aPC). Créé en 1988, ce réseau regroupe près de 6 000 uti-
+lisateurs de différentes organisations pacifistes, écologistes,
+spécialisées dans la défense des droits de l’homme, l’antimi-
+litarisme ou la santé. L’aPC se présente comme un réseau
+de réseaux télématiques reliant des groupements militants
+internationaux. Son objectif est de mettre à disposition un
+réseau informatique interconnecté à l’échelle mondiale per-
+mettant la diffusion d’informations militantes, l’échange
+de courriers électroniques et l’organisation de débats via
+des forums de discussion et des téléconférences. en 1984,
+les réseaux écologistes ecoNet et GreenNet organiseront
+annuellement, en réponse aux réunions du G7, les contre-
+sommets internationaux intitulés « The Open economic
+Summit (TOeS) », dont on peut considérer qu’ils auront
+été, sous certains aspects, annonciateurs des futures mobi-
+lisations altermondialistes. en 1991, le contre-sommet
+annuel de Londres sera doublé d’une mobilisation élec-
+tronique décentralisée, l’opération visant non seulement
+à mettre en ligne depuis différents lieux les documents
+officiels du G7, à en assurer la distribution et à en faire
+une critique, mais également à constituer une base docu-
+mentaire en ligne rassemblant l’expertise des membres de
+l’aPC. Fut ainsi constituée une équipe mondiale de contri-
+buteurs alimentant le réseau en analyses et en expertises 4.
+4. Peter Lewis, Les médias alternatifs, op. cit., p. 132
+Mediactivistes.indb 85 24/10/13 16:33
+)82.921.452.491
+:PI(
+elliL
+ed
+étisrevinU
+aiv
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| oP
+secneicS
+ed
+sesserP
+86 médiactiviSteS
+Le mouvement des femmes va également s’appuyer sur
+les ressources télématiques de l’aPC pour renforcer la
+construction de ses réseaux transnationaux. La prépara-
+tion de la quatrième conférence mondiale sur les femmes,
+qui s’est tenue à Beijing en 1995, va consacrer internet
+comme un outil essentiel de coordination, de mobilisation,
+et permettre au féminisme de relancer son développement
+à des niveaux d’échelle tant régionaux que nationaux ou
+mondiaux. annabelle Sreberny précise qu’à partir de 1993,
+le Women’s Networking Support Programme de l’aPC a
+formé des femmes à l’utilisation d’internet et que celui-ci a
+permis de multiplier les contacts entre organisations et la
+réalisation de projets singuliers : « Wednet (réseau femmes,
+environnement et développement) a tissé des liens entre
+sa base, établie au Canada, et des chercheurs africains ;
+Mujer a Mujer, association de femmes basée au Mexique et
+spécialisée dans les problèmes du libre-échange et des ajus-
+tements structurels, a coordonné des projets au Mexique,
+au Canada, aux États-unis et au Nicaragua. Il existe divers
+bulletins électroniques (comme Women Envision d’Isis ou
+Seawin, South East Asian Women’s Information Projects,
+aux Philippines) et d’innombrables listes d’abonnement et
+groupes de discussions, dont beaucoup fonctionnent sous
+l’égide de l’association for Progressive Communication
+(www.apc.org)5 ».
+en France, les mouvements sociaux se sont aussi très
+vite emparés des nouveaux outils électroniques pour se
+coordonner. Dès la fin des années 1980, les services fran-
+çais du vidéotex, baptisés Télétel, vont être utilisés dans
+5. Annabelle Sreberny, « Genre, autonomisation et communica-
+tion », art. cité, p. 318-319.
+Mediactivistes.indb 86 24/10/13 16:33
+)82.921.452.491
+:PI(
+elliL
+ed
+étisrevinU
+aiv
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| oP
+secneicS
+ed
+sesserP
+Le médiactiviSme à L’ère d’internet 87
+le cadre de luttes sociales. en 1988, le mouvement social
+infirmier va s’appuyer sur le forum alter*hosto, hébergé
+par le réseau alternatik, afin de faire vivre sa coordination
+nationale. L’outil télématique permet alors de construire,
+à moindre coût, un espace d’information, de discussion et
+de constitution d’un sentiment collectif pour « que la sub-
+jectivité s’exprime et s’intègre dans la lutte6 ». À la même
+période, d’autres usages syndicaux de la télématique vont
+voir le jour, par exemple au SNeS (Syndicat national des
+enseignements du second degré) lors de la mise en place
+de la coordination nationale « Les profs en colère » (1989)
+ou encore pendant la grève du ministère des Finances.
+Quelques années plus tard, le SNuI (Syndicat national
+unifié des impôts) mettra en ligne sur Mygale.org un site
+Web pour pouvoir disposer « d’un fil permanent d’infor-
+mation » et rendre publique son expertise fiscale. Le mitan
+des années 1990 signe le temps des premiers « hébergeurs
+alternatifs » qui auront bien du mal à développer une
+activité pérenne. Dépassé par son succès et sommé de quit-
+ter le réseau de recherche public renater dont il utilisait
+la bande passante, Mygale se transforma finalement en
+entreprise commerciale en 1997. altern, que son fonda-
+teur, Valentin Lacambre, définissait comme « gratuit sans
+contrepartie, ouvert à tous et d’une totale liberté d’expres-
+sion », eut à subir plusieurs procès mettant en cause sa
+responsabilité éditoriale et mit la clé sous la porte en 2000.
+Intern@tif était quant à lui affilié au parti communiste,
+6. Danièle Kergoat, « De la jubilation à la déréliction.
+L’utilisation du Minitel dans les luttes infirmières (1988-1989).
+Note de travail », dans Patrick Rozenblatt et al., Les coordina-
+tions de travailleurs dans la confrontation sociale, Paris, Futur
+Antérieur/L’Harmattan, 1994, p. 100.
+Mediactivistes.indb 87 24/10/13 16:33
+)82.921.452.491
+:PI(
+elliL
+ed
+étisrevinU
+aiv
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| oP
+secneicS
+ed
+sesserP
+88 médiactiviSteS
+mais envisageait son activité tout autant sous un angle
+entrepreneurial que militant. Globenet, enfin, proposait
+des services payants destinés aux ONG et à tous les types
+d’association tout en répondant à des nécessités de via-
+bilité économique dues à la décision de faire reposer le
+projet sur un modèle salarial.
+C’est surtout à partir de 1995, avec, d’une part, l’arri-
+vée à maturité d’internet et, d’autre part, le « retour de la
+question sociale », que le lien entre mouvements sociaux
+et réseaux de communication s’est manifesté avec le
+plus d’évidence. Pendant le mouvement de novembre-
+décembre 1995, les syndicalistes de SuD-PTT craignent de
+ne plus disposer de moyens pour communiquer entre eux
+en période de crise sociale aggravée et décident ainsi de
+créer le r@S (réseau associatif et syndical)7. avec l’aide
+d’informaticiens politisés, ils montent dans l’urgence un
+serveur dans le but de répondre aux besoins en infor-
+mation ou en communication propres aux organisations
+militantes participant à des mobilisations d’ampleur.
+Le r@S devient ainsi le principal centre de ressources
+électroniques et de partage d’expériences pour les orga-
+nisations contestataires en France. Il offrira des adresses
+électroniques et accueillera listes et sites d’organisations
+comme aC!, SuD, alternatifs, ras l’front, Cadac, Les
+Verts, Marches européennes contre le chômage, attac, etc.
+Jusqu’en 2009, date de sa dissolution, le r@S a travaillé à
+l’acculturation et à l’appropriation des technologies de la
+néotélématique par les mouvements sociaux. ayant pour
+objectif d’encourager, de faciliter et de promouvoir les
+7. Fabien Granjon et Asdrad Torrès, « R@S : la naissance d’un
+acteur majeur de l’Internet militant français », Le Temps des
+médias, 18, printemps 2012, p. 87-98.
+Mediactivistes.indb 88 24/10/13 16:33
+)82.921.452.491
+:PI(
+elliL
+ed
+étisrevinU
+aiv
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| oP
+secneicS
+ed
+sesserP
+Le médiactiviSme à L’ère d’internet 89
+usages de l’informatique connectée par les groupements
+militants « œuvrant pour les droits de la personne, les
+droits des travailleurs et le soutien aux peuples en lutte
+pour leur émancipation » (extrait des statuts), il a inauguré
+une cause et une forme d’engagement singulières, portées
+par l’exigence de construire un internet à la croisée de
+préoccupations militantes et de l’inscription de l’action
+collective dans un rapport non-marchand aux outils d’in-
+formation et de communication.
+Parallèlement, la naissance de Samizdat va offrir
+un second espace au développement d’une culture de
+l’activisme sur le réseau en France. Contrairement aux
+initiateurs du r@S qui ne possèdent pas vraiment de
+background théorique, ni pratique, lié à la construction de
+médias alternatifs, les fondateurs de Samizdat sont, eux,
+pétris de la culture autonome des centres sociaux italiens
+et des théorisations postmédiatiques chères à Guattari et
+aux militants qui avaient entrepris de monter radio alice
+à Bologne. À ses débuts, Samizdat fédère des militants
+venus des milieux libertaires (autour, en particulier, de
+la revue Quilombo) qui, depuis la guerre du Golfe, ont
+commencé à s’intéresser aux usages des technologies
+numériques de l’information et de la communication.
+Samizdat s’appuie sur un site Web et des listes de diffu-
+sion, outils qui deviendront indispensables pour l’organi-
+sation des mobilisations d’act-up ou du mouvement des
+sans-papiers. De façon significative, ce sont donc les orga-
+nisations radicales et les mouvements sociaux qui vont
+faire montre d’un usage beaucoup plus précoce et intensif
+d’internet que les organisations politiques et syndicales
+traditionnelles (à l’exception notable de SuD).
+Mediactivistes.indb 89 24/10/13 16:33
+)82.921.452.491
+:PI(
+elliL
+ed
+étisrevinU
+aiv
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| oP
+secneicS
+ed
+sesserP
+90 médiactiviSteS
+au début des années 2000, les militants altermondia-
+listes vont trouver dans le réseau des réseaux un espace
+particulièrement adapté à la construction de nouvelles
+formes de mobilisation et d’engagement. Les ressources
+d’internet seront mobilisées à la fois comme supports de
+coordination, moyens d’information et modes d’action à
+travers le nouveau répertoire d’actions du cyberactivisme8.
+un tissu d’acteurs très hétérogènes, composé de médias
+alternatifs, de watchdogs, d’associations de démocratisa-
+tion de l’accès à l’information, de groupes de pression
+visant à changer les modes de régulation de l’espace
+médiatique, d’universitaires spécialistes des questions de
+communication, de collectifs de militants de l’internet
+citoyen, etc. va alors investir le réseau des réseaux afin
+de s’engager dans les activités du mouvement altermon-
+dialiste. Fait notable, les productions informatiques sur
+internet vont également faire l’objet d’un travail de poli-
+tisation de la technique. Le mode de coopération entre
+développeurs de logiciels libres apparaît en effet à beau-
+coup de ces militants comme un véritable contre-modèle
+de société susceptible d’ouvrir de nouvelles propositions
+d’émancipation culturelle et politique. À cet égard, le
+déplacement des médias alternatifs vers internet ne consti-
+tue pas un simple changement d’infrastructure technique
+et de médium de communication, mais permet aussi à cer-
+tains acteurs du militantisme informationnel de redéfinir
+assez profondément le sens de leur lutte.
+8. Sasha Costanza-Chok, « Mapping the Repertoire of Electronic
+Contention », dans Andrew Opel et Donnalyn Pompper (eds),
+representing resistance. Media, Civil Disobedience and the
+Global Justice Movement, Westport (Conn.), Praeger, 2003,
+p. 173-191.
+Mediactivistes.indb 90 24/10/13 16:33
+)82.921.452.491
+:PI(
+elliL
+ed
+étisrevinU
+aiv
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| oP
+secneicS
+ed
+sesserP
+Le médiactiviSme à L’ère d’internet 91
+Il ne s’agit pas ici de prêter au réseau des réseaux, en
+tant que tel, un effet organisateur ou moral sur ceux qui
+l’utilisent. Mais l’histoire de sa conception, la forme de
+son architecture, les modalités d’engagement qu’il rend
+possible, etc. ont facilité l’émergence de formes d’expres-
+sion coopérative, citoyenne ou libertaire, sur le Web.
+Internet conserve en dépôt certains traits de la culture
+de ses concepteurs. Les informaticiens l’ont nourri de leurs
+pratiques de coopération, de co-conception et de récipro-
+cité bénévole. Ils ont établi des déontologies qui valorisent
+l’autonomie, le respect d’autrui, la gratuité et la liberté de
+parole. Ce faisant, les pionniers d’internet ont matérialisé
+un ensemble de valeurs qui exerce un effet persistant sur la
+forme (distribuée) du réseau, sur son organisation (libérale)
+et sur les pratiques (solidaires) des internautes9. Celles-ci
+constituent aujourd’hui encore un facteur de résistance
+aux différentes formes de marchandisation du réseau10.
+Le retour de la critique de l’hégémonie
+médiatique
+afin de comprendre comment internet, notamment à
+travers le mouvement altermondialiste, a apporté un nou-
+veau souffle aux médias alternatifs, il faut revenir sur la
+manière dont s’est redéployée la critique des médias après
+l’échec du Nomic. À la charnière des années 1970 et 1980,
+les partis de gauche des démocraties occidentales sont
+9. Patrice Flichy, L’Imaginaire d’internet, Paris, La Découverte,
+2001 ; Fred Turner, aux sources de l’utopie numérique. De la
+contre-culture à la cyberculture. Steward Brand, un homme
+d’influence, Paris, C&F Éditions, 2012.
+10. Yochai Benkler, The Wealth of Networks. How Social
+Production Transforms Markets and Freedom, New Haven (Conn.),
+Yale University Press, 2006.
+Mediactivistes.indb 91 24/10/13 16:33
+)82.921.452.491
+:PI(
+elliL
+ed
+étisrevinU
+aiv
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| oP
+secneicS
+ed
+sesserP
+92 médiactiviSteS
+souvent porteurs de projets politiques visant à réguler la
+concentration des médias et à exercer un contrôle public
+sur le développement des industries de l’information. Pour
+finir, les partis socio-démocrates abandonneront généra-
+lement leurs exigences programmatiques et participeront
+à la dérégulation du secteur de l’audiovisuel. aussi, héri-
+tière malheureuse de l’échec du Nomic, la critique contre-
+hégémonique s’est-elle considérablement essoufflée. Il
+faudra attendre le milieu des années 1990 pour assister
+au renouveau d’un certain militantisme informationnel
+qui sera pour l’essentiel relayé par les gauches radicales,
+écologistes et les associations de téléspectateurs. La cri-
+tique contre-hégémonique va alors davantage se porter
+sur les agissements des médias nationaux, plus que sur
+les inégalités internationales dans l’accès à l’information.
+robert McChesney et John Nichols11 montrent qu’aux
+États-unis, un changement de conjoncture s’est réalisé
+au milieu des années 1990 avec le développement d’une
+multitude d’initiatives citoyennes formulées par des asso-
+ciations locales, des journalistes dissidents et le tissu des
+nouveaux collectifs organisés autour de la dénonciation
+de la consommation, des marques et du commerce équi-
+table. Dans les années 1990, surtout après le tournant du
+Telecommunication act de 1996 qui allège les contrôles
+réglementaires et renforce les phénomènes de concentra-
+tion, on observe une multiplication des initiatives portées
+par des associations d’utilisateurs (comme les collectifs
+People for Better Television et Commercial alert qui pro-
+meuvent une campagne contre la commercialisation de
+11. Robert W. McChesney et John Nichols, Our Media, not
+Theirs. The Democratic Struggle against Corporate Media,
+New York (N.Y.), Seven Stories Press, 2002.
+Mediactivistes.indb 92 24/10/13 16:33
+)82.921.452.491
+:PI(
+elliL
+ed
+étisrevinU
+aiv
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| oP
+secneicS
+ed
+sesserP
+Le médiactiviSme à L’ère d’internet 93
+la culture), par des journalistes progressistes lançant des
+magazines adoptant une posture critique à l’égard des
+médias traditionnels (The Nation, The Progressive, In These
+Times, Z Magazine), par des praticiens et des observateurs
+des médias alternatifs créant des espaces de rencontre et
+de confrontation d’expériences (Media and Democracy,
+reclaim the Media Conference, Our Media not Theirs)
+et par des universitaires qui réinvestissent la question
+de la critique du pouvoir des médias en produisant une
+abondante littérature sur les biais d’information et sur les
+politiques économiques du secteur. Leurs travaux portent
+désormais moins sur les échanges internationaux que sur
+les pratiques et les effets nationaux de la concentration
+de l’information. réunissant souvent un faible nombre de
+militants, ces collectifs sont en revanche capables d’une
+forte capacité de mobilisation pour des actions ponctuelles
+et bénéficient d’une couverture relativement importante de
+leurs actions. Ils sont notamment à l’origine de nombreuses
+campagnes depuis 2000 visant à obtenir de la Federal
+Communications Commission (FCC) des licences pour les
+micro-radios communautaires, alors que la réforme de
+la réglementation américaine favorise une plus grande
+concentration des réseaux nationaux et locaux.
+La surveillance des médias : les watchdogs
+Parmi les différentes modalités de mobilisation déployées
+par la critique contre-hégémonique, celle qui enregistre le
+plus de succès dans la seconde partie des années 1980 est le
+développement de collectifs organisant une surveillance des
+médias dominants par des « chiens de garde » (watchdogs).
+Fondé en 1986, Fairness & accuracy in reporting (FaIr)
+est le premier et le plus visible de ces observatoires dans
+Mediactivistes.indb 93 24/10/13 16:33
+)82.921.452.491
+:PI(
+elliL
+ed
+étisrevinU
+aiv
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| oP
+secneicS
+ed
+sesserP
+94 médiactiviSteS
+l’espace médiatique américain. Mais il faut aussi compter
+alternet.org, développé par l’Independant Media Institute,
+Media Channel, National Coalition against Censorship ou
+encore Newswatch. Portés par des collectifs de journalistes,
+de syndicalistes des entreprises de presse et d’activistes,
+ces watchdogs posent sur le travail quotidien des grands
+réseaux d’information un regard critique démasquant leurs
+manquements, traquant les connivences entre journalistes
+et gouvernants, moquant les renvois d’ascenseur de la cri-
+tique littéraire, dénombrant les influences des think tanks
+libéraux, assurant la comptabilité des interventions des uni-
+versitaires et des intellectuels dans les médias, et relevant
+(notamment au moyen de techniques de comptage déve-
+loppées par la sociologie du journalisme américaine) les
+déformations dans la couverture des événements sociaux.
+en se déployant sur internet, ils vont acquérir une audience
+et une influence plus importante.
+en France, un type de mobilisation similaire s’est
+engagé au milieu des années 1990, avec les collectifs
+raisons d’agir, acrimed et Pour lire pas lu (PLPL), pro-
+longeant, transformant et radicalisant la critique systé-
+mique des médias entretenue de longue date par Le Monde
+diplomatique. Le renouveau de ce titre de presse dans
+la même période et la position particulière qu’occupe le
+journal dans la fondation du mouvement attac consti-
+tuent autant de témoignages du renforcement des thèses
+contre-hégémoniques dans la foulée du m ouvement social
+de 199512. Les succès des ouvrages de Pierre Bourdieu
+12. Nicolas Harvey, Le Monde diplomatique. un concept édi-
+torial hybride au confluent du journalisme, de l’université et
+du militantisme, thèse de doctorat en science politique, Rennes,
+Université de Rennes 1 (IEP), 2011.
+Mediactivistes.indb 94 24/10/13 16:33
+)82.921.452.491
+:PI(
+elliL
+ed
+étisrevinU
+aiv
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| oP
+secneicS
+ed
+sesserP
+Le médiactiviSme à L’ère d’internet 95
+(Sur la télévision, 1996), Serge Halimi (Les Nouveaux
+Chiens de garde, 1997) ou Ignacio ramonet (La Tyrannie
+de la communication, 2001) marquent aussi de façon
+significative l’émergence d’un important marché pour les
+thèses contre-hégémoniques, lequel s’est d’abord struc-
+turé autour des critiques de la couverture médiatique de
+la guerre du Golfe de 1991 avant de s’élargir en relayant
+les critiques à l’égard des effets de dépossession exer-
+cés par la clôture de l’espace journalistique. en étroite
+correspondance avec sa base sociale composée de jour-
+nalistes occupant souvent des positions marginales ou
+dissidentes et d’universitaires engagés installés eux aussi
+dans des positions souvent hétérodoxes dans leur univers,
+le travail exercé par les watchdogs permet une articulation
+entre critique interne du travail journalistique et critique
+externe du pouvoir médiatique. Les analyses produites par
+ces sites contre-experts pointent d’abord les manquements
+à la déontologie du journalisme : unilatéralisme dans les
+sources, trace de jugement de valeur, déformation des
+propos, sensationnalisme, etc.13.
+Ils renvoient ainsi vers la profession journalistique ses
+propres exigences déontologiques, réassurant les principes
+d’impartialité et d’objectivité qui participent de l’autono-
+misation de la profession journalistique. Cependant, la
+critique contre-hégémonique des médias développée par
+les watchdogs (et cela tout particulièrement en France)
+n’accorde qu’une vertu tactique à cette observation méti-
+culeuse du travail quotidien des journalistes. elle ironise
+même volontiers sur ceux qui, à l’intérieur de la sphère
+journalistique, font profession de déontologue, assurant
+13. Cyril Lemieux, Mauvaise presse, Paris, Métailié, 2000.
+Mediactivistes.indb 95 24/10/13 16:33
+)82.921.452.491
+:PI(
+elliL
+ed
+étisrevinU
+aiv
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| oP
+secneicS
+ed
+sesserP
+96 médiactiviSteS
+que l’autonomie professionnelle n’est qu’une idéologie
+d’autolégitimation lorsque les moyens de production de
+l’information sont possédés par de grands groupes indus-
+triels. Le groupe Média d’attac (2002), par exemple, n’a eu
+de cesse de souligner qu’une critique interne des médias
+« occulte corrélativement les rapports de propriété sou-
+mettant les médias et leurs propriétaires à l’exigence du
+rendement (information marchandise, articles formatés, et
+parfois censurés, par la publicité) ».
+Dans la plupart des observatoires des médias, ce
+sont des sociologues, des enseignants des écoles de
+communication et de journalisme qui occupent une place
+primordiale, fournissant à la critique ses théories de la
+domination et de l’hégémonie culturelle, prêtant ses indi-
+cateurs de multipositionnalité et ses techniques d’objecti-
+vation. aux États-unis, par exemple, c’est le département
+de sociologie de l’université de Sonoma qui, à travers le
+groupe Project Censored, publie depuis 1994 un ouvrage
+annuel sur les vingt-cinq événements que les médias
+n’ont pas couvert, échouant ainsi dans leur mission
+« d’apporter au public les informations dont il a besoin
+pour prendre les bonnes décisions dans sa vie et dans
+son vote ». Les écrits et la personne de Noam Chomsky
+jouissent par ailleurs, dans ces réseaux, d’une très forte
+influence. en dénonçant, de façon virulente, les mani-
+pulations dont se rendent coupables les grands réseaux
+américains d’information, il a pu apparaître comme le
+premier des critiques de l’ordre médiatique américain.
+Chomsky lui reproche la « marchandisation de l’informa-
+tion », « l’homogénéisation de la pensée », le « dogmatisme
+intellectuel », la « normalisation de l’imaginable », « l’em-
+poisonnement des consciences » ou encore le « nouveau
+Mediactivistes.indb 96 24/10/13 16:33
+)82.921.452.491
+:PI(
+elliL
+ed
+étisrevinU
+aiv
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| oP
+secneicS
+ed
+sesserP
+Le médiactiviSme à L’ère d’internet 97
+colonialisme symbolique ». C’est dans cet esprit que les
+militants internationaux réunis lors des premiers forums
+sociaux du mouvement altermondialiste ont lancé en
+2003 un Observatoire international des médias (Media
+Watch Global – MWG) dont Le Monde diplomatique et
+IPS ont été à l’initiative. Constitué sur le modèle de ce
+qui avait déjà été mis en place aux États-unis, au Brésil
+ou au Venezuela, le MWG a eu pour objectif de construire
+un réseau d’observatoires nationaux de surveillance des
+médias, structuré autour de trois types de participants :
+des professionnels, des universitaires et des représentants
+du public. Il reste que l’ambition de constituer ainsi un
+réseau international de critique des médias n’a pas connu
+le succès escompté par ses promoteurs.
+Nouvel activisme, nouvelles tactiques
+médiatiques
+La forme d’activisme médiatique qui, partant des
+États-unis, a connu depuis le sommet de Seattle un très
+rapide développement international suit une trajectoire
+différente et mobilise d’autres ressources intellectuelles,
+technologiques et politiques que les watchdogs polarisés
+par la critique du pouvoir des médias et des conséquences
+de la désinformation des citoyens. Bien que reprenant à
+leur compte les critiques adressées aux médias centraux,
+les acteurs qui vont donner le jour à cette forme d’acti-
+visme médiatique venu du vidéo-activisme et d’internet
+conçoivent d’abord leur engagement informationnel
+comme une forme directe et immédiate d’affirmation
+publique. Ils dénoncent dans un même mouvement l’ob-
+jectivité illusoire des professionnels de l’information, ainsi
+Mediactivistes.indb 97 24/10/13 16:33
+)82.921.452.491
+:PI(
+elliL
+ed
+étisrevinU
+aiv
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| oP
+secneicS
+ed
+sesserP
+98 médiactiviSteS
+que la parole autoritaire des élites militantes des groupes
+d’extrême-gauche qui représentent à leurs yeux deux
+modalités différentes de confiscation de la parole.
+Leurs critiques portent ainsi sur le caractère centra-
+lisateur, conformiste, autoritaire et oppressif des médias
+centraux, en regard desquels ils proposent des espaces
+de diffusion alternatifs auto-organisés, souples, libérés a
+priori de toute censure et permettant de donner une tri-
+bune à la multitude des acteurs collectifs et individuels qui
+dessine les contours fuyants du mouvement altermondia-
+liste. Cette inspiration libertaire et ce souci de l’ancrage
+dans les c ommunautés d’expérience des mouvements en
+lutte prennent leur source dans la tradition des médias
+communautaires, préférant la polyphonie des subjectivités
+à l’objectivité des experts, redistribuant à tous le droit à
+la parole et travaillant à l’effacement de la frontière entre
+producteurs d’information bénévoles (militants, témoins)
+et professionnels (journalistes, experts). Pourtant, même
+s’il existe un héritage direct du courant historique des
+médias communautaires et si certains des promoteurs de
+cette forme de médiactivisme en sont directement issus,
+les différences sont sensibles. Dans la seconde partie des
+années 1990, les modes d’organisation et les ressources
+politiques ont été transformés. alors que les médias com-
+munautaires étaient pour la plupart nés de la rencontre de
+groupes organisés (partis, syndicats, églises, etc.) avec des
+communautés locales, le médiactivisme des années 2000
+ne s’appuie pas sur des structures organisationnelles très
+identifiables. Ses promoteurs ne sont pas issus des métiers
+de l’information ni n’ont de contacts réguliers avec les
+journalistes professionnels. Ils se montrent méfiants à
+l’égard des subventions versées par les institutions et les
+Mediactivistes.indb 98 24/10/13 16:33
+)82.921.452.491
+:PI(
+elliL
+ed
+étisrevinU
+aiv
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| oP
+secneicS
+ed
+sesserP
+Le médiactiviSme à L’ère d’internet 99
+fondations qui, aux États-unis, ont largement soutenu le
+développement des médias communautaires et des watch-
+dogs. Surtout, ces nouvelles mobilisations construisent
+une figure individualisée du militant informationnel et ne
+cessent de travailler à le détacher des catégories d’appar-
+tenances territoriales, sociales ou politiques sur lesquelles
+reposaient largement les médias communautaires. La
+valorisation exacerbée des différents états du sujet (son
+corps, sa subjectivité, son autonomie) qui est faite dans
+ces milieux témoigne du processus d’individualisation qui
+s’opère dans certaines cultures politiques de la gauche radi-
+cale pour y incorporer des traits, par ailleurs largement
+recomposés, de la tradition anarchiste.
+Le vidéo-activisme en France
+À bien des égards, le vidéo-activisme est la forme
+continuatrice du cinéma militant des années 1960. Il en
+est la prolongation et les frontières avec son aîné devien-
+dront des plus floues dès que les technologies de vidéo
+légère feront leur apparition. L’arrivée sur le marché
+de caméscopes de plus en plus performants, fiables,
+maniables, mais aussi la baisse des prix, la miniaturi-
+sation et les efforts de convergence avec d’autres sys-
+tèmes techniques (le couplage à l’informatique en premier
+lieu) vont autoriser le développement des usages de la
+vidéo, que ce soit dans les milieux militants, associatifs,
+institutionnels (notamment dans le secteur de l’éduca-
+tion), mais également auprès du grand public. ainsi, le
+vidéo-activisme conserve le projet initial du cinéma mili-
+tant en conformité avec les exigences de la critique de
+l’hégémonie des médias : contre- information, éducation
+politique, représentation des luttes sociales, productions
+Mediactivistes.indb 99 24/10/13 16:33
+)82.921.452.491
+:PI(
+elliL
+ed
+étisrevinU
+aiv
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| oP
+secneicS
+ed
+sesserP
+100 médiactiviSteS
+autonomes dégagées des médias centraux (au niveau de la
+production, de la diffusion, des contenus), etc. Le vidéo-
+activisme se présente comme une forme d’engagement
+qui entend lutter contre la censure et les effets d’agenda
+des médias mainstream par la production alternative
+d’images. Il veut également permettre la multiplication
+des points de vue selon, cette fois-ci, les principes de
+la critique expressiviste. Ce qui le distingue du cinéma
+militant des années 1960, c’est le champ auquel il s’op-
+pose, lequel est davantage celui de la télévision que celui
+du cinéma : « La diversité des sources d’information est
+étroitement liée au fonctionnement de la démocratie.
+La vidéo connaît une alternance de périodes intenses et
+de quasi-disparition : tel le phénix, elle renaît de ses
+cendres chaque fois que le traitement par la télévision
+d’un événement marquant devient par trop choquant ou
+que celle-ci choisit d’ignorer un fait majeur ; la vidéo joue
+alors le rôle qu’elle s’est elle-même assigné d’anti-télé.
+[…] La télévision est au centre des préoccupations, moins
+pour ce qu’elle montre que pour ce qu’elle cache14. » Les
+collectifs tels que Vidéo Out ou Vidéo 00, qui inscrivent
+jusque dans leur nom leur spécificité technique et font
+de la nature même de l’outil de production qu’ils utilisent
+un élément de leur identité, produiront des films traitant
+de sujets que la télévision française d’État, puritaine et
+soumise à la censure du pouvoir central, n’aborde pas :
+l’avortement, l’homosexualité, l’auto-organisation, la
+reproduction des inégalités, etc.
+À l’instar du cinéma militant, mais peut-être de
+manière plus efficiente, le vidéo-activisme va s’organiser
+14. Yvonne Mignot-Lefèbvre, « Vidéo Immemory », Cinémaction,
+110, 1er trimester 2004, p. 161.
+Mediactivistes.indb 100 24/10/13 16:33
+)82.921.452.491
+:PI(
+elliL
+ed
+étisrevinU
+aiv
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| oP
+secneicS
+ed
+sesserP
+Le médiactiviSme à L’ère d’internet 101
+également à un niveau international. Le Video exchange
+Directory (Canada), l’atelier de recherche audiovisuelle
+(Iedes – France) et des vidéastes indépendants comme Gary
+Belkin et Martha Stuart prendront, dans les années 1970,
+différentes initiatives pour mettre sur pied les premiers
+réseaux internationaux d’échange et de production vidéo.
+Cette période de développement du vidéo-activisme à
+l’échelle nationale et internationale, sera suivie, en France,
+par une période de récession qui, comme pour le cinéma-
+militant ou le mouvement des radios libres, sera liée à l’ar-
+rivée de la gauche au pouvoir, et ce bien que les vidéastes
+indépendants aient participé activement, à leur manière,
+à la campagne menant François Mitterrand à la victoire
+en 1981. aucune aide financière ni politique spécifique ne
+sera en effet décidée en faveur des milieux vidéo qui ne
+pourront pas assurer leur aggiornamento technologique.
+aussi est-ce plutôt aux États-unis que le vidéo-activisme
+s’est développé pour rencontrer les technologies de pro-
+duction et de diffusion numériques.
+Le vidéo-activisme américain
+Pendant les années 1990, la contre-culture améri-
+caine s’est dirigée vers des thèmes de lutte spécifiques
+(anti-guerre, chômage, précarité, immigration clandes-
+tine, toxicomanie, etc.) à travers un ensemble de mobi-
+lisations conduites par des groupes urbains composés de
+jeunes militants souvent dotés de ressources sociales et
+culturelles importantes. L’alliance nouée entre groupes
+politiques radicaux et populations exclues et marginali-
+sées constituera un terrain de mobilisation fertile, dans
+lequel une place importante sera faite aux outils de
+communication et, tout particulièrement, à la vidéo et à sa
+Mediactivistes.indb 101 24/10/13 16:33
+)82.921.452.491
+:PI(
+elliL
+ed
+étisrevinU
+aiv
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| oP
+secneicS
+ed
+sesserP
+102 médiactiviSteS
+diffusion sur des réseaux publics câblés ou satellitaires15.
+Les réseaux américains de médias communautaires, tou-
+jours très actifs, s’y investissent avec une vigueur renou-
+velée en développant notamment des pratiques assez
+systématiques de capture vidéo des actions politiques
+qu’ils diffusent ensuite dans les réseaux militants.
+Fondé en 1981, le réseau new-yorkais Paper Tiger
+TV a diffusé plus de quatre cents programmes sur les
+chaînes réservées aux communautés sur le réseau câblé
+de Manhattan. Soutenu financièrement par des fondations
+et par un appel à souscription auprès des téléspectateurs,
+le collectif de journalistes, d’activistes et d’artistes qui
+en assurent le fonctionnement multiplie les rencontres
+avec son public qu’il invite à participer à ses décisions
+stratégiques et aux choix de programmation. Depuis le
+début des années 1990, Deep Dish TV coordonne les
+différentes chaînes communautaires états-uniennes au
+moyen du satellite. elle offre une programmation thé-
+matique en rassemblant différents reportages réalisés par
+les groupes locaux sur les questions de l’accès à la santé,
+du sida, de l’environnement, des prisons ou sur les pro-
+testations contre la guerre du Golfe de 199116. Lors de sa
+naissance, Deep Dish TV a loué un satellite assurant la
+transmission d’un programme d’une chaîne locale à une
+autre, mais elle dispose désormais d’une chaîne réser-
+vée au non-profit media : Free Speech TV. De son côté,
+l’émission radiophonique « Democracy Now! » qu’anime
+15. Deedee Halleck, Hand-held Visions. The Impossible
+Possibilities of Community Media, New York (N.Y.), Fordham
+University Press, 2002.
+16. Laura Stein, « Access Television and Grassroots Political
+Communication in the United States », dans John D. H. Downing,
+radical Media, op. cit., p. 299-324.
+Mediactivistes.indb 102 24/10/13 16:33
+)82.921.452.491
+:PI(
+elliL
+ed
+étisrevinU
+aiv
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| oP
+secneicS
+ed
+sesserP
+Le médiactiviSme à L’ère d’internet 103
+amy Goodman constitue un programme quotidien d’in-
+formation alternative diffusé sur le satellite DBS. elle
+est ainsi rendue accessible à sept millions de foyers, via
+les cent trente chaînes communautaires du réseau câblé
+a méricain Pacifica.
+Plusieurs films réalisés par ces collectifs de vidéastes
+militants vont connaître une grande notoriété au sein de
+la contre-culture américaine. Ils portent sur les gangs
+new yorkais, les luttes zapatistes au Chiapas (Zapatista,
+Storm from the Mountain) ou sur le mouvement des
+piqueteros argentins. Partie prenante des missions civiles
+en territoires palestiniens, ils organisent également des
+caravanes de l’information sur les différentes mobili-
+sations en amérique du Sud et répondent à l’appel du
+sous-commandant Marcos pour constituer des réseaux de
+protection civile et d’information sur la répression des
+Indiens du Chiapas. en rencontrant d’autres réseaux de
+vidéastes plus récents, comme Big Noise Films, et les col-
+lectifs anarchistes réunis au sein du Direct action Network
+ou de reclaim the Street, ces groupes d’activistes vidéo
+participeront à la naissance du réseau Indymedia lors du
+contre-sommet de Seattle de novembre 1999.
+Les manifestations de Seattle donneront ainsi lieu à la
+production de multiples films militants, comme This is
+What Democracy Looks Like, monté par Big Noise Films
+à partir des matériaux tournés dans les rues de Seattle
+pendant les manifestations contre l’OMC de 1999 par plus
+d’une centaine d’activistes, et Showdown in Seattle, réalisé
+avec les images d’Indymedia. Ces mouvements sont aussi à
+l’origine des premières formes de coordination de différents
+mouvements sociaux internationaux qui vont être ini-
+tiées, depuis la forêt Lacandone, par le sous-commandant
+Mediactivistes.indb 103 24/10/13 16:33
+)82.921.452.491
+:PI(
+elliL
+ed
+étisrevinU
+aiv
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| oP
+secneicS
+ed
+sesserP
+104 médiactiviSteS
+Marcos à travers le mouvement zapatiste17. en effet, le
+réseau intercontinental de communication alternative naît
+au Chiapas en 1996, lors de la « première rencontre inter-
+continentale pour l’humanité et contre le libéralisme ». Il
+repose notamment sur l’usage de listes de discussion sur
+internet afin de partager les informations entre mouve-
+ments de résistance à l’échelle internationale.
+Les médias tactiques
+Parallèlement à ce renouveau de l’activisme média-
+tique américain, en europe principalement, mais aussi
+en australie et en Inde, se développe au début des
+années 1990 un mouvement porté par des théoriciens de
+l’esthétique et du design visant à créer des « médias tac-
+tiques » (tactical media) à partir des nouvelles ressources
+offertes par l’informatique de réseau. Il s’agit d’occuper
+une position originale sur les « frontières troubles entre
+l’art, les technologies, les médias et le politique18 ». en
+empruntant à Michel de Certeau le terme « tactique » pour
+l’opposer à celui de « stratégie » (renvoyé vers les médias
+contre-hégémoniques préoccupés d’exercer une influence
+réformatrice sur les médias traditionnels), ce mouvement
+développe une esthétique de la fuite, du contournement
+et du détour dont le texte d’Hackim Bey sur les zones
+d’autonomie temporaire (TaZ) est l’emblème19.
+17. Benjamin Ferron, « Des médias de mouvement aux mouve-
+ments de médias. Retour sur la genèse du “Réseau intercontinen-
+tal de communication alternative” (1996-1999) », Mouvements,
+61, janvier-mars 2010, p. 108-120.
+18. David Garcia et Geert Lovink, « ABC des médias tactiques » dans
+Annick Bureaud, Nathalie Magnan (dir.), Connexions. art, réseaux,
+média, Paris, École nationale des Beaux-Arts, 2002, p. 72-77.
+19. Hackim Bey, TAZ. Zone d’autonomie temporaire, Paris,
+L’Éclat, 1991.
+Mediactivistes.indb 104 24/10/13 16:33
+)82.921.452.491
+:PI(
+elliL
+ed
+étisrevinU
+aiv
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| oP
+secneicS
+ed
+sesserP
+Le médiactiviSme à L’ère d’internet 105
+Même si elle n’en résume pas la diversité foisonnante,
+la mouvance qui se réunit aux Pays-Bas, tous les trois
+ans, lors des conférences « Next 5 Minutes » en constitue
+la meilleure expression. Initiées en 1993 à amsterdam
+par un groupe d’artistes, de critiques d’art et de designers
+européens, mais aussi de militants issus des samizdats
+des pays de l’est, ces rencontres se présentent comme des
+lieux d’expérimentation de nouvelles formes de vie sur le
+réseau, engageant des rapports étroits entre l’expression
+des subjectivités et les technologies vidéo et informa-
+tique. Le mouvement s’appuie par ailleurs sur un réseau
+très large de théoriciens des médias et de l’esthétique
+et sur des informaticiens engagés dans le mouvement
+du logiciel libre. La plupart de ses membres partagent
+leurs activités intellectuelles, souvent universitaires, avec
+des engagements dans les médias et les communautés
+alternatives. Florian Schneider a ainsi animé le mouve-
+ment des sans-papiers en France, David Garcia enseigne
+le design interactif, Geert Lovink est essayiste, ancien
+militant du mouvement squat hollandais et animateur
+de radio libre. Ce courant des médias tactiques va très
+rapidement avoir des ramifications internationales mul-
+tiples. aux États-unis, ce sont par exemple le Critical art
+ensemble et l’electronic Disturbance Theater qui déve-
+loppent une conception de la lutte dans l’espace numé-
+rique à la manière d’une guérilla urbaine. Le répertoire
+des actions politiques utilisant le Web comme support
+(mail bombing, grève d’internet, manifestation virtuelle,
+etc.) a ainsi été rendu très innovant et créatif par la ren-
+contre entre milieux artistiques et hackers.
+Mediactivistes.indb 105 24/10/13 16:33
+)82.921.452.491
+:PI(
+elliL
+ed
+étisrevinU
+aiv
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| oP
+secneicS
+ed
+sesserP
+106 médiactiviSteS
+« Nés du dégoût de l’idéologie20 », les médias tactiques
+refusent le conflit et les stratégies de lutte pour le p ouvoir.
+Ils font, en revanche, l’éloge de la mobilité, de l’hybridation
+et de la désertion de la scène politique. Ce désengagement
+des espaces politique et médiatique traditionnels, qui repro-
+duit en cela les ressorts de l’autonomie artistique, est doublé
+par un refus explicite de la recherche de la vérité et de
+l’objectivité : « Les médias tactiques ne se contentent pas de
+rendre compte des événements ; n’étant jamais impartiaux,
+ils y prennent toujours part, et c’est cela, plus que toute
+autre chose, qui les distingue des médias dominants21 ». Ils
+héritent donc du mouvement des médias communautaires,
+mais « sans le label de contre-culture et les certitudes idéo-
+logiques des précédentes décennies22 ». L’ancrage politique
+des médias tactiques apparaît dès lors beaucoup moins
+stable et assuré qu’il ne pouvait l’être dans la mobilisa-
+tion communautaire autour des médias participatifs dans
+les années 1970 et 1980. Témoignant du processus d’indi-
+vidualisation des engagements, ils se proposent même de
+participer à toutes sortes d’expériences qui peuvent aider à
+brouiller les catégories traditionnelles et montrer l’encastre-
+ment entre le marché, le militantisme et le monde de l’art.
+adeptes de l’hybridation et des identités instables, préférant
+les processus aux productions, refusant les engagements
+politiques structurés et les étiquetages artistiques, les tenants
+de cette forme de radicalité esthétique vont politiser leurs
+activités au contact du monde des hackers. C’est ici que
+réside sans doute leur contribution décisive à la formation
+20. David Garcia et Geert Lovink, « ABC des médias tactiques »,
+art. cité, p. 78.
+21. Ibid., p. 73.
+22. Ibid.
+Mediactivistes.indb 106 24/10/13 16:33
+)82.921.452.491
+:PI(
+elliL
+ed
+étisrevinU
+aiv
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| oP
+secneicS
+ed
+sesserP
+Le médiactiviSme à L’ère d’internet 107
+du milieu des cyberactivistes de l’information qui va se cris-
+talliser à Seattle. en effet, les communautés de développeurs
+de logiciels libres entretiennent un rapport généralement
+distant et critique à l’égard des autres univers sociaux. ainsi,
+le monde de l’open source échappe-t-il assez largement à
+une interrogation sur l’activisme militant de ses membres.
+Cependant, une fraction de développeurs de logiciels libres,
+notamment celle qui se retrouve dans les revendications de
+la Free Software Foundation de richard Stallman, s’est très
+nettement impliquée dans les activités de lobbying auprès
+des pouvoirs publics, autour des questions de brevetabilité et
+de propriété intellectuelle, mais aussi dans des mobilisations
+à vocation plus générale, souvent au côté des mouvements
+internationaux de critique du néolibéralisme.
+Cette fraction politisée du monde du logiciel libre se pré-
+sente comme une contre-culture militante et radicale dans
+laquelle se mêlent exercice de virtuosité technique, guérilla
+numérique contre les institutions et modes de production
+collective du logiciel organisée sous une forme réticulaire.
+L’univers « libriste » reformule ainsi le cadre d’une action
+collective expressiviste et propose, en acte, un modèle de
+participation étendue dans lequel les utilisateurs sont aussi
+des développeurs qui participent à la production collec-
+tive d’un bien commun : le logiciel. Les formes d’échange
+développées avec succès dans cette arène vont intéresser les
+générations de jeunes militants parce qu’elles constituent
+un modèle effectif de coopération qu’ils souhaitent géné-
+raliser à d’autres domaines. elles instaurent un principe de
+propriété collective opposable aux logiques d’enclosure du
+marché (Microsoft incarnant, dans cet univers, l’ennemi le
+plus dangereux) et invitent chaque personne à être force
+de proposition et active dans la production logicielle, mais
+Mediactivistes.indb 107 24/10/13 16:33
+)82.921.452.491
+:PI(
+elliL
+ed
+étisrevinU
+aiv
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| oP
+secneicS
+ed
+sesserP
+108 médiactiviSteS
+aussi de toute une série d’autres biens que les militants
+souhaitent faire passer dans un univers libre, et à s’opposer
+à leur marchandisation. C’est le cas notamment du mode de
+transmission des connaissances (publications scientifiques
+accessibles et gratuites, fabrication bénévole et collabora-
+tive d’encyclopédies, de cours, etc.), de contenu culturel
+(musique, vidéo, etc.), des brevets logiciels et de l’infor-
+mation. L’un des lieux de cristallisation et de rencontre
+de ces différents univers (informatique, artiste, activiste)
+est le monde des hacklabs, lieux d’expérimentation qui
+réunissent, notamment en espagne ou en Italie, hackers et
+militants radicaux des centres sociaux. Cette alliance entre
+développeurs et activistes, tous jeunes, passionnés et en
+recherche de modèle de subversion, s’est nouée dans les dif-
+férents lieux de la contre-culture (squats, concerts, séances
+de démos informatiques, salles de presse indépendantes) qui
+accompagnent désormais, en marge, les mobilisations du
+mouvement altermondialiste. L’émergence de cette nébu-
+leuse « média-hacktiviste » (en référence à la culture hacker)
+marque une redéfinition assez profonde de la critique
+expressiviste, si bien que les acteurs qui s’y sont engagés
+se sont d’une certaine manière assez fortement éloignés
+du modèle communautaire des générations précédentes.
+Comme le souligne Graham Meikle, ces détournements tac-
+tiques ne doivent pas être évalués par les effets instrumen-
+taux qu’ils auraient sur la production de l’information ou
+les représentations dominantes dans la société. Ils doivent
+plutôt être regardés comme des jeux agissant d’abord sur
+l’imagination créative de ceux qui y participent23.
+23. Graham Meikle, « Whacking Bush. Tactical Media as
+Play », dans Megan Boler (ed.), Digital Media and Democracy,
+Cambridge (Mass.), The MIT Press, 2008, p. 367-382.
+Mediactivistes.indb 108 24/10/13 16:33
+)82.921.452.491
+:PI(
+elliL
+ed
+étisrevinU
+aiv
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| oP
+secneicS
+ed
+sesserP
+Le médiactiviSme à L’ère d’internet 109
+Il est cependant nécessaire de s’arrêter sur le travail
+que les intellectuels opèrent dans le réagencement de
+ce nouveau cadre d’action. C’est autour du concept de
+« multitude » développé dans Empire par Michael Hardt et
+antonio Negri24 (construction théorique très en vogue au
+sein du mouvement altermondialiste) que se retrouve une
+partie des acteurs du média-hacktivisme. Celle-ci s’oppose
+résolument à l’architecture de rapports de domination et
+de représentation définie par la tradition marxiste dont
+se nourrit la critique contre-hégémonique. en oppo-
+sition au peuple ou à la classe, les multitudes ne sont
+pas des individus mais des « singularités non représen-
+tables » insiste Negri25. elles désignent la multiplicité et
+ne peuvent de ce fait entrer dans un quelconque format
+de représentation. Les promoteurs des multitudes refusent
+le rapport de force entre pouvoir et contre-pouvoir qui
+constituait le jeu de balancier entre critique de l’hégémo-
+nie des médias et participation populaire sur des supports
+alternatifs. Si bien que les bases sociales sur lesquelles se
+construisent des « contre-publics » ne peuvent être étayées
+par les systèmes d’équivalence qui avaient cours avec des
+médias alternatifs construits autour de groupes syndi-
+caux, politiques, socioculturels ou territoriaux. Cela tient
+au moins à deux raisons. D’abord, la coupure entre un
+public et un contre-public autonome n’a plus lieu d’être.
+« Les espaces publics de la société moderne [...] tendent
+à disparaître dans le monde postmoderne » indiquent
+Hardt et Negri, si bien que « la dialectique moderne de
+24. Michael Hardt et Antonio Negri, empire, Paris, Exils, 2000.
+25. Antonio Negri, « Pour une définition ontologique de la
+multitude », Multitudes, 9, mai-juin 2002 ; http://multitudes.
+samizdat.net/Pour-une-definition-ontologique-de
+Mediactivistes.indb 109 24/10/13 16:33
+)82.921.452.491
+:PI(
+elliL
+ed
+étisrevinU
+aiv
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| oP
+secneicS
+ed
+sesserP
+110 médiactiviSteS
+l’intérieur et de l’extérieur a été remplacée par un jeu de
+degrés et d’intensités, d’hybridation et d’artificialité »26.
+Il n’y a dès lors guère d’utilité à se coaliser pour lutter
+contre les représentations dominantes produites par les
+médias. De telles mobilisations organisées n’auraient pour
+objectif que de canaliser « les besoins et les désirs de la
+multitude en formes qui peuvent être représentées dans
+le cadre du fonctionnement des structures de pouvoir
+mondiales27 ». Seconde raison du changement de para-
+digme : dans le monde de la multitude, la créativité et
+l’inventivité requises des individus invitent à valoriser
+les différences plutôt que les catégories marquant les
+appartenances communes. Hardt et Negri désignent ainsi
+comme une « tâche politique importante » le fait de fonder
+« un nouveau type de communication qui fonctionnerait
+non sur la base des ressemblances mais sur celle des dif-
+férences : une sorte de communication des singularités »28.
+un tel projet qui associe très étroitement l’individuation
+à l’actualisation des facultés créatrices et inventives des
+personnes requiert aussi, de leur part, une forme de coo-
+pération quasi s pontanée.
+Le réseau Indymedia
+Le réseau Indymedia (Independant Media Center - IMC)
+qui a été fondé lors des manifestations de Seattle (1999)
+a longtemps constitué une des formes de mobilisation
+informationnelles les plus originales, avant de connaître,
+ces dernières années, une moindre influence. Sa nais-
+sance s’appuie, d’une part, sur l’intégration horizontale
+26. Michael Hardt et Antonio Negri, op. cit., p. 379.
+27. Ibid., p. 379.
+28. Ibid., p. 88.
+Mediactivistes.indb 110 24/10/13 16:33
+)82.921.452.491
+:PI(
+elliL
+ed
+étisrevinU
+aiv
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| oP
+secneicS
+ed
+sesserP
+Le médiactiviSme à L’ère d’internet 111
+des différents acteurs des médias alternatifs américains et,
+d’autre part, sur la mise en place de procédures organi-
+sationnelles favorisant la coopération et l’horizontalité29.
+Quelque temps avant leur collaboration contre la tenue
+du sommet de l’OMC et leur participation à la « bataille
+de Seattle », les collectifs de vidéastes militants de Free
+Speech TV, Paper Tiger TV, Deep Dish TV, Big Noise Films,
+Whispered Media, etc. étaient alors très fortement enga-
+gés dans la mobilisation contre la condamnation à mort
+du journaliste afro-américain Mumia abu Jamal. ayant
+à faire face à des impératifs de concertation et de coor-
+dination pour éviter que l’État de Pennsylvanie ne pro-
+nonce l’arrêté d’exécution, les militants avaient organisé
+des points de rencontres physiques pour partager les tracts
+et les vidéos conçus par les différents comités de soutien.
+en prévision des manifestations de Seattle, ils avaient
+songé à créer un site Web pour partager ces documents
+et leurs informations : poster du texte, des vidéos et des
+enregistrements sonores. À Seattle, ce site permit, de fait,
+de mettre en partage les textes et les vidéos des manifes-
+tants, offrant ainsi au mouvement la possibilité de pro-
+duire ses propres représentations. Le succès de l’initiative
+dépassa largement toutes les attentes et donna naissance
+à l’infrastructure du réseau Indymedia.
+en partie inspiré par l’activité médiatique des zapa-
+tistes, le réseau Indymedia n’entre pas dans une logique
+de contestation de l’hégémonie des médias, mais
+cherche directement à mettre les médias au service de la
+29. John D. H. Downing, « The Seattle IMC and the Socialist
+Anarchist Tradition », dans Marc Raboy (ed.), Public Broadcasting
+for the 21th Century, Luton, University of Luton Press, 2003,
+p. 215-232.
+Mediactivistes.indb 111 24/10/13 16:33
+)82.921.452.491
+:PI(
+elliL
+ed
+étisrevinU
+aiv
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| oP
+secneicS
+ed
+sesserP
+112 médiactiviSteS
+mobilisation. en témoigne son slogan : « Don’t hate the
+media, become the media ». Comme le réseau de radios
+féministes FIre qui l’a précédé sur des bases identiques,
+le réseau des IMC s’est constitué de façon internationale
+en endossant une posture d’autonomie par rapport aux
+médias traditionnels. Mais la création d’Indymedia se
+distingue surtout par la mise en place d’un mode d’orga-
+nisation qui marque une différence sensible par rapport
+aux formes historiques développées par les médias com-
+munautaires. Les collectifs Indymedia, répartis sur les
+cinq continents, fonctionnent sur une base auto-orga-
+nisée et décentralisée. La caractéristique principale de
+ces médias est de soutenir le principe de la publication
+ouverte (open publishing), permettant à l’ensemble des
+individus qui le désirent de publier en ligne, quasi ins-
+tantanément et en différentes langues, tout type de docu-
+ment (textes, sons, images fixes ou animées). La plupart
+du temps, appliquant un principe de stricte transparence,
+les animateurs se refusent à exercer un contrôle édito-
+rial. Leur modèle de fonctionnement tente autant que
+possible de promouvoir une collaboration minimisant
+les relations d’autorité.
+Se défiant des procédures de délégation, de représenta-
+tion et de vote, ils s’en remettent au principe du consensus.
+alors que les médias contre-hégémoniques empruntent
+plutôt les formes habituelles de la critique sociale (les per-
+sécuteurs sont les multinationales, les États et les organi-
+sations internationales ; les victimes sont principalement
+les paysans et les travailleurs), les sites de la mouvance
+Indymedia appuient plutôt une dénonciation des forces de
+répression de l’État (police et armée), en prenant la défense
+des sans-parts (sans-droit, sans-logement, sans-papier,
+Mediactivistes.indb 112 24/10/13 16:33
+)82.921.452.491
+:PI(
+elliL
+ed
+étisrevinU
+aiv
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| oP
+secneicS
+ed
+sesserP
+Le médiactiviSme à L’ère d’internet 113
+sans-emploi, etc.30 Les pratiques informationnelles sont en
+elles-mêmes des formes de mobilisation et les stratégies de
+publication sont ici destinées à couvrir et à politiser « la
+répression des événements31 » en s’attachant particulière-
+ment à filmer et à photographier les piquets de grève, les
+manifestations dures et les répressions policières. Les infor-
+mations sont directement mises à disposition de l’action
+militante (tracts, lieux de rendez-vous, diffusion en direct
+des manifestations, etc.), sans passer par des formes hié-
+rarchiques de contrôle et de cadrage des mobilisations32.
+aucun contrôle n’étant exercé sur le format des textes
+postés, les contributions au site d’Indymedia sont extrême-
+ment hétéroclites. Certaines prises de parole s’émancipent
+des conventions de l’écriture experte, journalistique ou mili-
+tante, et endossent une forme très s ubjective.
+au début des années 2000, les réseaux et acteurs dont
+nous venons de retracer l’histoire se sont positionnés à
+l’intérieur ou à l’extérieur du mouvement alterm ondialiste.
+alors que les porteurs de la critique contre- hégémonique
+se sont intégrés dans les espaces de débats des forums
+sociaux ou coordonnent leurs actions pour représenter
+la société civile dans le processus onusien du SMSI, les
+30. Dominique Cardon et Fabien Granjon, « Médias alternatifs
+et radicalisation de la critique » dans Annie Collovald et Brigitte
+Gaïti (dir.), La Démocratie aux extrêmes. Sur la radicalisation
+politique, Paris, La Dispute, 2006, p. 309-334.
+31. John Fiske, « Popularity and the Politics of Information »,
+dans Peter Dahlgren et Colin Sparks (eds), Journalism and
+Popular Culture, Londres, Sage, 1992, p. 45-63.
+32. Larry Elin, « The Radicalization of Zeke Spier. How the
+internet Contributes to Civic Engagement and New Forms of
+Social Capital », dans Martha McCaughey et Michael D. Ayers
+(eds), Cyberactivism. Online activism in Theory and Practice,
+New York (N.Y.), Routledge, 2003, p. 97-114.
+Mediactivistes.indb 113 24/10/13 16:33
+)82.921.452.491
+:PI(
+elliL
+ed
+étisrevinU
+aiv
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| oP
+secneicS
+ed
+sesserP
+114 médiactiviSteS
+réseaux expressivistes de l’open publishing ou des médias
+tactiques restent plutôt en marge des forums sociaux,
+mais se retrouvent en revanche au cœur des mobilisations
+(manifestations, squats, actions de désobéissance, etc.).
+Cette opposition entre des répertoires d’actions orientés
+vers la parole ou vers l’action témoigne bien de la diver-
+sité des configurations sociales et idéologiques respec-
+tives des réseaux que nous avons suivis jusqu’ici. Les
+deux formes de la critique des médias ne se rencontrent
+guère dans des cadres communs, ne se reconnaissent pas
+derrière une identité collective partagée et ne s’identi-
+fient que faiblement comme parties prenantes d’un même
+espace relationnel. À l’ère d’inernet, elles constituent des
+polarités décisives dans la production d’alternatives à
+l’information dominante.
+Mediactivistes.indb 114 24/10/13 16:33
+)82.921.452.491
+:PI(
+elliL
+ed
+étisrevinU
+aiv
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| oP
+secneicS
+ed
+sesserP

@@ -1,0 +1,673 @@
+Les enjeux de l’information et de la communication Supplément 2017 B
+Information – Communication en Europe :
+perspectives nationales, transnationales ou comparatives
+Les ressorts démocratiques des médias alternatifs en Argentine
+et en Italie
+The democratic resources of alternative media in Argentina and in Italy
+Los recursos democráticos de los medios alternativos en Argentina y en Italia
+Article inédit, mis en ligne le 28 mars 2018.
+Paola Sedda
+Paola Sedda est maître de conférences en Sciences de l’Information et de la Communication à l’Université
+de Bourgogne Franche-Comté. Elle est associée au laboratoire CIMEOS et ses thématiques de recherche
+portent sur le rôle des TIC dans l’évolution des formes de l’engagement politique et des pratiques de
+participation dans l’espace public. sedda.paola@gmail.com
+Plan de l’article
+Introduction
+Médiactivisme et démocratie
+La société de l’information ou l’illusion de la liberté
+L’équivoque du droit à la diversité
+Repenser l’espace public
+Faire sa propre télé : les cas des Telestreet et de Barricada TV
+Méthodologie de l’enquête
+La Telestreet : une télé à l’envers
+La lutte de Barricada TV
+Le médium alternatif comme usine de la démocratie
+Conclusion
+Références bibliographiques
+Résumé
+Qu’il soit étudié sous le prisme des mobilisations citoyennes (Cardon et Granjon, 2010; Blondeau et
+Allard, 2007) ou de l’évolution des pratiques journalistiques (Rebillard, 2012), le médiactivisme
+représente toujours une réaction à une déficience institutionnelle déterminant une situation de
+verrouillage de la parole civique. Notre réflexion autour de l’évolution des politiques de
+l’information-communication en Europe s’appuie donc sur un terrain transnational et sur des acteurs
+de la communication ayant une fonction « oppositionnelle » (Negt, 2007) face au champ médiatique
+officiel. La marginalité à laquelle sont souvent contraintes les expériences des médias alternatifs nous
+empêche en effet de déceler les défis que celles-ci imposent à la société de l’information.
+Mots clés
+Médiactivisme, participation citoyenne, espace public transnational, société de l’information.
+PAOLA SEDDA Les ressorts démocratiques des médias alternatifs
+en Argentine et en Italie
+Abstract
+Often studied under the lens of citizen mobilisation (Cardon et Granjon, 2010; Blondeau et Allard,
+2007) or of the evolution of journalistic practices (Rebillard, 2012), media-activism always represents
+a reaction to an institutional deficiency provoking a form of foreclosure of civic speech. Our reflexion
+on the evolution of information and communication politics in Europe is based on an international
+fieldwork and on alternative communication actors who have an « oppositional » function (Negt,
+2007) towards official media field. Indeed, the marginality of radical media can prevent us from
+disclosing the challenges that they impose to the information society.
+Keywords
+Media activism, citizen participation, transnational public sphere, information society.
+Resumen
+Ya sea estudiado bajo el prisma de las movilizaciones ciudadanas (Cardon y Granjon, 2010;
+Blondeau y Allard, 2007) o de la evolución de las prácticas periodísticas (Rebillard, 2012), el
+mediactivismo representa siempre una reacción a una deficiencia institucional determinante de una
+situación de bloqueo de la palabra cívica. Nuestra reflexión en torno a la evolución de políticas de la
+información y comunicación en Europa se apoya entonces sobre un terreno transnacional y sobre
+actores de la comunicación con una función «oposicional» (Negt, 2007) de cara al campo mediático
+oficial. La marginalidad a la cual son a menudo constreñidas las experiencias de medios alternativos
+nos impide en efecto detectar los desafíos que estas imponen a la sociedad de información.
+Palabras clave
+Mediactivismo, participación ciudadana, espacio público transnacional, sociedad de la información.
+Introduction
+Qu’il soit étudié sous le prisme des mobilisations citoyennes (Cardon et Granjon, 2010 ; Blondeau et
+Allard, 2007) ou de l’évolution des pratiques journalistiques (Rebillard, 2012), le médiactivisme
+représente toujours une réaction à une déficience institutionnelle déterminant une situation de
+verrouillage de la parole civique. Notre réflexion autour de l’évolution des politiques de
+l’information-communication en Europe s’appuie donc sur des acteurs de la communication ayant
+une fonction « oppositionnelle » (Negt, 2007) face au champ médiatique officiel.
+Toutefois, la marginalité à laquelle sont souvent contraintes les expériences des médias alternatifs
+nous empêche de déceler les défis que celles-ci imposent à la société de l’information. En bricolant
+avec ses mythes et ses promesses, les médiactivistes actualisent en permanence l’écart existant entre
+« l’utopie de la communication » (Breton, 1997) et la réalité des rapports de force dans le contexte
+global des échanges informationnels. Ainsi, de l’Italie à l’Argentine, en arrière-plan des processus de
+marchandisation des sphères de la communication, des collectifs de citoyens ne cessent d’imaginer
+des formes possibles de démocratisation du monde de la technique (Feenberg, 2014). À défaut
+d’occuper une place marginale dans les sciences sociales, les médias alternatifs, définis également en
+tant que médias critiques (Fuchs, 2010), « radicaux » (Downing, 2001) ou, encore, communautaires,
+accompagnent en réalité l’histoire controversée des médias et de la démocratie. Puisqu’il embrasse
+une diversité d’expériences collectives et d’acteurs, le concept large de « médiactivisme » nous a
+semblé par contre plus adapté pour décrire la variété des formes que peuvent assumer les usages
+critiques des médias. En constituant le trait d’union entre l’évolution des pratiques médiatiques et les
+transformations des formes de l’engagement citoyen, ce néologisme désigne en effet l’ensemble des
+mobilisations « qui orientent leur action collective vers la critique des médias dominants et/ou la mise
+© Les Enjeux de l’information et de la communication | http://lesenjeux.univ-grenoble-alpes.fr/ | n°18/3A, 2017 | Page 60
+PAOLA SEDDA Les ressorts démocratiques des médias alternatifs
+en Argentine et en Italie
+en œuvre de dispositifs alternatifs de production d’information » (Cardon et Granjon, 2010, p. 8). En
+rendant visibles les dynamiques conflictuelles de la communication et en alimentant des formes
+d’expression et de participation, supprimées ou entravées par les différents contextes institutionnels
+et économiques, les expériences de médiactivisme constituent un jalon important pour
+l’appréhension critique de la société dite d’information.
+Dans un premier temps, nous allons présenter les clefs conceptuelles de notre travail portant sur le
+médiactivisme transnational en tant que source de progrès social et de démocratisation des sociétés.
+Les différents projets de médiactivisme semblent en effet être reliés par une même volonté de
+déconstruction du modèle économique et social néolibéral adopté par les politiques internationales
+de l’information-communication.
+Dans un deuxième temps, nous nous attacherons à présenter notre travail d’enquête caractérisé par
+une approche comparative et internationale et portant sur deux expériences de médiactivisme : celle,
+assez célèbre et déjà clôturée, des télévisions de rue italiennes (les Telestreet), et celle de Barricada
+TV, une télévision alternative argentine. Le rapprochement entre les deux contextes, marqués par
+une forte concentration médiatique et hébergeant un débat public enflammé autour de la
+réglementation du secteur radio-télévisé, nous permettra d’identifier les ressorts démocratiques du
+médiactivisme à une échelle internationale. Ces acteurs oppositionnels contribuent à produire une
+critique radicale du rôle hégémonique du marché dans la production médiatique mais aussi des
+contradictions relevant des restructurations du secteur de l’audiovisuel public.
+Médiactivisme et démocratie
+La société de l’information ou l’illusion de la liberté
+D’un point de vue théorique, notre travail se propose également de prolonger les débats autour de la
+société de l’information (SI) ayant occupé un rôle de premier plan dans les préoccupations de la
+communauté scientifique des Sciences de l’Information et de la Communication (SIC). Tandis que
+les études critiques du mythe de la SI ont été riches en nombre et en qualité, celles-ci n’ont été que
+très rarement mises en relation avec le développement du médiactivisme. Or, il nous semble que les
+deux domaines assument des rôles complémentaires : l’un, constitué par l’économie politique de la
+communication, pointe les inégalités et les formes de domination produites par la gestion capitaliste
+des médias, l’autre, celui du médiactivisme, réagit en élaborant de nouveaux modèles et usages des
+technologies de l’information et de la communication (TIC). Prêchée par l’intellectuel sarde Antonio
+Gramsci (1975), cette complémentarité entre le diagnostic pessimiste de l’intellectuel et l’optimisme
+de la praxis militante est en effet indispensable pour pouvoir envisager une transformation politique
+des sociétés.
+Les différentes approches critiques de la société de l’information soulignent la manière dont les
+questions épineuses liées à la relation entre les TIC et la démocratie ont été à tort assimilées à un
+problème d’accès aux dispositifs ou, alors, stratégiquement associées à l’idéologie anglo-saxonne de la
+libre circulation des flux informationnels (Mattelart, 2009; Flichy, 2001B). Les deux sommets
+internationaux sur la SI qui se sont tenus respectivement à Genève et à Tunis en ce début de siècle
+ont démontré leur inefficacité argumentaire et programmatique précisément car ils ont soutenu la
+fausse équation entre la dotation technique et le développement démocratique des sociétés. En effet,
+tandis que les secteurs des télécommunications et de l’informatique se libéralisent et le pouvoir
+décisionnel des États-nations s’affaiblit et se transfère vers les organisations internationales, une
+association douteuse entre liberté du marché et droits et libertés des citoyens s’impose dans la
+conscience collective (Mattelart, 2009).
+L’équivoque du droit à la diversité
+Désormais considéré comme droit universel, l’accès à l’information continue d’être le leitmotiv des
+résolutions et des débats au sein des organisations internationales. Ainsi, réduite à une question de
+quantité ou de capacité de diffusion informationnelle (Smyrnaios, 2006), la participation citoyenne
+via les TIC demeure une promesse plus qu’une réalité. Les discours internationaux se sont ensuite
+progressivement déplacés du concept de « société de l’information » vers celui de « diversité
+© Les Enjeux de l’information et de la communication | http://lesenjeux.univ-grenoble-alpes.fr/ | n°18/3A, 2017 | Page 61
+PAOLA SEDDA Les ressorts démocratiques des médias alternatifs
+en Argentine et en Italie
+culturelle »1. Sur le site de l’Unesco, la convention de la diversité culturelle est présentée comme « un
+instrument juridique international contraignant qui assure aux professionnels de la culture la
+possibilité de produire un large éventail de biens et services culturels ». L’approche néolibérale est
+défendue d’une façon assez claire : ce qui est réellement garanti et recherché est la diversité de l’offre
+commerciale de laquelle devrait découler d’une façon prétendument automatique la diversité des
+émetteurs et des formes de production culturelle.
+Mentionné pour la première par le rapport McBride, le problème lié à l’asymétrie des flux
+d’information et aux formes de domination hégémonique exercée par les gros groupes médiatiques
+transnationaux vers les zones défavorisées a été progressivement abandonné et éloigné de l’espace
+public (Cabedoche, 2011). Face à ce processus de refoulement, les approches de l’économie
+politique de la communication nous permettent de déceler la matérialité du « déséquilibre des flux
+d’information entre les pays situés de part et d’autre de la ligne de démarcation du
+« développement » (Mattelart, 2004, p.62). Ces études démontrent clairement que le fonctionnement
+démocratique des médias dépend des relations de pouvoir régissant les rapports de force entre les
+pays et entre les différentes couches sociales d’un même territoire (Mosco, 2000).
+Ainsi, alors que le marché continue à consolider son primat dans la « mise en mouvement de la
+communication » et à limiter fortement la capacité expressive et de représentation des individus
+(Sfez, 1992, p. 108), des groupes de médiactivistes revendiquent la reconnaissance politique et
+institutionnelle du droit à la diversité des médias, de leurs modèles communicationnel, économique
+et productif.
+Repenser l’espace public
+L’étude des médias critiques implique un regard transversal car ceux-ci touchent en même temps
+une pluralité d’acteurs (citoyens, médiatiques, politiques), de processus de la communication
+(impliquant à la fois les espaces professionnels et ceux de l’action militante) ainsi que des nouveaux
+défis quant à l’évolution des pratiques d’expression et de participation dans la sphère publique.
+Depuis plusieurs décennies, les collectifs militants adressent de plus en plus leur critique à l'encontre
+de l'ordre médiatique (Cardon et Granjon, 2010 ; Sedda, 2015) et semblent concevoir les actes de
+participation à l'espace public comme étant l'enjeu essentiel des nouveaux combats citoyens (Della
+Porta et Mosca, 2006 ; George, 2008).
+En d'autres termes, la communication est conçue comme le levier essentiel de la démocratie, cette
+dernière pouvant être considérée comme une conquête toujours inachevée (Rosanvallon, 2006) et
+donc constamment sensible d'être menacée ou repensée. En donnant une dimension historique à ces
+changements, Peter Dahlgren affirme que la crise de l'État, la fragmentation des publics et
+l'émergence des nouveaux mouvements sociaux contribuent à replacer l'espace public dans une zone
+liminale située entre les médias dominants et les mouvements sociaux, entre le public fragmenté des
+grands médias et les espaces alternatifs émergents (Dahlgren, 2009). Les médias alternatifs
+contribuent en effet à générer et animer une contre sphère publique, critique vis-à-vis du rôle
+dominant et reproducteur revêtu par l’espace public bourgeois ainsi que, nous l’ajoutons, de l’arsenal
+médiatique et symbolique qui le nourrit. Les médias critiques semblent ainsi illustrer parfaitement
+l’idée d’ « espace public oppositionnel » développée par Oskar Negt (2007) en ce qu’ils donnent voix
+aux aspirations démocratiques de différentes couches de la population dont les intérêts et les
+discours sont effacés ou déformés par les médias officiels. Face aux dégâts provoqués par le
+néolibéralisme et les phénomènes de concentration des pouvoirs médiatiques et économiques, ces
+pratiques marginales circulent à grande vitesse entre les différents pays européens et du monde
+entier. Les analyser signifie saisir une occasion importante pour repenser les démocraties
+européennes précisément à partir de la construction d’une politique émancipatrice de la
+. . . . . . .
+1 Après une âpre bataille qui dura une dizaine d’années, l’Unesco adopte en 2005 la déclaration universelle sur la diversité
+culturelle par la Convention sur la protection et la promotion de la diversité des expressions culturelles et avec l’objectif
+d’humaniser la mondialisation en la rendant plus respectueuse des cultures. La convention est consultable à l’adresse
+http://fr.unesco.org/creativity/convention-0 (consulté le 13 septembre 2017)
+© Les Enjeux de l’information et de la communication | http://lesenjeux.univ-grenoble-alpes.fr/ | n°18/3A, 2017 | Page 62
+PAOLA SEDDA Les ressorts démocratiques des médias alternatifs
+en Argentine et en Italie
+communication, élaborée au sein d’un espace transnational de coopération et d’enrichissement
+mutuel.
+Faire sa propre télé : les cas des Telestreet et de Barricada TV
+Méthodologie de l’enquête
+La méthodologie de l’étude a été élaborée en combinant l’entretien semi-directif et l’observation
+(adoptés dans l’enquête argentine) et l’analyse de contenu des traces numériques (employée dans
+l’enquête italienne). Pendant notre séjour dans la capitale argentine en avril 2016, nous avons mené
+cinq entretiens avec des activistes argentins engagés dans la production de la contre-information.
+Nous avons en outre eu l’occasion de passer une journée dans les locaux de Barricada TV où nous
+avons pu effectuer une observation du contexte et des pratiques de production médiatique de ce
+média alternatif. Au cours de cette journée, nous avons interrogé différents bénévoles gravitant
+2
+autour de la télé et avons pu mener un long entretien avec sa fondatrice . La méthodologie d’analyse
+3
+du terrain italien, essentiellement axée sur l’analyse de contenu d’un corpus multimédia , diverge
+sensiblement de l’enquête argentine. Ce choix méthodologique nous a permis de contourner les
+contraintes liées à l’impossibilité d’accéder à la diffusion analogique des programmes (ceux-ci avaient
+en effet été diffusés entre 2002 et 2006 sur des rayons très restreints du territoire national) et à la
+brièveté des périodes de transmission (des problèmes d’ordre technique, organisationnel ou légal ont
+4
+provoqué le déclin prématuré du phénomène) . L’analyse de ce corpus nous a permis de recenser
+une centaine de petites télés disséminées dans la totalité du territoire italien, à la fois dans les zones
+urbaines et rurales, et de les catégoriser à partir du statut du producteur, de la démarche et du
+contenu diffusé (Sedda, 2013). Nous avons ensuite croisé les données ainsi récoltées avec les
+5
+résultats d’autres enquêtes académiques réalisées en Italie .
+La Telestreet : une télé à l’envers
+À partir du début du XXI siècle, le mouvement des Telestreet, des télés de quartier qui collaboraient
+et mettaient en commun leurs ressources, fut lancé à Bologne par un groupe de médiactivistes. Les
+Telestreet, en tant que petits émetteurs « pirates », avaient comme première vocation celle
+d'interférer avec le flux des contenus homologués de la télévision généraliste. Ces télévisions
+communautaires exploitaient les fréquences électromagnétiques libres qui pouvaient être captées
+grâce à la présence d'obstacles naturels ou urbains empêchant à certains signaux de passer. Ces
+fréquences, appelées cônes d'ombre, devenaient libres en l'espace de quelques centaines de mètres
+ou même de kilomètres. Au niveau national, les Telestreet réagissaient à un cadre législatif considéré
+comme inadapté à garantir le pluralisme de l’information, aux conflits d'intérêt irrésolus et au
+6
+système de contrôle des chaînes publiques de la part des forces politiques au pouvoir . Au niveau
+. . . . . . .
+2 La plupart des extraits reportés dans cet article sont issus de l’entretien avec Natalia Vinelli.
+3 L'étude sur les Telestreet s'est appuyée essentiellement sur l'analyse d’un corpus multimédia composé par les sites web
+réalisés par les producteurs des TVs, les articles de la presse en ligne portant sur le phénomène et des contenus générés par
+les usagers sur des platesformes de partage de vidéos ou des forums. Celui-ci a été complété par un corpus de contenus
+audiovisuels composé par 68 vidéos produites par un panel de 34 Telestreet.
+4 L'enquête sur les Telestreet dirigée par Giacomo Andreucci (« Storia e geografia delle Tv di strada in Italia / a cura di
+Giacomo Andreucci, Bari, Dedalo, 2006, 144, Inchiesta, a. 36, n. 152, avril-juin 2006, p. 121) relève un pic dans l'explosion
+des Telestreet en 2003 et en 2004 et identifie une phase significative de déclin à partir de 2005. La période comprise entre
+2000 et 2004 a été caractérisée par une euphorie générale qui a amené de nombreux groupes à essayer d'entreprendre cette
+initiative sans forcément la porter à terme.
+5 Nous nous sommes appuyés notamment sur l’enquête « Storia e geografia delle TV da strada in Italia » dirigée par
+Giacomo Andreucci (2006).
+6 L’Italie a été fortement marquée par le conflit d’intérêts concernant Silvio Berlusconi qui a contribué à aggraver la
+situation de concentration qui caractérise le secteur audiovisuel national. En effet, suite à une période connue sous le nom
+de « far west télévisé », pendant laquelle Berlusconi commença à construire son empire médiatique en diffusant, d’une
+manière abusive, sur le territoire national, la loi Mammì, approuvée en 1990 pour régulariser la situation, eut en réalité
+l’effet de légaliser le duopole RAI-Mediaset (composé par les chaînes du service public et le principal groupe privé). La
+© Les Enjeux de l’information et de la communication | http://lesenjeux.univ-grenoble-alpes.fr/ | n°18/3A, 2017 | Page 63
+PAOLA SEDDA Les ressorts démocratiques des médias alternatifs
+en Argentine et en Italie
+international, l'émergence du phénomène des Telestreet a été accompagnée par l'explosion
+généralisée du vidéo-activisme surtout en correspondance avec la montée des pratiques participatives
+promues au sein du mouvement altermondialiste à l’occasion du contre-sommet du G8 de Gène en
+2001. La multiplication, la facilité d’accès et la miniaturisation des dispositifs permettant de réaliser
+facilement des vidéos ont contribué à stimuler des nouvelles formes de prise de parole par image que
+nous pouvons regrouper sous l’étiquette du « vidéo-activisme ». Bien que ces activités individuelles
+ne convergent pas toujours vers la création d’un média alternatif, elles ont contribué à encourager
+l’évolution des pratiques de communication et de production médiatique. Internet constitue le cadre
+de diffusion par excellence des contenus du vidéo-activisme et ses usages accompagnent les
+transformations des formes de mobilisation et d’organisation de l’action collective (Granjon, 2001).
+C’est donc dans ce contexte effervescent que le mouvement des Telestreet est né et s’est développé
+dans différents milieux qui vont de celui étudiant, syndical, associatif, militant ou même religieux.
+Ainsi, en dehors des revendications spécifiques lancées par les Telestreet et concernant tant les
+mouvements ouvriers (comme dans le cas de Telefabbrica) que les mouvements pacifistes,
+écologistes ou altermondialistes (comme dans le cas de NoMadeTV, de Ola Channel ou de Hub
+TV), la création d'un espace communicationnel et informationnel autonome constitue la matrice
+contestataire de toutes les revendications. Certains activistes ont mis l'accent sur les pratiques
+journalistiques et la production de la contre-information (c'est le cas de Tilt TV, de TelePorto 50, de
+Delira TV ou de Videocommunity). D'autres se sont focalisés sur l'élaboration de nouveaux langages
+et de nouvelles formes culturelles (c'est le cas des Telestreet étudiantes). Dans l’idée des promoteurs,
+la Telestreet « ne peut pas et ne doit pas penser pouvoir rentrer en compétition avec les télévisions
+généralistes » mais doit, au contraire, « s'enraciner dans le territoire afin que les gens puissent la
+7
+percevoir comme la leur » et devenir des sujets actifs de la communication. La programmation des
+Telestreet était donc principalement le fruit de contributions volontaires venant des membres des
+rédactions ou des simples citoyens. En ce qui concerne la programmation, la nature bénévole de
+cette activité et la démarche non lucrative des producteurs impliquent une sorte de renversement des
+principes constitutifs du médium télévisé. En effet, à la place d'une programmation au flux continu,
+les Telestreet ne diffusaient souvent que quelques heures par jour ou par semaine. Puisque le statut
+et l'identité de l'émetteur sont équivalents à ceux du récepteur, les formats et les langages audiovisuels
+sont constamment réinventés dans le cadre d'un laboratoire médiatique et social. Sur les 109
+Telestreet recensées, 34 ont réalisé des formats télévisés originaux. Un rôle de premier plan a été
+donné à l'information journalistique : 56 Telestreet ont réalisé des enquêtes, des reportages, des
+interviews ou des documentaires journalistiques amateurs. Parmi celles-ci, 20 ont proposé des
+formats de JT alternatifs conçus et animés par les gens du quartier. Puisque la typologie du contenu
+produit variait en fonction de la raison d'être des micro-télés, la programmation était extrêmement
+hétérogène. Nous avons repéré des télés focalisées sur les événements locaux et les manifestations
+paysannes (comme Albornoz TV et TeleEubea), les problématiques sociales et liées à l'immigration
+(comme pour Gli Anelli mancanti), la politique, les mafias, le sport ou encore l'environnement. Par
+le biais de l'analyse du corpus audiovisuel, nous avons constaté que 55,55 % du contenu était
+constitué par des formats journalistiques classiques (le reportage, l'interview ou le documentaire) ou
+par des formats hybrides ; 25,39 % était composé par des formats auto-produits (émission culturelle,
+spot publicitaire émancipateur, talk-shows politiques réalisés par les gens ordinaires) et 6,34 % portait
+sur la couverture d'événements ou de spectacles vivants. Une partie non négligeable, 15,87 % du
+contenu visionné, concernait des formats plus cinématographiques comme la docu-fiction, le
+documentaire historique ou le court-métrage.
+[suite de la note]
+situation a aujourd’hui évolué suite à la multiplication des plateformes et des supports et notamment avec l’entrée de Sky
+dans le marché du câble, constituant le troisième grand concurrent. L’intervention du législateur italien a donc été toujours
+très complaisante avec les acteurs dominants (et cela malgré les injonctions de la Cour européenne des droits de l’homme
+qui demandait la cession de la chaîne berlusconienne « Rete 4 »). Cette situation a encouragé un processus d’uniformisation
+des formats et des contenus due à un état de concurrence directe entre le groupe télévisé public (contraint par les
+réglementations de l’État) et le principal groupe privé (agissant pendant long temps en condition de quasi monopole).
+7 Discours tenu par Valerio Minella le 29 août 2005, à l'occasion de la présentation publique de Tele Carrassi de Bari
+(Andreucci, 2006).
+© Les Enjeux de l’information et de la communication | http://lesenjeux.univ-grenoble-alpes.fr/ | n°18/3A, 2017 | Page 64
+PAOLA SEDDA Les ressorts démocratiques des médias alternatifs
+en Argentine et en Italie
+Malgré l’extrême diversité des expériences, des revendications, des formats et des productions
+audiovisuelles, les Telestreet constituent un véritable mouvement dont la principale action était
+orientée vers la transformation du médium télévisé. L’analyse des documents qui ont circulé dans
+l’espace numérique nous a en effet permis de reconstituer trois événements importants dans la
+construction du mouvement et de son action. Les activistes des Telestreet se réunirent une première
+fois en 2003 (pendant le D-Day des Telestreet) afin de procéder à la diffusion simultanée d’un
+montage de vidéos sur la guerre en Irak réalisé par Orfeo TV (la Telestreet bolonaise qui instigua le
+mouvement). Elles se réunirent une deuxième fois en 2004 à Senigallia (lors de Eterea 2) pour
+discuter du projet d’une chaîne satellitaire unique et puis, une dernière fois, en 2008 afin d’envisager
+une forme de conversion technologique pour les petits émetteurs. Les principaux activistes
+rédigèrent également un projet de loi « pour la sauvegarde, le soutien, et la valorisation des télés de
+rue » qui aurait dû suivre le parcours de la loi populaire. Cette demande resta toutefois lettre morte
+car, en 2006, la « loi Gentiloni », proposée par la coalition de centre-gauche de Romano Prodi,
+s’étant pourtant montrée sensible au cas des télés de rue, ne mentionnait pas la possibilité d’assigner
+8
+une licence à des émetteurs de quartier . L’accélération du changement technologique et le passage à
+la TV numérique firent apparaître les démarches des telestreetaires comme dépassées face aux
+espoirs d’une participation élargie via les plateformes du web social.
+La lutte de Barricada TV
+Le projet des Telestreet naît au sein d’un groupe d’intellectuels et de médiactivistes bolonais
+appartenant à la gauche extra-parlementaire et ayant déjà participé à la création de radio Alice, l’un
+des symboles du mouvement des radios libres des années 1970. En suivant une trajectoire similaire,
+Barricada TV a été fondée par un groupe d’activistes du mouvement de la gauche nationale
+révolutionnaire (Quebracho) qui sera après traversé par les événements de 2001. C’est à ce moment-
+là que Natalia Vinelli, l’une des fondatrices ainsi que la tête pensante de Barricada TV, rejoint, avec
+d’autres camarades, le mouvement des Piqueteros Teresa Rodriguez. Étudiante en communication,
+elle s’intéresse immédiatement aux formes de « militantisme informationnel » (Cardon et Granjon,
+2010) en s’engageant dans des projets de cinéma militant et dans la production d’émissions télévisées
+semi-amateurs produites dans les quartiers populaires de la ville de Buenos Aires. À ce propos,
+Natalia raconte que « la revista était un dialogue permanent, une découverte des formats de la
+communication où l’on expérimentait les outils technologiques mais également les formes de
+collaboration possibles ». Du bilan de cette expérience, il émerge l’exigence de s’engager dans un
+projet plus consistant.
+Il est intéressant de remarquer que les activistes argentins considèrent également l’année 2001
+comme étant une année charnière dans les transformations des formes de l’engagement politique et
+de l’activisme médiatique. En effet, en coïncidence avec la crise économique argentine, on assiste à
+un soulèvement populaire animé principalement par le mouvement des Piqueteros9, des chômeurs
+ayant été à l’origine des nombreux blocages et des manifestations qui se sont déroulés dans le pays
+pendant cette période. Le début du XXI siècle semble donc constituer un tournant dans
+. . . . . . .
+8 En ce qui concerne le système d’assignation des fréquences, la situation resta donc inchangée par rapport au cadre fixé par
+la loi Mammì en 1990 suivie par la reforme Gasparri (pendant le troisième mandat de Silvio Berlusconi) et par la loi
+Gentiloni de 2006 (approuvée pendant le gouvernement de Romano Prodi). Les Telestreet étaient considérées comme des
+émetteurs pirates en vertu de la violation de l'article 195 du « Codice Postale » et de la « loi Mammì » qui ne prévoit pas
+l’assignation d’une fréquence pour un émetteur diffusant dans un rayon si restreint. Il est également nécessaire de préciser
+qu’en Italie, le concept de « télévision communautaire » est bien différent de celui développé dans d'autres pays européens.
+En effet, par ce concept, la loi italienne désigne normalement un émetteur télévisé qui s'engage à limiter l'espace publicitaire
+à un maximum de 5 % de la programmation globale. Au contraire, dans d'autres pays, comme la Hollande ou l'Allemagne,
+une télé communautaire est un espace ouvert permettant aux citoyens d'accéder à la production de contenus. Ce type
+d'émetteur est donc absent dans ce pays où la logique commerciale a envahi tous les espaces de communication.
+9 Les Piqueteros, du mot espagnol « piquete » (blocage), est un mouvement argentin des années 1990 qui devient connu sur
+le plan international en 2001, au moment de l’effondrement de l’économie du pays. Certains mouvements des Piqueteros,
+dont les répertoires de lutte étaient principalement représentés par le blocage des axes principaux des villes à l’aide de
+barricades artisanales, ont encouragé l’expérimentation de nouvelles formes d’action et de délibération populaire (qui ont
+pris corps dans les assemblées et les comités des quartiers). C’est dans ce moment de forte mobilisation que les nouvelles
+expériences des usines autogérées (« fábricas recuperadas ») commencent à émerger en Argentine.
+© Les Enjeux de l’information et de la communication | http://lesenjeux.univ-grenoble-alpes.fr/ | n°18/3A, 2017 | Page 65
+PAOLA SEDDA Les ressorts démocratiques des médias alternatifs
+en Argentine et en Italie
+l’expérimentation de nouvelles formes de mobilisation et de participation citoyennes mais également
+une nouvelle occasion pour prolonger la lutte sociale qui avait marqué les vagues de contestation des
+décennies précédentes.
+Ainsi, en 2008, au moment où les petits émetteurs italiens étaient en voie de disparition, le groupe
+qui accompagnait Natalia décida de fonder une TV permanente avec la volonté « d’atteindre un
+public plus large que celui des convaincus et de réfléchir à une identité et à un projet éditorial ». En
+2009, la TV fut accueillie dans les locaux de Fábrica, une usine métallurgique autogérée constituant
+également la première fábrica recuperada d’Argentine. C’est grâce à l’aide de la coopérative des
+travailleurs que les activistes réussirent à implanter une TV non itinérante et, dès mars 2010, à
+diffuser dans le quartier à l’aide d’un transmetteur analogique. À partir de ce moment-là, ils
+commencèrent à lutter pour l’obtention d’une licence afin de régulariser leur statut. Ils passèrent
+l’étape du concours pour la licence de télévision digitale ouverte (« licencia de televisión digital
+10
+abierta ») et ils sont actuellement encore en lutte pour l’obtention de l’habilitation . Les contraintes
+sont toutefois nombreuses : l’entrée du président Mauricio Macri dans la scène politique (impliquant
+une modification des principes de la loi de l’audiovisuel proposée par le gouvernement précédent et
+jamais appliquée dans sa totalité) et le refus de la part du groupe éditorial Clarin de céder son espace
+constituent des grosses barrières au processus d’institutionnalisation de Barricada. Malgré ces
+difficultés, entre 20 et 30 personnes continuent à graviter autour de la TV alternative. Il s’agit pour la
+plupart d’étudiants, militants ou passionnés dont la participation peut être fluctuante. Parmi ces
+collaborateurs, douze personnes sont impliquées d’une manière constante dans le travail dont quatre
+sont salariés. En ce qui concerne la programmation, Barricada TV couvre l’actualité de la province
+de Buenos Aires en traitant avant tout les thèmes qui concernent les travailleurs de la classe ouvrière
+argentine et les mobilisations citoyennes. La rédaction nous explique toutefois que la structure
+économique impose une connexion entre des problématiques locales et des enjeux de portée
+internationale. L’objectif de la TV est celui de fournir un service professionnel, nécessitant un
+apprentissage des pratiques médiatiques et donc impliquant, dans une certaine mesure, une adhésion
+aux formats et aux codes des médias de masse. Ainsi, le collectif de Barricada TV est conscient de la
+nécessité d’institutionnaliser partiellement ses pratiques de production afin de pourvoir exister dans
+l’espace médiatique. Cette tension entre l’esprit critique du média et son parcours de
+professionnalisation émerge d’une façon claire des réflexions que nous livre la fondatrice : « ce qui
+est réellement important est d’être capable, dans l’ensemble, de transformer plus que de reproduire
+et de se doter des espaces de discussion collective qui peuvent nous permettre de corriger les
+déviations ». Les formats proposés sont donc pour la plupart proches de ceux de la télévision
+généraliste bien que les programmes soient réalisés avec des moyens bien plus limités et une
+participation variable et semi-bénévole de la part des collaborateurs. Pour certains, la TV est une
+façon d’apprendre les métiers liés au journalisme et aux médias, pour d’autres, c’est une façon de
+militer et d’amplifier les revendications portées par les mouvements sociaux ; pour un groupe moins
+nombreux, le média alternatif correspond à un véritable projet professionnel. Si les contraintes
+matérielles obligent les médiactivistes à renoncer à innover sur le plan de la forme, la différence par
+rapport à la TV main stream, réside plutôt au niveau du contenu et de la démarche : le refus des
+représentations dominantes, des enjeux commerciaux et des simplifications de la réalité opérées par
+la TV généraliste sont ici évités ou corrigés par une organisation à but non lucratif qui essaie de
+fonctionner par un processus de délibération collective.
+Comme pour les telestreetaires, les obstacles institutionnels inquiètent les médiactivistes. Barricada
+TV a obtenu la licence deux jours avant l’élection du président Macri qui, depuis, a modifié certains
+articles de la loi sur l’audiovisuel. Natalia Vinelli affirme que « pour le macrisme, la télévision n’existe
+. . . . . . .
+10 Comme en Italie, dans le cas argentin nous retrouvons un même phénomène de concentration sur lequel par contre le
+législateur a essayé d’intervenir. Le principe de division en trois tiers de la loi argentine (article 89 de la loi 26522 des
+services de la communication audiovisuelle), entrée en vigueur pendant le mandat de Cristina Fernández de Kirchner et
+réservant un tiers de l’espace aux acteurs publics, privés et à ceux à but non lucratifs, a généré un débat enflammé dans le
+pays. Considérée comme étant la loi la plus discutée de l’histoire argentine, elle n’a en réalité jamais été totalement
+appliquée. Cette même loi a en outre subi des modifications radicales suite à la récente élection de Mauricio Macri. Il s’agit
+donc d’une loi qui dérange et qui divise mais sur laquelle les activistes argentins essaient désespérément de s’appuyer pour
+pouvoir exister dans l’espace médiatique.
+© Les Enjeux de l’information et de la communication | http://lesenjeux.univ-grenoble-alpes.fr/ | n°18/3A, 2017 | Page 66
+PAOLA SEDDA Les ressorts démocratiques des médias alternatifs
+en Argentine et en Italie
+pas ». Afin de pouvoir exister, le projet reste celui d’organiser la mobilisation et de continuer à porter
+les revendications dans une logique stratégique de long terme.
+Le médium alternatif comme usine de la démocratie
+Dans leur différence, les deux terrains nous donnent à voir l’engagement de groupes de
+communicants-bénévoles dans la défense du pluralisme des émetteurs de l’information et dans la
+revendication d’une reconnaissance institutionnelle des médias alternatifs. Ces voix critiques viennent
+des milieux militants de l’extrême gauche argentine et italienne partageant une même volonté de
+s’engager dans la production médiatique pour contrer la pensée hégémonique et les logiques du
+marché capitaliste. Les deux expériences de médiactivisme sont donc également porteuses d’un
+projet de société pour lequel la communication constitue le front de lutte principal. Ces collectifs
+encouragent ainsi une réflexion autour de l’élaboration de formes d’autogestion, de délibération et
+de participation civique. Pour ce faire, les deux mouvements se sont engagés dans la création d’un
+espace de production médiatique propre, ne répondant pas à une logique de la rentabilité et
+reposant avant tout sur l’idéal de la construction du « commun ». En prenant inspiration du travail de
+Pierre Dardot et Christian Laval, le « commun » est ici envisagé comme un principe politique et
+organisationnel pouvant régir les formes de collaboration et d’entre-aide finalisées à la défense des
+intérêts collectifs face aux prérogatives de conservation des classes dominantes (Dardot et Laval,
+2014).
+Les deux médias mettent au centre de leur démarche l’autonomie des collectifs des enjeux de nature
+commerciale et leur volonté de stimuler la construction de publics critiques capables d’agir sur leur
+environnement. Dans la continuité du mouvement des radios libres, ces médias alternatifs ont en
+effet l'objectif d'amplifier la voix du citoyen et de le rendre protagoniste de son quotidien. Pour les
+acteurs du projet des Telestreet, « faire sa propre télé » signifiait avant tout arrêter d'être spectateur et
+s'impliquer dans la vie du quartier. Valerio Minnella, l'un des créateurs d’Orfeo TV, déclare que « le
+but n'était pas tant celui d'accéder au marché télévisé mais de proposer une nouvelle façon de
+11
+concevoir et de faire la télé » . La diffusion de ces télés de rue sur la quasi totalité du territoire italien
+a abouti à la création d’un espace médiatique oppositionnel (Negt, 2007) où la production
+d'information journalistique s'est affirmée comme un moyen d’encourager le lien social et de
+réinvestir l'espace public. En ce sens, les Telestreet ont donné une contribution importante au
+développement de l'idée de démocratie participative et de son application non élitiste. Au-delà du
+nombre effectif de personnes touchées par le mouvement, la nouveauté des Telestreet réside en effet
+dans la stimulation de nouvelles pratiques expressives dans une logique territoriale, communautaire
+et inter-générationnelle.
+En Amérique du Sud, le collectif de Barricada TV est actuellement engagé dans l’élaboration d’une
+identité (visuelle, artistique et liée aux contenus) qui puisse correspondre aux principes d’action de
+l’autogestion défendus par ses membres. La TV est donc traversée par les modalités de travail
+autogéré qui ont été expérimentées au sein des usines récupérées argentines. L’idée, exprimée d’une
+manière claire par Natalia Vinelli, est celle de démontrer « qu’il est possible de faire fonctionner une
+chaîne de télévision sans la présence de quelqu’un qui ordonne et de quelqu’un d’autre qui obéit, en
+essayant de construire un objectif commun à travers la discussion ». Contrairement au cas des
+Telestreet, ici on n’essaie pas de modifier l’approche du récepteur au médium mais plutôt de
+produire une structure médiatique alternative capable d’élaborer collectivement ses propres formes
+productives, organisationnelles et délibératives. L’insertion communautaire et territoriale, essentielle
+dans l’expérience des Telestreet, devient ici un biais pour éviter une modification radicale de la
+nature du médium. L’objectif est donc celui de garantir un espace de participation et
+d’expérimentation citoyenne qui est censé co-exister avec les processus de standardisation de la
+production médiatique.
+. . . . . . .
+11 Extrait de l’entretien mené dans le cadre de l’enquête sur les Telestreet dirigée par Giacomo Andreucci (2006).
+© Les Enjeux de l’information et de la communication | http://lesenjeux.univ-grenoble-alpes.fr/ | n°18/3A, 2017 | Page 67
+PAOLA SEDDA Les ressorts démocratiques des médias alternatifs
+en Argentine et en Italie
+Comme il a été démontré par les travaux d’Elinor Ostrom (1990), les activités d‘autogestion et de
+préservation du commun ne dépendent pas de la dimension technique mais ils relèvent plutôt des
+principes politiques et des normes qui régissent l’action. Ainsi, tandis que la logique coopérative des
+réseaux est de plus en plus instrumentalisée par le marketing, des minorités actives essaient de créer
+les conditions pour établir des modes de coopération et de collaboration mutuelle axés sur la
+défense et la préservation des intérêts collectifs.
+Dans les deux cas étudiés, des acteurs médiatiques marginaux s’émancipent des formes de la
+production capitaliste et aboutissent à la création de deux modèles de collaboration et de création de
+l’information, le premier reposant sur un principe de participation citoyenne et le deuxième sur
+l’idéal marxiste de l’autogestion des moyens de production. En effet, la participation citoyenne,
+centrale dans le projet des Telestreet car condition indispensable pour la naissance et le
+fonctionnement d’une télé de quartier, est envisagée par Barricada TV en tant que possibilité et non
+12
+pas comme donnée acquise en amont . L’enquête argentine a en effet mis en exergue la
+discontinuité de la participation des gens du quartier et des autres citoyens à la vie de la télé. En
+dehors d’un noyau d’activistes très engagés, les processus rapides de démobilisation des autres
+collaborateurs démontrent le primat des trajectoires individuelles et précaires sur les objectifs
+collectifs de long terme. Si, pour les telestreetaires, la diversité et la multiplication des visions de la
+réalité dépend de la sauvegarde et de la valorisation des spécificités territoriales, pour Barricada, la
+participation des quartiers est un point de départ, une manière d’acquérir une légitimité locale et de
+s’assurer un public avant de réussir à diffuser via câble dans la province de Buenos Aires.
+Tandis que Barricada TV est impliquée dans un processus de professionnalisation des pratiques
+médiatiques (les programmes sont soignés et reflètent les codes des médias de masse), les Telestreet
+visaient à dé-professionnaliser les activités et les formats de la production télévisuelle (création de
+nouveaux formats, production amateur et discontinue).
+Dans le cadre du mouvement italien, c’est précisément l’expérience de la production télévisée qui
+permet un dévoilement de la fiction des médias de masse et favorise un processus d’émancipation
+des spectateurs. Au contraire, dans le projet argentin, les producteurs souhaitent atteindre le même
+public de la TV généraliste et le mettre face à ses propres contradictions. Le public de la TV de
+masse est donc appelé à écouter un contre-discours censé favoriser la prise de conscience autour des
+13
+tensions produites par la structure socio-économique . Si, dans le cadre des Telestreet, le médium
+citoyen a la fonction d’inverser le modèle de la communication de masse, en Argentine, la focale se
+situe sur le point d’arrivée de la communication alternative. Ainsi, en s’éloignant de la démarche
+idéaliste des telestreetaires, les activistes de Barricada TV pensent que les besoins informationnels se
+situent ailleurs. Le collectif argentin souligne, en effet, qu’« il y a beaucoup de médias
+communautaires et liés aux territoires qui sont très ancrés dans les dimensions quotidiennes, dans les
+problèmes locaux des quartiers mais il n’y a pas des médias alternatifs réellement forts, avec une
+capacité de diffusion large qui puisse arriver au grand public ».
+Malgré l’apparente rupture entre ces deux formes d’activisme, nous faisons ici le pari de la continuité
+entre ces deux laboratoires démocratiques essentiellement fondés sur le refus de l’ordre capitaliste et
+de ses actions d’exclusion, de marchandisation et de prédation des ressources collectives.
+Conclusion
+Les deux modèles de médiactivisme, renvoyant inévitablement aux idéologies et aux imaginaires de
+leurs créateurs, nous aident à comprendre la complexité des processus qui façonnent les usages
+résistants de la technique ainsi que leurs enjeux pour la démocratie.
+. . . . . . .
+12 Au cours de l’entretien, Natalia Vinelli a affirmé que la participation du quartier est « un élément important mais pas un
+porte-drapeau ».
+13 L’interviewée affirme que : « l’objectif est d’arriver à la dame issue de la classe moyenne, rentrer dans son quotidien, où
+tout ce qui relève des masses populaires la dérange, et la mettre face à ses propres contradictions ».
+© Les Enjeux de l’information et de la communication | http://lesenjeux.univ-grenoble-alpes.fr/ | n°18/3A, 2017 | Page 68
+PAOLA SEDDA Les ressorts démocratiques des médias alternatifs
+en Argentine et en Italie
+L’expérience des Telestreet nous rappelle en effet ce que Patrice Flichy définit comme étant une
+« utopie projet » (Flichy, 2001A) ayant eu un pouvoir de mobilisation qui dépasse les frontières
+nationales pour arriver jusqu’à l’Amérique du Sud. Toutefois, l’utopie des Telestreet, dans sa
+formulation radicale visant à une dissémination des petites télés sur le territoire européen, s’éteint
+progressivement à cause d’une absence d’interlocuteurs et de volontés politiques dénoncée par les
+promoteurs. En se nourrissant de l’utopie technologique des telestreetaires, Barricada TV aboutit à
+l’élaboration d’un « projet-frontière » (Flichy, 2001A) dans le cadre duquel on négocie et on s’adapte
+aux normes du système audiovisuel. Ce processus d’institutionnalisation implique par contre un
+verrouillage (partiel) de la dimension participative et communautaire. Cette démarche répond à un
+objectif précis : atteindre le même public de la TV généraliste et s’imposer comme acteur anti-
+hégémonique dans la métropole. Dans le cas où l’attribution de la licence deviendrait effective, le
+projet d’institutionnalisation des médias indépendants, entamé sans réussite par les activistes italiens,
+pourra donc se concrétiser en Argentine. Le principe de division en trois tiers, réservant un tiers de
+l’espace audiovisuel aux acteurs publics, privés et à ceux à but non lucratif a été récemment supprimé
+en Argentine par le gouvernement Macri. Cette forme de régulation constituait toutefois un cadre
+législatif favorable pour la naissance de projets audiovisuels alternatifs comme celui de Barricada TV.
+Dans les deux cas, les plus grosses barrières empêchant l’exercice du droit à communiquer sont donc
+de nature institutionnelle.
+En faisant écho aux approches de l’économie politique de la communication, les revendications des
+activistes italiens et argentins confirment le besoin de multiplier les acteurs de la communication, non
+pas en ce qui concerne le nombre mais plutôt en termes de statut et de positionnement occupés dans
+les rapports de force nationaux et transnationaux. Le réseau des Telestreet, en revendiquant le droit
+de tout citoyen à communiquer, à fabriquer des contenus et à participer activement au débat public,
+suggère la nécessité de déstructurer le modèle des médias de masse. De la même façon, Barricada
+TV, en tant qu’acteur médiatique oppositionnel, revendique son droit à une création audiovisuelle
+dissonante qui puisse circuler dans l’espace médiatique officiel. Le champ médiatique contemporain
+représente donc un espace dialectique et d'expérimentation où les citoyens s’engagent dans de
+nouveaux projets de construction et de défense du bien commun.
+Le problème central n’est donc pas uniquement celui de garantir la « diversité culturelle », très
+rapidement noyé dans la rhétorique de la diversité de l’offre, mais encore et toujours celui de la
+diversité des médias, celui du droit des communautés, territoriales, politiques, culturelles, à animer le
+débat public en dehors d’une logique purement instrumentale. Cela implique donc une réflexion
+autour des phénomènes de concentration des médias (Mosco, 2000) et de reconfiguration des
+services audiovisuels publics, notamment en ce qui concerne la place qu’ils devraient réserver au
+débat démocratique et à la nature plurielle des groupes sociaux qui devraient l’animer.
+De l’Europe à l’Amérique du Sud, la communication est interprétée comme un front de lutte car elle
+constitue un espace stratégique pour la construction de contre-pouvoirs et pour la promotion d’une
+participation directe des citoyens aux processus politiques. Toutefois, dans les deux contextes, la
+formulation d’une même critique adressée à l’ordre médiatique dominant aboutit à des solutions
+différentes. Ces dernières sont révélatrices d’une tension entre une logique de production contre-
+hégémonique (Cardon et Granjon, 2010) qui, dans le cas argentin, fait le pari de la
+professionnalisation, et une logique « émancipatrice », prônée par les activistes italiens et axée autour
+des bénéfices intrinsèques dérivant des « pratiques communicationnelles résistantes » (Sedda, 2015).
+Ces petits émetteurs à but non lucratif peuvent ainsi être constitués par des communautés
+territoriales porteuses de spécificités historiques et culturelles (comme dans le cas des telestreetaires),
+ou alors, et c’est le cas de Barricada TV, par des minorités actives visant à produire un contre-
+discours médiatique dans un cadre semi-professionnel et en voie d’institutionnalisation. Dans les
+deux cas, l’enjeu est primordial : déstructurer et transformer les médias à partir des pratiques
+développées en marge afin d’établir une démocratie de la communication. Il est clair qu’un tel projet
+nécessite un cadre institutionnel et une politique publique de la communication capable d’en
+préfigurer les formes, les statuts et les modalités de production et de diffusion. En ce sens, le débat
+autour de la société de l’information est toujours d’actualité et il est voué à évoluer au fur et à mesure
+que des nouveaux défis démocratiques s’imposent sur la scène politique européenne et
+transnationale. Les institutions internationales comme l’Union Européenne sont alors appelées à
+répondre aux actes de résistance de la société civile face à la dérégulation des flux économiques et
+© Les Enjeux de l’information et de la communication | http://lesenjeux.univ-grenoble-alpes.fr/ | n°18/3A, 2017 | Page 69
+PAOLA SEDDA Les ressorts démocratiques des médias alternatifs
+en Argentine et en Italie
+informationnels. En l’absence de politiques publiques de régulation démocratique des médias,
+l’avancée de l’individualisation sociale risque de fragiliser les tentatives de construction et de
+préservation du « commun » (Dardot et Laval, 2014) constituant pourtant l’un des principaux leviers
+des luttes citoyennes à une échelle globale.
+Les gouvernements progressistes sud-américains (l’Argentine en 2009, le Venezuela en 2000 et en
+2010, la Bolivie en 2011), ayant proposé de nouvelles formes de régulation des médias, semblaient
+aller dans cette direction (Badillo, Mastrini et Marenghi, 2014). Ces expériences pourraient
+certainement constituer une source de réflexion pour l’élaboration d’une politique de la
+communication au sein de l’espace européen où la diversité des communautés qui sont vouées à
+s’exprimer est une condition même pour la survie et la prégnance du projet d’Europe.
+Bibliographie
+Andreucci Giacomo (2006), « Storia e geografia delle Tv di strada in Italia » Bari, Dedalo, avril-juin
+2006.
+Badillo Àngel, Mastrini Guillermo et Marenghi Patricia (2014), « Théorie critique, gauche et
+politique publiques de communication » (p.49-77), in George Éric et Granjon Fabien (dir.) Critique,
+Sciences Sociales et Communication, Éditions Mare et Martin, 2014.
+Berardi Franco (2001), La fabbrica dell'infelicità, new economy e movimento del cognitariato.
+Roma : DeriveApprodi srl.
+Blondeau Olivier et Allard Laurence (2007), Devenir média : l'activisme sur Internet, entre défection
+et expérimentation, Paris : Éditions Amsterdam.
+Breton Philippe (1997), L’utopie de la communication, Le mythe du « village planétaire », Paris, La
+Découverte.
+Cabedoche Bertrand (2011), « Le rapport McBride, conférence du consensus avant l'heure.
+L'expérimentation refoulée d'une médiation politique originale, porteuse d'un espace public sociétal
+et des valeurs fondatrices de l'Unesco », Les Enjeux de l'information et de la communication, n°
+12/1, p.69-82.
+Cardon Dominique et Granjon Fabien (2010), Médiactivistes, Paris : Presse de Science Po.
+Dahlgren Peter (2009), Media and Political engagement, Citizens, communication and democracy,
+Cambridge : Cambridge University Press.
+Dahlgren Peter et Relieu Marc (2000), « L’espace public et l'internet. Structure, espace et
+communication », Réseaux, vol 18, n°100, Communiquer à l'ère des réseaux, p. 157-186.
+Dardot Pierre et Laval Christian (2014), Commun, Essai sur la révolution au XXI siècle, Paris : La
+Découverte.
+Della Porta Donatella et Mosca Lorenzo (2006), « Organizational Networks. Democracy in
+Movement And The Mobilization of the Society », Demos, Work Package 2 Research Report,
+Bruxelles, EuropeanCommission.
+Downing, John D.H (2001), Radical Media, Rebellious Communication and Social Movements,
+Londres, Sage.
+Flichy Patrice (2001A), « La place de l'imaginaire dans l'action technique. Le cas de l'internet »,
+Réseaux 2001/5, n° 109, p.52-73.
+Flichy Patrice (2001B), L'imaginaire d'Internet, Paris : La Découverte.
+Feenberg Andrew (2014), Pour une théorie critique de la technique, Montréal : Lux Éditeurs.
+George Éric (2008), « De la complexité des relations entre démocratie et TIC », Nouvelles pratiques
+sociales, vol. 21, n°1, p.38-51.
+© Les Enjeux de l’information et de la communication | http://lesenjeux.univ-grenoble-alpes.fr/ | n°18/3A, 2017 | Page 70
+PAOLA SEDDA Les ressorts démocratiques des médias alternatifs
+en Argentine et en Italie
+Fuchs Christian (2010), « Alternative Media as Critical Media », European journal of Social Theory,
+13(2), p.173-192.
+Gramsci Antonio (1975), Quaderni del carcere, edizione critica a cura di Gerratana, Torino,
+Einaudi.
+Granjon Fabien (2001), L'Internet militant, Mouvement social et usages des réseaux télématiques,
+Rennes, Editions Apogée.
+Laulan Anne-Marie (2014), « Le parcours institutionnel de la communication », Hermès, La Revue
+3/2014, n°70, p.100-101
+Martin-Barbero Jesus (2002), Des médias aux médiations : communication, culture et hégémonies,
+Paris : CNRS Éditions.
+Mattelart Armand (2009), Histoire de la Société de l'information, Paris : La Découverte, Repères
+(4ème édition).
+Mattelart Armand (2004), Histoire des théories de la communication, Paris : La Découverte.
+Miège Bernard (2010), Espace Public Contemporain, Grenoble : PUG.
+Mosco Vincent (2000), « Les nouvelles technologies de communication. Une approche politico-
+économique », Réseaux, vol 18, n°101, Questionner la société de l'information, p.93-118.
+Negt Oskar (2007), L'espace public oppositionnel, L'expérience plébéienne, une histoire discontinue
+de la liberté politique, Paris : Payot.
+Ostrom Elinor (1990), Governing the Commons : The Evolution of Institutions for Collective
+Action, Cambridge University Press.
+Rebillard Franck, « Modèles socioéconomiques du journalisme en ligne et possibilités d'une
+information diversifiée », in Lafon Benoit (coord.), Supplément, Journalisme et questions sociétales
+au prisme des industries culturelles, Les Enjeux de l'Information et de la Communication, n° 12/3,
+2011, p.81-95, mis en ligne le 27 janvier 2012,
+URL : https://lesenjeux.univ-grenoble-alpes.fr/2011-supplement/Rebillard/
+Rosanvallon Pierre (2006), La contre-démocratie, La politique à l'âge de la défiance, Paris : Seuil.
+Sedda Paola (2015), « L’Internet contestataire comme pratique d’émancipation, des médias
+alternatifs à la mobilisation numérique », Les cahiers du Numérique, n° 4/2015, vol. 11, p.25-52.
+Sedda Paola (2013), Pratiques info-communicationnelles et mobilisation sociale à l’ère d’Internet,
+thèse de doctorat en SIC soutenue le 26 novembre 2013 à Université Lille 3.
+Sfez Lucien (1992), Critique de la communication, Paris : Le Seuil.
+Smyrnaios Nikos, (2006), « Une doxa moderne. Bref historique de la société de l'information »,
+COMMposite v2006.1, p.109-128.
+© Les Enjeux de l’information et de la communication | http://lesenjeux.univ-grenoble-alpes.fr/ | n°18/3A, 2017 | Page 71

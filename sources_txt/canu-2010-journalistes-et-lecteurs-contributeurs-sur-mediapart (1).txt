@@ -1,0 +1,1219 @@
+Journalistes et lecteurs-contributeurs sur mediapart
+Des rôles négociés
+Roland Canu, Caroline Datchary
+Dans Réseaux 2010/2 n° 160-161 , pages 195 à 223
+Éditions La Découverte
+ISSN 0751-7971
+ISBN 9782707160171
+DOI 10.3917/res.160.0195
+Date de mise en ligne : 23/04/2010
+Article disponible en ligne à l’adresse
+https://shs.cairn.info/revue-reseaux-2010-2-page-195?lang=fr
+Découvrir le sommaire de ce numéro, suivre la revue par email, s’abonner...
+Scannez ce QR Code pour accéder à la page de ce numéro sur Cairn.info.
+Distribution électronique Cairn.info pour La Découverte.
+Vous avez l’autorisation de reproduire cet article dans les limites des conditions d’utilisation de Cairn.info ou, le cas échéant, des conditions générales de la licence souscrite par votre
+établissement. Détails et conditions sur cairn.info/copyright.
+Sauf dispositions légales contraires, les usages numériques à des fins pédagogiques des présentes ressources sont soumises à l’autorisation de l’Éditeur ou, le cas échéant, de
+l’organisme de gestion collective habilité à cet effet. Il en est ainsi notamment en France avec le CFC qui est l’organisme agréé en la matière.
+JOURNALISTES
+ET LECTEURS-CONTRIBUTEURS
+SUR MEDIAPART
+DES RôLES NÉGOCIÉS
+Roland CANU
+Caroline DATCHARY
+DOI: 10.3917/res.160-161.0195
+)74.501.62.951
+:PI(
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| etrevuocéD
+aL
+L es difficultés qu’éprouvent les journalistes à revendiquer un savoir-
+faire professionnel unifié et unifiant sont bien connues. Dans la litté-
+rature, ce flou identitaire, caractéristique de la figure du journaliste,
+semble autant présenté comme une contrainte que comme une chance, puisqu’il
+permet aux professionnels de plier les cadres de leur fonction sans jamais les
+rompre (Ruellan, 1992).
+Le développement du web 2.0 rend possible la participation des internautes à
+la production de l’information. Cette participation accompagne, semble-t-il,
+une « démocratisation du journalisme » et son corollaire : la contestation d’une
+expertise (sélection et traduction de l’information) propre à cette profession.
+Le public aurait en effet acquis les moyens, via ce média, de s’autonomi-
+ser et même de contourner les journalistes professionnels. On parle alors de
+« journalisme ordinaire », de « journalisme citoyen » ou encore de « journa-
+lisme participatif » pour qualifier ce phénomène. L’avènement d’une audience
+active contraint les journalistes à composer avec un lecteur plus consistant,
+loin d’une simple représentation projetée. Certes, les journaux n’ont pas
+attendu internet pour se préoccuper de la relation au lecteur et d’une possible
+participation ascendante du public à ces sélection, hiérarchisation et diffusion
+de l’information : le « courrier des lecteurs », comme manifestation de cette
+– prudente 1 – préoccupation, en témoigne (Charon, 1996, p. 51). L’avène-
+ment d’un journalisme participatif semble néanmoins s’inscrire au croisement
+d’une double transformation concomitante plus récente : celle, technique,
+induite par internet (avec l’avènement du web 2.0) et celle, plus idéologique,
+qui promeut et tire parti d’une plus grande autonomie et créativité, qu’elle soit
+le fait de salariés (Boltanski, Chiapello, 1999) ou de clients (Dujarier, 2008).
+1. En effet, l’auteur nous apprend que « les rédactions marquaient une certaine réserve à l’égard
+de ces réactions dont il est impossible de situer la représentativité. « Ceux qui écrivent sont une
+minorité sans doute atypique, radicale, peu conforme à l’état de l’opinion ou des lecteurs »,
+remarque la grande majorité des journalistes. Il n’empêche qu’un mouvement s’observe par-
+tout en Europe qui voit se renforcer et s’élargir les formes d’expression et de relations directes
+entre les journaux et les lecteurs » (Charon, 1996, p. 51).
+)74.501.62.951
+:PI(
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| etrevuocéD
+aL
+198 Réseaux n° 160-161/2010
+Cette double transformation invite également à considérer comment la proli-
+fération des échanges entre journalistes et lecteurs, rendue possible par cette
+participation ascendante engage les acteurs à réfléchir à la pratique du journa-
+lisme et à en redessiner les contours. En d’autres termes, ces transformations
+invitent les acteurs, notamment les journalistes, à tracer les contours de la pra-
+tique, à la redimensionner, à affirmer et raffermir les frontières d’une profes-
+sion, alors même que les mutations actuelles pourraient la mettre en danger.
+Nous proposons, dans ce travail, de prendre appui sur le site journalistique
+Mediapart pour observer comment s’opèrent à la fois ce contournement du
+journalisme professionnel et ce réajustement des contours par les journalistes
+et les lecteurs-contributeurs abonnés à ce site. Mediapart 2 est un site d’in-
+formations généralistes en ligne lancé en mars 2008. Il combine les fonc-
+tionnalités des journaux en ligne classique avec des outils communautaires
+collaboratifs et invite le lecteur-adhérent à commenter, échanger, rédiger – ce
+dernier devenant ainsi co-auteur et co-producteur de l’information. Confor-
+mément à l’image que renvoie la notion de « journalisme participatif », le
+journal fonde ainsi sa démarche sur la figure d’un lecteur/contributeur qui
+participe activement au travail de rédaction du journal, loin d’une image de
+récepteur passif des contenus médiatiques associée à la théorie des effets forts.
+Mais si les soubassements politique et économique du projet Mediapart s’ins-
+crivent dans le cadre de ce journalisme participatif, ils viennent également en
+repenser les pourtours. Là où un site comme AgoraVox inclut la production
+de citoyens tout en acceptant une posture journalistique plus modeste (Singer,
+2003), Mediapart repose sur des figures du journaliste et du lecteur revalori-
+sées. L’adoption d’un modèle économique singulier, basé sur un abonnement
+payant sans publicité, durcit la question de savoir comment concilier « jour-
+nalisme participatif » d’un côté et affirmation identitaire d’un journalisme
+professionnel (savoirs/savoir-faire) de l’autre. Par son attachement histori-
+que à un journalisme académique, la volonté manifestée par les fondateurs
+de construire le projet du site sur une critique des dérives de ce journalisme,
+l’identité des membres de la communauté, la réflexivité dont ils font preuve,
+ou encore l’engagement des lecteurs-contributeurs au nom de leur abonne-
+ment, Mediapart apparaît comme un espace de débat sur les frontières de la
+profession idéal pour traiter ces contournement et redimensionnement des
+frontières du journalisme.
+2. www.mediapart.fr.
+)74.501.62.951
+:PI(
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| etrevuocéD
+aL
+Journalistes et lecteurs-contributeurs sur mediapart 199
+Nous suivons Mediapart depuis un an et demi en empruntant à diverses métho-
+des : analyse de contenu du site, tracking de l’activité des journalistes, obser-
+vation in situ de cette même activité et entretiens auprès des lecteurs-abonnés.
+Les données récoltées sont issues de la première phase d’une enquête en
+cours 3. Dans le cadre de cet article, nous avons fait le choix de centrer notre
+réflexion sur l’analyse de contenu et plus précisément sur deux fils de dis-
+cussion choisis pour les raisons suivantes : d’une part, ils regroupent, à eux
+deux, les thèmes récurrents que nous avons pu relever dans les différents fils
+de discussion analysés. D’autre part, ils nous permettent d’aborder la question
+des différents formats de contribution sur Mediapart puisqu’il s’agit, pour le
+premier, d’un fil de discussion suite à un article politique et, pour le second,
+de commentaires suivant un billet de blog publié par une journaliste. Le choix
+d’une démarche s’apparentant à de l’ethnographie en ligne, tient à la réflexi-
+vité dont font preuve les acteurs engagés dans ces discussions. Cette réflexi-
+vité sur la nature des contributions de chacun, mais aussi sur la spécificité ou
+la porosité des frontières entre savoir-faire experts et profanes est telle qu’elle
+nous invite à passer d’une sociologie critique à une sociologie de la critique
+(Boltanski, 1990). En d’autres termes, les abonnés se révèlent être suffisam-
+ment réflexifs pour que l’enquêteur n’ait pas à s’attribuer les mérites de la
+réflexion et de la critique 4. En outre, recourir à deux fils de discussion claire-
+ment identifiés présente l’avantage de permettre au lecteur de s’y reporter et
+donc d’accéder à la totalité du matériau utilisé via les url infra.
+L’article qui précède le premier fil de discussion aborde un sujet polémique
+[Extrait du fil de discussion 1], l’un de ceux qui génèrent en règle générale
+le plus grand nombre de réactions et commentaires : la politique intérieure
+nationale et, notamment, le positionnement du parti socialiste et de ses repré-
+sentants. Les premières réactions, suite à ce papier, abordent ainsi le sujet
+même de l’article et non pas la manière dont il est traité par le journaliste.
+Puis, la question des figures du journaliste et du lecteur émerge et occupe une
+place non négligeable dans ce fil sous la forme d’une digression qui n’en est
+pas une. Elle n’en est pas une puisqu’elle intervient régulièrement dans les fils
+de discussion ; à tel point qu’on en vient à penser que le principal sujet traité
+par Mediapart est le journalisme et l’animation d’un espace public habité par
+des professionnels de la publicisation et des citoyens.
+3. Cette enquête bénéficie du soutien de l’AnR (AnR-08-COMM-039).
+4. À tel point que Mediapart est l’objet d’une édition participative compilant une série d’arti-
+cles et de liens éclairant le site, son fonctionnement et sa communauté : http://www.mediapart.
+fr/club/edition/meta-mediapart
+)74.501.62.951
+:PI(
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| etrevuocéD
+aL
+200 Réseaux n° 160-161/2010
+Fil de discussion 1 :
+http://www.mediapart.fr/journal/france/171208/le-ps-cherche-comment-limiter-
+la-casse-aux-elections-europeennes
+Article du journal – Le PS cherche comment limiter la casse aux élections euro-
+péennes.
+31 commentaires
+Article publié le 17 décembre 2009
+Commentaires :
+17 décembre : 25 commentaires
+18 : 5
+24 : 1
+Journaliste(s) (l’auteur de l’article). Intervient 5 fois.
+Lecteurs-clients intervenants : 19 qui interviennent de 1 à 6 fois.
+Le second fil de discussion suit le billet paru sur le blog de Sophie Dufau [Extrait
+du fil de discussion 2], membre du comité de rédaction et ancienne du quotidien
+Libération, qui aborde le conflit opposant ce journal à une de ses salariées : Flo-
+rence Cousin, en grève de la faim depuis plusieurs jours dans le hall du journal.
+Cette information n’avait été relayée dans Mediapart jusque-là que par le biais
+de billets de lecteurs. Dans le fil de discussion, les lecteurs réagissent à la fois à
+l’affaire elle-même (certains d’entre eux étant personnellement impliqués dans
+le comité de soutien de Florence Cousin) et au billet de blog, son contenu (argu-
+mentation de l’auteur), mais aussi son genre (différences avec le format article).
+Fil de discussion 2 :
+http://www.mediapart.fr/club/blog/sophie-dufau/050309/un-malaise-pas-seule-
+ment-dans-le-hall-de-liberation
+Billet de blog – Un malaise, pas seulement dans le hall de Libération.
+153 commentaires :
+Billet publié le 5 mars 2009
+5 mars: 64 commentaires
+6 : 32
+7 : 17
+8 : 25
+9 : 6
+12 : 2
+20 : 1
+28 : 1
+42 intervenants différents (participations de 1 à 16)
+Journaliste(s) (l’auteur de l’article). Intervient 1 fois.
+Lecteurs-clients : 41 qui interviennent de 1 à 6 fois.
+)74.501.62.951
+:PI(
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| etrevuocéD
+aL
+Journalistes et lecteurs-contributeurs sur mediapart 201
+Nous proposons ici d’appréhender ces contournements du journalisme pro-
+fessionnel en opérant une double focale sur la concrétisation technique du
+projet politique qui sous-tend Mediapart et les échanges entre journalistes et
+abonnés. L’examen de la plate-forme du site nous permettra, dans un premier
+temps, de voir comment cette dernière performe les pratiques et les identités,
+tout en restant attentifs aux signes de résistance manifestés par les usagers à
+ces injonctions techniques (partie 1). À travers les seconds, nous verrons dans
+un deuxième temps à la fois comment la formulation d’une critique de l’ex-
+pertise des journalistes procède de la convocation de figures plurielles (clients,
+citoyens, identités pertinentes selon la thématique traitée) et comment, de son
+côté, le journaliste compose avec ces critiques pour repenser ses pratiques et
+rétablir une distance entre professionnel et amateur (partie 2) 5.
+LA CONSTRUCTION TECHNIQUE D’UNE DOUBLE FIGURE
+Renouveler le pacte entre lecteurs et journalistes
+Nous l’avons dit, la création de Mediapart repose sur l’engagement d’une
+équipe dirigeante soucieuse de s’extraire d’une dynamique et de pratiques
+propres au journalisme contemporain. Il est possible de préciser ce position-
+nement politique en se référant à la « déclaration d’intention » mise en ligne
+le 2 décembre 2007 lors du lancement du pré-site.
+Les médias en ligne – déclinaisons ou non de la presse papier – sont tous engagés
+dans une course à une audience maximale, condition d’une « gratuité » financée par
+la ressource publicitaire. C’est le modèle économique dominant, qui a ses limites,
+tant en termes de pertinence éditoriale que de viabilité financière. Pour le lecteur,
+la place de plus en plus envahissante prise par cette publicité est vécue comme une
+intrusion, voire une pollution visuelle, qui nuisent au confort de lecture 6.
+Le point de départ de ce projet traduit ainsi le rejet d’un modèle économique
+basé sur la ressource publicitaire, modèle jugé pernicieux du point de vue
+de la profession, pour adopter celui de l’adhésion payante, « seul moyen de
+garantir au lecteur qualité éditoriale et indépendance véritable ». Aux antipo-
+des d’un journalisme web souvent dévalorisé, le travail effectué ici s’affirme
+5. Nous remercions les personnes qui ont réagi aux versions antérieures de ce texte, notam-
+ment les participants du séminaire SRM (LISST).
+6. http://www.mediapart.fr/files/u1/Le_Projet.pdf.
+)74.501.62.951
+:PI(
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| etrevuocéD
+aL
+202 Réseaux n° 160-161/2010
+en référence à la figure idéale du journalisme détaché des enjeux économico-
+politiques. Libéré de la publicité, bras armé du pouvoir économique, le jour-
+nalisme revendique son entière autonomie (Mercier, 2003) – soit l’une des
+dimensions les plus importantes d’un « journalisme professionnel » (Rieffel,
+1992). Pour permettre cette autonomie, les fondateurs du site valorisent une
+nouvelle forme d’attachement, celle qui les lie à une clientèle captive. La jus-
+tification du coût d’un tel abonnement, amène les fondateurs du site à valoriser
+la qualité des futurs contenus en précisant encore davantage leur manière de
+concevoir la profession : « Nous revendiquons un “journalisme debout” qui,
+se déplaçant, enquêtant, interrogeant, vérifiant, cherche dans le monde réel
+les informations qui font sens et preuve ». La clientèle montre, par son enga-
+gement financier, son attachement à une information libre, d’investigation, se
+distinguant positivement de l’offre journalistique que l’on trouve ailleurs, et
+notamment gratuitement sur le web. Dès lors, ce n’est plus tant la recherche
+du scoop et de l’immédiateté qui prévaut, que celle d’enquête et d’investi-
+gation assurant une information fiable de qualité. Ainsi, parce qu’il cultive
+un élitisme symétrique, d’aucuns qualifient ce projet de « nostalgique ». La
+formule suivante tirée de la charte de participation Mediapart, alimente ce
+discours : « Le club de Mediapart entend s’inscrire dans la tradition des clubs
+où fut énoncé et discuté l’idéal démocratique »… une formule qui semble
+redonner de la consistance au principe de publicité des débats, tel qu’il fut
+pensé et pratiqué au dix-huitième siècle pour s’opposer à la tyrannie du prince
+(Habermas, 1993).
+Parmi les différents engagements affichés dans cette déclaration, le quatrième
+porte spécifiquement sur le lien entre journalistes et lecteurs ainsi que sur la
+co-construction relationnelle rendue possible par les innovations techniques
+du site, ses « outils et [ses] services coopératifs en ligne ».
+4 [4e engagement]. Un pacte inédit entre journalistes et lecteurs : Les outils et les
+services coopératifs en ligne permettront de refonder dans la clarté les relations
+entre lecteurs et journalistes, chacun participant et contribuant dans une totale trans-
+parence sur sa place, son rôle ou sa fonction, et pouvant se constituer en réseaux
+d’affinités ou en communautés intellectuelles. En rendant explicite les conditions
+de production de l’information, le journal entend fiabiliser le pacte lecteurs/journa-
+listes par rapport aux suspicions de connivence et d’opacité qui pèsent sur la presse
+actuelle. C’est pourquoi il repose sur une équipe consistante, qui se consacrera à
+la fois à la découverte de faits inédits et à la qualification des articles disponibles
+ailleurs, le tout pour informer le lecteur de façon exclusive et pertinente.
+)74.501.62.951
+:PI(
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| etrevuocéD
+aL
+Journalistes et lecteurs-contributeurs sur mediapart 203
+Le vœu formulé de « refonder dans la clarté les relations entre lecteurs et jour-
+nalistes » figure au cœur du projet Mediapart. Il se traduit par des échanges
+discursifs réguliers, notamment dans le cadre des fils de discussion, mais aussi
+par l’aménagement technique d’une plate-forme qui doit tout à la fois rendre
+possible ce lien, et stabiliser une « place », un « rôle », une « fonction » à
+chacun. Cette plate-forme Mediapart, contrairement à la présentation choisie
+par les concurrents web, se découpe dès la page d’accueil en deux principales
+parties : le journal proprement dit et le Club dans lequel cohabitent journalis-
+tes professionnels et abonnés. Dans le cadre du journal, la participation des
+lecteurs-abonnés prend la forme de commentaires : parce qu’elle engage les
+lecteurs-contributeurs à commenter les articles publiés, la plate-forme tech-
+nique Mediapart assure la distribution d’une expertise qui n’est plus la seule
+propriété du professionnel. Bien sûr, l’article reste dissocié des commentaires
+qu’il impulse, mais la synchronie ou proximité temporelle de sa publication
+avec les réactions qu’il suscite forme un tout auquel accède le public.
+Alors même que la possibilité de rédiger des commentaires suite à la publi-
+cation d’articles est partagée par un grand nombre de sites, Mediapart singu-
+larise son « participatif » en proposant également aux lecteurs-contributeurs,
+via son Club, une tribune pour afficher et rendre publiques leurs propres pro-
+ductions. L’édition participative est le premier de ces espaces. « Les éditions
+participatives sont des journaux thématiques collectifs. Tous les adhérents
+peuvent demander la création d’une édition participative sur une thématique,
+une région, une ville ou un pays 7. » Le coordinateur d’une édition (qui peut
+être également son créateur) s’octroie un double rôle : accepter des contribu-
+teurs potentiels et réguler, a posteriori, les contributions. « A posteriori » seu-
+lement puisqu’il ne peut intervenir avant que le papier n’ait été mis en ligne.
+Sur les blogs, la démarche est plus personnelle encore : chacun a la parole
+et peut introduire un papier sérieux ou non, expert ou non. Dans cet espace,
+on peut dire une chose et son contraire, sans chercher théoriquement à justi-
+fier d’une quelconque expertise ou véracité des propos tenus ou des sources
+mobilisées. Ce journalisme « citoyen » ou « amateur » qualifie généralement
+la production de ces blogs. L’ambition est communautaire : elle vise à créer
+un collectif dans lequel chacun a droit à la parole et peut s’accorder le droit de
+procéder à sa propre sélection et hiérarchisation de l’information.
+7. http://www.mediapart.fr/club/editions/listes.
+)74.501.62.951
+:PI(
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| etrevuocéD
+aL
+204 Réseaux n° 160-161/2010
+Pour être complets, précisons que le lecteur dispose d’autres fonctionnalités,
+comme les messages privés, l’ajout de personnes à sa liste de contacts ou
+d’articles à ses favoris, la possibilité de recommander une contribution, etc.
+L’architecture du site, parce qu’elle est fondée sur la césure entre « journal » et
+« Club », assure une ségrégation spatiale qui joue un premier rôle indéniable
+dans la distribution de l’expertise et de la légitimité : les lecteurs ne peuvent
+se mettre « à la place du journaliste » – et inversement – que dans des espaces
+singuliers, balisés comme tels (éditions participatives et blogs).
+Une plate-forme clivante
+La technique assure le clivage à un autre niveau : si la plate-forme permet
+aux abonnés de faire entendre leur voix, celle-ci n’a pas la même tonalité,
+ou plutôt pas la même couleur. Aussi anecdotique que cela puisse paraître, le
+nom des journalistes de Mediapart est inscrit en marron alors que celui des
+abonnés l’est en bleu. D’un simple coup d’œil, le journaliste de Mediapart est
+donc clairement identifié. Évidemment, les usagers peuvent déborder les limi-
+tes inscrites dans le dispositif. Du moins, cette hypothèse est la plus probable
+du côté des journalistes puisque l’on ne peut exclure la possibilité que l’un
+d’entre eux, pour les besoins de la régulation, emprunte un autre pseudonyme
+et se transforme en abonné lambda, doté d’une couleur moins stigmatisante.
+Un tel basculement lui permettrait en effet non seulement de ne pas engager
+sa « face » et de moins s’exposer professionnellement, mais aussi d’intervenir
+de manière plus légitime dans certains dialogues 8.
+Le changement de couleur peut aussi jouer à l’inverse et témoigner d’une
+forme de promotion interne : certains abonnés sont ainsi propulsés « jour-
+8. Précisons au passage que le dispositif permet d’autres formes de régulation « clandestines »,
+comme les messages privés directement adressés à l’abonné concerné par le journaliste ou la
+suppression de message (celle-ci n’étant quasiment jamais utilisée). La discrétion de ces for-
+mes de régulation est d’ailleurs relativement précaire puisqu’elles peuvent être reprises voire
+dénoncées dans l’espace public, comme en témoigne cet extrait d’entretien avec un journa-
+liste : « […] alors parfois si on va parler d’un internaute enfin d’un abonné qui va nous faire
+chier, qu’est-ce qu’on fait, comment est-ce qu’on l’arrête, il pollue tel ou tel, alors voilà il y a
+des trucs bon ben Vincent nous dit vous inquiétez pas ce genre de type dans trois mois il sera
+lassé et puis voilà, on laisse comme ça on régule régulièrement ce qu’il dit mais si on com-
+mence par supprimer son billet cela partira sur internet “censure sur Mediapart” donc il faut
+faire attention aussi au viral par rapport à ça. »
+)74.501.62.951
+:PI(
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| etrevuocéD
+aL
+Journalistes et lecteurs-contributeurs sur mediapart 205
+nalistes officiels » à la faveur d’un article publié dans la partie « journal » et
+changent de couleur (ou du moins possèdent un double de leur compte « reco-
+lorisé »). Le journal officiel reste interdit aux « bleus » : pour y écrire il faut
+montrer une signature marron, être identifié comme un journaliste statutaire
+de Mediapart. Ce changement de couleur reste rare et, pour la quasi-totalité
+des lecteurs, participer à la rédaction du journal demeure impossible.
+Plus clivant encore, seul l’accès au « journal » est payant, la consultation des
+écrits du Club étant gratuite. Ce qui ne laisse plus de doute sur l’espace réservé
+à l’expertise, seule lecture réputée à l’origine d’une véritable valeur ajoutée
+(pour écrire, il faut être abonné). D’ailleurs, c’est dans l’espace du journal
+qu’est le plus affirmée et recherchée l’expertise journalistique. C’est ici que
+se formulent les critiques à l’encontre d’un écart à la pratique idéale du jour-
+nalisme (détachée d’impératifs économiques, prendre le temps de l’investiga-
+tion…) revendiquée sur Mediapart. Le journal reste donc ici une affaire de
+journalistes, et cet espace n’est pas « contaminé » par une production profane
+ou amateur, autre bien sûr que les seuls commentaires post-articles. Ces der-
+niers, d’ailleurs, ne sont pas directement lisibles à la suite de l’article : non seu-
+lement il faut cliquer sur un autre onglet pour les faire apparaître, mais lorsque
+l’on imprime ou que l’on fait suivre un article, ils n’apparaissent pas non plus.
+Lorsque l’on accède à la page d’accueil de Mediapart, la plus grande partie
+est consacrée au journal. Sur une colonne de droite apparaît une sélection des
+billets de blogs ou d’éditions participatives faite par la rédaction du journal.
+En bas de cette colonne, un espace est réservé aux billets du Club les plus
+commentés 9. Certains abonnés ne se risquent jamais dans la partie « édition »
+et les rares fois où ils le font, ce ne sont que de brèves incursions à partir de
+cette sélection. Parfois, les journalistes renvoient à ce type de contribution
+dans leurs commentaires suite à un article ou encore dans la rubrique « pro-
+longer ». Il n’est pas rare de retrouver, parmi la sélection du Club, des contri-
+butions faites par d’autres journalistes, des universitaires ou des personnalités
+politiques notamment. En dehors de ces moyens de promotion spatiale, large-
+ment contrôlés par la rédaction, il est très difficile pour un abonné de rendre
+visible sa contribution au-delà du cercle de ses propres contacts ; à tel point
+que la question de la visibilité et de la saillance des contributions se pose
+régulièrement et soulève des critiques de la part des abonnés :
+9. Cette sélection se fait depuis quelques mois sur la base des contributions les plus recom-
+mandées.
+)74.501.62.951
+:PI(
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| etrevuocéD
+aL
+206 Réseaux n° 160-161/2010
+[Extrait du fil de discussion 2] Mais franchement, là, vous noyez le poisson...
+vous en savez trop sur Libération pour écrire de telles sottises... d’autant que, du
+coup, le beau texte courageux de Michel Puech et les débats qui avaient com-
+mencé autour de cet article se trouvent relégués en bas de page... et bientôt ne
+seront même plus accessibles... bravo Mediapart, vous au moins vous savez com-
+ment noyer le poisson...
+Comme nous l’enseigne la sociologie des usages, le dispositif n’est pas neu-
+tre et porte en lui le projet politique qui sous-tend sa conception. Il est ainsi
+tout autant structuré par ce projet qu’il structure ensuite les pratiques de ceux
+qui utilisent le site. Parmi les enseignements de la sociologie des usages, un
+second mérite d’être repris ici : si les innovations techniques performent les
+pratiques, les intentions inscrites dans le dispositif se heurtent néanmoins par-
+fois à la résistance d’usagers qui, dans notre cas, restent aveugles à une césure
+journal/club ne faisant pas sens pour eux. Nous essaierons de montrer dans les
+développements infra que cet exemple n’est pas un cas isolé.
+S’il est compliqué pour un profane de devenir expert par ses propres moyens,
+l’inverse l’est également. Nous avons vu que le découpage spatial du site for-
+mate les participations. Tout comme les abonnés, les journalistes possèdent
+leur blog personnel d’où, logiquement, ils peuvent tenir des propos qui n’en-
+gagent qu’eux-mêmes, non pas comme journalistes-experts mais comme indi-
+vidus-citoyens. Logiquement seulement. Car comme nous l’avons vu avec les
+commentaires suite au billet de blog de Sophie Dufau, certains lui reprochent
+sa dimension subjective.
+La logique du découpage spatial se heurte ici à celle de l’identité symbolisée
+par la couleur. Il montre qu’il est paradoxalement difficile de défaire le jour-
+naliste de son expertise, dans la mesure où celle-ci est attachée à la personne
+bien plus qu’à l’espace. L’individu est affublé de sa couleur qui, quel que soit
+l’espace, le qualifie et permet son identification publique. Parfois, lorsque les
+frontières techniques ne suffisent pas, il faut les doubler de frontières discur-
+sives pour rappeler l’existence d’un continuum de formats, chacun de ceux-ci
+ayant ses spécificités propres :
+)74.501.62.951
+:PI(
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| etrevuocéD
+aL
+Journalistes et lecteurs-contributeurs sur mediapart 207
+[Extrait du fil de discussion 2] À la lecture des 77 commentaires, une précision.
+Effectivement, ceci un billet de blog, c’est-à-dire qu’il n’engage que moi. Chaque
+journaliste de Mediapart fait de son blog l’usage qui lui convient, et pour ma part,
+j’y écris très peu. Alors ce jeudi-là, je souhaitais simplement donner, après que
+d’autres billets de blog et leurs commentaires associés publiés dans Mediapart
+aient relaté nombre d’informations, un élément de compréhension en plus. Et
+montrer, au-delà de l’émotion que cette affaire complexe suscite, que face aux
+haines et ressentiments, seule une médiation pourrait à mon sens permettre de
+trouver une solution à ce conflit qui, normalement, relèverait du droit du travail.
+En m’excusant d’avoir pris 24h pour répondre à ceux qui, en termes cordiaux,
+m’interpellaient.
+Le soin avec lequel cette journaliste précise, en préliminaire à son billet, puis
+dans le fil de la discussion, que ce texte est un billet de blog et non pas un arti-
+cle Mediapart, semble attester de la récurrence de cette confusion du côté des
+lecteurs. Parmi ces derniers, certains ne manquent pas néanmoins de soutenir
+les journalistes en validant ce marquage discursif des frontières.
+[Extrait du fil de discussion 2] Il est injuste d’attribuer à Mediapart la position de
+Sophie Dufau. Celle-ci a pris le soin de préciser que son billet de blog n’engageait
+en rien Mediapart, ce qui a priori n’avait même pas besoin d’être rappelé. Alors,
+que chacun débatte avec elle du contenu de son billet oui, mais en profiter pour
+interpeller Mediapart me semble une confusion des genres qui n’a pas lieu d’être.
+Plus généralement, des entretiens avec des lecteurs abonnés 10 nous ont permis
+de comprendre que certains ne percevaient pas toujours les différences entre
+les formats ou méconnaissaient certains d’entre eux (les éditions participa-
+tives). Aussi, les méthodologies ethnographiques plus classiques apparais-
+sent-elles comme un corollaire indispensable à l’analyse du contenu. En effet,
+certains des abonnés interrogés ne consultaient que la partie journal sans s’en-
+combrer de la lecture des commentaires. Si ceux-ci adhèrent à la critique du
+journalisme inscrite dans le projet de Mediapart, la façon dont les journalistes
+du site font leur travail semble leur convenir tout à fait. Pour eux, l’expertise
+de ces journalistes est évidente, supérieure à celle de bien d’autres journalistes
+et il ne leur viendrait pas à l’idée de la contester. Leur façon d’ignorer totale-
+ment les autres contributions le confirme d’ailleurs.
+10. Une dizaine d’entretiens ont été menés, à titre exploratoire, avec des lecteurs-abonnés de
+ce site dans le cadre d’une enquête menée avec Karolina Sweederek que nous remercions ici.
+)74.501.62.951
+:PI(
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| etrevuocéD
+aL
+208 Réseaux n° 160-161/2010
+L’extrait ci-dessous est, de ce point de vue, éloquent. Il traduit, chez l’abonné,
+l’existence d’œillères à la fois du côté des formats puisque la journaliste voit
+qualifier son propos d’objectif alors même qu’elle revendique sur son blog un
+droit à la subjectivité et du côté de l’intérêt porté aux différentes contributions
+puisque, cette fois, les commentaires sont dans un premier temps ignorés au
+profit du seul contenu de « l’article » qui n’en est pas un 11.
+[Extrait du fil de discussion 2] Je n’ai lu aucun des commentaires, je viens juste
+de lire votre article... Sophie, je vous dis merci de remettre un peu d’objectivité
+dans cette affaire qui rejoint un peu le fil que je lançais ce matin sur ce site.
+Mélanger les sentiments aux faits rend malade... la preuve. Un domaine tabou qui
+nécessite un vrai débat.
+Le découpage des espaces et l’assignation des identités témoignent des sou-
+bassements politiques du dispositif technique et confèrent au membre de la
+communauté un statut immédiat, à partir duquel chacun peut se positionner
+dans le déroulement des débats. Ce positionnement immédiat ne doit pas
+nous induire en erreur : les rôles ne sont malgré tout pas clairement stabilisés
+mais plutôt perpétuellement négociés. Nous allons voir dans la partie suivante
+comment des frontières discursives viennent en effet retravailler celles éri-
+gées par la plate-forme. Mediapart est un terrain d’autant plus pertinent pour
+saisir cet enjeu que, finalement, le principal objet de discussion et de réflexion
+sur Mediapart paraît être Mediapart lui-même et la pratique du journalisme
+proposé, tant un grand nombre de débats cherchent à établir les frontières
+entre l’intérieur de la profession et son extérieur.
+LA DISTRIBUTION DISCURSIVE DE L’EXPERTISE
+Il s’agit dès lors, dans cette partie, d’investir les espaces d’interaction disponi-
+bles et d’entreprendre l’examen des discours qui y sont tenus pour comprendre
+comment sont renégociées les positions du journaliste et du lecteur-contribu-
+teur et comment sont formulées des critiques interrogeant la distinction entre
+ces deux figures, notamment telle que la technique l’établit.
+11. Dans un premier temps seulement : dans la suite du fil, cette abonnée entreprend en effet de
+répondre aux autres commentaires, preuve qu’elle les a lus.
+)74.501.62.951
+:PI(
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| etrevuocéD
+aL
+Journalistes et lecteurs-contributeurs sur mediapart 209
+Une expertise ouverte à la participation
+Nous l’avons mentionné, journalistes et abonnés partagent une vision criti-
+que du journalisme tel qu’il se pratique actuellement. Cette vision justifie non
+seulement le projet politique de Mediapart du côté des journalistes mais aussi
+l’engagement financier des abonnés, qui est loin d’être la norme en matière
+d’information sur le web. Bon nombre d’abonnés engagent une critique des
+médias classiques et se déclarent à la recherche de supports informatifs alter-
+natifs, moins soumis aux pressions et logiques économiques, aux temporalités
+imposées par l’AFP et la pression du scoop. La contestation de l’expertise du
+journaliste est ainsi engagée au nom d’une expertise journalistique idéalisée
+adossée à une critique de la profession que revendiquent les différents mem-
+bres de la communauté Mediapart.
+[Extrait du fil de discussion 2] Le problème, que nombre de journalistes igno-
+rent à votre instar, c’est que la sincérité n’est nulle vertu, jamais, nulle part : la
+figure du salaud sincère marque notre époque d’un cynisme porté en sautoir et
+chez les journalistes ou ce qu’il en reste, c’est encore plus grave : la sincérité
+n’est pas loin d’une faute professionnelle. On ne vous demande pas d’être sin-
+cère, mais d’être impartiale – ce qui n’est pas le cas ici, on ne vous demande pas
+votre opinion, mais les faits qui permettent au lecteur de se forger la sienne. Rien
+de tout cela dans votre papier faussement compassionnel et clairement méprisant
+pour cette mère de famille et sa petite santé, comme vous dites. Il faut croire que
+cette personne est en guerre, et qu’elle ne s’amuse pas.
+Bref, je ne viens pas sur Mediapart pour lire les états d’âme, le spleen et les
+conseils bien intentionnés adressés à une personne en lutte par une ancienne de
+Libération : je viens sur Mediapart pour y trouver les informations que l’on ne
+trouve plus que rarement dans des quotidiens largement corrompus tels préci-
+sément que Libération, d’où je vous félicite d’avoir su partir avant les heures
+sordides de la direction Joffrin.
+La critique du journalisme pratiquée à Mediapart, si elle se construit en réfé-
+rence à une figure traditionnelle de la profession, se traduit par la dénonciation
+de la part des lecteurs d’un écart entre les pratiques observables et un modèle
+de professionnalisme référent pour lequel ils sont prêts à payer – modèle qui,
+l’exemple précédent l’atteste, s’écarte lui-même du journalisme tel qu’il est
+pratiqué dans les grands médias. L’affichage de cet écart, chez le lecteur, éta-
+blit son attachement à une figure du journalisme en laquelle il croit (puisque
+cette figure, sublimée, justifie l’abonnement). Cette surveillance des prati-
+ques journalistiques s’accompagne, c’est la véritable différence avec d’autres
+)74.501.62.951
+:PI(
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| etrevuocéD
+aL
+210 Réseaux n° 160-161/2010
+médias, d’une formulation publique synchrone de la déception : certains lec-
+teurs contestent ainsi les dérives potentielles qu’ils refusent, au nom de leur
+abonnement et des promesses initiales (soit « au nom du client »). Qu’ils se
+présentent comme des lanceurs d’alertes ou de simples garde-fous, certains
+abonnés se montrent ainsi attentifs aux dérives possibles.
+La menace de défection de la part du public, bien que marginale, renvoie à un
+contrôle direct de l’activité du journaliste et contribue à sa régulation. Ce dis-
+cours est d’autant plus présent sur le site, que le modèle économique institué
+place les lecteurs-contributeurs dans la peau de clients, pouvant ainsi réclamer
+des journalistes une offre conforme à leur attente.
+Ainsi, une des dernières saillies d’un abonné qui a expliqué tout au long de
+ses seize commentaires combien il n’était pas en phase avec la façon dont
+Mediapart traitait l’affaire « Cousin » :
+[Extrait du fil de discussion 2] Le beau texte d’Anne Guérin est juste et précis...
+merci de l’avoir écrit... avec celui de Michel Puech il remet un peu d’honneur
+dans ces colonnes... Vous n’aurez plus de mes nouvelles dans Mediapart ; j’ai
+résilié mon abonnement.
+Ces différentes formes de réaction du lecteur-contributeur, soucieux de mani-
+fester son mécontentement, ne sont pas sans rappeler celle du « client »,
+classique, identifiée par hirschman (1970). Dans sa typologie, défection et
+prise de parole cohabitent au côté de la loyauté – souvent affichée sur le site.
+La prise de parole, telle qu’elle se pratique dans l’extrait précédent, semble
+régulièrement précéder la défection dès qu’une tension se fait trop importante
+entre les attentes qui justifient l’engagement du public et les pratiques telles
+qu’elles s’observent réellement. En effet, plutôt que de partir directement et
+de ne pas renouveler leur abonnement, certains abonnés exposent publique-
+ment leur mécontentement sur leur blog ou à la suite des papiers incriminés.
+Ils trouvent là une arène pour justifier leur défection (ou sa menace), arène qui
+permet aussi aux journalistes d’expliquer et de défendre leurs pratiques.
+La prise en compte de ces critiques n’aboutit pas à une remise en question,
+voire à la négation d’une expertise propre à la profession. Bien au contraire,
+il s’agit d’en tirer parti pour asseoir cette expertise sur des bases plus solides.
+Un membre de l’équipe Mediapart nous soutient ainsi que « c’est plutôt très
+bien internet car cela va faire un peu le ménage entre un bon journaliste et
+)74.501.62.951
+:PI(
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| etrevuocéD
+aL
+Journalistes et lecteurs-contributeurs sur mediapart 211
+un mauvais. Voilà, un mauvais cela ne tiendra pas la route, il y a toujours
+un lecteur plus spécialiste que soi qui dira “oh non là les gars, vous avez
+écrit franchement n’importe quoi” et donc le mec qui va simplement dire
+“cette enquête elle n’est ni faite ni à faire”, il va le dire et parfois, souvent
+cela tombe assez bien justement, on ne peut plus se contenter d’avoir fait une
+semaine de reportage et de prétendre connaître le sujet. »
+En quoi la participation des abonnés est-elle un vecteur d’amélioration ? Tout
+d’abord, ces abonnés ont la possibilité de participer à la production journalis-
+tique à différents moments du processus d’écriture. Ils peuvent ainsi intervenir
+en amont de l’écriture et de la publication d’un article, par exemple en propo-
+sant des sujets aux membres de l’équipe de journalistes, souvent couplés à du
+contenu ou encore en proposant eux-mêmes leurs sources.
+Leur profil (parfois journalistes eux-mêmes, universitaires, citoyens infor-
+més…) et les dynamiques intellectuelles qui portent le collectif Mediapart,
+ne sont pas étrangers à cette hybridation des savoirs. L’élitisme qui fonde ce
+collectif questionne à nouveaux frais les liens entre la figure de l’intellectuel
+et celle du journaliste (Rieffel, 1992 ; Spitéri, 2004) et favorise une mutua-
+lisation des compétences susceptible de renforcer cette coopération entre le
+professionnel et le public.
+Dans d’autres situations de collaboration, l’écriture devient polygraphie et,
+parfois, sur un sujet particulier, le lecteur expert va venir pallier les lacunes du
+journaliste. Un journaliste chargé du social nous a ainsi expliqué comment la
+rédaction et une blogueuse, sociologue, ont travaillé ensemble sur un travail
+dans la grande distribution. C’est elle, abonnée à Mediapart, qui a proposé un
+article sur le sujet et a ensuite proposé de chroniquer le livre d’Anna Sam sur
+les caissières.
+Néanmoins, c’est après la publication de l’article que ce brouillage des frontiè-
+res et cette tension autour de la sélection et de la hiérarchisation de l’informa-
+tion se font les plus visibles. Par exemple, les abonnés peuvent se manifester
+en aval pour assurer le suivi d’une question, comme le montre le dernier com-
+mentaire du deuxième fil :
+[Extrait du fil de discussion 2] L’affaire a été conclue hier, indemnités revues à
+la hausse et requalification en « licenciement économique ». Libération a repris le
+chemin du cool à défaut d’avoir emprunté celui du juste.
+)74.501.62.951
+:PI(
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| etrevuocéD
+aL
+212 Réseaux n° 160-161/2010
+Le journaliste peut également se trouver pris à parti, quelques minutes après
+la publication de son article, par les commentaires des lecteurs, et invité à
+apporter des précisions, voire à corriger certains éléments des plus anodins ;
+il se trouve ainsi quasi dépossédé d’une expertise immédiate, qui repose sur
+le choix des informations retenues et leur inscription publique dans l’espace
+légitime de publication.
+[Extrait du fil de discussion 1] Lecteur-contributeur : Dans votre deuxième
+paragraphe, vous recensez les forces en présence. Je n’y vois pas le PG de Mélen-
+chon. Oublié ou jugé quantité négligeable ?
+Journaliste : Loin de moi l’idée de négliger Mélenchon, mais le baromètre Ifop-
+Paris Match de début décembre a testé le PCF (4 %) sans le front possible avec le
+PG. Mais vous avez raison. Je le rajoute. Bien à vous.
+Cet extrait, selon nous, est crucial puisqu’il montre à quel point le gatekee-
+ping 12 se distribue entre les journalistes professionnels et la communauté des
+abonnés. Ici, c’est le lecteur qui redéfinit l’information pertinente et incite
+le journaliste à retravailler le contenu de sa publication en opérant un nou-
+veau cadrage des éléments à intégrer. L’information qui compte, celle qui sera
+internalisée dans la production journalistique et affichée dans l’espace public
+est donc potentiellement le fruit d’une collaboration incarnant l’idée même
+de journalisme participatif. Elle peut également être reconsidérée à la suite
+d’échanges privés, notamment lorsque les abonnés, parfois personnellement
+impliqués dans les cas traités, préfèrent l’anonymat et s’adressent directe-
+ment aux journalistes. Ainsi, des suggestions de compléments, de nouvelles
+références ou des rectifications de l’information diffusée, procèdent-elles
+de dialogues qui restent dans la coulisse. Qu’elle soit affichée ou non, cette
+mutualisation des connaissances et des regards autour de ce que doit être l’in-
+formation retenue est une nouveauté recherchée par les créateurs de Media-
+part. Un membre de l’équipe de rédaction nous le confirme : « Bon le courrier
+des lecteurs cela a toujours existé, alors là aujourd’hui c’est beaucoup plus
+valorisé, ce qui fait que là où c’est plus intéressant pour nous, c’est quand le
+lecteur intervient pour compléter une information, la corriger, la prolonger.
+Là, tout d’un coup, le lecteur participe de la fabrication de l’information.
+Autrefois, le lecteur était plus dans une réaction à l’information. »
+12. « Developed in the seminal American studies of the 1950s (White, 1950 ; Carter, 1958), a
+gatekeeper is an individual who filters out and disregards unwanted, unintersting and/or unimpor-
+tant information or stories and attends to information of more import » (Franklin & Co, p. 92).
+)74.501.62.951
+:PI(
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| etrevuocéD
+aL
+Journalistes et lecteurs-contributeurs sur mediapart 213
+Ainsi, la participation est vue comme un moyen d’améliorer son expertise et non
+de la renier en se mettant au même niveau que les lecteurs. Mais elle repose sur
+un rapprochement dangereux entre ces derniers et des journalistes contraints de
+composer avec cette pluralité de critiques et soucieux, parfois, de maintenir ou
+de rétablir une distance entre les professionnels du site et les autres.
+Rétablir la distance
+[Extrait du fil de discussion 2] Ceci est un billet de blog et non un article du jour-
+nal Mediapart. Parce que je ne suis pas allée enquêter sur l’affaire Florence Cou-
+sin, parce qu’il ne suffit pas d’avoir vu pour comprendre. Donc je ne parlerai que
+de ce que j’ai lu, comme le font la plupart des commentaires du Club Mediapart.
+Ainsi commence le billet de blog de l’extrait du fil de discussion 2. Ces lignes
+introductives illustrent l’une des principales stratégies discursives utilisées
+par les journalistes pour rétablir la distance. L’auteur, une journaliste donc,
+y revendique une posture singulière qui s’écarte sans doute de sa profession
+mais qui répond en revanche fidèlement aux logiques d’écriture qui prévalent
+dans l’espace du blog : les propos qui y sont tenus, qu’ils soient formulés par
+des lecteurs-contributeurs ou par des journalistes, ne sont pas journalistiques.
+Ils n’en empruntent ni les codes d’écriture, ni les méthodes d’investigation, et
+ne reposent pas sur le même contrat de lecture (Véron, 1985) 13. Elle préfère,
+dès lors, et malgré l’inscription dans cet espace, confirmer la nature non jour-
+nalistique des propos qu’elle tient.
+Plus généralement, le redimensionnement du métier procède de deux logiques
+– ce que le journalisme est et ce qu’il n’est pas – qui visent à rétablir des frontiè-
+res entre les professionnels et les autres membres de la communauté. Ces deux
+logiques transparaissent dans les fils de discussion en se drapant parfois d’une
+rhétorique relationnelle : quelques échanges réparateurs, régulièrement utilisés
+par les journalistes dans cette entreprise de légitimation et de requalification de
+13. Cf. le point de vue de cette même journaliste : « […] À part des gens qui vont faire des syn-
+thèses de leurs études, des gens qui sont des chercheurs et qui vont faire des synthèses de leurs
+recherches, réaction à une actualité un peu immédiate, on n’est plus sur le mode du subjectif,
+même si on ne dit pas “je”, mais en tout cas c’est “j’ai vu”, “je ne supporte pas” alors que quand
+on passe dans le journal ben là on est plus sur l’enquête, sur les liens, sur les prolongements,
+sur les chiffres. »
+)74.501.62.951
+:PI(
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| etrevuocéD
+aL
+214 Réseaux n° 160-161/2010
+la pratique journalistique 14. Les journalistes glissent, dans la gestion de la cri-
+tique, de la justification de leur travail (posture défensive) à la contestation des
+méthodes et des discours des abonnés (posture offensive). Ce dernier point,
+malgré son intérêt, ne sera pas ici au centre de l’analyse. Nous lui préférons
+l’examen des figures de l’abonné et du journaliste convoquées sur le devant
+de la scène pour alimenter une discussion. Voici une première illustration de
+découpages auxquels procèdent les membres de la communauté Mediapart :
+[Extrait du fil de discussion 1] Chère étoile, je ne pense pas avoir été « épider-
+mique » et si cela vous a paru comme tel, autant pour moi, je m’en excuse. Il
+n’en demeure pas moins qu’il ne me semble pas que NOUS (les journalistes de
+Mediapart, si VOUS nous reconnaissez encore ce titre) ne vous inondons pas de
+sondages (c’est à jsarf que je répondais, en fait). Perso enfin, je ne pense pas faire
+passer mon opinion quand j’écris sur Mediapart (en revanche, c’est tout à fait la
+fonction de VOUS, abonnés et « lecteurs citoyens »). Calmons donc tous deux
+nos épidermes, et bien à vous.
+Dans cet extrait, le journaliste affiche clairement une distance avec le public
+et se livre à tout un travail discursif 15 pour réaffirmer les positions des uns et
+des autres, trouver un équilibre entre journalisme participatif et revendication
+d’une identité professionnelle, le tout en préservant les faces à la fois des
+lecteurs et des journalistes. Deux arguments sont ainsi introduits : la disso-
+ciation de « nous » (professionnels) et « vous » (clients) et, dans la lignée de
+ce découpage, l’association d’une forme de discours à chacune de ces figures.
+« nous », les journalistes, qui affiche une objectivité qui ne peut se satisfaire
+14. Échanges réparateurs et ripostes qui se traduisent le plus souvent par la défense du travail
+réalisé par le journaliste lui-même. Celui-ci le réhabilite en quelque sorte à ses yeux et aux
+yeux du public susceptible de lire son expertise. Il réimpose aux abonnés – et à ses collègues/
+sa hiérarchie – une image du journalisme pratiqué qui le satisfait, en reprécisant la qualité
+d’un travail que l’abonné a mis en cause par ses remarques. Cette posture, classique, engage le
+journaliste, nous l’avons dit, à rapprocher les pratiques décriées des règles du métier, et à les
+dissocier à l’inverse d’un journalisme amateur pratiqué par les non-professionnels. Il s’agit,
+pour le journaliste, de montrer qu’il ne s’écarte pas d’un modèle référent.
+15. Si cette volonté de justification et d’entretien du dialogue avec les lecteurs-abonnés se
+manifeste clairement durant la phase de lancement du site, il semble qu’une certaine redon-
+dance critique – à la fois dans les arguments convoqués et les abonnés qui les portent –, ainsi
+que la nécessité de se protéger de l’exposition permanente dont ils font l’objet dans les fils
+de discussion (Datchary, 2010), entraîne une moindre implication dans la justification et une
+lassitude des journalistes dans l’effort de requalification constante de leur pratique ou dans la
+mise en œuvre de stratégie discursive ad hoc pour valider leur mode de fonctionnement pro-
+fessionnel.
+)74.501.62.951
+:PI(
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| etrevuocéD
+aL
+Journalistes et lecteurs-contributeurs sur mediapart 215
+de l’opinion personnelle du professionnel et « vous » comme subjectivité du
+citoyen soucieux de défendre son point de vue sur l’actualité traitée.
+La suite de l’échange nous informe néanmoins que les lecteurs n’acquiescent
+pas nécessairement et refusent de valider ce découpage en insistant sur l’illu-
+sion dogmatique qui le fonde.
+[Extrait du fil de discussion 1] Cher Stéphane,
+Merci de votre réponse.
+Perso enfin, je ne pense pas faire passer mon opinion quand j’écris sur Mediapart.
+c’est bien français et – pardonnez-moi mon ton direct – assez hypocrite.
+Les lecteurs préfèrent un journaliste qui écrit ce qu’il pense plutôt qu’un jour-
+naliste qui fait semblant d’être « objectif » – qu’est-ce que cela signifie ? – mais
+dont l’opinion transparaît au détour d’un adjectif, d’un adverbe qui lui échappe...
+Dans la presse allemande que je lis tous les jours, les choses sont claires. On sait
+à qui on a affaire... Et c’est plus sain. J’espère donc que vous écrirez selon vos
+convictions de journaliste, comme le font Edwy Plenel et Laurent Mauduit sur ce
+site, et je les en remercie.
+En ce qui me concerne, je viens de passer pas mal de temps à rédiger un article
+qui me tenait à cœur, je vous en fais part : http://www.mediapart.fr/club/blog/
+etoile66/171208/la-france-...
+Plus encore que contester la subjectivité des abonnés-citoyens, l’abonné rabat
+la professionnalité du journaliste sur une subjectivité assumée et le refus d’une
+objectivité comme élément inhérent à la fonction. Pour cela, il confronte le
+modèle de journalisme défendu par le professionnel Mediapart au modèle
+allemand introduit ici comme contrepoint illustratif puis revalorise la convic-
+tion journalistique – pratiquée par les ténors mêmes de l’équipe Mediapart.
+[Extrait du fil de discussion 1] Chacun son style, chère étoile, Edwy Plenel et
+Laurent Mauduit excellent dans le « parti pris », moi je ne me sens pas assez
+légitime pour m’y essayer. Je préfère essayer d’être le plus honnête possible, et de
+traiter toutes les gauches avec le maximum de recul. Franchement, je serais bien
+en peine de prendre parti tant la décomposition/recomposition est grande. Peut-
+être cela vous décevra, mais je n’éprouve aucune envie à exprimer des convic-
+tions dans le magma actuel. L’observation me sied davantage…
+)74.501.62.951
+:PI(
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| etrevuocéD
+aL
+216 Réseaux n° 160-161/2010
+Tout en répondant aux arguments du lecteur, le journaliste court-circuite le
+débat. Certes, des journalistes sur Mediapart se permettent d’afficher leur
+conviction, mais ils le font dans un cadre très particulier, celui du « parti pris »
+entendu ici comme style de journalisme engageant la conviction de journa-
+listes chevronnés et légitimes. C’est justement parce qu’il ne se sent pas légi-
+time et qu’il « n’éprouve aucune envie d’exprimer ces convictions », que ce
+journaliste refuse de s’engager dans ce style. Dès lors, il accepte l’argument
+du lecteur (oui, le journalisme de conviction existe…) tout en l’enfermant
+dans une catégorie journalistique qui n’est pas exclusive d’autres formats de
+traduction professionnelle (… mais ce n’est qu’une facette parmi d’autres de
+la profession). Lui, rebondit sur les frontières symboliques internes à la pro-
+fession pour récuser une hiérarchie de pratiques journalistiques d’un côté, tout
+en affichant une hiérarchie de statut chez les journalistes de l’autre (légitimité/
+illégitimité). Le cheminement argumentatif choisi par ce journaliste valide
+ainsi son positionnement dans les méandres de la profession journalistique et
+justifie qu’il s’engage sur la voie d’une forme d’objectivité associée à « l’ob-
+servation » et la restitution factuelle des événements étudiés 16.
+Contre-expertise et identités argumentatives
+La contestation de l’expertise n’est pas toujours aussi frontale que dans l’exem-
+ple que nous venons d’introduire ; parfois, elle intervient en creux par l’exhibi-
+tion d’une contre-expertise s’adossant à une identité particulière. Quelles sont
+les figures convoquées dans les fils de discussions pour susciter l’adhésion des
+lecteurs, emporter la conviction des opposants, ou plus génériquement légiti-
+mer ses propos ? En d’autres termes, quelles sont les instances rhétoriques qui
+servent à l’argumentation des abonnés au cours des joutes qui les mettent aux
+prises avec les journalistes ?
+Au niveau le plus général, certains lecteurs-abonnés se présentent comme
+citoyens/électeurs, dotés de fait d’un droit d’expression, on l’a vu dans la sec-
+tion précédente. Ce droit est parfois revendiqué encore plus fermement en
+raison du coût de l’abonnement :
+16. Une stratégie possible pour le journaliste consiste de manière symétrique à identifier ce qui
+est extérieur au cadre fixé : il procède alors à une délimitation par défaut – ce que le journalisme
+n’est pas. Par exemple, même si le journalisme se construit sur l’apport de preuves factuelles,
+une distinction est ici opérée entre le travail du professionnel et une « recherche scientifique ».
+)74.501.62.951
+:PI(
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| etrevuocéD
+aL
+Journalistes et lecteurs-contributeurs sur mediapart 217
+[Extrait du fil de discussion 1] Ensuite, le terme utilisé « vous inonde » m’in-
+terroge. Il me donne le sentiment d’être lecteur passif, consommateur, et que
+VOUS, les journalistes, décidez de ce qui est bien et que NOUS avons à accepter
+la « nourriture » que vous avez la bonté de nous offrir.
+En fait, si vous avez le pouvoir d’écrire et de faire passer votre opinion, c’est
+parce que des citoyens comme moi et d’autres ont décidé de payer pour faire
+vivre ce lieu d’expression qui se voulait représenter le pluralisme démocratique.
+Adhérer à Mediapart et en être lecteur, en faire de la pub pour que d’autres y adhè-
+rent, c’est un combat citoyen et c’est aussi ce combat qui vous permet d’exister.
+Merci de ne pas l’oublier et de ne pas voir dans vos lecteurs des sujets mais des
+citoyens qui ont tout autant le droit à l’expression que vous.
+De cet extrait, nous pouvons tirer plusieurs enseignements du point de vue des
+stratégies de rapprochement utilisées par les abonnés. L’abonné veut s’éloi-
+gner de cette image de « lecteur passif » susceptible d’ingurgiter n’importe
+quelle information sans même en contester la pertinence pour réhabiliter la
+figure d’un lecteur actif et client qui a droit de formuler des critiques et de
+se considérer l’égal des journalistes. Il se replace au centre d’un dispositif de
+pluralisme démocratique qui adopte un regard symétrique et égalitaire sur les
+contributions des journalistes et celles des lecteurs. La réaffirmation de cette
+symétrie prend d’autant plus de poids ici, qu’elle emprunte au registre de la
+« menace » puisque le devenir marchand/économique du journaliste Media-
+part repose sur l’acceptation du discours des citoyens. Ce sont ces citoyens
+qui « font vivre ce lieu d’expression », qui assurent « ce combat qui vous
+permet d’exister ».
+Mais, régulièrement, les revendications identitaires se font plus personnelles,
+supports à des techniques argumentatives plus élaborées (Marcoccia, 2003). Et
+on se déplace le long d’un continuum qui irait du droit et de la capacité à s’ex-
+primer dans/sur des formats journalistiques à la revendication d’une expertise
+pour le faire. La revendication, la plus évidente, quasi imparable mais qui n’est
+pas à la portée de tout le monde est évidemment de revendiquer la même exper-
+tise professionnelle en affichant son statut de journaliste (parfois dès le début de
+son commentaire : « chère consœur »). Parmi les abonnés, bon nombre appar-
+tiennent au milieu journalistique ou ambitionnent de lui appartenir. Les appren-
+tis journalistes trouvent ici un espace dans lequel démontrer leur compétence
+et, peut-être, se faire repérer par des réseaux professionnels. Mediapart occupe,
+de ce point de vue, le rôle classiquement dévolu à internet d’antichambre pour
+)74.501.62.951
+:PI(
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| etrevuocéD
+aL
+218 Réseaux n° 160-161/2010
+un monde journalistique plus académique (Estienne, 2007). Certains journa-
+listes déjà en poste y trouvent eux l’occasion de s’adonner à des formats dif-
+férents (Datchary, 2010).
+Parfois, c’est la proximité avec les faits qui est mise en avant, dans ce qui
+s’apparente à un statut de témoin privilégié (le salarié de Molex qui confirme
+que les primes de licenciement sont, dans son entreprise, bien moins consé-
+quentes). Ce procédé étant d’ailleurs utilisé par les journalistes eux-mêmes
+(« certes, on pourra dire que j’en sais un peu plus que d’autres, ayant tra-
+vaillé plus de 25 ans à Libération »). La contraposée peut être utilisée pour
+mettre en avant une sorte d’objectivité dans sa position (« Oui, pour moi aussi
+Florence Cousin est avant tout une personne (je n’ai aucun lien avec Libéra-
+tion, que j’ai très peu lu depuis vingt-cinq ans) »).
+Certains lecteurs vont puiser dans leur expérience personnelle des forces argu-
+mentatives pour affirmer leur accord ou désaccord avec ce qui a été énoncé
+(« rmiste, je tiens à faire savoir que la question de l’argent est secondaire » ou
+encore « la grève de la faim est une arme ultime, dangereuse. Je le sais d’ex-
+périence (pas la mienne, mais celle d’une personne proche »), ou désamorcer
+une critique (« que les antisémites ont tort ? Évidemment, chère Sophie, ils ont
+TOUJOURS tort... vous ne savez sans doute pas, chère Sophie, que je suis né
+en 1943 dans un camp de concentration du Sud de la France. Ce n’est donc
+pas moi qu’on, soupçonnera, je l’espère du moins (ni les cent personnes de
+ma famille qui ont grillé dans d’autres camps moins cléments que gürs) d’en-
+courager le moindre soutien douteux ou “antisémite” à Florence Cousin »).
+Parfois, les abonnés sont sollicités directement sur la base de leur identité,
+comme dans ce fil où un abonné demande des éclairages complémentaires
+en recherchant parmi les adhérents qui a le profil (« Un juriste mediapartien
+peut-il (ou elle) répondre à la question : “Peut-on sauver une gréviste de
+la faim en l’hospitalisant malgré elle ?” »). Ces expertises complémentaires
+sont ainsi mises en avant dans les éditions participatives qui tirent souvent
+parti des compétences professionnelles des abonnés (par exemple : pédiatre
+pour la grippe AH1N1), de leurs passions (« Comic Strip ») ou de leur loca-
+lisation (comme autant de correspondants locaux édition « Toulouse », voire
+d’envoyés spéciaux « d’Égypte »). La rédaction a d’ailleurs été souvent soup-
+çonnée de mettre en avant certains papiers sur la base de l’identité de leur
+auteur et non à partir du seul contenu (telle personne serait mise en avant sur
+la base de son pseudo sonnant très Afrique du Nord ; tel autre sur la base de
+son statut universitaire, etc.).
+)74.501.62.951
+:PI(
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| etrevuocéD
+aL
+Journalistes et lecteurs-contributeurs sur mediapart 219
+Pour autant, il convient de ne pas généraliser puisque certains abonnés restent
+laconiques voire muets sur leur identité, à l’abri derrière leurs pseudonymes.
+L’absence totale de prise sur l’identité de l’interlocuteur suscite la méfiance :
+ainsi les arguments de JLMO sont d’autant plus mis à mal, que ce dernier est
+« pseudomisé ». Nous en avons également fait les frais lors de nos enquêtes
+en voulant ajouter des personnes à nos contacts en ligne pour mieux pouvoir
+en suivre l’activité. Les réponses ont parfois été cinglantes : « Vous n’écrivez
+rien, ni ne commentez depuis que vous avez rejoint Mediapart, du coup, je ne
+sais pas à qui j’ai affaire. (…) Je n’avais pas souvenir de vous, normal vous
+n’avez émis aucun commentaire, ne laissant comme trace que vos recomman-
+der anonymes, je suppose, une telle inexistence, un tel effacement, une telle
+soumission à la production des réflexions des autres peut-elle faire une rela-
+tion ? Seriez-vous un trou noir ? L’être ou le néant il vous faut choisir, et
+être aux autres commence par se faire confiance et se dire. Prenez ce risque,
+répondez-moi, répondez-vous, qui êtes-vous? ». Certains abonnés ont évidem-
+ment mené leur petite enquête : « Vous allez me trouver sur-réactif mais ne
+vous effrayez pas. Je ne passe pas ma vie devant l’écran de mon ordinateur.
+Je suis assez curieux de nature et Google, j’en ai honte, remplace un peu le
+regard que nos grands-parents jetaient sous le rideau de la cuisine quand une
+inconnue passait dans la rue... Google est bougrement plus efficace et plus
+effrayant. J’ai donc tapé votre nom dans cette monstruosité pour vérifier que
+vous n’étiez pas une serial killer relâchée de prison. Et je suis tombé sur une
+sociologue intéressée par les réseaux… ».
+Les abonnés ne sont pas dupes quant aux possibilités offertes par internet de
+reconfigurer leur identité ou d’en essayer de nouvelles (Turkle, 1995) et les
+identités proférées sont aussi questionnées à partir des prises laissées par les
+traces en ligne :
+[Extrait du fil de discussion 2] Consœur, dites-vous ? Donc vous êtes aussi jour-
+naliste. Votre texte est bourré de fautes d’orthographe grossières (pas la petite
+faute qui échappe...). Un peu de respect pour les lecteurs SVP.
+Nous ne sommes pas tous égaux face aux pseudonymes, et certains lecteurs
+en ont bien conscience :
+[Extrait du fil de discussion 2] Ce que je lis aujourd’hui conforte ma méfiance.
+L’anonymat, même s’il est percé pour les initiés, permet tous les dérapages. Dom-
+mage, mais tellement prévisible.
+)74.501.62.951
+:PI(
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| etrevuocéD
+aL
+220 Réseaux n° 160-161/2010
+L’affaire Florence Cousin qui agite alors le milieu de la presse parisienne en
+est un bon révélateur. De nombreux commentateurs se connaissent directe-
+ment ou indirectement. Pour le lecteur lambda, les patronymes ne sont sou-
+vent guère plus éclairants que les pseudonymes. Et ce n’est qu’à la longue, au
+gré des commentaires rédigés par différents abonnés, qu’il peut par exemple
+découvrir le lien quasiment intime qu’un des commentateurs les plus zélés
+(Skorecki) entretient avec cette affaire, en tant qu’ancien de Libération, ami
+de Florence Cousin et membre de son comité de soutien notamment.
+Ce dernier point alimente la question de la légitimité des propos tenus dans
+l’espace mediapartien. Au-delà des seules figures génériques de l’abonné et
+du journaliste, cette légitimité repose sur la compétence et les savoirs qu’un
+individu pourra manifester sur un objet particulier. Elle requiert la convoca-
+tion de figures susceptibles de témoigner de ces savoirs et de rendre les pro-
+pos convaincants, aux yeux des lecteurs, que ces derniers soient abonnés ou
+journalistes.
+CONCLUSION
+Ni expert, ni essayiste « intellectuel » 17 – hormis, s’il le souhaite, sur son
+blog –, le journaliste Mediapart singularise sa professionnalité en valorisant
+une posture basée sur des savoir-faire, le sacrifice de l’immédiateté et de la
+recherche du scoop, un cadrage transparent de l’information – donnant accès
+à la boîte noire du travail journalistique –, une volonté d’élargir son domaine
+de compétences techniques en multipliant les formats de publicisation de l’in-
+formation 18, d’élargir aussi le champ de ses prérogatives, ou encore de jouer
+sur la réflexivité favorisée par le dispositif technique pour valider et justifier
+le travail réalisé et le sérieux de la démarche.
+Ceci amène à reconfigurer le travail du journaliste à plusieurs niveaux. Au
+niveau le plus concret, ce sont autant de tâches supplémentaires qui condui-
+17. Le premier est spécialisé dans un domaine de compétence identifié par une institution ou
+une communauté savante dont la plus prestigieuse reste l’université. Cette parcellisation des
+connaissances requiert l’intervention d’experts attitrés (le journaliste y a constamment recours).
+Le second est une vieille connaissance du journaliste. Il ne se définit ni par une profession, ni
+par un savoir, mais par une cause à défendre dans laquelle il veut enrôler la presse (il n’existe
+qu’à travers les médias) (Spitéri, 2004, pp. 245-269).
+18. Sur ce point qui traduit la flexibilité fonctionnelle et la capacité à gérer les situations de
+dispersion dont doivent faire preuve les journalistes, nous renvoyons à Datchary (2010).
+)74.501.62.951
+:PI(
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| etrevuocéD
+aL
+Journalistes et lecteurs-contributeurs sur mediapart 221
+sent le journaliste à devoir jongler avec des engagements de nature pour le
+moins différente (Datchary, 2010). Mais, loin d’être subi par les journalistes
+professionnels qui appartiennent à l’équipe Mediapart, cet élargissement du
+spectre couvert par le métier est davantage vécu comme une chance, voire
+justifie l’engagement initial de certains d’entre eux (ibid.). Comme nous l’a
+confié un membre de l’équipe de rédaction, lors d’un entretien, « l’écriture
+sur le blog n’était pas une condition sine qua non, moi même j’avais pas de
+blog, on n’est pas venu me chercher pour ça, mais en revanche la presse gra-
+tuite m’intéressait, toute l’évolution du métier m’intéressait (…) ».
+Au niveau de la profession de journaliste et de ce qui fonde sa légitimité, cette
+enquête nous enseigne également qu’il n’est pas question de liquider l’exper-
+tise journalistique, de la contourner (éviter), mais bien d’en repenser et d’en
+affiner davantage les contours. Ce travail sur les frontières va plus loin que
+celui décrit par Schwarz, nardi et Whittaker (1999) 19. Ici, il s’agit aussi de
+distinguer ce qui relève du journalisme et ce qui n’en relève pas. Nous avons
+vu que les frontières étaient marquées tant dans le dispositif technique que
+dans les discours tenus par les différents membres de la communauté.
+Au final, on peut déceler dans Mediapart un possible lieu de convergence des
+deux grandes traditions de critique des médias (Cardon, Granjon, 2005). En
+effet, la critique « anti-hégémonique » qui appelle à la création d’un contre-
+pouvoir critique est inscrite dans le projet même de Mediapart ; quant à la
+critique expressiviste, qui refuse l’accaparement de la parole par les profes-
+sionnels et invite tous les citoyens à devenir leur propre média, elle est en
+partie prise en charge avec les fonctionnalités participatives proposées (même
+si les tenants les plus virulents de cette critique n’y trouveraient sans doute
+pas leur compte). Et puisqu’il s’agit d’une critique interne, au sens où elle
+est aussi portée par des journalistes, elle a plus de chances d’être entendue
+(Lemieux, 2000).
+19. Ces derniers nous expliquent que le travail numérique occasionne des tâches supplémen-
+taires, « network » (tout ce qui touche à l’entretien du réseau), « technology work » (maîtrise
+des différentes technologies) et « boundary work » (gérer l’entrelacement du travail et du hors-
+travail et sa disponibilité envers ses différents collègues et projets, puisque la distance physique
+ne suffit plus à marquer la frontière)
+)74.501.62.951
+:PI(
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| etrevuocéD
+aL
+222 Réseaux n° 160-161/2010
+RÉFÉRENCES
+AGNES, Y. (2002), Manuel de journalisme. Écrire pour le journal, Paris, La Décou-
+verte.
+BOLTAnSKI, L. (1990). L’amour et la justice comme compétence. Paris, Métailié.
+BOLTAnSKI, L., ChIAPELLO E. (1999). Le nouvel esprit du capitalisme. Paris,
+Gallimard.
+CARDON, D., GRANJON, F. (2005), « Médias alternatifs et média-activistes ». In
+AGRIKOLIAnSKY, E., FILLIEULE, O., MAYER, n. (Eds.), L’altermondialisme en
+France. La longue histoire d’une nouvelle cause (pp. 175-198). Paris, Flammarion.
+CHARON, J.-M. (1996), La presse quotidienne, Paris, La Découverte.
+DATChARY, C. (2010). « Ce que le web 2.0 fait à l’autonomie journalistique. À
+propos de l’expérience Mediapart », in LEMIEUX, C. (Dir.) La Subjectivité journa-
+listique au travail. Onze leçons sur le rôle de l’individualité dans la production de
+l’information. Paris, éditions de l’EHESS, à paraître.
+DUJARIER, M. (2008). Le travail du consommateur, De McDo à eBay: comment
+nous coproduisons ce que nous achetons. Paris, La Découverte.
+ESTIENNE, Y. (2007). Le journalisme après internet. Paris, L’Harmattan.
+HABERMAS, J. (1993). L’Espace public. Archéologie de la publicité comme dimen-
+sion constitutive de la société bourgeoise. Paris, Payot.
+HIRSCHMAN, A.-O. (1970). Exit, Voice and Loyalty. Cambridge, Harvard Univer-
+sity Press.
+LEMIEUX, C. (2000). Mauvaise presse. Une sociologie compréhensive du travail
+journalistique et de ses critiques. Paris. Métailié.
+MARCOCCIA, M. (2003). « Parler politique dans un forum de discussion », Langage
+et société, n° 104, pp. 9-56.
+MERCIER, A. (2003). « Le rôle des journalistes en démocratie », in MAIGRET,
+E. (Ed.) Communication et médias, Les notices de la documentation Française,
+pp. 67-71.
+RIEFFEL, R. (1992), « Journalistes et intellectuels : Une nouvelle configuration
+culturelle ? », Réseaux, n°51, pp. 11-24.
+RUELLAn, D. (1992), « Le professionnalisme du flou », Réseaux, n°51, pp. 25-37.
+SChWARZ, h., nARDI, B., WhITTAKER, S. (1999). «The hidden Work in Virtual
+Work». Proceedings Critical Management Conference, Manchester, July.
+SINGER, J. B. (2003), « Who are these guys ? The online challenge to the notion of
+journalistic professionalism », Journalism, vol. 4, n°2, pp. 139-163.
+)74.501.62.951
+:PI(
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| etrevuocéD
+aL
+Journalistes et lecteurs-contributeurs sur mediapart 223
+SPITERI, G. (2004), Le journalisme et ses pouvoirs, Paris, PUF.
+TURKLE, S. (1995). Life on the screen. Identity in the age of the internet. new York,
+Touchstone.
+VERON, E. (1985). « L’analyse du contrat de lecture: une nouvelle méthode pour
+les études de positionnement des supports presse », Medias : experiences, recherches
+actuelles, applications, Paris, IREP, pp. 33-56.
+WhITE, D.M. (1950), “The Gatekeeper: A case Study in the Selection of news’”, in
+BERKOWITZ, D. (ed.) Social Meaning of News: A Reader. Thousand Oaks, Sage,
+pp. 63-71.
+)74.501.62.951
+:PI(
+ofni.nriac.shs//:sptth
+rus
+6202/50/21
+el
+égrahcéléT
+| etrevuocéD
+aL
