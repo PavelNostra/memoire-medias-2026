@@ -19,7 +19,7 @@ tokens_seq1 <- corpus_seq1 |>
 
 ## L’homogénéité de la densité émotionnelle entre les médias ne constitue pas un critère de distinction.
 
-D'abord, afin de mettre en pratique notre démarche méthodologique annoncée précédemment, nous allons conduire notre première analyse de notre corpus en nous concentrant sur l'émotion. En effet, comme nous l'avons vu dans notre [état de l'art](#sec-etat-art) une caractéristique des médias alternatifs serait un rapport à l'émotion plus accentué que pour les médias dominants. Alors, pour il parait naturel de s'intéresser à cet aspect pour les médias alternatifs numériques. Néanmoins, une question s'est alors posée : comment mesurer automatiquement l'émotion d'un texte ? 
+D'abord, afin de mettre en pratique notre démarche méthodologique annoncée précédemment, nous allons conduire notre première analyse de notre corpus en nous concentrant sur l'émotion. En effet, comme nous l'avons vu dans notre [état de l'art](#sec-etat-art) une caractéristique des médias alternatifs serait un rapport à l'émotion plus accentué que pour les médias dominants. Alors, il paraît naturel de s'intéresser à cet aspect pour les médias alternatifs numériques. Néanmoins, une question s'est alors posée : comment mesurer automatiquement l'émotion d'un texte ? 
 
 Après quelques recherches, il se trouve que le dictionnaire FEEL [SOURCE] est une solution satisfaisante. Il s'agit d'un dictionnaire de 14 000 mots français classés selon leur polarité (un mot peut être soit positif, soit négatif) et selon six émotions (à savoir : joie, peur, tristesse, colère, surprise, dégoût). Cette nomenclature est issue de la théorie d'Ekman. 
 
@@ -86,7 +86,7 @@ ggplot(emotion_summary,
   )
 ```
 
-La répartition quantitative des émotions en nous intéresse pas tant dans notre cas d'étude. On pourrait noter que 70 % des émotions mobilisées, quelque soit le média, sont la peur, la tristesse et la colère mais cela ne nous aide pas dans notre recherche comparative des médias alternatifs numériques et dominants. En réalité, ce qui est notable sur ce graphique est sa grande homogénéité inter-médias pour chaque émotion. 
+La répartition quantitative des émotions ne nous intéresse pas tant dans notre cas d'étude. On pourrait noter que 70 % des émotions mobilisées, quelque soit le média, sont la peur, la tristesse et la colère mais cela ne nous aide pas dans notre recherche comparative des médias alternatifs numériques et dominants. En réalité, ce qui est notable sur ce graphique est sa grande homogénéité inter-médias pour chaque émotion. 
 Aussi, la seule différence notable est pour la surprise, émotion surreprésentée dans le JT de France 2 par rapport à Blast et à Le Média. Cette différence peut s'expliquer par une volonté de recherche de nouveau ou d'insolite pour France 2, mais nous reviendrons sur ce point dans le [A MODIFIER].
 
 Ainsi, si les émotions ne nous donnent pas d'éléments différenciants, nous pouvons peut-être nous intéresser à la répartition de la polarité émotionnelle entre les médias. 
@@ -178,20 +178,20 @@ ggplot(intensity_seq1, aes(x = source, y = emot_density, fill = source)) +
 
 ```
  
-Le test Kruskal-Wallis confirme une différence statistique entre les médias (*p<0.05*). Cet test permet d'affirmer qu'il existe une différence statistique de densité lexicale du Pathos entre les médias. Cependant, bien que cette différence statistique existe, son effet reste négligeable. En effet, avec une taille d'effet ($\epsilon^2$) de seulement 0,017, la "densité de pathos" ne constitue pas un marqueur discriminant de l'identité de ces médias. 
+Le test Kruskal-Wallis confirme une différence statistique entre les médias (*p<0.05*). Ce test permet d'affirmer qu'il existe une différence statistique de densité lexicale du Pathos entre les médias. Cependant, bien que cette différence statistique existe, son effet reste négligeable. En effet, avec une taille d'effet ($\epsilon^2$) de seulement 0,017, la « densité de pathos » ne constitue pas un marqueur discriminant de l'identité de ces médias. 
 
 ::: {.methodo data-latex="{Explication du test de Kruskal-Wallis et de la taille d'effet}"}
 \label{meth:K-W}
-Le test de Kruskal-Wallis est un test statistique non-paramétrique, c'est-à-dire qu'il ne nécessite pas un jeu de donnée normal ou une homogénéité des variances (ce qui est notre cas). Il est utilisé pour la compraison d'au moins 3 groupes de données ce qui correspond à notre situation. 
+Le test de Kruskal-Wallis est un test statistique non-paramétrique, c'est-à-dire qu'il ne nécessite pas un jeu de donnée normal ou une homogénéité des variances (ce qui est notre cas). Il est utilisé pour la comparaison d'au moins 3 groupes de données ce qui correspond à notre situation. 
 
 Aussi, ce test statistique permet d'obtenir deux indicateurs :
 
 * La *p_value* qui permet de déterminer l'existence ou non d'une différence statistique entre nos jeux de données.
 
-* La taille d'effet $\epsilon^2$ qui complète la première information en permettant de mesurer l'impact réel de la caractéristique étudié. Cette valeur varie de 0 (effet néglieable) à 1 (effet fort)[@tomczakNeedReportEffect2014] 
+* La taille d'effet $\epsilon^2$ qui complète la première information en permettant de mesurer l'impact réel de la caractéristique étudiée. Cette valeur varie de 0 (effet néglieable) à 1 (effet fort)[@tomczakNeedReportEffect2014] 
 
 :::
 
-Aussi, la taille des tempéraments doit être commentée. Elles sont globalement de même taille pour Blast et Le Média, alors que celle de France 2 est plus resserée. Cette caractéristique s'explique par la nature de notre corpus. N'étant composé seulement de JT de France 2, il est attendu d'observer une certaine standardisation face à une hétérogénéité des formats alternatifs. 
+Aussi, la taille des boîtes à moustaches doit être commentée. Elles sont globalement de même taille pour Blast et Le Média, alors que celle de France 2 est plus resserrée. Cette caractéristique s'explique par la nature de notre corpus. N'étant composé seulement de JT de France 2, il est attendu d'observer une certaine standardisation face à une hétérogénéité des formats alternatifs. 
 
 Finalement, cette première analyse sur notre corpus à partir du dictionnaire *FEEL* nous mène à la conclusion suivante. L'utilisation de l'émotion, du pathos, n'est pas un marqueur discriminant entre France 2, un média dominant, et Blast et Le Média, des médias alternatifs. Contrairement à ce que nous avions pu voir dans notre [état de l'art](#sec-etat-art). Face à  ce constat, il est naturel de rechercher à approfondir notre analyse. C'est pourquoi, après avoir analysé le pathos, nous tournons notre regard vers le logos. L'objectif de la sous partie suivante est donc d'étudier le comportement de l'utilisation du logos entre les médias.

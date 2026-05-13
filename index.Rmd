@@ -5,6 +5,7 @@ linestretch: 1.5
 fontfamily: mathptmx
 lang: fr-FR
 bibliography: Biblio/Biblio.bib
+suppress-bibliography: true
 
 # --- REGLAGES DE LA BIBLIOGRAPHIE ---
 biblio-style: verbose-trad1
@@ -14,24 +15,56 @@ header-includes: |
   \usepackage[left=3cm,right=2.5cm,top=2.5cm,bottom=2.5cm]{geometry}
   \usepackage{indentfirst}
   \setlength{\parindent}{1cm}
+  \usepackage{pdfpages}
   \usepackage{titlesec}
   \usepackage{float}
   \usepackage{csquotes}
   \usepackage{etoc} % <--- AJOUTÉ : Pour gérer plusieurs sommaires
-  
+
   \AtBeginDocument{
     \DefineBibliographyStrings{french}{in={dans}}
     \renewbibmacro*{in:}{%
       \ifentrytype{article}{}{\printtext{\bibstring{in}\intitlepunct}}%
     }
   }
+
+  % --- Filtres de la bibliographie finale (classement par type) ---
+  \defbibfilter{ouvrages}{type=book or type=incollection}
+  \defbibfilter{articlesScientifiques}{type=article and not subtype=newspaper}
+  \defbibfilter{articlesPresse}{type=article and subtype=newspaper}
+  \defbibfilter{ressourcesEnLigne}{type=video or type=online}
   
   \floatplacement{figure}{H}
   
-  \renewcommand{\thesection}{\Roman{section}}
+  \renewcommand{\thesection}{Chapitre \Roman{section}}
   \titleformat{\section}{\normalfont\Large\bfseries}{\thesection.}{1em}{}
-  \renewcommand{\thesubsection}{\arabic{section}.\arabic{subsection}}
-  \titleformat{\subsection}{\normalfont\large\bfseries}{\thesubsection.}{1em}{}
+  \renewcommand{\thesubsection}{%
+    \ifnum\value{section}=0\relax\arabic{subsection}%
+    \else\Roman{section}.\arabic{subsection}\fi}
+  \titleformat{\subsection}{\normalfont\large\bfseries}{\thesubsection)}{1em}{}
+  \renewcommand{\thesubsubsection}{%
+    \ifnum\value{section}=0\relax\arabic{subsection}.\roman{subsubsection}%
+    \else\Roman{section}.\arabic{subsection}.\roman{subsubsection}\fi}
+  \titleformat{\subsubsection}{\normalfont\normalsize\bfseries}{\thesubsubsection)}{1em}{}
+
+  \makeatletter
+  \renewcommand*\l@section[2]{%
+    \ifnum \c@tocdepth >\z@
+      \addpenalty\@secpenalty
+      \addvspace{1.0em \@plus\p@}%
+      \setlength\@tempdima{6.5em}%
+      \begingroup
+        \parindent \z@ \rightskip \@pnumwidth
+        \parfillskip -\@pnumwidth
+        \leavevmode \bfseries
+        \advance\leftskip\@tempdima
+        \hskip -\leftskip
+        #1\nobreak\hfil \nobreak\hb@xt@\@pnumwidth{\hss #2}\par
+      \endgroup
+    \fi}
+  \renewcommand*\l@subsection{\@dottedtocline{2}{1.5em}{3.2em}}
+  \renewcommand*\l@subsubsection{\@dottedtocline{3}{4.7em}{4.2em}}
+  \makeatother
 
   \usepackage[most]{tcolorbox}
   \newcounter{compteurencadre}[section]
@@ -193,18 +226,21 @@ corpus_seq1 <- corpus_full |>
 {\scshape\LARGE Sciences Po Lille \par}
 \vspace{1.5cm}
 
-{\huge\bfseries Divergences de cadrage et mise en scène de la légitimité \par}
-\vspace{0.5cm}
+{\huge\bfseries Rationalité narrative et rationalité critique dans le champ journalistique français \par}
+\vspace{0.6cm}
+
+{\Large\itshape Analyse lexicométrique et qualitative comparée d'un média dominant et de deux médias alternatifs numériques \par}
+\vspace{1cm}
 
 {\Large Mémoire de recherche \par}
-\vspace{2cm}
+\vspace{1.5cm}
 
-{\Large\itshape Léo-Pol Karim \par}
+{\Large\itshape Léo-Pol KARIM \par}
 \vfill
 
 Sous la direction de : \par
-\textbf{Julien BOYADJIAN} \par
-\vspace{2cm}
+\textbf{Julien BOYADJIAN - Maître de conférences en science politique} \par
+\vspace{1.5cm}
 
 {\large Année universitaire 2025 - 2026 \par}
 \end{titlepage}
@@ -214,3 +250,7 @@ Sous la direction de : \par
 *Sciences Po Lille n’entend donner aucune approbation ni improbation aux thèses et opinions émises dans ce mémoire de recherche. Celles-ci doivent être considérées comme propres à leur auteur.*
 
 *J’atteste que ce mémoire de recherche est le résultat de mon travail personnel, qu’il cite et référence toutes les sources utilisées et qu’il ne contient pas de passage ayant déjà été utilisé intégralement dans un travail similaire.*
+
+\includepdf[pages=-]{declaration_ia.pdf}
+
+\newpage

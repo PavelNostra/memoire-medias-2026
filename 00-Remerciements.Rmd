@@ -2,11 +2,18 @@
 
 # Remerciements {-}
 ***
-Je tiens tout d'abord à remercier mon directeur de mémmoire Monsieur Julien BOYADJIAN, Maître de conférences en science politique, pour sa disponibilité, son écoute et ses conseils précieux qui m'ont permis d'alimenter une réflexion rigoureuse. 
+Je tiens tout d'abord à remercier mon directeur de mémoire Monsieur Julien BOYADJIAN, Maître de conférences en science politique, pour sa disponibilité, son écoute et ses conseils précieux qui m'ont permis d'alimenter une réflexion rigoureuse. 
 
 \newpage
 
 # Sommaire {-}
-\tableofcontents
+\begingroup
+\setcounter{tocdepth}{2}
+\small
+\linespread{0.80}\selectfont
+\makeatletter
+\@starttoc{toc}
+\makeatother
+\endgroup
 
 \newpage

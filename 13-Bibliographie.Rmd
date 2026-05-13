@@ -1,0 +1,14 @@
+\newpage
+
+\phantomsection
+\section*{Bibliographie}
+
+\printbibliography[filter=ouvrages, heading=subbibliography, title={Ouvrages}]
+
+\printbibliography[filter=articlesScientifiques, heading=subbibliography, title={Articles scientifiques}]
+
+\printbibliography[filter=articlesPresse, heading=subbibliography, title={Articles de presse et sources médiatiques}]
+
+\printbibliography[filter=ressourcesEnLigne, heading=subbibliography, title={Sources audiovisuelles et ressources en ligne}]
+
+\renewcommand{\printbibliography}[1][]{}
