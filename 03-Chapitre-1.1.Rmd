@@ -11,13 +11,15 @@ tokens_seq1 <- corpus_seq1 |>
 
 \newpage
 
+
+
 # L’analyse lexicométrique du corpus invalide les prénotions sur l’émotivité des médias alternatifs au profit d’une distinction entre rationalités narrative et critique
 
 ***
 
 ## L’homogénéité de la densité émotionnelle entre les médias ne constitue pas un critère de distinction.
 
-Une première analyse de notre corpus de transcriptions de deux mois de vidéos et journaux est celle de l'émotion. En effet, comme nous l'avons vu dans notre [état de l'art](#sec-etat-art) une caractéristique des médias alternatifs serait un rapport à l'émotion plus accentué que pour les médias dominants. Alors, pour il parait naturel de s'intéresser à cet aspect pour les médias alternatifs numériques. Néanmoins, une question s'est alors posée : comment mesurer automatiquement l'émotion d'un texte ? 
+D'abord, afin de mettre en pratique notre démarche méthodologique annoncée précédemment, nous allons conduire notre première analyse de notre corpus en nous concentrant sur l'émotion. En effet, comme nous l'avons vu dans notre [état de l'art](#sec-etat-art) une caractéristique des médias alternatifs serait un rapport à l'émotion plus accentué que pour les médias dominants. Alors, pour il parait naturel de s'intéresser à cet aspect pour les médias alternatifs numériques. Néanmoins, une question s'est alors posée : comment mesurer automatiquement l'émotion d'un texte ? 
 
 Après quelques recherches, il se trouve que le dictionnaire FEEL [SOURCE] est une solution satisfaisante. Il s'agit d'un dictionnaire de 14 000 mots français classés selon leur polarité (un mot peut être soit positif, soit négatif) et selon six émotions (à savoir : joie, peur, tristesse, colère, surprise, dégoût). Cette nomenclature est issue de la théorie d'Ekman. 
 

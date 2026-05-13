@@ -402,3 +402,202 @@ Merci de me confirmer :
    Tu valides ce format ?
 
 Une fois ces trois points clarifiés, je lance la Vague 2.
+
+---
+
+# Vague 3 — Évaluation argumentative globale
+
+> **Périmètre** : transitions inter-chapitres, soutènement empirique de la thèse, chaînons faibles, force de la conclusion et de l'ouverture. La Vague 3 prend du recul après le micro (Vagues 1 et 2) pour évaluer la cohérence d'ensemble.
+
+## A. Transitions inter-chapitres
+
+### A.1 Intro 01 → État de l'art 02 — ⭐ excellente
+La transition (l. 26 de 01 : *« il est nécessaire de se plonger dans la littérature existante. C'est ce que l'État de l'art suivant se propose d'accomplir »*) est sobre mais efficace. La problématisation a bien préparé le terrain conceptuel que l'état de l'art va déployer.
+
+### A.2 État de l'art 02 → Ch. 1.1 (03) — 🟡 moyenne
+Le ch. 1.1 ouvre par *« Une première analyse de notre corpus [...] est celle de l'émotion. En effet, comme nous l'avons vu dans notre état de l'art, une caractéristique des médias alternatifs serait un rapport à l'émotion plus accentué que pour les médias dominants »*. La transition fonctionne mais elle est *un peu sèche* — on passe directement de la problématique théorique à un test statistique sans rappeler la *méthodologie* annoncée plus tôt. **Suggestion** : reformuler en *« Conformément à notre démarche annoncée en méthodologie [...], la première analyse de notre corpus est celle de l'émotion »* pour réinscrire le mouvement dans le plan général.
+
+### A.3 Ch. 1.1 → 1.2 (03 → 04) — ⭐ très bonne
+*« si les émotions ne nous donnent pas d'éléments différenciants, [...] nous tournons notre regard vers le logos »* (fin 1.1). C'est la logique d'élimination méthodologique : on a écarté une piste, on en ouvre une autre. Clair et solide.
+
+### A.4 Ch. 1.2 → 1.3 (04 → 05) — ⭐ excellente
+C'est la transition la plus puissante du mémoire : *« à la lumière de ce paradoxe [logos = connecteurs + chiffres, mais résultats opposés], nous dressons la conjecture suivante [...] : récit pour les médias dominants, l'analyse critique pour les alternatifs »*. Le paradoxe empirique fait émerger la conjecture théorique. Très belle articulation.
+
+### A.5 Ch. 1.3 → 2.1 (05 → 06) — 🟠 chaînon à renforcer
+La fin de 1.3 (l. 412) annonce : *« il est nécessaire de laisser les statistiques de côté et de se pencher vers les discours des agents eux-mêmes »*. Le ch. 2.1 ouvre par : *« nous mobilisons deux nouveaux matériaux. Le premier conciste en une analyse de la structure thématique du corpus par CHD »*.
+
+**Problème** : la CHD reste une analyse statistique du *corpus* (pas des discours des agents). La transition annonce un *« déplacement vers les agents »* alors qu'on a deux pas distincts : (i) déplacement vers une autre statistique (CHD au lieu d'ACP) et (ii) déplacement vers les entretiens. Tu intercales un mouvement supplémentaire (CHD) que la transition n'annonce pas.
+
+**Suggestion** : reformuler la fin de 1.3 en *« il est nécessaire d'enrichir la lexicométrie par une analyse plus thématique (méthode Reinert) puis de se pencher vers les discours des agents eux-mêmes »* — et inversement, l'ouverture de 2.1 peut nommer explicitement ce double mouvement.
+
+### A.6 Ch. 2.1 → 2.2 (06 → 07) — ⭐ très bonne
+*« face à cette rationalité narrative [...] les médias alternatifs déploient une rationalité critique »*. La structure symétrique narrative ↔ critique est tenue et explicite. Bon écho.
+
+### A.7 Ch. 2.2 → 2.3 (07 → 08) — ⭐ excellente
+*« Si les deux pôles mobilisent la rigueur factuelle pour des fins opposées, comment chacun se réclame-t-il pourtant de ce que l'un appel "neutralité" ou l'autre "objectivité" ? »* — cette question rhétorique en fin de 2.2 ouvre élégamment l'enjeu de 2.3 sur la lutte de définition.
+
+### A.8 Ch. 2.3 → 3.1 (08 → 09) — ⭐ très bonne
+*« il nous reste à comprendre pourquoi des agents diversement situés [...] en viennent à occuper, partager et reproduire ces définitions opposées »*. La question pourquoi-encadrée-par-quoi prépare bien le mouvement vers les conditions matérielles du chapitre 3.
+
+### A.9 Ch. 3.1 → 3.2 (09 → 10) — ⭐ excellente
+*« ce déficit de capital économique et symbolique se résout dans la rationalité critique [...] mode de différenciation qui rend économiquement viable la position elle-même »*. Le renversement causal de 3.2 (les convictions ne produisent pas la rhétorique, c'est la fragilité économique qui le fait) est annoncé puis réalisé.
+
+### A.10 Ch. 3.2 → 3.3 (10 → 11) — ⭐ très bonne
+*« la distinction [...] trouve dans l'économie du champ son principe explicatif final »*. La synthèse 3.3 est annoncée comme le dernier maillon explicatif.
+
+### A.11 Ch. 3.3 → Conclusion (11 → 12) — ⭐ excellente
+Le ch. 12 ouvre par un rappel concis (*« Ce mémoire interrogeait la nature de la différence entre les médias indépendants numériques audiovisuel »*) qui reformule la problématique et permet de mesurer le chemin parcouru.
+
+**Bilan transitions** : 9 transitions ⭐ ou très bonnes / 11. Une faible (A.5) et une moyenne (A.2). L'arc du mémoire est globalement très bien tenu.
+
+---
+
+## B. Soutènement empirique de la thèse
+
+### B.1 L'ACP appuie-t-elle vraiment la fracture fonctionnelle ?
+
+**Oui, robustement**, mais avec deux réserves :
+
+1. **Variance expliquée 63,8 %** (Dim1 = 41,7 % + Dim2 = 22,1 %) : c'est *correct* pour des données lexicométriques bruitées, mais ce n'est pas spectaculaire. Cela signifie qu'environ 36 % de la variance reste hors plan factoriel. Tu le reconnais (« grandement satisfaisant compte tenu de la complexité de nos corpus ») mais un jury statisticien pourrait demander le pourcentage de variance par indicateur sur Dim3 et Dim4.
+
+2. **Compacité de l'ellipse France 2** : tu l'attribues à juste titre à l'homogénéité du corpus (JT). Mais ce déséquilibre méthodologique structurel (1 média = format strict, 2 médias = formats variés) **affaiblit légèrement la portée de la comparaison**. Tu l'as honnêtement signalé en conclusion (12 l. 18), c'est tout à ton crédit.
+
+**Verdict** : l'ACP appuie bien la fracture mais avec une asymétrie de corpus qu'il faut continuer à assumer.
+
+### B.2 Les dendrogrammes appuient-ils vraiment ?
+
+**Oui, très bien**. Les classes lexicales font ressortir empiriquement :
+- Pour France 2 : descriptions de scènes, acteurs, lieux (registre narratif)
+- Pour Blast / *Le Média* : qualifications idéologiques, cadres juridiques, méta-discursivité
+
+L'argument est solide *parce que* tu travailles sur **les mêmes événements** (affaire Deranque, opération Vénézuela) — donc tu compares la *façon de cadrer*, pas le *sujet*. Méthodologiquement, c'est ce qui rend la démonstration forte.
+
+🟡 **Une réserve** : les classes méta-médiatiques de *Le Média* sont massives (classe 1 = 48 % sur Deranque, classe 3 = 19,4 % sur Vénézuela). On peut se demander si *Le Média* ne fait pas autant *du méta sur les médias* que *de l'analyse de l'actualité*. Cela renforce ton point sur la critique contre-hégémonique mais pourrait être tourné contre toi par un jury — qui demanderait si *Le Média* est vraiment un *média d'information* ou un *média de commentaire des médias*. Tu pourrais désamorcer cette objection en l'évoquant explicitement.
+
+### B.3 Les entretiens appuient-ils ?
+
+**Quatre entretiens, deux par pôle** — c'est honnête mais modeste. Tu l'assumes en conclusion (12 l. 18 : *« ne prétendent pas à la représentativité »*).
+
+**Soutènement effectif** :
+- ⭐ Trajectoires : la freelance (AFP → indépendance) et le pigiste Blast → soutiennent l'hypothèse de bascule volontaire vers le pôle alternatif
+- ⭐ Définitions concurrentes de la neutralité : les quatre voix sont distinctes et structurent un système (2.3) — c'est ton chapitre le plus solide qualitativement
+- ⭐ Économie : le data-journaliste du *Parisien* livre la formule décisive *« mordre une main qui nous nourrit »* — pièce empirique en or
+- 🟡 Sur France 3 Auvergne : un seul jeune titulaire récent → portée limitée pour caractériser *« le pôle dominant »* dans son ensemble (France Télévisions ≠ TF1, *Le Parisien* ≠ *Le Monde*, etc.). Tu en es consciente (06 l. 16).
+
+### B.4 Cohérence de la thèse finale avec l'empirie
+
+La thèse défendue (11 l. 15 : *« ils pensent différemment parce qu'ils sont structurellement placés autrement »*) est :
+- ✅ **appuyée** par les indicateurs lexicaux (ch. 1)
+- ✅ **incarnée** par les dendrogrammes et les entretiens (ch. 2)
+- ✅ **expliquée** par l'économie des positions (ch. 3)
+
+L'enchaînement *forme → cause → structure* est rigoureux. La thèse n'est ni surdéterminée (tu modalises bien la portée empirique) ni sous-déterminée (chaque maillon a son matériau).
+
+---
+
+## C. Chaînons faibles du raisonnement
+
+### C.1 🟠 Le saut « différence statistique » → « rationalités »
+
+En 1.3, tu nommes *rationalité critique* et *rationalité narrative* à partir de la projection ACP. **Le saut conceptuel** entre *« positions sur des axes factoriels »* et *« rationalités »* (qui est un mot fort, chargé épistémologiquement) **n'est pas toujours justifié**. Tu passes d'un fait statistique à une catégorie philosophique sans pont explicite.
+
+**Risque** : un jury de sociologie pourra demander : *« pourquoi appelez-vous cela "rationalité" et non simplement "style discursif" ou "profil rhétorique" ? »*
+
+**Suggestion** : ajouter en 1.3 (autour de l. 350–355) une phrase qui justifie le choix du mot *rationalité* — par exemple en mobilisant la notion de *rationalité substantive* (Weber) ou de *raison pratique* (Bourdieu). Sinon, prudence : envisager *« profil rationnel »* ou *« mode de rationalisation »* comme alternatives moins engageantes.
+
+### C.2 🟠 Le déficit de capital économique « se résout dans » la rationalité critique
+
+C'est la formulation centrale de 3.1 (l. 51) : *« ce déficit de capital économique et symbolique se résout dans la rationalité critique »*.
+
+**Problème logique** : le verbe *« se résoudre dans »* est ambigu. Cela peut vouloir dire :
+- (a) la rationalité critique *compense* le déficit (lecture symbolique)
+- (b) la rationalité critique *est produite par* le déficit (lecture causale)
+- (c) la rationalité critique *résout* le déficit (lecture économique : les abonnés paient parce qu'il y a critique)
+
+Tu mobilises les trois lectures successivement dans 3.2 mais tu ne nommes pas le pluralisme. **Suggestion** : expliciter l'imbrication de ces trois lectures plutôt que de les laisser glisser l'une dans l'autre.
+
+### C.3 🟡 Mediapart cité partout sans être dans le corpus
+
+Mediapart apparaît dans presque tous les chapitres : état de l'art (02 l. 52), 2.3 (08 sur l'objectivité), 3.1 (09 sur la trajectoire freelance), 3.2 (10 sur le modèle économique). Or **Mediapart n'est pas dans ton corpus** (qui est Blast / *Le Média* / France 2).
+
+Tu utilises Mediapart comme *cas archétype* du modèle alternatif sans le justifier méthodologiquement. **Risque** : on peut te reprocher d'incorporer un *quasi-objet* du corpus par la fenêtre. **Suggestion** : ajouter en méthodologie une phrase précisant que Mediapart est mobilisé comme *cas de référence du modèle économique alternatif* sans être dans ton corpus lexicométrique.
+
+### C.4 🟡 Le saut sur deux cas en 3.1
+
+J'ai déjà signalé ce point en Vague 1bis §2.L et tu l'as modalisé. Reste mineur.
+
+### C.5 🟡 La rente institutionnelle du service public est-elle de même nature que la rente capitaliste ?
+
+En 3.2, tu mets sur le même plan la rente de France Télévisions (redevance) et la rente du *Parisien* (LVMH). **Or les deux rentes ont des effets différents** : la première crée une *indépendance présumée du marché* (ce que dit la journaliste de France 3), la seconde crée une *dépendance à l'actionnaire* (ce que dit le data-journaliste).
+
+Tu les agrèges sous *« rente institutionnelle ou capitaliste »* mais cette agrégation est conceptuellement forte. **Suggestion** : nuancer en distinguant *rente publique* et *rente capitaliste* comme deux variantes de la rationalité narrative — ce qui renforcerait plutôt que d'affaiblir ta démonstration en montrant que la fracture fonctionnelle traverse même les sous-types du pôle dominant.
+
+---
+
+## D. Conclusion et ouverture (ch. 12)
+
+### D.1 Force de la synthèse — ⭐ excellente
+Le récap en *« neuf moments »* (l. 12) est efficace : il rejoue le chemin parcouru, indicateur par indicateur. C'est un type de conclusion classique mais bien exécuté.
+
+### D.2 Limites identifiées — ⭐ honnête et exhaustive
+Tu identifies les trois limites principales : (i) corpus circonscrit, (ii) compacité de l'ellipse JT, (iii) 4 entretiens non représentatifs. C'est exactement ce qu'un jury attend.
+
+### D.3 Élargissement comparatif — ⭐ ambitieux
+La proposition de tester la thèse sur d'autres configurations économiques (BBC public, fondations US, presse de parti scandinave) est forte. Elle pose la question juste : *« est-ce l'indépendance qui produit la critique, ou une configuration matérielle particulière ? »*.
+
+### D.4 Ouverture sur la réception — ⭐ excellente intuition
+L'idée que la fracture de production se prolonge en fracture de réception est très puissante. C'est *la* bonne ouverture parce qu'elle naturalise le passage de la sociologie de la production à la sociologie de la consommation médiatique.
+
+🟡 **Petite réserve** : l'ouverture est annoncée par un *appui empirique en passant* (la journaliste de France 3 sur les commentaires actifs côté alternatif vs lecture passive côté dominant). Cela vaut comme intuition mais c'est un seul témoignage, et tu construis dessus une thèse forte. Tu pourrais soit modaliser (*« cette intuition mériterait d'être étayée empiriquement »*), soit mobiliser brièvement la sociologie de la réception bourdieusienne pour justifier la généralisation.
+
+### D.5 Force conclusive — ⭐ très bonne
+*« la rationalité critique et la rationalité narrative ne structureraient pas seulement la production journalistique mais aussi les modes de consommation de l'information, et donc, au fond, la manière dont une société se rapporte à ses propres représentations »*. Cette dernière phrase tient. Elle articule micro (rhétorique) et macro (société et représentations) sans grandiloquence.
+
+---
+
+## E. Bilan critique global de la Vague 3
+
+### E.1 Forces
+
+1. ⭐ **Architecture du raisonnement** : forme → cause → structure, parfaitement tenu sur trois chapitres.
+2. ⭐ **Triangulation méthodologique** : lexicométrie + CHD + entretiens — chaque méthode renforce les autres au lieu de se substituer.
+3. ⭐ **Mêmes événements, deux cadrages** : ton choix de comparer le traitement de Deranque et Vénézuela *par les mêmes faits* est ce qui rend la démonstration solide.
+4. ⭐ **Honnêteté épistémique** : tu signales tes limites, tu modalises tes hypothèses, tu n'oversells pas.
+5. ⭐ **Conclusion** : récapitulation rigoureuse + élargissement + ouverture forte.
+
+### E.2 Faiblesses à traiter avant impression
+
+| Priorité | Point | Action |
+|---|---|---|
+| 🔴 | Coquilles bibliographiques `[@migot, donc` et `nationaux[@migot.` (ch. 01 l. 16) | Fermer les crochets |
+| 🔴 | « huits milliardaires » → « huit » (ch. 01 l. 16) | Corriger |
+| 🟠 | Saut conceptuel *axe factoriel → rationalité* (ch. 05 l. 350) | Justifier le mot *rationalité* en 1.3 |
+| 🟠 | Verbe *« se résoudre dans »* ambigu (ch. 09 l. 51) | Expliciter les trois lectures |
+| 🟠 | Transition 1.3 → 2.1 sur le double déplacement CHD + entretiens (ch. 05 l. 412 / ch. 06 l. 16) | Reformuler |
+| 🟠 | *Contre-sphère publique* (ch. 02 l. 54) | Décider (option *contre-pouvoir médiatique* recommandée) |
+| 🟡 | Mediapart hors corpus | Préciser en méthodologie |
+| 🟡 | Rente publique vs capitaliste agrégées (ch. 10) | Nuancer en deux variantes |
+| 🟡 | Compacité de l'ellipse France 2 | Déjà assumé en limites — OK |
+| 🟡 | *Le Média* = média de méta-commentaire | Désamorcer brièvement en 2.2 |
+
+### E.3 Faiblesses *non* problématiques
+
+- Le corpus modeste (2 mois, 3 médias) → tu l'assumes, c'est défendable pour un mémoire de M2
+- Les 4 entretiens non représentatifs → tu l'assumes
+- L'asymétrie JT (corpus strict) vs vidéos YouTube (formats variés) → tu l'assumes
+
+### E.4 Conclusion de la Vague 3
+
+**Ce mémoire tient debout.** L'arc démonstratif est solide, les transitions sont en très grande majorité fluides, le soutènement empirique est triangulé, la conclusion est honnête. Les 2 erreurs factuelles/d'attribution détectées en Vague 2 ont été corrigées. Restent 4 points 🟠 conceptuels à traiter avant impression et quelques coquilles bibliographiques.
+
+C'est un travail qui peut être présenté en jury avec confiance.
+
+---
+
+**FIN DU RAPPORT DE RELECTURE.**
+
+Les deux livrables sont :
+- `rapport_relecture_claude.md` (cohérence, transitions, force argumentative, scories)
+- `citations_verifications.Rmd` (fact-checking ligne par ligne, 61 appels `[@cle]` vérifiés)
+
+Bonne continuation sur la dernière ligne droite avant impression.

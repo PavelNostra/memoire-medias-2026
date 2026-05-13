@@ -20,7 +20,7 @@ Si la rationalité narrative existe statistiquement chez le média dominant, enc
 ::: {.methodo data-latex="{Méthode Reinert et classification hiérarchique descendante (CHD)}"}
 \label{meth:CHD} La classification hiérarchique descendante (CHD), aussi nommée méthode Reinert, est une méthode lexicométrique. Elle conciste en le regroupement de segments d'un corpus selon leurs proximités lexicales. En effet, chaque transcription est découpée en segments de même taille. Ensuite, un tableau croisé est construit entre ces segments et les mots qu'ils contiennent. Après cela, par divisions successives, l'algorithme scinde de manière itérative le corpus en deux sous-classes jusqu'à obtenir un nombre de classes interprétables. Finalement, chaque classe terminale rassemble les segments lexicalement les plus proches entre eux et les plus distants des autres classes. Concrètement, cela revient à identifier les thèmes qui structurent un corpus sans imposer a priori de catégories d'analyse comme nous avions pu le faire précédement pour des raisons techniques.
 
-Nous avons appliqué cette méthode par sujet et par média grâce au logiciel IRaMuTeQ.[@zotero-item-219]
+Nous avons appliqué cette méthode par sujet et par média grâce au logiciel IRaMuTeQ.[@zotero-item-219]$^,$ [@zotero-item-220]
 :::
 
 ```{r dendrogramme-jt-deranque, fig.cap="Classes lexicales de France 2 sur l'affaire Deranque (CHD, 5 classes)"}
