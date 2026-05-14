@@ -1,8 +1,31 @@
 \newpage
 
+## Résumé {- .unlisted .unnumbered}
+\linespread{0.9}\selectfont
+Ce mémoire de recherche étudie, au sein du champ journalistique, le pôle dominant et le pôle alternatif numérique audiovisuel. Notre objectif est de comprendre comment se
+construit la divergence discursive entre ces deux pôles dans un champ traversé par une crise de défiance et l'émergence de nouveaux acteurs en ligne. Pour ce faire, nous mobilisons à la fois une analyse lexicométrique d'un corpus de transcriptions de journaux de France 2 et de vidéos de *Blast : Le souffle de l'info* et *Le Média*, et des entretiens semi-directifs menés auprès de journalistes des deux pôles, nous conduisant à une analyse de leurs modèles économiques et trajectoires. Ces analyses démontrent que la différence ne tient pas à une plus grande émotivité de l'alternatif, comme le laisserait présupposer la littérature, mais à l'opposition entre une rationalité critique fondée sur la construction de cadres conceptuels interprétatifs et la mise en cause des sources dominantes, et une rationalité narrative portée par la fluidité du récit institutionnel. L'étude souligne que cette divergence est l'expression d'une différence de position structurelle dans le champ, la précarité économique du pôle alternatif imposant la critique comme posture là où la rente du pôle dominant rend la narration fonctionnellement légitime.
+
+## Mots clefs {- .unlisted .unnumbered}
+\linespread{0.9}\selectfont
+Champ journalistique ; médias alternatifs numériques ; lexicométrie ; rationalité critique ; rationalité narrative ; *Blast* ; *Le Média* ; France 2.
+
+## Abstract {- .unlisted .unnumbered}
+\linespread{0.9}\selectfont
+This research thesis investigates, within the journalistic field, the mainstream pole and the digital alternative audiovisual pole. Our aim is to understand how the discursive divergence between these two poles is constructed in a field marked by a crisis of public trust and the emergence of new online actors. To this end, we mobilise both a lexicometric analysis of a corpus of transcripts of France 2 newscasts and of videos from *Blast: Le souffle de l'info* and *Le Média*, and semi-structured interviews conducted with journalists from both poles, leading us to an analysis of their economic models and career trajectories. These analyses show that the difference does not lie in a greater emotionality of the alternative pole, as the existing literature would suggest, but in the opposition between a critical rationality, grounded in the construction of interpretive conceptual frames and in the questioning of dominant sources, and a narrative rationality, sustained by the fluency of institutional storytelling. The study underlines that this divergence is the expression of a structural difference of position within the field: the alternative pole's economic precarity imposes critique as a posture, whereas the mainstream pole's rent makes narration functionally legitimate.
+
+## Key words {- .unlisted .unnumbered}
+\linespread{0.9}\selectfont
+Journalistic field; digital alternative media; lexicometric analysis; discourse analysis; critical rationality; narrative rationality; *Blast*; *Le Média*; France 2.
+
+\newpage
 # Remerciements {-}
-***
-Je tiens tout d'abord à remercier mon directeur de mémoire Monsieur Julien BOYADJIAN, Maître de conférences en science politique, pour sa disponibilité, son écoute et ses conseils précieux qui m'ont permis d'alimenter une réflexion rigoureuse. 
+\linespread{1.5}\selectfont
+Je tiens tout d'abord à remercier Monsieur Julien BOYADJIAN, mon directeur de mémoire, Maître de conférences en science politique, pour sa disponibilité, son écoute et ses conseils précieux qui m'ont permis d'alimenter une réflexion rigoureuse. 
+J'adresse également mes remerciements à Monsieur Nicolas KACIAF, Maître de conférences en science politique, qui a accepté de siéger comme second membre du jury.
+
+Aussi, je tiens à exprimer ma gratitude aux quatres journalistes exerçant à France 3, au *Parisien*, à Blast et en tant qu'indépendant, qui ont accepté de m'accorder un entretien semi-directif. Leurs propos et leur regard réflexif sur leur propre pratique ont constitué une matière fondamentale pour ce mémoire. 
+
+Finalement, je souhaite saluer mes camarades de promotion du master *Sociétés Numériques*, dont les discussions et l'émulation intellectuelle ont accompagné l'élaboration de ce travail.
 
 \newpage
 
@@ -10,7 +33,7 @@ Je tiens tout d'abord à remercier mon directeur de mémoire Monsieur Julien BOY
 \begingroup
 \setcounter{tocdepth}{2}
 \small
-\linespread{0.80}\selectfont
+\linespread{0.75}\selectfont
 \makeatletter
 \@starttoc{toc}
 \makeatother

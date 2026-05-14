@@ -21,11 +21,11 @@ tokens_seq1 <- corpus_seq1 |>
 
 D'abord, afin de mettre en pratique notre démarche méthodologique annoncée précédemment, nous allons conduire notre première analyse de notre corpus en nous concentrant sur l'émotion. En effet, comme nous l'avons vu dans notre [état de l'art](#sec-etat-art) une caractéristique des médias alternatifs serait un rapport à l'émotion plus accentué que pour les médias dominants. Alors, il paraît naturel de s'intéresser à cet aspect pour les médias alternatifs numériques. Néanmoins, une question s'est alors posée : comment mesurer automatiquement l'émotion d'un texte ? 
 
-Après quelques recherches, il se trouve que le dictionnaire FEEL [SOURCE] est une solution satisfaisante. Il s'agit d'un dictionnaire de 14 000 mots français classés selon leur polarité (un mot peut être soit positif, soit négatif) et selon six émotions (à savoir : joie, peur, tristesse, colère, surprise, dégoût). Cette nomenclature est issue de la théorie d'Ekman. 
+Après quelques recherches, il se trouve que le dictionnaire *FEEL*[@zotero-item-221] est une solution satisfaisante. Il s'agit d'un dictionnaire de 14 000 mots français classés selon leur polarité (un mot peut être soit positif, soit négatif) et selon six émotions (à savoir : joie, peur, tristesse, colère, surprise, dégoût). Cette nomenclature est issue de la théorie d'Ekman. 
 
 ::: {.methodo data-latex="{Utilisation du dictionnaire FEEL}"}
 \label{meth:FEEL}
-Ce dictionnaire est disponible au format .csv, format très bien géré par RStudio. Il suffit de le charger, ainsi que nos transcriptions, puis de parcourir ces dernières. À chaque mot du dictionnaire FEEL trouvé dans les transcriptions, un compteur de polarité et d'émotions est alimenté. Enfin, en normalisant nos résultats sur 1000 mots, on s'affranchit des différences de taille des transcriptions.
+Ce dictionnaire est disponible au format .csv, format très bien géré par RStudio. Nous devons alors le charger, ainsi que nos transcriptions, puis parcourir ces dernières. À chaque mot du dictionnaire *FEEL* trouvé dans les transcriptions, un compteur de polarité et d'émotions est alimenté. Enfin, en normalisant nos résultats sur 1000 mots, on s'affranchit des différences de taille des transcriptions.
 :::
 
 Dès lors, il nous est possible d'obtenir différentes informations. D'abord, plaçons notre attention sur le type d'émotions utilisées par chaque média tout en les comparant entre eux. En voici le graphique :
@@ -86,8 +86,7 @@ ggplot(emotion_summary,
   )
 ```
 
-La répartition quantitative des émotions ne nous intéresse pas tant dans notre cas d'étude. On pourrait noter que 70 % des émotions mobilisées, quelque soit le média, sont la peur, la tristesse et la colère mais cela ne nous aide pas dans notre recherche comparative des médias alternatifs numériques et dominants. En réalité, ce qui est notable sur ce graphique est sa grande homogénéité inter-médias pour chaque émotion. 
-Aussi, la seule différence notable est pour la surprise, émotion surreprésentée dans le JT de France 2 par rapport à Blast et à Le Média. Cette différence peut s'expliquer par une volonté de recherche de nouveau ou d'insolite pour France 2, mais nous reviendrons sur ce point dans le [A MODIFIER].
+La répartition quantitative des émotions ne nous intéresse pas tant dans notre cas d'étude. On pourrait noter que 70 % des émotions mobilisées, quelque soit le média, sont la peur, la tristesse et la colère mais cela ne nous aide pas dans notre recherche comparative des médias alternatifs numériques et dominants. En réalité, ce qui est notable sur ce graphique est sa grande homogénéité inter-médias pour chaque émotion. La seule différence notable étant pour la surprise, émotion légèrement surreprésentée dans le JT de France 2 par rapport à Blast et à *Le Média*.
 
 Ainsi, si les émotions ne nous donnent pas d'éléments différenciants, nous pouvons peut-être nous intéresser à la répartition de la polarité émotionnelle entre les médias. 
 
@@ -129,13 +128,13 @@ ggplot(polarity_summary,
         legend.position = "bottom",
         panel.grid.major.x = element_blank()) +
   labs(
-    title    = "Répartition des tonalités (± Erreur Type)",
+    title    = "Répartition de la polarité émotionnelle (± Erreur Type)",
     subtitle = paste("Corpus :", SEQ1_NOM),
     y = "Proportion moyenne", x = "", fill = "Polarité :"
   )
 ```
 
-La figure \ref{fig:graph-emotions-2} présente la densité de mots *négatifs* ou *positifs* pour 1000 mots selon les médias. A nouveau, on remarque une forte homogénéité inter-média. En effet, entre 22% et 24% des mots *FEEL* utilisés sont négatifs et aucun média ne semble en utiliser particulièrement plus par rapport aux autres. C'est pourquoi, à ce stade de notre analyse, une conjecture semble émerger : l'émotion n'est pas un facteur discriminant pour étudier les médias alternatifs numériques et les médias dominants. Cette conjecture est assez forte dans la mesure où elle va à l'encontre d'une pré-notion issue de notre [état de l'art](#sec-etat-art).
+La figure \ref{fig:graph-emotions-2} présente la densité de mots *négatifs* ou *positifs* pour 1000 mots selon les médias. À nouveau, on remarque une forte homogénéité inter-média. En effet, entre 22% et 24% des mots *FEEL* utilisés sont négatifs et aucun média ne semble en utiliser particulièrement plus par rapport aux autres. C'est pourquoi, à ce stade de notre analyse, une conjecture semble émerger : l'émotion n'est pas un facteur discriminant pour étudier les médias alternatifs numériques et les médias dominants. Cette conjecture est assez forte dans la mesure où elle va à l'encontre d'une pré-notion issue de notre [état de l'art](#sec-etat-art).
 
 Alors, pour tenter de confirmer cette hypothèse, intéressons nous à la densité générale de mots *FEEL* par médias. L'objectif de cette démarche est d'élargir la focale pour essayer de dégager une différence entre les médias. Si nous ne pouvons pas mettre en valeur de différences entre les médias lorsque l'on s'intéresse aux différents types d'émotions ou à leur polarité, peut-être que le portrait global de la situation nous permettra, lui, d'avoir un regard autre. Nous obtenons la figure \ref{fig:graph-emotions-3}. 
 
@@ -192,6 +191,6 @@ Aussi, ce test statistique permet d'obtenir deux indicateurs :
 
 :::
 
-Aussi, la taille des boîtes à moustaches doit être commentée. Elles sont globalement de même taille pour Blast et Le Média, alors que celle de France 2 est plus resserrée. Cette caractéristique s'explique par la nature de notre corpus. N'étant composé seulement de JT de France 2, il est attendu d'observer une certaine standardisation face à une hétérogénéité des formats alternatifs. 
+Aussi, la taille des boîtes à moustaches doit être commentée. Elles sont globalement de même taille pour Blast et *Le Média*, alors que celle de France 2 est plus resserrée. Cette caractéristique s'explique par la nature de notre corpus. N'étant composé seulement de JT de France 2, il est attendu d'observer une certaine standardisation face à une hétérogénéité des formats alternatifs. 
 
-Finalement, cette première analyse sur notre corpus à partir du dictionnaire *FEEL* nous mène à la conclusion suivante. L'utilisation de l'émotion, du pathos, n'est pas un marqueur discriminant entre France 2, un média dominant, et Blast et Le Média, des médias alternatifs. Contrairement à ce que nous avions pu voir dans notre [état de l'art](#sec-etat-art). Face à  ce constat, il est naturel de rechercher à approfondir notre analyse. C'est pourquoi, après avoir analysé le pathos, nous tournons notre regard vers le logos. L'objectif de la sous partie suivante est donc d'étudier le comportement de l'utilisation du logos entre les médias.
+Finalement, cette première analyse sur notre corpus à partir du dictionnaire *FEEL* nous mène à la conclusion suivante. L'utilisation de l'émotion, du pathos, n'est pas un marqueur discriminant entre France 2, un média dominant, et Blast et *Le Média*, des médias alternatifs. Contrairement à ce que nous avions pu voir dans notre [état de l'art](#sec-etat-art). Face à  ce constat, il est naturel de rechercher à approfondir notre analyse. C'est pourquoi, après avoir analysé le pathos, nous tournons notre regard vers le logos. L'objectif de la sous partie suivante est donc d'étudier l'utilisation du logos entre les médias.

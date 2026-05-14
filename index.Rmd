@@ -20,6 +20,9 @@ header-includes: |
   \usepackage{float}
   \usepackage{csquotes}
   \usepackage{etoc} % <--- AJOUTÉ : Pour gérer plusieurs sommaires
+  \usepackage{pdflscape}  % <--- Pour les tableaux paysage des annexes
+  \usepackage{longtable}  % <--- Pour les tableaux multi-pages des annexes
+  \usepackage{booktabs}   % <--- Pour les filets \toprule / \midrule / \bottomrule
 
   \AtBeginDocument{
     \DefineBibliographyStrings{french}{in={dans}}
@@ -219,38 +222,62 @@ corpus_seq1 <- corpus_full |>
 \begin{titlepage}
 \centering
 
-\includegraphics[width=4cm]{SP-SN.png} 
+
+\includegraphics[width=3.5cm]{SP-SN.png} 
+\vspace{0.5cm}
+
+{\scshape\Large Sciences Po Lille \par}
 \vspace{1cm}
 
-\centering
-{\scshape\LARGE Sciences Po Lille \par}
-\vspace{1.5cm}
 
 {\huge\bfseries Rationalité narrative et rationalité critique dans le champ journalistique français \par}
-\vspace{0.6cm}
+\vspace{0.4cm}
 
-{\Large\itshape Analyse lexicométrique et qualitative comparée d'un média dominant et de deux médias alternatifs numériques \par}
+
+{\large\itshape Analyse lexicométrique et qualitative comparée d'un média dominant et de deux médias alternatifs numériques \par}
 \vspace{1cm}
 
-{\Large Mémoire de recherche \par}
-\vspace{1.5cm}
 
-{\Large\itshape Léo-Pol KARIM \par}
-\vfill
+{\large Mémoire de recherche \par}
+\vspace{0.2cm}
+{\normalsize\textsc{Majeure Sociétés Numériques} \par} 
+\vspace{1cm}
 
-Sous la direction de : \par
-\textbf{Julien BOYADJIAN - Maître de conférences en science politique} \par
-\vspace{1.5cm}
 
-{\large Année universitaire 2025 - 2026 \par}
+{\Large\itshape Léo-Pol KARIM\par}
+
+\vfill % Cet espace va s'étirer pour pousser le bloc suivant vers le bas
+
+
+{\normalsize Sous la direction de : \par}
+\vspace{0.3cm}
+{\large\itshape Julien BOYADJIAN \par}
+{\large\itshape Maître de conférences en science politique \par}
+\vspace{1cm}
+
+
+{\normalsize Année universitaire 2025 - 2026 \par}
+
 \end{titlepage}
 
-\newpage
+
+
+\newpage 
+
+
+\thispagestyle{empty}
+\mbox{}
+\newpage 
+
+
+\pagenumbering{arabic}
+\setcounter{page}{1}
+
 
 *Sciences Po Lille n’entend donner aucune approbation ni improbation aux thèses et opinions émises dans ce mémoire de recherche. Celles-ci doivent être considérées comme propres à leur auteur.*
 
 *J’atteste que ce mémoire de recherche est le résultat de mon travail personnel, qu’il cite et référence toutes les sources utilisées et qu’il ne contient pas de passage ayant déjà été utilisé intégralement dans un travail similaire.*
 
-\includepdf[pages=-]{declaration_ia.pdf}
+\includepdf[pages=-, pagecommand={\thispagestyle{plain}}]{declaration_ia.pdf}
 
 \newpage

@@ -1,0 +1,226 @@
+\newpage
+
+\phantomsection
+\addcontentsline{toc}{section}{Annexes}
+\section*{Annexes}
+
+\renewcommand{\thesubsection}{\arabic{subsection}}
+\renewcommand{\thesubsubsection}{\arabic{subsection}.\arabic{subsubsection}}
+\setcounter{subsection}{0}
+
+## Annexe 1 - Grille d'entretien semi-directif {#annexe1 .unnumbered} 
+
+La grille suivante a permis de mener les quatre entretiens semi-directifs conduits dans le cadre de cette recherche. Elle se décline en cinq thèmes et a été adaptée selon la position de l'enquêté : les relances marquées *JD* étaient réservées aux journalistes du pôle dominant (France 3, *Le Parisien*), celles marquées *JA* aux journalistes du pôle alternatif (Blast, Mediapart freelance).
+
+### Thème 1 - Formation {.unnumbered .unlisted}
+
+- Pour commencer, pourriez-vous revenir sur votre parcours ?
+
+*Relances :*
+
+- Quelles étaient vos représentations du métier quand vous étiez étudiant ?
+- Comment s'est passée votre première expérience professionnelle dans le milieu journalistique ?
+- *JD :* Qu'est-ce qui vous plaît le plus dans votre position actuelle ?
+- *JA :* À quel moment et comment s'est opérée la bascule vers un média indépendant ? Qu'est-ce qui a déclenché ce choix ?
+
+### Thème 2 - Pratiques quotidiennes {.unnumbered .unlisted}
+
+- Si on prend la réalisation d'un reportage (ou vidéo, ou article), comment cela se déroule-t-il concrètement ?
+
+*Relances :*
+
+- Comment sont sélectionnés les sujets que vous souhaitez aborder ?
+- Comment sont décidés les angles des sujets en conférence de rédaction ?
+
+### Thème 3 - Rapport à la neutralité journalistique, place du journaliste aujourd'hui {.unnumbered .unlisted}
+
+- On entend beaucoup parler de neutralité et d'objectivité dans le métier. À titre personnel, comment vous positionnez-vous par rapport à ces notions ?
+
+*Relances :*
+
+- Comment gérez-vous votre subjectivité dans le traitement de l'information ?
+- *JD :* Comment réagissez-vous aux critiques sur la proximité des grands médias avec le pouvoir politique et/ou économique ?
+- *JA :* Certains qualifient votre média de militant ou d'engagé. Comment recevez-vous ce terme ?
+
+### Thème 4 - Relation au public et à la parole scientifique {.unnumbered .unlisted}
+
+- Comment choisissez-vous les experts ou les chercheurs que vous interviewez ?
+
+*Relances :*
+
+- Quel type de rapport essayez-vous de construire avec votre audience ?
+- Quelle place accordez-vous aux commentaires et aux retours de vos spectateurs ?
+
+### Thème 5 - Perception du champ opposé {.unnumbered .unlisted}
+
+- Comment percevez-vous l'évolution du paysage médiatique actuel avec l'essor des médias numériques (ou la persistance des médias traditionnels) ?
+
+*Relances :*
+
+- *JA :* Quel regard portez-vous sur le travail de vos confrères du service public ou des chaînes d'information en continu ?
+- *JD :* Quel regard portez-vous sur les médias comme Blast ou *Le Média* ?
+
+\newpage
+
+## Annexe 2 - Synthèse comparative des entretiens semi-directifs {#annexe2 .unnumbered}
+
+Le tableau suivant a pour objectif de restituer de manière synthétique le matériau qualitatif mobilisé dans ce mémoire. Il est organisé selon les cinq thèmes de la grille d'entretien (annexe 1). Pour chaque thème, les trois lignes synthétisent respectivement les pratiques déclarées, leur interprétation sociologique et une citation marquante. L'objectif de cette annexe est de donner à voir le matériau de base utilisé pour construire ce mémoire.
+
+```{r annexe2-tableau-unique}
+# ─── Échappement LaTeX : métacaractères d'abord, Unicode ensuite ────────
+esc_latex <- function(x) {
+  x |>
+    stringr::str_replace_all(stringr::fixed("\\"), "\\textbackslash{}") |>
+    stringr::str_replace_all(stringr::fixed("&"),  "\\&") |>
+    stringr::str_replace_all(stringr::fixed("%"),  "\\%") |>
+    stringr::str_replace_all(stringr::fixed("$"),  "\\$") |>
+    stringr::str_replace_all(stringr::fixed("_"),  "\\_") |>
+    stringr::str_replace_all(stringr::fixed("#"),  "\\#") |>
+    stringr::str_replace_all(stringr::fixed("→"), "$\\rightarrow$")
+}
+
+# ─── Données : un tibble unique, 16 lignes (5 thèmes), 5 colonnes ───────
+synthese <- tibble::tribble(
+  ~Dimension,                                ~Blast,                                                                                                                                                                                                                                                                                                              ~France3,                                                                                                                                                                                                                                                              ~Mediapart,                                                                                                                                                                                                                                                                                                              ~Parisien,
+  # Thème 1 - Parcours et position
+  "Cursus",
+    "Master histoire → EMI (alternance 18 mois) → pigiste CCAS → journal municipal → Blast (février 2024). Entrée à Blast par concours de circonstances, non par militantisme initial.",
+    "Master journalisme Aix-Marseille (alternance France 3) → titularisation en octobre 2024. Trajectoire linéaire. Un seul média, de service public.",
+    "Sciences Po Paris → CFJ (AFP) → freelance (Égypte, Irak, LCI) → AFP Jérusalem (2018-2019) → départ volontaire → freelance Mediapart, Le Monde, Arte. Ruptures institutionnelles successives et délibérées.",
+    "Sciences Po Lille → journalisme territorial → master socio-statistiques (ENS/EHESS/ENSAE) → Le Parisien (2015). Reconversion stratégique par l'acquisition d'une compétence rare (data) comme porte d'entrée dans un grand titre dominant.",
+  "Position",
+    "Pigiste sans CDI, sans capital symbolique accumulé. Entrée par proposition d'article acceptée, non par recrutement classique. Position précaire.",
+    "Intégrée au champ dominant via le service public. Capital symbolique faible (début de carrière) mais position institutionnellement sécurisée (CDI). Pas d'expérience du champ alternatif.",
+    "Position d'entre-deux champs. Fort capital symbolique accumulé dans le champ dominant (AFP, Le Monde) réinvesti en autonomie éditoriale dans le champ alternatif.",
+    "Position dominante déclarée par l'enquêté dans le champ dominant. Capital technique rare et transversal (R, bases de données, cartographie). Journal sous hétéronomie économique forte (LVMH/Arnault propriétaire).",
+  "Citation",
+    "« C'est pas un média que je suivais spécialement. Ça a plutôt été un concours de circonstances. »",
+    "« Mes attentes étaient de pouvoir faire un peu plus d'investigation… on m'a tout de suite expliqué que c'est une infime minorité. »",
+    "« Mes expériences en rédaction ont été souvent insatisfaisantes. J'avais l'impression d'être moins libre. »",
+    "« L'avantage des chiffres, c'est qu'il y en a partout et que tous les journalistes détestent ça. »",
+  # Thème 2 - Pratiques quotidiennes
+  "Relation au gatekeeping",
+    "Gatekeeping partagé mais hiérarchique : Rios propose, les rédacteurs en chef valident.",
+    "Gatekeeping classique et institutionnel : rédacteur en chef comme chef d'orchestre. Processus formalisé (conférence → calage → rédaction → relecture). Logique de valeur ajoutée pour le lecteur comme critère de sélection.",
+    "Gatekeeping décentralisé et auto-géré : la journaliste est son propre gatekeeper. Spécialisation géographique (Proche-Orient). Arrêt des collaborations avec les médias limitant l'angle.",
+    "Gatekeeping data-driven dans le service où travaille l'enquêté : quelle question d'actualité peut-on traiter avec les bases de données disponibles ? L'outil technique structure le filtre éditorial. Co-élaboration des angles avec les chefs de service.",
+  "Journée type",
+    "Pas de journée type. Discussion d'angle hors conférence (email, en présentiel). La conférence de rédaction sert à signaler l'avancement, non à co-construire l'angle.",
+    "Conférence de rédaction quotidienne à 9 h avec toute l'équipe. Attribution des sujets, calage des sources, relecture finale par le rédacteur en chef. Structure hiérarchique explicite.",
+    "Pas de journée type. Alternance terrain / bureau. L'actualité comme agenda. La liberté d'angle est la condition sine qua non de toute collaboration.",
+    "Quatre conférences de rédaction (8 h 55, 9 h 30, 17 h, mercredi prévision). R toujours allumé. Veille permanente. Hybridation actualité chaude / enquête longue imposée par le market-driven journalism.",
+  "Citation",
+    "« En conférence de rédaction, je peux évoquer le sujet sur lequel je travaille et dire où j'en suis, mais non, je discute pas des sujets en voix. »",
+    "« La conférence de rédaction sert à ça, ça va justement discuter de l'angle ensemble… en fonction de l'affinité de ce qu'il le tente. »",
+    "« Il y a des médias avec lesquels j'ai arrêté de travailler puisque je trouvais qu'il n'y avait pas assez de liberté dans les angles. »",
+    "« En fonction de l'actualité, il y a des espèces de réflexes de qu'est-ce qu'on peut raconter avec les bases de données dont on dispose. »",
+  # Thème 3 - Neutralité
+  "Rapport à la neutralité",
+    "Rejet de la neutralité au profit de l'objectivité factuelle. Angle assumé et factualité stricte. Accepte le terme « militant », mais considère que tous les médias le sont (y compris par le choix des sujets).",
+    "L'objectivité est un leurre. Neutralité possible mais non équivalente. Devoir d'honnêteté intellectuelle. Les faits comme ancrage. Immunité aux pressions car service public (pas d'actionnaire privé).",
+    "Objectivité dévoyée par l'équivalence fallacieuse des sources. Vérification rigoureuse obligatoire. Journalisme militant antinomique au journalisme. CNews et le JDD = vrais militants. Blast rigoureux ; Le Média trop lié à LFI.",
+    "Ne croit pas à la neutralité, mais à l'honnêteté. Les chiffres ne sont pas neutres : 50 % gagnent plus / moins que la médiane = même donnée, deux cadres interprétatifs opposés.",
+  "Critique contre-hégémonique",
+    "Posture ambivalente : travaille pour Blast (critique contre-hégémonique) sans y être entré par engagement militant. La ligne éditoriale est internalisée progressivement.",
+    "Auto-immunise son média (« pas de pression économique ni politique ») sans analyser l'hétéronomie politique inhérente au service public (financement d'État, commissions parlementaires).",
+    "Distingue militantisme (idéologique, structurel) et engagement (éthique, factuel). Posture proche de la critique contre-hégémonique de Cardon & Granjon : rigueur quasi-scientifique sans pseudo-neutralité.",
+    "Hétéronomie économique reconnue et explicitée (LVMH/Arnault, perte de 35 M€/an). La neutralité reviendrait à mentir aux lecteurs. Dissocie honnêteté individuelle et liberté institutionnelle.",
+  "Citation",
+    "« Tout le monde a ses convictions, tout le monde peut avoir des biais… même dans le choix des sujets. »",
+    "« Je travaille pour un média de service public. On n'a pas de pression économique, pas de pression politique. »",
+    "« Je vois pas en quoi c'est objectif de mettre des choses qui ne se mettent pas sur le même plan. »",
+    "« La neutralité, ce serait faire croire aux lecteurs qu'ils trouveront une enquête approfondie sur la fiscalité de Bernard Arnault dans ses pages. Ça, ce serait mentir. »",
+  # Thème 4 - Public, rhétorique, parole experte
+  "Rapport au public",
+    "N'écrit pas en pensant à son audience. Satisfait quand il est lu, mais le public n'influence pas le processus d'écriture. L'enquêtée ne déclare pas de construction de communauté.",
+    "Lien créé dès le choix du sujet (valeur ajoutée pour le lecteur). Proximité par les commentaires en temps réel. Retours critiques sur le traitement comme outil de progression.",
+    "Connaissance fragmentaire de l'audience (messages, proches). Adaptation aux règles du média plutôt qu'au public (Arte vs Konbini). Terrain comme boussole principale.",
+    "Non-consommateur de médias (surchauffe informationnelle). Déconnecté de Twitter/X par conviction. Ne se perçoit pas comme la cible du Parisien. Distance forte avec le lectorat.",
+  "Logos / pathos",
+    "Priorité au logos : papiers factuels, comptes rendus de commissions, vérification stricte. Quelques traits d'esprit stylistiques.",
+    "Priorité affichée aux faits (logos). Pas de construction rhétorique pathos explicite d'après l'enquêtée.",
+    "Fort logos : vérification rigoureuse, sources multiples, prudence dans les affirmations. Pathos limité : terrain et témoignages directs sans rhétorique émotionnelle construite.",
+    "Logos maximal et revendiqué : chiffres, statistiques, cartographies, bases institutionnelles. Pas de recours au pathos. La donnée comme légitimité absolue.",
+  "Parole experte",
+    "Contradictoire obligatoire. Chercheurs pour les sujets hors maîtrise (génétique, anthropologie). Personnes concernées (élus, acteurs directs). Pas de recours systématique aux « tutologues ».",
+    "Structures reconnues uniquement (laboratoires de recherche). Rejette les chercheurs sans affiliation institutionnelle forte. Risque d'aller vers des « tutologues » disponibles et télévisuels.",
+    "Préfère « chercheurs » à « experts ». Réseau construit par recommandations et travaux lus. Critique explicite de la logique télévisuelle du « tutologue disponible en vingt secondes ».",
+    "Sources institutionnelles uniquement (INSEE, IGN, Eurostat, data.gouv.fr). Méfiance envers les données contributives (OpenStreetMap). Sécurité juridique et épistémique via la source qui « porte la responsabilité ».",
+  "Citation",
+    "« Quand j'écris, je ne pense pas à mon audience. Ce n'est pas quelque chose qui a réellement une incidence. »",
+    "« Si on est juste du bruit parmi le bruit, ça ne sert à rien. »",
+    "« Je préfère avoir mes propres sources et lire la situation à travers quelqu'un qui a travaillé des années sur le sujet. »",
+    "« On est plus à l'aise à travailler avec des données de l'IGN que d'OpenStreetMap. »",
+  # Thème 5 - Champ opposé
+  "Critique du champ opposé",
+    "Biais de traitement structurel sur trois exemples : mort d'un militant identitaire (Lyon), Venezuela, Gaza. Paysage médiatique dominant ne va « pas dans le bon sens ».",
+    "Blast = bon travail d'investigation. Le Média = problématique car créé par Chikirou (proche de Mélenchon) → pression politique d'un parti. Distingue explicitement les deux.",
+    "Uniformisation du discours (Gaza). Destruction rapide des rédactions rachetées par Bolloré (Europe 1, iTélé, JDD). Repli massif de la télé sur la France. Canal+ = destruction culturelle.",
+    "Atterré par la passivité des pouvoirs publics face aux réseaux sociaux puis à l'IA. Abandon de souveraineté numérique. Presse en perte économique structurelle (3 M€ → 35 M€/an perdus).",
+  "Évolution du paysage",
+    "Médias indépendants sous pression des attaques d'extrême droite (commission parlementaire en cours). Améliorations possibles sans exemples précis. Distingue chaînes d'info continu et 20 h.",
+    "Double tranchant : potentiel de reconstruction de la confiance (baromètre favorable aux indépendants) et risque d'amalgame avec des pseudo-journalistes, donc de dévalorisation.",
+    "Blast indépendant, au même niveau que Mediapart. Le Média trop lié à LFI ; refuse d'y collaborer. CNews et le JDD = véritables médias militants (idéologie Bolloré).",
+    "Fatigue informationnelle personnelle → ne consomme pas d'autres médias. Aucun jugement direct sur Blast ou Le Média. La question de la concurrence du simili-champ est esquivée.",
+  "Citation",
+    "« Les médias indépendants, c'est un peu faire entendre un autre son de cloche par rapport à ce qui peut être dit par les grands médias. »",
+    "« Blast, c'est un très bon travail d'investigation. Pour Le Média, c'est un peu plus compliqué, puisque créé par une personnalité politique. »",
+    "« Le rachat des médias notamment par Bolloré… en un mois la rédaction que je connaissais avait disparu. »",
+    "« Je suis tout à fait atterré par le temps de stupéfaction de nos pouvoirs publics face aux réseaux sociaux d'abord, l'IA ensuite. »"
+)
+
+# Échappement LaTeX cellule par cellule
+synthese_esc <- synthese |>
+  dplyr::mutate(dplyr::across(dplyr::everything(), esc_latex))
+
+# En-têtes lisibles
+colnames(synthese_esc) <- c(
+  "Dimension",
+  "Pigiste de Blast",
+  "Journaliste web de France 3",
+  "Freelance pour Mediapart",
+  "Journaliste du Parisien"
+)
+
+# ─── Construction du longtable portrait, un seul \caption{} ─────────────
+k <- knitr::kable(
+  synthese_esc,
+  format    = "latex",
+  booktabs  = TRUE,
+  longtable = TRUE,
+  escape    = FALSE,
+  linesep   = "\\addlinespace",
+  caption   = "Synthèse comparative des quatre entretiens semi-directifs",
+  align     = c("l", "l", "l", "l", "l")
+)
+k <- kableExtra::kable_styling(
+  k,
+  latex_options = c("repeat_header"),
+  font_size     = 8
+)
+k <- kableExtra::row_spec(k, 0, bold = TRUE)
+k <- kableExtra::column_spec(k, 1, width = "2.3cm", bold = TRUE, italic = TRUE)
+k <- kableExtra::column_spec(k, 2, width = "3.1cm")
+k <- kableExtra::column_spec(k, 3, width = "3.1cm")
+k <- kableExtra::column_spec(k, 4, width = "3.1cm")
+k <- kableExtra::column_spec(k, 5, width = "3.1cm")
+k <- kableExtra::pack_rows(k, "Thème 1 - Parcours et position dans le champ journalistique",                    1,  3, latex_gap_space = "0.6em")
+k <- kableExtra::pack_rows(k, "Thème 2 - Pratiques quotidiennes et gatekeeping",                                4,  6, latex_gap_space = "0.6em")
+k <- kableExtra::pack_rows(k, "Thème 3 - Rapport à la neutralité et à la critique contre-hégémonique",          7,  9, latex_gap_space = "0.6em")
+k <- kableExtra::pack_rows(k, "Thème 4 - Relation au public, registre rhétorique et parole experte",           10, 13, latex_gap_space = "0.6em")
+k <- kableExtra::pack_rows(k, "Thème 5 - Perception du champ opposé et de l'évolution du paysage médiatique", 14, 16, latex_gap_space = "0.6em")
+k
+```
+
+\newpage
+\listoffigures 
+
+\newpage
+\renewcommand{\contentsname}{Table des matières}
+\begingroup
+  \let\origsetcounter\setcounter
+  \renewcommand{\setcounter}[2]{}
+  \origsetcounter{tocdepth}{3}
+  \etocsetnexttocdepth{3}
+  \tableofcontents
+\endgroup
